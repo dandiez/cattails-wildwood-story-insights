@@ -7,6 +7,7 @@ from cws_insights.read_files import ResourceFile, read_all, JSON
 
 
 def write_json(data: JSON, file_path: str):
+    """Write json file and create folders if needed."""
     directory = os.path.dirname(file_path)
     os.makedirs(directory, exist_ok=True)
     with open(file_path, "w") as f:
