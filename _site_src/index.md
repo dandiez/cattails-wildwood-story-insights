@@ -9,5 +9,5 @@ Here's a heart: ❤️
 
 # Gifts / items
 
-[Link to gifts table]({% link gifts.md %})
+[Link to gifts table](gifts.md)
 
