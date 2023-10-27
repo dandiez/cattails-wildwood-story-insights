@@ -45,6 +45,11 @@ def read_all(gameresources_root_path: str, file_suffixes: Collection[str]) -> di
     all_resources = defaultdict(list)
     for path, dirnames, filenames in os.walk(gameresources_root_path):
         rel_path = os.path.relpath(path, gameresources_root_path)
+        print("---")
+        print(path)
+        print(gameresources_root_path)
+        print(rel_path)
+        print("---")
         for f in filenames:
             if Path(f).suffix in file_suffixes:
                 full_path = os.path.join(path, f)
