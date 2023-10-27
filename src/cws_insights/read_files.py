@@ -40,7 +40,7 @@ class ResourceFile:
         )
 
 
-def read_all(gameresources_root_path: str, file_suffixes: Collection[str, ...]) -> dict:
+def read_all(gameresources_root_path: str, file_suffixes: Collection[str]) -> dict:
     """Nested dict which mimics the OS folder and file structure."""
     all_resources = defaultdict(list)
     for path, dirnames, filenames in os.walk(gameresources_root_path):
@@ -53,7 +53,7 @@ def read_all(gameresources_root_path: str, file_suffixes: Collection[str, ...]) 
     return all_resources
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     gameresources_dir = r"C:\Program Files (x86)\Steam\steamapps\common\Cattails Wildwood Story\gameresources"
     extensions_to_consider = (".meta", ".lang")
     all_data = read_all(gameresources_dir, file_suffixes=extensions_to_consider)

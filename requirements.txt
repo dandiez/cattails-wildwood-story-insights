@@ -9,14 +9,24 @@ black==23.10.1
 click==8.1.7
     # via black
 colorama==0.4.6
-    # via click
+    # via
+    #   click
+    #   pytest
+iniconfig==2.0.0
+    # via pytest
 json5==0.9.14
     # via -r .\requirements.in
 mypy-extensions==1.0.0
     # via black
 packaging==23.2
-    # via black
+    # via
+    #   black
+    #   pytest
 pathspec==0.11.2
     # via black
 platformdirs==3.11.0
     # via black
+pluggy==1.3.0
+    # via pytest
+pytest==7.4.3
+    # via -r .\requirements.in
