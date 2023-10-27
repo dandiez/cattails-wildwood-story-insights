@@ -2,8 +2,12 @@
 ---
 
 
-# Readme Test
+# Intro
 
-Uses jekyll-readme-index plugin by default.
+Summaries based on the gameresources files.
+Here's a heart: ❤️
 
-Here's a jemoji :+1:
+# Gifts / items
+
+[Link to gifts table]({% link gifts.md %})
+
