@@ -1,7 +1,6 @@
 ---
 ---
 
-Theme: {{ site.theme }}
 
 # Readme Test
 

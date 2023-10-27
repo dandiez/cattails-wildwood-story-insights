@@ -1,4 +1,4 @@
 title: "the_title"
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 plugins:
   - jemoji
