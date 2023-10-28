@@ -141,37 +141,79 @@ def write_index(index: dict[ResourcesRelPath, ModuleClassNames], schemas_dir: st
         f.write(module_as_str)
 
 
+
+
 def get_index_module_code(index: dict[ResourcesRelPath, ModuleClassNames]) -> str:
     index: dict[ResourcesRelPath, ModuleClassNames] = {
         k: v for k, v in sorted(index.items(), key=lambda item: item[0])
     }
-    imports = "\n".join(
+    imports = get_index_module_imports_as_str(index)
+    rel_path_to_dataclass_mapping_str = get_index_module_rel_path_to_dataclass_mapping_as_str(index)
+    rel_path_to_variable_mapping_str = get_index_module_rel_path_to_variable_mapping_as_str(index)
+    all_resource_data_str = get_index_module_all_resource_data_dataclass_def_as_str(index)
+    module_as_str = f"""import dataclasses
+
+{imports}
+    
+{rel_path_to_dataclass_mapping_str}
+
+{rel_path_to_variable_mapping_str}
+
+{all_resource_data_str}
+    """
+    module_as_str = black.format_str(module_as_str, mode=black.FileMode())
+    return module_as_str
+
+
+def get_index_module_imports_as_str(index: dict[ResourcesRelPath, ModuleClassNames]):
+    return "\n".join(
         [
             f"from cws_insights.schemas.{module_class_names.module_name} import {module_class_names.class_name}"
             for module_class_names in index.values()
         ]
     )
+
+def get_index_module_rel_path_to_dataclass_mapping_as_str(index: dict[ResourcesRelPath, ModuleClassNames]) -> str:
     collection_rel_path_to_dataclass_mapping = "\n".join(
         [
             f"    '{rel_path}':{module_and_class_name.class_name},"
             for rel_path, module_and_class_name in index.items()
         ]
     )
-    mappings = (
-        "COLLECTION_REL_PATH_TO_DATACLASS_MAPPING={\n"
-        + collection_rel_path_to_dataclass_mapping
-        + "}"
+    collection_rel_path_to_dataclass_mapping_str = (
+            "COLLECTION_REL_PATH_TO_DATACLASS_MAPPING={\n"
+            + collection_rel_path_to_dataclass_mapping
+            + "}"
     )
-    module_as_str = f"""{imports}
-    
-{mappings}
-    """
-    module_as_str = black.format_str(module_as_str, mode=black.FileMode())
-    return module_as_str
+    return collection_rel_path_to_dataclass_mapping_str
 
+def get_index_module_rel_path_to_variable_mapping_as_str(index: dict[ResourcesRelPath, ModuleClassNames]):
+    collection_rel_path_to_variable_mapping = "\n".join(
+        [
+            f"    '{rel_path}':'{module_and_class_name.module_name}',"
+            for rel_path, module_and_class_name in index.items()
+        ]
+    )
+    collection_rel_path_to_variable_mapping_str = (
+            "COLLECTION_REL_PATH_TO_VARIABLE_MAPPING={\n"
+            + collection_rel_path_to_variable_mapping
+            + "}"
+    )
+    return collection_rel_path_to_variable_mapping_str
+
+def get_index_module_all_resource_data_dataclass_def_as_str(index: dict[ResourcesRelPath, ModuleClassNames]):
+    attribute_lines = [f"    {mcn.module_name}: dict[str, {mcn.class_name}]" for mcn in index.values()]
+    all_attribute_lines_as_str = "\n".join(attribute_lines)
+    def_as_str = f'''@dataclasses.dataclass
+class AllResourceData:
+    """All resource data indexed by file stem."""
+
+{all_attribute_lines_as_str}
+'''
+    return def_as_str
 
 def main(gameresources_dir: str, extensions_to_consider: Collection[str], schemas_dir: str):
-    all_data = read_all(gameresources_dir, file_suffixes=extensions_to_consider)
+    all_data = read_all_resource_files(gameresources_dir, file_suffixes=extensions_to_consider)
     clean_schemas_dir(schemas_dir)
     index = dict()
     for collection_rel_path, collection in all_data.items():

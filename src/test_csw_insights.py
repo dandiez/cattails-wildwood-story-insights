@@ -4,7 +4,7 @@ import tempfile
 import unittest
 
 from cws_insights.common import slug_it
-from cws_insights.read_files import ResourceFile, read_all, JSON
+from cws_insights.read_files import ResourceFile, read_all_resource_files, JSON
 from cws_insights.update_schemas import (
     class_name_from_path,
     dataclass_types_from_set,
@@ -61,7 +61,7 @@ class TestReadFiles(unittest.TestCase):
                 )
             ],
         }
-        self.assertEqual(expected, read_all(self.gamesourcedir_path, (".meta",)))
+        self.assertEqual(expected, read_all_resource_files(self.gamesourcedir_path, (".meta",)))
 
     def tearDown(self) -> None:
         self.gamesourcedir.cleanup()
@@ -205,12 +205,27 @@ class NpcSomething:
             ),
         }
         actual = get_index_module_code(index)
-        expected = """from cws_insights.schemas.npcs import Npcs
+        expected = '''import dataclasses
+
+from cws_insights.schemas.npcs import Npcs
 from cws_insights.schemas.npcs_lang_english import NpcsLangEnglish
 
 COLLECTION_REL_PATH_TO_DATACLASS_MAPPING = {
     "npcs": Npcs,
     "npcs/lang/english": NpcsLangEnglish,
 }
-"""
+
+COLLECTION_REL_PATH_TO_VARIABLE_MAPPING = {
+    "npcs": "npcs",
+    "npcs/lang/english": "npcs_lang_english",
+}
+
+
+@dataclasses.dataclass
+class AllResourceData:
+    """All resource data indexed by file stem."""
+
+    npcs: dict[str, Npcs]
+    npcs_lang_english: dict[str, NpcsLangEnglish]
+'''
         self.assertEqual(expected, actual)

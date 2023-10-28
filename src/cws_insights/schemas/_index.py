@@ -1,3 +1,5 @@
+import dataclasses
+
 from cws_insights.schemas.buildings import Buildings
 from cws_insights.schemas.buildings_lang_english import BuildingsLangEnglish
 from cws_insights.schemas.buildings_lang_german import BuildingsLangGerman
@@ -117,3 +119,128 @@ COLLECTION_REL_PATH_TO_DATACLASS_MAPPING = {
     "world_objects/lang/german": WorldObjectsLangGerman,
     "world_objects/lang/spanish": WorldObjectsLangSpanish,
 }
+
+COLLECTION_REL_PATH_TO_VARIABLE_MAPPING = {
+    "buildings": "buildings",
+    "buildings/lang/english": "buildings_lang_english",
+    "buildings/lang/german": "buildings_lang_german",
+    "buildings/lang/spanish": "buildings_lang_spanish",
+    "bundles": "bundles",
+    "colony_layouts": "colony_layouts",
+    "colony_layouts/lang/english": "colony_layouts_lang_english",
+    "colony_layouts/lang/german": "colony_layouts_lang_german",
+    "colony_layouts/lang/spanish": "colony_layouts_lang_spanish",
+    "crafting_stations": "crafting_stations",
+    "events": "events",
+    "events/lang/english": "events_lang_english",
+    "events/lang/german": "events_lang_german",
+    "events/lang/spanish": "events_lang_spanish",
+    "festivals": "festivals",
+    "festivals/lang/english": "festivals_lang_english",
+    "festivals/lang/german": "festivals_lang_german",
+    "festivals/lang/spanish": "festivals_lang_spanish",
+    "furniture": "furniture",
+    "furniture/lang/english": "furniture_lang_english",
+    "furniture/lang/german": "furniture_lang_german",
+    "furniture/lang/spanish": "furniture_lang_spanish",
+    "herbs": "herbs",
+    "items": "items",
+    "items/accessories": "items_accessories",
+    "items/lang/english": "items_lang_english",
+    "items/lang/german": "items_lang_german",
+    "items/lang/spanish": "items_lang_spanish",
+    "items/recipes": "items_recipes",
+    "languages": "languages",
+    "mail": "mail",
+    "mail/lang/english": "mail_lang_english",
+    "mail/lang/german": "mail_lang_german",
+    "mail/lang/spanish": "mail_lang_spanish",
+    "map": "map",
+    "map/lang/english": "map_lang_english",
+    "map/lang/german": "map_lang_german",
+    "map/lang/spanish": "map_lang_spanish",
+    "music/packs": "music_packs",
+    "npcs": "npcs",
+    "npcs/lang/english": "npcs_lang_english",
+    "npcs/lang/german": "npcs_lang_german",
+    "npcs/lang/spanish": "npcs_lang_spanish",
+    "npcs/shops": "npcs_shops",
+    "rival_marriages": "rival_marriages",
+    "tasks": "tasks",
+    "tasks/lang/english": "tasks_lang_english",
+    "tasks/lang/german": "tasks_lang_german",
+    "tasks/lang/spanish": "tasks_lang_spanish",
+    "time": "time",
+    "wedding_venues": "wedding_venues",
+    "wedding_venues/lang/english": "wedding_venues_lang_english",
+    "wedding_venues/lang/german": "wedding_venues_lang_german",
+    "wedding_venues/lang/spanish": "wedding_venues_lang_spanish",
+    "world_objects": "world_objects",
+    "world_objects/lang/english": "world_objects_lang_english",
+    "world_objects/lang/german": "world_objects_lang_german",
+    "world_objects/lang/spanish": "world_objects_lang_spanish",
+}
+
+
+@dataclasses.dataclass
+class AllResourceData:
+    """All resource data indexed by file stem."""
+
+    buildings: dict[str, Buildings]
+    buildings_lang_english: dict[str, BuildingsLangEnglish]
+    buildings_lang_german: dict[str, BuildingsLangGerman]
+    buildings_lang_spanish: dict[str, BuildingsLangSpanish]
+    bundles: dict[str, Bundles]
+    colony_layouts: dict[str, ColonyLayouts]
+    colony_layouts_lang_english: dict[str, ColonyLayoutsLangEnglish]
+    colony_layouts_lang_german: dict[str, ColonyLayoutsLangGerman]
+    colony_layouts_lang_spanish: dict[str, ColonyLayoutsLangSpanish]
+    crafting_stations: dict[str, CraftingStations]
+    events: dict[str, Events]
+    events_lang_english: dict[str, EventsLangEnglish]
+    events_lang_german: dict[str, EventsLangGerman]
+    events_lang_spanish: dict[str, EventsLangSpanish]
+    festivals: dict[str, Festivals]
+    festivals_lang_english: dict[str, FestivalsLangEnglish]
+    festivals_lang_german: dict[str, FestivalsLangGerman]
+    festivals_lang_spanish: dict[str, FestivalsLangSpanish]
+    furniture: dict[str, Furniture]
+    furniture_lang_english: dict[str, FurnitureLangEnglish]
+    furniture_lang_german: dict[str, FurnitureLangGerman]
+    furniture_lang_spanish: dict[str, FurnitureLangSpanish]
+    herbs: dict[str, Herbs]
+    items: dict[str, Items]
+    items_accessories: dict[str, ItemsAccessories]
+    items_lang_english: dict[str, ItemsLangEnglish]
+    items_lang_german: dict[str, ItemsLangGerman]
+    items_lang_spanish: dict[str, ItemsLangSpanish]
+    items_recipes: dict[str, ItemsRecipes]
+    languages: dict[str, Languages]
+    mail: dict[str, Mail]
+    mail_lang_english: dict[str, MailLangEnglish]
+    mail_lang_german: dict[str, MailLangGerman]
+    mail_lang_spanish: dict[str, MailLangSpanish]
+    map: dict[str, Map]
+    map_lang_english: dict[str, MapLangEnglish]
+    map_lang_german: dict[str, MapLangGerman]
+    map_lang_spanish: dict[str, MapLangSpanish]
+    music_packs: dict[str, MusicPacks]
+    npcs: dict[str, Npcs]
+    npcs_lang_english: dict[str, NpcsLangEnglish]
+    npcs_lang_german: dict[str, NpcsLangGerman]
+    npcs_lang_spanish: dict[str, NpcsLangSpanish]
+    npcs_shops: dict[str, NpcsShops]
+    rival_marriages: dict[str, RivalMarriages]
+    tasks: dict[str, Tasks]
+    tasks_lang_english: dict[str, TasksLangEnglish]
+    tasks_lang_german: dict[str, TasksLangGerman]
+    tasks_lang_spanish: dict[str, TasksLangSpanish]
+    time: dict[str, Time]
+    wedding_venues: dict[str, WeddingVenues]
+    wedding_venues_lang_english: dict[str, WeddingVenuesLangEnglish]
+    wedding_venues_lang_german: dict[str, WeddingVenuesLangGerman]
+    wedding_venues_lang_spanish: dict[str, WeddingVenuesLangSpanish]
+    world_objects: dict[str, WorldObjects]
+    world_objects_lang_english: dict[str, WorldObjectsLangEnglish]
+    world_objects_lang_german: dict[str, WorldObjectsLangGerman]
+    world_objects_lang_spanish: dict[str, WorldObjectsLangSpanish]
