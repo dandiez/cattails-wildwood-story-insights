@@ -7,7 +7,7 @@ from typing import Collection
 import black
 
 from cws_insights.common import slug_it
-from cws_insights.read_files import read_all, ResourceFile, ResourcesRelPath
+from cws_insights.read_files import read_all_resource_files, ResourceFile, ResourcesRelPath
 
 SCHEMAS_DIR = os.path.join(os.path.dirname(__file__), "schemas")
 
@@ -202,7 +202,7 @@ def get_index_module_rel_path_to_variable_mapping_as_str(index: dict[ResourcesRe
     return collection_rel_path_to_variable_mapping_str
 
 def get_index_module_all_resource_data_dataclass_def_as_str(index: dict[ResourcesRelPath, ModuleClassNames]):
-    attribute_lines = [f"    {mcn.module_name}: dict[str, {mcn.class_name}]" for mcn in index.values()]
+    attribute_lines = [f"    {mcn.module_name}: dict[str, {mcn.class_name}] = None" for mcn in index.values()]
     all_attribute_lines_as_str = "\n".join(attribute_lines)
     def_as_str = f'''@dataclasses.dataclass
 class AllResourceData:

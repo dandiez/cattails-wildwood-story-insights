@@ -186,61 +186,61 @@ COLLECTION_REL_PATH_TO_VARIABLE_MAPPING = {
 class AllResourceData:
     """All resource data indexed by file stem."""
 
-    buildings: dict[str, Buildings]
-    buildings_lang_english: dict[str, BuildingsLangEnglish]
-    buildings_lang_german: dict[str, BuildingsLangGerman]
-    buildings_lang_spanish: dict[str, BuildingsLangSpanish]
-    bundles: dict[str, Bundles]
-    colony_layouts: dict[str, ColonyLayouts]
-    colony_layouts_lang_english: dict[str, ColonyLayoutsLangEnglish]
-    colony_layouts_lang_german: dict[str, ColonyLayoutsLangGerman]
-    colony_layouts_lang_spanish: dict[str, ColonyLayoutsLangSpanish]
-    crafting_stations: dict[str, CraftingStations]
-    events: dict[str, Events]
-    events_lang_english: dict[str, EventsLangEnglish]
-    events_lang_german: dict[str, EventsLangGerman]
-    events_lang_spanish: dict[str, EventsLangSpanish]
-    festivals: dict[str, Festivals]
-    festivals_lang_english: dict[str, FestivalsLangEnglish]
-    festivals_lang_german: dict[str, FestivalsLangGerman]
-    festivals_lang_spanish: dict[str, FestivalsLangSpanish]
-    furniture: dict[str, Furniture]
-    furniture_lang_english: dict[str, FurnitureLangEnglish]
-    furniture_lang_german: dict[str, FurnitureLangGerman]
-    furniture_lang_spanish: dict[str, FurnitureLangSpanish]
-    herbs: dict[str, Herbs]
-    items: dict[str, Items]
-    items_accessories: dict[str, ItemsAccessories]
-    items_lang_english: dict[str, ItemsLangEnglish]
-    items_lang_german: dict[str, ItemsLangGerman]
-    items_lang_spanish: dict[str, ItemsLangSpanish]
-    items_recipes: dict[str, ItemsRecipes]
-    languages: dict[str, Languages]
-    mail: dict[str, Mail]
-    mail_lang_english: dict[str, MailLangEnglish]
-    mail_lang_german: dict[str, MailLangGerman]
-    mail_lang_spanish: dict[str, MailLangSpanish]
-    map: dict[str, Map]
-    map_lang_english: dict[str, MapLangEnglish]
-    map_lang_german: dict[str, MapLangGerman]
-    map_lang_spanish: dict[str, MapLangSpanish]
-    music_packs: dict[str, MusicPacks]
-    npcs: dict[str, Npcs]
-    npcs_lang_english: dict[str, NpcsLangEnglish]
-    npcs_lang_german: dict[str, NpcsLangGerman]
-    npcs_lang_spanish: dict[str, NpcsLangSpanish]
-    npcs_shops: dict[str, NpcsShops]
-    rival_marriages: dict[str, RivalMarriages]
-    tasks: dict[str, Tasks]
-    tasks_lang_english: dict[str, TasksLangEnglish]
-    tasks_lang_german: dict[str, TasksLangGerman]
-    tasks_lang_spanish: dict[str, TasksLangSpanish]
-    time: dict[str, Time]
-    wedding_venues: dict[str, WeddingVenues]
-    wedding_venues_lang_english: dict[str, WeddingVenuesLangEnglish]
-    wedding_venues_lang_german: dict[str, WeddingVenuesLangGerman]
-    wedding_venues_lang_spanish: dict[str, WeddingVenuesLangSpanish]
-    world_objects: dict[str, WorldObjects]
-    world_objects_lang_english: dict[str, WorldObjectsLangEnglish]
-    world_objects_lang_german: dict[str, WorldObjectsLangGerman]
-    world_objects_lang_spanish: dict[str, WorldObjectsLangSpanish]
+    buildings: dict[str, Buildings] = None
+    buildings_lang_english: dict[str, BuildingsLangEnglish] = None
+    buildings_lang_german: dict[str, BuildingsLangGerman] = None
+    buildings_lang_spanish: dict[str, BuildingsLangSpanish] = None
+    bundles: dict[str, Bundles] = None
+    colony_layouts: dict[str, ColonyLayouts] = None
+    colony_layouts_lang_english: dict[str, ColonyLayoutsLangEnglish] = None
+    colony_layouts_lang_german: dict[str, ColonyLayoutsLangGerman] = None
+    colony_layouts_lang_spanish: dict[str, ColonyLayoutsLangSpanish] = None
+    crafting_stations: dict[str, CraftingStations] = None
+    events: dict[str, Events] = None
+    events_lang_english: dict[str, EventsLangEnglish] = None
+    events_lang_german: dict[str, EventsLangGerman] = None
+    events_lang_spanish: dict[str, EventsLangSpanish] = None
+    festivals: dict[str, Festivals] = None
+    festivals_lang_english: dict[str, FestivalsLangEnglish] = None
+    festivals_lang_german: dict[str, FestivalsLangGerman] = None
+    festivals_lang_spanish: dict[str, FestivalsLangSpanish] = None
+    furniture: dict[str, Furniture] = None
+    furniture_lang_english: dict[str, FurnitureLangEnglish] = None
+    furniture_lang_german: dict[str, FurnitureLangGerman] = None
+    furniture_lang_spanish: dict[str, FurnitureLangSpanish] = None
+    herbs: dict[str, Herbs] = None
+    items: dict[str, Items] = None
+    items_accessories: dict[str, ItemsAccessories] = None
+    items_lang_english: dict[str, ItemsLangEnglish] = None
+    items_lang_german: dict[str, ItemsLangGerman] = None
+    items_lang_spanish: dict[str, ItemsLangSpanish] = None
+    items_recipes: dict[str, ItemsRecipes] = None
+    languages: dict[str, Languages] = None
+    mail: dict[str, Mail] = None
+    mail_lang_english: dict[str, MailLangEnglish] = None
+    mail_lang_german: dict[str, MailLangGerman] = None
+    mail_lang_spanish: dict[str, MailLangSpanish] = None
+    map: dict[str, Map] = None
+    map_lang_english: dict[str, MapLangEnglish] = None
+    map_lang_german: dict[str, MapLangGerman] = None
+    map_lang_spanish: dict[str, MapLangSpanish] = None
+    music_packs: dict[str, MusicPacks] = None
+    npcs: dict[str, Npcs] = None
+    npcs_lang_english: dict[str, NpcsLangEnglish] = None
+    npcs_lang_german: dict[str, NpcsLangGerman] = None
+    npcs_lang_spanish: dict[str, NpcsLangSpanish] = None
+    npcs_shops: dict[str, NpcsShops] = None
+    rival_marriages: dict[str, RivalMarriages] = None
+    tasks: dict[str, Tasks] = None
+    tasks_lang_english: dict[str, TasksLangEnglish] = None
+    tasks_lang_german: dict[str, TasksLangGerman] = None
+    tasks_lang_spanish: dict[str, TasksLangSpanish] = None
+    time: dict[str, Time] = None
+    wedding_venues: dict[str, WeddingVenues] = None
+    wedding_venues_lang_english: dict[str, WeddingVenuesLangEnglish] = None
+    wedding_venues_lang_german: dict[str, WeddingVenuesLangGerman] = None
+    wedding_venues_lang_spanish: dict[str, WeddingVenuesLangSpanish] = None
+    world_objects: dict[str, WorldObjects] = None
+    world_objects_lang_english: dict[str, WorldObjectsLangEnglish] = None
+    world_objects_lang_german: dict[str, WorldObjectsLangGerman] = None
+    world_objects_lang_spanish: dict[str, WorldObjectsLangSpanish] = None

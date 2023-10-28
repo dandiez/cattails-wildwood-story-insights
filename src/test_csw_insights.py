@@ -225,7 +225,7 @@ COLLECTION_REL_PATH_TO_VARIABLE_MAPPING = {
 class AllResourceData:
     """All resource data indexed by file stem."""
 
-    npcs: dict[str, Npcs]
-    npcs_lang_english: dict[str, NpcsLangEnglish]
+    npcs: dict[str, Npcs] = None
+    npcs_lang_english: dict[str, NpcsLangEnglish] = None
 '''
         self.assertEqual(expected, actual)
