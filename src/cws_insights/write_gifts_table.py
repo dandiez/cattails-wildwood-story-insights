@@ -5,11 +5,11 @@ import pandas as pd
 
 from cws_insights.common import SITE_SRC_DIR, CI_CD_GAMERESOURCES_DIR
 from cws_insights.definitions import Undefined
-from cws_insights.raw_to_dataclasses import Item
 from cws_insights.read_files import (
     read_all_resource_files,
     instantiate_all_resource_data,
 )
+from cws_insights.schemas.items import Item
 from cws_insights.schemas.items_lang_english import ItemLangEnglish
 from cws_insights.schemas.npcs import Npc
 from cws_insights.schemas.npcs_lang_english import NpcLangEnglish
