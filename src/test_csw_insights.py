@@ -3,7 +3,20 @@ import os
 import tempfile
 import unittest
 
+from cws_insights.common import slug_it
 from cws_insights.read_files import ResourceFile, read_all, JSON
+from cws_insights.update_schemas import (
+    class_name_from_path,
+    dataclass_types_from_set,
+    KeyAttributeMapper,
+    get_special_mapping_lines,
+    get_dataclass_attribute_definitions_as_str,
+    get_all_unique_keys_with_their_types,
+    get_python_module_with_dataclass_as_str,
+    ClassDefinition,
+    get_index_module_code,
+    ModuleClassNames,
+)
 
 
 def write_json(data: JSON, file_path: str):
@@ -52,3 +65,152 @@ class TestReadFiles(unittest.TestCase):
 
     def tearDown(self) -> None:
         self.gamesourcedir.cleanup()
+
+
+class TestCommon(unittest.TestCase):
+    def test_slug_it(self):
+        self.assertEqual("a_b", slug_it("a_b"))
+        self.assertEqual("a__b__c", slug_it("a__b__c"))
+        self.assertEqual("a_plus_b", slug_it("a_+_b"))
+        self.assertEqual("a_minus_b", slug_it("a_-_b"))
+
+
+class TestUpdateSchemas(unittest.TestCase):
+    def test_class_name_from_path(self):
+        self.assertEqual("NpcsLangEnglish", class_name_from_path("npcs/lang/english"))
+
+    def test_dataclass_types_from_set(self):
+        self.assertEqual("str", dataclass_types_from_set({str}))
+        self.assertEqual("float|int", dataclass_types_from_set({float, int}))
+
+    def test_key_to_attribute_mapper(self):
+        mapper = KeyAttributeMapper()
+        attribute_name = mapper.key_to_attribute("this_key_can_be_an_attribute")
+        self.assertEqual("this_key_can_be_an_attribute", attribute_name)
+        self.assertEqual(dict(), mapper.special_mapping)
+        attribute_name = mapper.key_to_attribute("this_key_has_a_+_and_a_-_symbol")
+        self.assertEqual("this_key_has_a_plus_and_a_minus_symbol", attribute_name)
+        self.assertEqual(
+            {
+                "this_key_has_a_+_and_a_-_symbol": "this_key_has_a_plus_and_a_minus_symbol"
+            },
+            mapper.special_mapping,
+        )
+        _ = mapper.key_to_attribute("a+b")
+        self.assertEqual(
+            {
+                "this_key_has_a_+_and_a_-_symbol": "this_key_has_a_plus_and_a_minus_symbol",
+                "a_+_b": "a_plus_b",
+            },
+            mapper.special_mapping,
+        )
+
+    def test_get_special_mapping_lines(self):
+        mapper = KeyAttributeMapper()
+        actual = get_special_mapping_lines(mapper)
+        self.assertEqual(("", ""), actual)
+
+        mapper = KeyAttributeMapper(
+            {
+                "a_+_b": "a_plus_b",
+                "a_-_b": "a_minus_b",
+            }
+        )
+        actual = get_special_mapping_lines(mapper)
+        expected = (
+            "from typing import ClassVar",
+            "__special_mappings: ClassVar[dict] = {'a_+_b': 'a_plus_b', 'a_-_b': 'a_minus_b'}",
+        )
+        self.assertEqual(expected, actual)
+
+    def test_get_dataclass_attribute_definitions_as_str(self):
+        key_types = {
+            "age": {float, int},
+            "name": {str},
+            "controller_+_text": {str},
+        }
+        mappings = KeyAttributeMapper({"controller_+_text": "controller_plus_text"})
+        actual = get_dataclass_attribute_definitions_as_str(key_types, mappings)
+        expected = """age: float|int = Undefined
+    controller_plus_text: str = Undefined
+    name: str = Undefined"""
+        self.assertEqual(expected, actual)
+
+    def test_get_all_unique_keys_with_their_types(self):
+        resources = [
+            ResourceFile(
+                rel_path="npc",
+                stem="alabaster",
+                extension=".meta",
+                contents={"name": "Alabaster", "age": 5},
+            ),
+            ResourceFile(
+                rel_path="npc",
+                stem="something_else",
+                extension=".meta",
+                contents={"name": "Something else", "age": 4.2, "a_+_b": "42"},
+            ),
+        ]
+        actual = get_all_unique_keys_with_their_types(resources)
+        expected = {"name": {str}, "age": {float, int}, "a_+_b": {str}}
+        self.assertEqual(expected, actual)
+
+    def test_get_python_module_with_dataclass_as_str(self):
+        collection = [
+            ResourceFile(
+                rel_path="npc",
+                stem="alabaster",
+                extension=".meta",
+                contents={"name": "Alabaster", "age": 5},
+            ),
+            ResourceFile(
+                rel_path="npc",
+                stem="something_else",
+                extension=".meta",
+                contents={"name": "Something else", "age": 4.2, "a_+_b": "42"},
+            ),
+        ]
+        collection_rel_path = "npc/something"
+        actual = get_python_module_with_dataclass_as_str(
+            collection, collection_rel_path
+        )
+        expected = ClassDefinition(
+            'import dataclasses\nfrom typing import ClassVar\nfrom cws_insights.definitions import Undefined\n\n\n@dataclasses.dataclass\nclass NpcSomething:\n    """Dataset associated with files in \'gameresources/npc/something\'."""\n\n    __special_mappings: ClassVar[dict] = {"a_+_b": "a_plus_b"}\n    a_plus_b: str = Undefined\n    age: float | int = Undefined\n    name: str = Undefined\n',
+            "NpcSomething",
+        )
+        expected = ClassDefinition(
+            full_class_code='''import dataclasses
+from typing import ClassVar
+from cws_insights.definitions import Undefined
+
+
+@dataclasses.dataclass
+class NpcSomething:
+    """Dataset associated with files in \'gameresources/npc/something\'."""
+
+    __special_mappings: ClassVar[dict] = {"a_+_b": "a_plus_b"}
+    a_plus_b: str = Undefined
+    age: float | int = Undefined
+    name: str = Undefined
+''',
+            class_name="NpcSomething",
+        )
+        self.assertEqual(expected, actual)
+
+    def test_get_index_module_code(self):
+        index = {
+            "npcs": ModuleClassNames(module_name="npcs", class_name="Npcs"),
+            "npcs/lang/english": ModuleClassNames(
+                module_name="npcs_lang_english", class_name="NpcsLangEnglish"
+            ),
+        }
+        actual = get_index_module_code(index)
+        expected = """from cws_insights.schemas.npcs import Npcs
+from cws_insights.schemas.npcs_lang_english import NpcsLangEnglish
+
+COLLECTION_REL_PATH_TO_DATACLASS_MAPPING = {
+    "npcs": Npcs,
+    "npcs/lang/english": NpcsLangEnglish,
+}
+"""
+        self.assertEqual(expected, actual)

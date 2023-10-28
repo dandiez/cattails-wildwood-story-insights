@@ -8,6 +8,7 @@ from typing import TypeAlias, Collection
 import json5
 
 JSON: TypeAlias = dict[str, "JSON"] | list["JSON"] | str | int | float | bool | None
+ResourcesRelPath: TypeAlias = str
 
 
 def read_as_json(file_path: str):
@@ -40,7 +41,7 @@ class ResourceFile:
         )
 
 
-AllResourceFiles: TypeAlias = dict[str, list[ResourceFile]]
+AllResourceFiles: TypeAlias = dict[ResourcesRelPath, list[ResourceFile]]
 
 
 def read_all(
@@ -50,7 +51,9 @@ def read_all(
     all_resources = defaultdict(list)
     for path, dirnames, filenames in os.walk(gameresources_root_path):
         rel_path = os.path.relpath(path, gameresources_root_path)
-        rel_path = "/".join(os.path.normpath(rel_path).split(os.path.sep))  # consistent win/linux
+        rel_path = "/".join(
+            os.path.normpath(rel_path).split(os.path.sep)
+        )  # consistent win/linux
         for f in filenames:
             if Path(f).suffix in file_suffixes:
                 full_path = os.path.join(path, f)

@@ -2,3 +2,4 @@ black
 pytest
 
 json5
+python-slugify
