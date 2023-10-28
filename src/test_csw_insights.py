@@ -29,7 +29,7 @@ class TestReadFiles(unittest.TestCase):
             ),
         )
 
-    def test_resource_file(self):
+    def test_read_all_resource_files(self):
         expected = {
             "npc": [
                 ResourceFile(
@@ -39,7 +39,7 @@ class TestReadFiles(unittest.TestCase):
                     contents={"name": "Alabaster"},
                 )
             ],
-            os.path.join("npc", "lang", "english"): [
+            "npc/lang/english": [
                 ResourceFile(
                     rel_path=os.path.join("npc", "lang", "english", "alabaster.meta"),
                     stem="alabaster",

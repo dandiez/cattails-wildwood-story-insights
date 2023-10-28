@@ -40,11 +40,17 @@ class ResourceFile:
         )
 
 
-def read_all(gameresources_root_path: str, file_suffixes: Collection[str]) -> dict:
+AllResourceFiles: TypeAlias = dict[str, list[ResourceFile]]
+
+
+def read_all(
+    gameresources_root_path: str, file_suffixes: Collection[str]
+) -> AllResourceFiles:
     """Nested dict which mimics the OS folder and file structure."""
     all_resources = defaultdict(list)
     for path, dirnames, filenames in os.walk(gameresources_root_path):
         rel_path = os.path.relpath(path, gameresources_root_path)
+        rel_path = "/".join(os.path.normpath(rel_path).split(os.path.sep))  # consistent win/linux
         for f in filenames:
             if Path(f).suffix in file_suffixes:
                 full_path = os.path.join(path, f)
