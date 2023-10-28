@@ -1,4 +1,5 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
@@ -7,6 +8,7 @@ from cws_insights.definitions import Undefined
 class Map:
     """Dataset associated with files in 'gameresources/map'."""
 
+    _special_mappings: ClassVar[dict] = {}
     assign_squads_npc: str = Undefined
     darkruins1_region: str = Undefined
     darkruins1_x: int = Undefined

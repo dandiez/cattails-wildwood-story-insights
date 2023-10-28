@@ -1,4 +1,5 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
@@ -7,6 +8,7 @@ from cws_insights.definitions import Undefined
 class Furniture:
     """Dataset associated with files in 'gameresources/furniture'."""
 
+    _special_mappings: ClassVar[dict] = {}
     allow_furniture_ontop: bool = Undefined
     animation_speed: int = Undefined
     attachment: str = Undefined

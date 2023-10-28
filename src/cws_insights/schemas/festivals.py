@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class Festivals:
+class Festival:
     """Dataset associated with files in 'gameresources/festivals'."""
 
+    _special_mappings: ClassVar[dict] = {}
     festival_calendar_icon: str = Undefined
     festival_day: int = Undefined
     festival_force_hour: int = Undefined

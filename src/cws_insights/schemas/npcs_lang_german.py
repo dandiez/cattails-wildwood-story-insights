@@ -1,13 +1,14 @@
 import dataclasses
 from typing import ClassVar
+
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class NpcsLangGerman:
+class NpcLangGerman:
     """Dataset associated with files in 'gameresources/npcs/lang/german'."""
 
-    __special_mappings: ClassVar[dict] = {
+    _special_mappings: ClassVar[dict] = {
         "lang_npc_comment_player_is_dating_Coco": "lang_npc_comment_player_is_dating_coco",
         "lang_npc_comment_player_is_married_to_Coco": "lang_npc_comment_player_is_married_to_coco",
     }

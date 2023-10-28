@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class Buildings:
+class Building:
     """Dataset associated with files in 'gameresources/buildings'."""
 
+    _special_mappings: ClassVar[dict] = {}
     blocker_height: int = Undefined
     blocker_width: int = Undefined
     build_menu: bool = Undefined

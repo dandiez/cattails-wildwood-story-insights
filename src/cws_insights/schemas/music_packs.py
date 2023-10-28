@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class MusicPacks:
+class MusicPack:
     """Dataset associated with files in 'gameresources/music/packs'."""
 
+    _special_mappings: ClassVar[dict] = {}
     music_autumn: str = Undefined
     music_autumn_1_3: str = Undefined
     music_autumn_4_7: str = Undefined

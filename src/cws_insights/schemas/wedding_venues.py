@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class WeddingVenues:
+class WeddingVenue:
     """Dataset associated with files in 'gameresources/wedding_venues'."""
 
+    _special_mappings: ClassVar[dict] = {}
     officiant_spawn_dir: str = Undefined
     officiant_spawn_x: int = Undefined
     officiant_spawn_y: int = Undefined

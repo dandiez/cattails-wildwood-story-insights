@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class ColonyLayouts:
+class ColonyLayout:
     """Dataset associated with files in 'gameresources/colony_layouts'."""
 
+    _special_mappings: ClassVar[dict] = {}
     background_type: str = Undefined
     buildings: list = Undefined
     decorative_tiles: list = Undefined

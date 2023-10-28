@@ -3,3 +3,4 @@ pytest
 
 json5
 python-slugify
+inflect

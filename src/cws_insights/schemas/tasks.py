@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class Tasks:
+class Task:
     """Dataset associated with files in 'gameresources/tasks'."""
 
+    _special_mappings: ClassVar[dict] = {}
     task_autumn: bool = Undefined
     task_goal_item_uid: str = Undefined
     task_goal_quantity: int = Undefined
