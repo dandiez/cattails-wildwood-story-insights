@@ -3,3 +3,6 @@ pytest
 
 json5
 python-slugify
+inflect
+pandas
+tabulate

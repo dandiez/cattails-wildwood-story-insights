@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class Events:
+class Event:
     """Dataset associated with files in 'gameresources/events'."""
 
+    _special_mappings: ClassVar[dict] = {}
     event_blocks: list = Undefined
     event_blocks_affirm: list = Undefined
     event_blocks_agree: list = Undefined

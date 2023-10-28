@@ -7,6 +7,12 @@ from typing import TypeAlias, Collection
 
 import json5
 
+from cws_insights.schemas._index import (
+    AllResourceData,
+    COLLECTION_REL_PATH_TO_VARIABLE_MAPPING,
+    COLLECTION_REL_PATH_TO_DATACLASS_MAPPING,
+)
+
 JSON: TypeAlias = dict[str, "JSON"] | list["JSON"] | str | int | float | bool | None
 ResourcesRelPath: TypeAlias = str
 
@@ -44,7 +50,7 @@ class ResourceFile:
 AllResourceFiles: TypeAlias = dict[ResourcesRelPath, list[ResourceFile]]
 
 
-def read_all(
+def read_all_resource_files(
     gameresources_root_path: str, file_suffixes: Collection[str]
 ) -> AllResourceFiles:
     """Nested dict which mimics the OS folder and file structure."""
@@ -62,9 +68,37 @@ def read_all(
     return all_resources
 
 
+def instantiate_all_resource_data(
+    all_resource_files: AllResourceFiles,
+) -> AllResourceData:
+    all_data = AllResourceData()
+    for rel_path, files in all_resource_files.items():
+        attribute = COLLECTION_REL_PATH_TO_VARIABLE_MAPPING[rel_path]
+        class_type = COLLECTION_REL_PATH_TO_DATACLASS_MAPPING[rel_path]
+        setattr(
+            all_data,
+            attribute,
+            {
+                f.stem: instantiate_resource_data_from_dict(class_type, f.contents)
+                for f in files
+            },
+        )
+    return all_data
+
+
+def instantiate_resource_data_from_dict(class_type: type, data_dict: dict):
+    """If the class type has the special mappings defined, use them."""
+    return class_type(
+        **{class_type._special_mappings.get(k, k): v for k, v in data_dict.items()}
+    )
+
+
 if __name__ == "__main__":
     gameresources_dir = r"C:\Program Files (x86)\Steam\steamapps\common\Cattails Wildwood Story\gameresources"
     extensions_to_consider = (".meta", ".lang")
-    all_data = read_all(gameresources_dir, file_suffixes=extensions_to_consider)
-    for k, v in all_data.items():
+    all_raw_data = read_all_resource_files(
+        gameresources_dir, file_suffixes=extensions_to_consider
+    )
+    for k, v in all_raw_data.items():
         print(f"Found '{len(v)}' files in '{k}'")
+    all_data = instantiate_all_resource_data(all_raw_data)

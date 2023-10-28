@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class Npcs:
+class Npc:
     """Dataset associated with files in 'gameresources/npcs'."""
 
+    _special_mappings: ClassVar[dict] = {}
     dialog_objects: list = Undefined
     intro_dialog_objects: list = Undefined
     npc_accessories: list = Undefined

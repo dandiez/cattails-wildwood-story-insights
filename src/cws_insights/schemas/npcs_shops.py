@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class NpcsShops:
+class NpcShop:
     """Dataset associated with files in 'gameresources/npcs/shops'."""
 
+    _special_mappings: ClassVar[dict] = {}
     allow_selling: bool = Undefined
     buy_dialog: str = Undefined
     cannot_sell_dialog: str = Undefined

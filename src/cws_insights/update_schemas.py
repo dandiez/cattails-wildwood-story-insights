@@ -5,11 +5,17 @@ from collections import defaultdict
 from typing import Collection
 
 import black
+import inflect
 
 from cws_insights.common import slug_it
-from cws_insights.read_files import read_all, ResourceFile, ResourcesRelPath
+from cws_insights.read_files import (
+    read_all_resource_files,
+    ResourceFile,
+    ResourcesRelPath,
+)
 
 SCHEMAS_DIR = os.path.join(os.path.dirname(__file__), "schemas")
+
 
 @dataclasses.dataclass
 class ModuleClassNames:
@@ -25,6 +31,8 @@ class ClassDefinition:
 
 def class_name_from_path(object_path: ResourcesRelPath) -> str:
     parts = object_path.replace("_", "/").split("/")
+    inflect_engine = inflect.engine()
+    parts = [inflect_engine.singular_noun(word) or word for word in parts]
     capitalised = [p.capitalize() for p in parts]
     return "".join(capitalised)
 
@@ -55,15 +63,10 @@ class KeyAttributeMapper:
 
 
 def get_special_mapping_lines(mappings: KeyAttributeMapper):
-    if mappings.special_mapping:
-        special_mapping_import = "from typing import ClassVar"
-        special_mapping_str = (
-            f"__special_mappings: ClassVar[dict] = {mappings.special_mapping}"
-        )
-    else:
-        special_mapping_import = ""
-        special_mapping_str = ""
-    return special_mapping_import, special_mapping_str
+    special_mapping_str = (
+        f"_special_mappings: ClassVar[dict] = {mappings.special_mapping}"
+    )
+    return special_mapping_str
 
 
 def get_dataclass_attribute_definitions_as_str(
@@ -95,9 +98,10 @@ def get_python_module_with_dataclass_as_str(
     key_types = get_all_unique_keys_with_their_types(collection)
     mappings = KeyAttributeMapper()
     attrs_as_string = get_dataclass_attribute_definitions_as_str(key_types, mappings)
-    special_mapping_import, special_mapping_str = get_special_mapping_lines(mappings)
+    special_mapping_str = get_special_mapping_lines(mappings)
     dataclass_def = f"""import dataclasses
-{special_mapping_import}
+from typing import ClassVar
+
 from cws_insights.definitions import Undefined
 
 @dataclasses.dataclass
@@ -145,33 +149,96 @@ def get_index_module_code(index: dict[ResourcesRelPath, ModuleClassNames]) -> st
     index: dict[ResourcesRelPath, ModuleClassNames] = {
         k: v for k, v in sorted(index.items(), key=lambda item: item[0])
     }
-    imports = "\n".join(
+    imports = get_index_module_imports_as_str(index)
+    rel_path_to_dataclass_mapping_str = (
+        get_index_module_rel_path_to_dataclass_mapping_as_str(index)
+    )
+    rel_path_to_variable_mapping_str = (
+        get_index_module_rel_path_to_variable_mapping_as_str(index)
+    )
+    all_resource_data_str = get_index_module_all_resource_data_dataclass_def_as_str(
+        index
+    )
+    module_as_str = f"""import dataclasses
+
+{imports}
+    
+{rel_path_to_dataclass_mapping_str}
+
+{rel_path_to_variable_mapping_str}
+
+{all_resource_data_str}
+    """
+    module_as_str = black.format_str(module_as_str, mode=black.FileMode())
+    return module_as_str
+
+
+def get_index_module_imports_as_str(index: dict[ResourcesRelPath, ModuleClassNames]):
+    return "\n".join(
         [
             f"from cws_insights.schemas.{module_class_names.module_name} import {module_class_names.class_name}"
             for module_class_names in index.values()
         ]
     )
+
+
+def get_index_module_rel_path_to_dataclass_mapping_as_str(
+    index: dict[ResourcesRelPath, ModuleClassNames]
+) -> str:
     collection_rel_path_to_dataclass_mapping = "\n".join(
         [
             f"    '{rel_path}':{module_and_class_name.class_name},"
             for rel_path, module_and_class_name in index.items()
         ]
     )
-    mappings = (
+    collection_rel_path_to_dataclass_mapping_str = (
         "COLLECTION_REL_PATH_TO_DATACLASS_MAPPING={\n"
         + collection_rel_path_to_dataclass_mapping
         + "}"
     )
-    module_as_str = f"""{imports}
-    
-{mappings}
-    """
-    module_as_str = black.format_str(module_as_str, mode=black.FileMode())
-    return module_as_str
+    return collection_rel_path_to_dataclass_mapping_str
 
 
-def main(gameresources_dir: str, extensions_to_consider: Collection[str], schemas_dir: str):
-    all_data = read_all(gameresources_dir, file_suffixes=extensions_to_consider)
+def get_index_module_rel_path_to_variable_mapping_as_str(
+    index: dict[ResourcesRelPath, ModuleClassNames]
+):
+    collection_rel_path_to_variable_mapping = "\n".join(
+        [
+            f"    '{rel_path}':'{module_and_class_name.module_name}',"
+            for rel_path, module_and_class_name in index.items()
+        ]
+    )
+    collection_rel_path_to_variable_mapping_str = (
+        "COLLECTION_REL_PATH_TO_VARIABLE_MAPPING={\n"
+        + collection_rel_path_to_variable_mapping
+        + "}"
+    )
+    return collection_rel_path_to_variable_mapping_str
+
+
+def get_index_module_all_resource_data_dataclass_def_as_str(
+    index: dict[ResourcesRelPath, ModuleClassNames]
+):
+    attribute_lines = [
+        f"    {mcn.module_name}: dict[str, {mcn.class_name}] = None"
+        for mcn in index.values()
+    ]
+    all_attribute_lines_as_str = "\n".join(attribute_lines)
+    def_as_str = f'''@dataclasses.dataclass
+class AllResourceData:
+    """All resource data indexed by file stem."""
+
+{all_attribute_lines_as_str}
+'''
+    return def_as_str
+
+
+def main(
+    gameresources_dir: str, extensions_to_consider: Collection[str], schemas_dir: str
+):
+    all_data = read_all_resource_files(
+        gameresources_dir, file_suffixes=extensions_to_consider
+    )
     clean_schemas_dir(schemas_dir)
     index = dict()
     for collection_rel_path, collection in all_data.items():

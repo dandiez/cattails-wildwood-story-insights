@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class EventsLangSpanish:
+class EventLangSpanish:
     """Dataset associated with files in 'gameresources/events/lang/spanish'."""
 
+    _special_mappings: ClassVar[dict] = {}
     lang_event_choice_1: str = Undefined
     lang_event_choice_2: str = Undefined
     lang_event_choice_3: str = Undefined

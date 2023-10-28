@@ -1,13 +1,14 @@
 import dataclasses
 from typing import ClassVar
+
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class Languages:
+class Language:
     """Dataset associated with files in 'gameresources/languages'."""
 
-    __special_mappings: ClassVar[dict] = {
+    _special_mappings: ClassVar[dict] = {
         "lang_controller_+_button": "lang_controller_plus_button",
         "lang_controller_-_button": "lang_controller_minus_button",
     }

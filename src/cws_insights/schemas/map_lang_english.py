@@ -1,4 +1,5 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
@@ -7,4 +8,5 @@ from cws_insights.definitions import Undefined
 class MapLangEnglish:
     """Dataset associated with files in 'gameresources/map/lang/english'."""
 
+    _special_mappings: ClassVar[dict] = {}
     lang_region_name: str = Undefined

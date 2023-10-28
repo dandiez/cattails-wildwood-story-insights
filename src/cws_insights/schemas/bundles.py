@@ -1,12 +1,14 @@
 import dataclasses
+from typing import ClassVar
 
 from cws_insights.definitions import Undefined
 
 
 @dataclasses.dataclass
-class Bundles:
+class Bundle:
     """Dataset associated with files in 'gameresources/bundles'."""
 
+    _special_mappings: ClassVar[dict] = {}
     bundle_colony_points: int = Undefined
     bundle_feature_label: str = Undefined
     bundle_item1_quantity: int = Undefined

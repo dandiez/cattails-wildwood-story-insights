@@ -4,7 +4,7 @@ import tempfile
 import unittest
 
 from cws_insights.common import slug_it
-from cws_insights.read_files import ResourceFile, read_all, JSON
+from cws_insights.read_files import ResourceFile, read_all_resource_files, JSON
 from cws_insights.update_schemas import (
     class_name_from_path,
     dataclass_types_from_set,
@@ -61,7 +61,9 @@ class TestReadFiles(unittest.TestCase):
                 )
             ],
         }
-        self.assertEqual(expected, read_all(self.gamesourcedir_path, (".meta",)))
+        self.assertEqual(
+            expected, read_all_resource_files(self.gamesourcedir_path, (".meta",))
+        )
 
     def tearDown(self) -> None:
         self.gamesourcedir.cleanup()
@@ -77,7 +79,7 @@ class TestCommon(unittest.TestCase):
 
 class TestUpdateSchemas(unittest.TestCase):
     def test_class_name_from_path(self):
-        self.assertEqual("NpcsLangEnglish", class_name_from_path("npcs/lang/english"))
+        self.assertEqual("NpcLangEnglish", class_name_from_path("npcs/lang/english"))
 
     def test_dataclass_types_from_set(self):
         self.assertEqual("str", dataclass_types_from_set({str}))
@@ -108,7 +110,7 @@ class TestUpdateSchemas(unittest.TestCase):
     def test_get_special_mapping_lines(self):
         mapper = KeyAttributeMapper()
         actual = get_special_mapping_lines(mapper)
-        self.assertEqual(("", ""), actual)
+        self.assertEqual("_special_mappings: ClassVar[dict] = {}", actual)
 
         mapper = KeyAttributeMapper(
             {
@@ -117,10 +119,8 @@ class TestUpdateSchemas(unittest.TestCase):
             }
         )
         actual = get_special_mapping_lines(mapper)
-        expected = (
-            "from typing import ClassVar",
-            "__special_mappings: ClassVar[dict] = {'a_+_b': 'a_plus_b', 'a_-_b': 'a_minus_b'}",
-        )
+        expected = "_special_mappings: ClassVar[dict] = {'a_+_b': 'a_plus_b', 'a_-_b': 'a_minus_b'}"
+
         self.assertEqual(expected, actual)
 
     def test_get_dataclass_attribute_definitions_as_str(self):
@@ -175,12 +175,9 @@ class TestUpdateSchemas(unittest.TestCase):
             collection, collection_rel_path
         )
         expected = ClassDefinition(
-            'import dataclasses\nfrom typing import ClassVar\nfrom cws_insights.definitions import Undefined\n\n\n@dataclasses.dataclass\nclass NpcSomething:\n    """Dataset associated with files in \'gameresources/npc/something\'."""\n\n    __special_mappings: ClassVar[dict] = {"a_+_b": "a_plus_b"}\n    a_plus_b: str = Undefined\n    age: float | int = Undefined\n    name: str = Undefined\n',
-            "NpcSomething",
-        )
-        expected = ClassDefinition(
             full_class_code='''import dataclasses
 from typing import ClassVar
+
 from cws_insights.definitions import Undefined
 
 
@@ -188,9 +185,41 @@ from cws_insights.definitions import Undefined
 class NpcSomething:
     """Dataset associated with files in \'gameresources/npc/something\'."""
 
-    __special_mappings: ClassVar[dict] = {"a_+_b": "a_plus_b"}
+    _special_mappings: ClassVar[dict] = {"a_+_b": "a_plus_b"}
     a_plus_b: str = Undefined
     age: float | int = Undefined
+    name: str = Undefined
+''',
+            class_name="NpcSomething",
+        )
+        self.assertEqual(expected, actual)
+
+    def test_get_python_module_with_dataclass_as_str_empty_mappings(self):
+        collection = [
+            ResourceFile(
+                rel_path="npc",
+                stem="alabaster",
+                extension=".meta",
+                contents={"name": "Alabaster", "age": 5},
+            ),
+        ]
+        collection_rel_path = "npc/something"
+        actual = get_python_module_with_dataclass_as_str(
+            collection, collection_rel_path
+        )
+        expected = ClassDefinition(
+            full_class_code='''import dataclasses
+from typing import ClassVar
+
+from cws_insights.definitions import Undefined
+
+
+@dataclasses.dataclass
+class NpcSomething:
+    """Dataset associated with files in \'gameresources/npc/something\'."""
+
+    _special_mappings: ClassVar[dict] = {}
+    age: int = Undefined
     name: str = Undefined
 ''',
             class_name="NpcSomething",
@@ -205,12 +234,27 @@ class NpcSomething:
             ),
         }
         actual = get_index_module_code(index)
-        expected = """from cws_insights.schemas.npcs import Npcs
+        expected = '''import dataclasses
+
+from cws_insights.schemas.npcs import Npcs
 from cws_insights.schemas.npcs_lang_english import NpcsLangEnglish
 
 COLLECTION_REL_PATH_TO_DATACLASS_MAPPING = {
     "npcs": Npcs,
     "npcs/lang/english": NpcsLangEnglish,
 }
-"""
+
+COLLECTION_REL_PATH_TO_VARIABLE_MAPPING = {
+    "npcs": "npcs",
+    "npcs/lang/english": "npcs_lang_english",
+}
+
+
+@dataclasses.dataclass
+class AllResourceData:
+    """All resource data indexed by file stem."""
+
+    npcs: dict[str, Npcs] = None
+    npcs_lang_english: dict[str, NpcsLangEnglish] = None
+'''
         self.assertEqual(expected, actual)
