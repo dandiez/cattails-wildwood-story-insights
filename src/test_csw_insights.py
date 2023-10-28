@@ -96,7 +96,7 @@ class TestUpdateSchemas(unittest.TestCase):
             },
             mapper.special_mapping,
         )
-        _ = mapper.key_to_attribute("a+b")
+        _ = mapper.key_to_attribute("a_+_b")
         self.assertEqual(
             {
                 "this_key_has_a_+_and_a_-_symbol": "this_key_has_a_plus_and_a_minus_symbol",
