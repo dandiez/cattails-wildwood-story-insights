@@ -14,8 +14,8 @@ from cws_insights.update_schemas import (
     get_all_unique_keys_with_their_types,
     get_python_module_with_dataclass_as_str,
     ClassDefinition,
-    get_index_module_code,
     ModuleClassNames,
+    IndexModule,
 )
 
 
@@ -227,13 +227,15 @@ class NpcSomething:
         self.assertEqual(expected, actual)
 
     def test_get_index_module_code(self):
-        index = {
-            "npcs": ModuleClassNames(module_name="npcs", class_name="Npcs"),
-            "npcs/lang/english": ModuleClassNames(
-                module_name="npcs_lang_english", class_name="NpcsLangEnglish"
-            ),
-        }
-        actual = get_index_module_code(index)
+        index = IndexModule(
+            {
+                "npcs": ModuleClassNames(module_name="npcs", class_name="Npcs"),
+                "npcs/lang/english": ModuleClassNames(
+                    module_name="npcs_lang_english", class_name="NpcsLangEnglish"
+                ),
+            }
+        )
+        actual = index.get_index_module_code()
         expected = '''import dataclasses
 
 from cws_insights.schemas.npcs import Npcs
