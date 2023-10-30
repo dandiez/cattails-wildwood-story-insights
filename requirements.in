@@ -6,3 +6,8 @@ python-slugify
 inflect
 pandas
 tabulate
+
+requests
+mwparserfromhell
+wikitextparser
+pywikibot
