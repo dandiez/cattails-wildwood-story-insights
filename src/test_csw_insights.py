@@ -6,16 +6,11 @@ import unittest
 from cws_insights.common import slug_it
 from cws_insights.read_files import ResourceFile, read_all_resource_files, JSON
 from cws_insights.update_schemas import (
-    class_name_from_path,
-    dataclass_types_from_set,
     KeyAttributeMapper,
-    get_special_mapping_lines,
-    get_dataclass_attribute_definitions_as_str,
     get_all_unique_keys_with_their_types,
-    get_python_module_with_dataclass_as_str,
-    ClassDefinition,
-    get_index_module_code,
     ModuleClassNames,
+    IndexModule,
+    DataModule,
 )
 
 
@@ -79,11 +74,13 @@ class TestCommon(unittest.TestCase):
 
 class TestUpdateSchemas(unittest.TestCase):
     def test_class_name_from_path(self):
-        self.assertEqual("NpcLangEnglish", class_name_from_path("npcs/lang/english"))
+        self.assertEqual("NpcLangEnglish", DataModule("npcs/lang/english").class_name)
 
     def test_dataclass_types_from_set(self):
-        self.assertEqual("str", dataclass_types_from_set({str}))
-        self.assertEqual("float|int", dataclass_types_from_set({float, int}))
+        self.assertEqual("str", DataModule.get_dataclass_types_as_str({str}))
+        self.assertEqual(
+            "float|int", DataModule.get_dataclass_types_as_str({float, int})
+        )
 
     def test_key_to_attribute_mapper(self):
         mapper = KeyAttributeMapper()
@@ -109,7 +106,7 @@ class TestUpdateSchemas(unittest.TestCase):
 
     def test_get_special_mapping_lines(self):
         mapper = KeyAttributeMapper()
-        actual = get_special_mapping_lines(mapper)
+        actual = DataModule.get_special_mapping_lines(mapper)
         self.assertEqual("_special_mappings: ClassVar[dict] = {}", actual)
 
         mapper = KeyAttributeMapper(
@@ -118,7 +115,7 @@ class TestUpdateSchemas(unittest.TestCase):
                 "a_-_b": "a_minus_b",
             }
         )
-        actual = get_special_mapping_lines(mapper)
+        actual = DataModule.get_special_mapping_lines(mapper)
         expected = "_special_mappings: ClassVar[dict] = {'a_+_b': 'a_plus_b', 'a_-_b': 'a_minus_b'}"
 
         self.assertEqual(expected, actual)
@@ -130,7 +127,9 @@ class TestUpdateSchemas(unittest.TestCase):
             "controller_+_text": {str},
         }
         mappings = KeyAttributeMapper({"controller_+_text": "controller_plus_text"})
-        actual = get_dataclass_attribute_definitions_as_str(key_types, mappings)
+        actual = DataModule.get_dataclass_attribute_definitions_as_str(
+            key_types, mappings
+        )
         expected = """age: float|int = Undefined
     controller_plus_text: str = Undefined
     name: str = Undefined"""
@@ -171,11 +170,11 @@ class TestUpdateSchemas(unittest.TestCase):
             ),
         ]
         collection_rel_path = "npc/something"
-        actual = get_python_module_with_dataclass_as_str(
-            collection, collection_rel_path
+        data_module = DataModule(
+            rel_path=collection_rel_path, resource_files=collection
         )
-        expected = ClassDefinition(
-            full_class_code='''import dataclasses
+        actual = data_module.get_code()
+        expected = '''import dataclasses
 from typing import ClassVar
 
 from cws_insights.definitions import Undefined
@@ -189,10 +188,11 @@ class NpcSomething:
     a_plus_b: str = Undefined
     age: float | int = Undefined
     name: str = Undefined
-''',
-            class_name="NpcSomething",
-        )
+'''
+
         self.assertEqual(expected, actual)
+        self.assertEqual("NpcSomething", data_module.class_name)
+        self.assertEqual("npc_something", data_module.module_name)
 
     def test_get_python_module_with_dataclass_as_str_empty_mappings(self):
         collection = [
@@ -204,11 +204,11 @@ class NpcSomething:
             ),
         ]
         collection_rel_path = "npc/something"
-        actual = get_python_module_with_dataclass_as_str(
-            collection, collection_rel_path
+        data_module = DataModule(
+            rel_path=collection_rel_path, resource_files=collection
         )
-        expected = ClassDefinition(
-            full_class_code='''import dataclasses
+        actual = data_module.get_code()
+        expected = '''import dataclasses
 from typing import ClassVar
 
 from cws_insights.definitions import Undefined
@@ -221,19 +221,19 @@ class NpcSomething:
     _special_mappings: ClassVar[dict] = {}
     age: int = Undefined
     name: str = Undefined
-''',
-            class_name="NpcSomething",
-        )
+'''
         self.assertEqual(expected, actual)
 
     def test_get_index_module_code(self):
-        index = {
-            "npcs": ModuleClassNames(module_name="npcs", class_name="Npcs"),
-            "npcs/lang/english": ModuleClassNames(
-                module_name="npcs_lang_english", class_name="NpcsLangEnglish"
-            ),
-        }
-        actual = get_index_module_code(index)
+        index = IndexModule(
+            {
+                "npcs": ModuleClassNames(module_name="npcs", class_name="Npcs"),
+                "npcs/lang/english": ModuleClassNames(
+                    module_name="npcs_lang_english", class_name="NpcsLangEnglish"
+                ),
+            }
+        )
+        actual = index.get_code()
         expected = '''import dataclasses
 
 from cws_insights.schemas.npcs import Npcs
