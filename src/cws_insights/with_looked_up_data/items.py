@@ -57,6 +57,7 @@ class ItemFromItemRecipe:
 
 @dataclasses.dataclass
 class ItemPlus:
+    game_version = None
     item: Item = None
     herb_uid: Uid = None
     item_lang: ItemLangEnglish = None
