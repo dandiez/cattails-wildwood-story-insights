@@ -1,10 +1,9 @@
-import json
 import os
 import tempfile
 import unittest
 
-from cws_insights.common import slug_it
-from cws_insights.read_files import ResourceFile, read_all_resource_files, JSON
+from cws_insights.common import slug_it, write_json
+from cws_insights.read_files import ResourceFile, read_all_resource_files
 from cws_insights.update_schemas import (
     KeyAttributeMapper,
     get_all_unique_keys_with_their_types,
@@ -14,51 +13,79 @@ from cws_insights.update_schemas import (
 )
 
 
-def write_json(data: JSON, file_path: str):
-    """Write json file and create folders if needed."""
-    directory = os.path.dirname(file_path)
-    os.makedirs(directory, exist_ok=True)
-    with open(file_path, "w") as f:
-        json.dump(data, f)
-
-
 class TestReadFiles(unittest.TestCase):
     def setUp(self) -> None:
         self.gamesourcedir = tempfile.TemporaryDirectory()
         self.gamesourcedir_path = self.gamesourcedir.name
         write_json(
             {"name": "Alabaster"},
-            os.path.join(self.gamesourcedir_path, "npc", "alabaster.meta"),
+            os.path.join(self.gamesourcedir_path, "npcs", "alabaster.meta"),
+        )
+        write_json(
+            {"name": "Aster"},
+            os.path.join(self.gamesourcedir_path, "npcs", "aster.meta"),
         )
         write_json(
             {"lang_name": "Alabaster"},
             os.path.join(
-                self.gamesourcedir_path, "npc", "lang", "english", "alabaster.meta"
+                self.gamesourcedir_path, "npcs", "lang", "english", "alabaster.lang"
             ),
+        )
+        write_json(
+            {"region_data": "a lot"},
+            os.path.join(self.gamesourcedir_path, "map", "alabasterden.region"),
+        )
+        write_json(
+            {"map_size": 42},
+            os.path.join(self.gamesourcedir_path, "map", "map.meta"),
         )
 
     def test_read_all_resource_files(self):
         expected = {
-            "npc": [
+            "map/region": [
                 ResourceFile(
-                    rel_path=os.path.join("npc", "alabaster.meta"),
+                    rel_path="map\\alabasterden.region",
+                    stem="alabasterden",
+                    extension=".region",
+                    contents={"region_data": "a lot"},
+                )
+            ],
+            "map/meta": [
+                ResourceFile(
+                    rel_path="map\\map.meta",
+                    stem="map",
+                    extension=".meta",
+                    contents={"map_size": 42},
+                )
+            ],
+            "npcs/meta": [
+                ResourceFile(
+                    rel_path="npcs\\alabaster.meta",
                     stem="alabaster",
                     extension=".meta",
                     contents={"name": "Alabaster"},
-                )
-            ],
-            "npc/lang/english": [
+                ),
                 ResourceFile(
-                    rel_path=os.path.join("npc", "lang", "english", "alabaster.meta"),
-                    stem="alabaster",
+                    rel_path="npcs\\aster.meta",
+                    stem="aster",
                     extension=".meta",
+                    contents={"name": "Aster"},
+                ),
+            ],
+            "npcs/lang/english/lang": [
+                ResourceFile(
+                    rel_path="npcs\\lang\\english\\alabaster.lang",
+                    stem="alabaster",
+                    extension=".lang",
                     contents={"lang_name": "Alabaster"},
                 )
             ],
         }
-        self.assertEqual(
-            expected, read_all_resource_files(self.gamesourcedir_path, (".meta",))
+
+        actual = read_all_resource_files(
+            self.gamesourcedir_path, (".meta", ".lang", ".region")
         )
+        self.assertEqual(expected, actual)
 
     def tearDown(self) -> None:
         self.gamesourcedir.cleanup()
