@@ -4,15 +4,14 @@ import os.path
 import pandas as pd
 
 from cws_insights.common import SITE_SRC_DIR, CI_CD_GAMERESOURCES_DIR
-from cws_insights.definitions import Undefined
+from cws_insights.definitions import Undefined, instantiate_all_resource_data
 from cws_insights.read_files import (
     read_all_resource_files,
-    instantiate_all_resource_data,
 )
-from cws_insights.schemas.items import Item
-from cws_insights.schemas.items_lang_english import ItemLangEnglish
-from cws_insights.schemas.npcs import Npc
-from cws_insights.schemas.npcs_lang_english import NpcLangEnglish
+from cws_insights.schemas.items_meta import ItemMeta as Item
+from cws_insights.schemas.items_lang_english_lang import ItemLangEnglishLang as ItemLangEnglish
+from cws_insights.schemas.npcs_meta import NpcMeta as Npc
+from cws_insights.schemas.npcs_lang_english_lang import NpcLangEnglishLang as NpcLangEnglish
 
 
 @dataclasses.dataclass
@@ -38,10 +37,10 @@ def main(gameresources_dir: str, site_src_dir: str, icons: Asciis):
         gameresources_dir, file_suffixes=extensions_to_consider
     )
     all_resource_data = instantiate_all_resource_data(all_raw_files)
-    all_items = all_resource_data.items
-    all_items_lang = all_resource_data.items_lang_english
-    all_npcs = all_resource_data.npcs
-    all_npcs_lang = all_resource_data.npcs_lang_english
+    all_items = all_resource_data.items_meta
+    all_items_lang = all_resource_data.items_lang_english_lang
+    all_npcs = all_resource_data.npcs_meta
+    all_npcs_lang = all_resource_data.npcs_lang_english_lang
     all_items_indexed_by_uid = {item.item_uid: item for item in all_items.values()}
     all_items_lang_indexed_by_uid = {
         item_lang.item_uid_do_not_translate: item_lang
