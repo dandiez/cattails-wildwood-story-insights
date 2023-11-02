@@ -11,7 +11,9 @@ from cws_insights.read_files import (
 from cws_insights.schemas._index import AllResourceData
 from cws_insights.schemas.herbs_meta import HerbMeta as Herb
 from cws_insights.schemas.items_meta import ItemMeta as Item
-from cws_insights.schemas.items_lang_english_lang import ItemLangEnglishLang as ItemLangEnglish
+from cws_insights.schemas.items_lang_english_lang import (
+    ItemLangEnglishLang as ItemLangEnglish,
+)
 from cws_insights.schemas.items_recipes_meta import ItemRecipeMeta as ItemRecipe
 from cws_insights.schemas.map_region import MapRegion as Map
 from cws_insights.schemas.npcs_meta import NpcMeta as Npc
@@ -31,9 +33,9 @@ class ItemFromNpc:
 
 @dataclasses.dataclass
 class ItemFromMap:
-    herb_list: list[Map] =dataclasses.field(default_factory=list)
-    prey_list: list[Map]=dataclasses.field(default_factory=list)
-    spawners: list[Map]=dataclasses.field(default_factory=list)
+    herb_list: list[Map] = dataclasses.field(default_factory=list)
+    prey_list: list[Map] = dataclasses.field(default_factory=list)
+    spawners: list[Map] = dataclasses.field(default_factory=list)
 
 
 @dataclasses.dataclass
@@ -113,12 +115,16 @@ def _get_npc_data(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
             for item_uid in npc.npc_item_gifts:
                 all_item_plus[item_uid].from_npc.npc_gifts.append(npc)
 
-def apply_function_to_item_plus_with_groups(item_or_group: ItemPlus | ItemPlusGroup, function_to_apply: Callable):
+
+def apply_function_to_item_plus_with_groups(
+    item_or_group: ItemPlus | ItemPlusGroup, function_to_apply: Callable
+):
     if isinstance(item_or_group, ItemPlus):
         function_to_apply(item_or_group)
     if isinstance(item_or_group, ItemPlusGroup):
         for item in item_or_group._contained:
             function_to_apply(item)
+
 
 def _get_map_data(
     map: dict[Uid, Map], all_item_plus_with_groups: AllItemPlusWithGroups
@@ -133,11 +139,14 @@ def _get_map_data(
             for item_id in spawner.item_uids:
                 all_item_plus_with_groups[item_id].from_map.spawners.append(region)
 
+
 def get_merged_item_data(all_resource_data: AllResourceData):
     double_check_assumptions(all_resource_data)
 
     all_items_indexed_by_uid = {
-        item.item_uid: item for item in all_resource_data.items_meta.values() if item.item_uid is not None
+        item.item_uid: item
+        for item in all_resource_data.items_meta.values()
+        if item.item_uid is not None
     }
     all_item_plus = {
         item.item_uid: ItemPlus(item=item)
