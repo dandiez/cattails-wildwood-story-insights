@@ -2,6 +2,8 @@ black
 pytest
 
 json5
+genson
+dataclasses-json
 python-slugify
 inflect
 pandas
