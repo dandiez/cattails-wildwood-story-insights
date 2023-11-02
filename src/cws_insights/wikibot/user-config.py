@@ -9,15 +9,15 @@ from pywikibot.backports import Dict, List, Tuple
 # Pywikibot will import families/xxx_family.py so if you want to change
 # this variable, you have to ensure that such a file exists. You may use
 # generate_family_file to create one.
-family = 'cattailsauto'
+family = "cattailsauto"
 
 # The site code (language) of the site to be working on.
-mylang = 'en'
+mylang = "en"
 
 # The dictionary usernames should contain a username for each site where you
 # have a bot account. If you have a unique username for all sites of a
 # family , you can use '*'
-usernames['cattailsauto']['en'] = 'CattailsBot'
+usernames["cattailsauto"]["en"] = "CattailsBot"
 
 # The list of BotPasswords is saved in another file. Import it if needed.
 # See https://www.mediawiki.org/wiki/Manual:Pywikibot/BotPasswords to know how
@@ -172,8 +172,12 @@ cosmetic_changes_disable: Dict[str, Tuple[str, ...]] = {}
 # cosmetic_changes_deny_script += ['your_script_name_1', 'your_script_name_2']
 # Appending the script name also works:
 # cosmetic_changes_deny_script.append('your_script_name')
-cosmetic_changes_deny_script = ['category_redirect', 'cosmetic_changes',
-                                'newitem', 'touch']
+cosmetic_changes_deny_script = [
+    "category_redirect",
+    "cosmetic_changes",
+    "newitem",
+    "touch",
+]
 
 # ############# FURTHER SETTINGS ##############
 
@@ -235,7 +239,7 @@ interwiki_min_subjects = 100
 # interwiki_graph_formats = ['png', 'cmap']
 # If you only need SVG images, use:
 # interwiki_graph_formats = ['svg']
-interwiki_graph_formats = ['png']
+interwiki_graph_formats = ["png"]
 
 # You can post the contents of your autonomous_problems.dat to the wiki,
 # e.g. to https://de.wikipedia.org/wiki/Wikipedia:Interwiki-Konflikte .
@@ -286,4 +290,3 @@ weblink_dead_days = 7
 # to replace all occurrences of 'Hoofdpagina' with 'Veurblaad' when writing to
 # liwiki. Note that this does not take the origin wiki into account.
 replicate_replace: Dict[str, Dict[str, str]] = {}
-

@@ -11,18 +11,17 @@ from pywikibot import family
 
 
 class Family(family.Family):  # noqa: D101
-
-    name = 'cattailsauto'
+    name = "cattailsauto"
     langs = {
-        'en': 'cattails-game.fandom.com',
+        "en": "cattails-game.fandom.com",
     }
 
     def scriptpath(self, code):
         return {
-            'en': '',
+            "en": "",
         }[code]
 
     def protocol(self, code):
         return {
-            'en': 'https',
+            "en": "https",
         }[code]
