@@ -39,7 +39,6 @@ class JsonSchemaProperty:
         return "_".join(class_name_parts)
 
     def type_as_string(self):
-
         if self.type in PROP_TYPE_TO_TYPE_AS_STR:
             return PROP_TYPE_TO_TYPE_AS_STR[self.type]
         if self.type == "array":
@@ -68,13 +67,15 @@ class JsonSchemaProperty:
             addendum = ""
         return f"    {slugged}: {self.type_as_string()} {addendum}"
 
-    def yield_contained_objects_and_populate_paths(self) -> tuple[list[str], "JsonSchemaProperty"]:
+    def yield_contained_objects_and_populate_paths(
+        self,
+    ) -> tuple[list[str], "JsonSchemaProperty"]:
         path = self.property_name_path
         if self.type == "array":
             prop = self.items
             if prop is None:
                 return
-            prop.property_name_path = path[:] # + ["_item"]
+            prop.property_name_path = path[:]  # + ["_item"]
             if prop.type == "object":
                 yield prop
                 yield from prop.yield_contained_objects_and_populate_paths()
@@ -96,7 +97,9 @@ class JsonSchemaProperty:
 def yield_class_definitions_from_json_schema_property(
     json_schema_prop: JsonSchemaProperty,
 ):
-    internal_objects = list(json_schema_prop.yield_contained_objects_and_populate_paths())
+    internal_objects = list(
+        json_schema_prop.yield_contained_objects_and_populate_paths()
+    )
     yield get_class_def_as_str(json_schema_prop)
     for prop in internal_objects:
         yield get_class_def_as_str(prop)
@@ -118,9 +121,7 @@ def get_class_def_as_str(json_schema_prop):
     for prop_name in props_in_order:
         prop = json_schema_prop.properties[prop_name]
         class_def_lines.append(
-            prop.attribute_declaration(
-                is_required=prop_name in mandatory_props
-            )
+            prop.attribute_declaration(is_required=prop_name in mandatory_props)
         )
     return class_def_lines
 
@@ -130,9 +131,7 @@ def get_dataclass_python_code_from_json_schema(
 ):
     the_schema: JsonSchemaProperty = JsonSchemaProperty.from_dict(json_schema)
     the_schema.property_name_path = [root_property_name]
-    all_lines = yield_class_definitions_from_json_schema_property(
-        the_schema
-    )
+    all_lines = yield_class_definitions_from_json_schema_property(the_schema)
     all_lines = list(all_lines)
     all_lines.append(["import dataclasses", "import dataclasses_json"])
     all_lines = reversed(all_lines)

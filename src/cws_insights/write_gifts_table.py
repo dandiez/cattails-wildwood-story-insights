@@ -10,9 +10,13 @@ from cws_insights.read_files import (
     read_all_resource_files,
 )
 from cws_insights.schemas.items_meta import ItemMeta as Item
-from cws_insights.schemas.items_lang_english_lang import ItemLangEnglishLang as ItemLangEnglish
+from cws_insights.schemas.items_lang_english_lang import (
+    ItemLangEnglishLang as ItemLangEnglish,
+)
 from cws_insights.schemas.npcs_meta import NpcMeta as Npc
-from cws_insights.schemas.npcs_lang_english_lang import NpcLangEnglishLang as NpcLangEnglish
+from cws_insights.schemas.npcs_lang_english_lang import (
+    NpcLangEnglishLang as NpcLangEnglish,
+)
 
 
 @dataclasses.dataclass

@@ -1,6 +1,9 @@
 import unittest
 
-from cws_insights.dataclass_from_json import get_dataclass_python_code_from_json_schema, schema_from_objects
+from cws_insights.dataclass_from_json import (
+    get_dataclass_python_code_from_json_schema,
+    schema_from_objects,
+)
 
 
 class TestDataclassFromJson(unittest.TestCase):
@@ -189,20 +192,13 @@ class RootClass:
         record_1 = {
             "a_b": {"c": {"x": 1}, "c_d": {"x": 2}},
             "a": {"b_c": {"x": 3}, "b_c_d": {"x": 4}},
-            "k": [
-                [
-                    4, 8
-                ]
-            ]
+            "k": [[4, 8]],
         }
         record_2 = {
             "a_b": {"c": {"x": 1.23}, "c_d": {"x": 2}},
             "a": {"b_c": {"x": 3}, "b_c_d": {"x": 4}},
-            "k": [
-                [ 7
-                ]
-            ],
-            "m": [[{"p": True}]]
+            "k": [[7]],
+            "m": [[{"p": True}]],
         }
         expected = """import dataclasses
 import dataclasses_json
@@ -263,14 +259,13 @@ class Root:
         input_schema = schema_from_objects([record_1, record_2])
         root_class_attribute_name = "root"
         actual = get_dataclass_python_code_from_json_schema(
-            input_schema, root_class_attribute_name,
+            input_schema,
+            root_class_attribute_name,
         )
         self.assertEqual((expected, "Root"), actual)
 
     def test_empty_list(self):
-        record_1 = {
-            "a_b": []
-        }
+        record_1 = {"a_b": []}
         expected = """import dataclasses
 import dataclasses_json
 
@@ -283,14 +278,13 @@ class Root:
         input_schema = schema_from_objects([record_1])
         root_class_attribute_name = "root"
         actual = get_dataclass_python_code_from_json_schema(
-            input_schema, root_class_attribute_name,
+            input_schema,
+            root_class_attribute_name,
         )
         self.assertEqual((expected, "Root"), actual)
 
     def test_illegal_attribute(self):
-        record_1 = {
-            "a_+_b": 4
-        }
+        record_1 = {"a_+_b": 4}
         expected = """import dataclasses
 import dataclasses_json
 
@@ -305,18 +299,14 @@ class Root:
         input_schema = schema_from_objects([record_1])
         root_class_attribute_name = "root"
         actual = get_dataclass_python_code_from_json_schema(
-            input_schema, root_class_attribute_name,
+            input_schema,
+            root_class_attribute_name,
         )
         self.assertEqual((expected, "Root"), actual)
 
     def test_illegal_attribute_optional(self):
-        record_1 = {
-            "a_+_b": 4,
-            "k": 3
-        }
-        record_2 = {
-            "k": 5
-        }
+        record_1 = {"a_+_b": 4, "k": 3}
+        record_2 = {"k": 5}
         expected = """import dataclasses
 import dataclasses_json
 
@@ -332,19 +322,14 @@ class Root:
         input_schema = schema_from_objects([record_1, record_2])
         root_class_attribute_name = "root"
         actual = get_dataclass_python_code_from_json_schema(
-            input_schema, root_class_attribute_name,
+            input_schema,
+            root_class_attribute_name,
         )
         self.assertEqual((expected, "Root"), actual)
 
     def test_defaults_for_optionals(self):
-        record_1 = {
-            "a": 4,
-            "b": False,
-            "c": "hi",
-            "d": ["hi", "there"]
-        }
-        record_2 = {
-        }
+        record_1 = {"a": 4, "b": False, "c": "hi", "d": ["hi", "there"]}
+        record_2 = {}
         expected = """import dataclasses
 import dataclasses_json
 
@@ -360,6 +345,7 @@ class Root:
         input_schema = schema_from_objects([record_1, record_2])
         root_class_attribute_name = "root"
         actual = get_dataclass_python_code_from_json_schema(
-            input_schema, root_class_attribute_name,
+            input_schema,
+            root_class_attribute_name,
         )
         self.assertEqual((expected, "Root"), actual)

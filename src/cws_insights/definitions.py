@@ -6,5 +6,3 @@ class UndefinedObj:
 
 
 Undefined = UndefinedObj()
-
-

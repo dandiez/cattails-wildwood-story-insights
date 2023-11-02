@@ -1,6 +1,9 @@
 from cws_insights.read_files import AllResourceFiles
-from cws_insights.schemas._index import AllResourceData, COLLECTION_REL_PATH_TO_VARIABLE_MAPPING, \
-    COLLECTION_REL_PATH_TO_DATACLASS_MAPPING
+from cws_insights.schemas._index import (
+    AllResourceData,
+    COLLECTION_REL_PATH_TO_VARIABLE_MAPPING,
+    COLLECTION_REL_PATH_TO_DATACLASS_MAPPING,
+)
 
 
 def instantiate_all_resource_data(
@@ -13,9 +16,6 @@ def instantiate_all_resource_data(
         setattr(
             all_data,
             attribute,
-            {
-                f.stem: class_type.from_dict(f.contents)
-                for f in files
-            },
+            {f.stem: class_type.from_dict(f.contents) for f in files},
         )
     return all_data

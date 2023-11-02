@@ -8,7 +8,10 @@ import black
 import inflect
 
 from cws_insights.common import slug_it
-from cws_insights.dataclass_from_json import schema_from_objects, get_dataclass_python_code_from_json_schema
+from cws_insights.dataclass_from_json import (
+    schema_from_objects,
+    get_dataclass_python_code_from_json_schema,
+)
 from cws_insights.read_files import (
     read_all_resource_files,
     ResourceFile,
@@ -169,9 +172,12 @@ class DataModule:
     def get_code(self) -> str:
         records = [obj.contents for obj in self.resource_files]
         schema = schema_from_objects(records)
-        module_code, class_name = get_dataclass_python_code_from_json_schema(json_schema=schema, root_property_name=self.get_root_property_name() )
+        module_code, class_name = get_dataclass_python_code_from_json_schema(
+            json_schema=schema, root_property_name=self.get_root_property_name()
+        )
         self.class_name = class_name
         return module_code
+
 
 def main(
     gameresources_dir: str, extensions_to_consider: Collection[str], schemas_dir: str
@@ -188,6 +194,7 @@ def main(
             module_name=data_module.module_name, class_name=data_module.class_name
         )
     index.write(schemas_dir)
+
 
 def clean_schemas_dir(schemas_dir: str):
     """Wipe all py files from the schemas dir and initialise it with an __init__.py."""
