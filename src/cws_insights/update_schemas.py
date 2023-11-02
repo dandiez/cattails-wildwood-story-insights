@@ -8,6 +8,7 @@ import black
 import inflect
 
 from cws_insights.common import slug_it
+from cws_insights.dataclass_from_json import schema_from_objects, get_dataclass_python_code_from_json_schema
 from cws_insights.read_files import (
     read_all_resource_files,
     ResourceFile,
@@ -145,18 +146,18 @@ class DataModule:
 
     rel_path: ResourcesRelPath = None
     resource_files: list[ResourceFile] = None
+    class_name: str = None
 
     @property
     def module_name(self):
         return slug_it(self.rel_path.lower())
 
-    @property
-    def class_name(self) -> str:
+    def get_root_property_name(self) -> str:
         parts = self.rel_path.replace("_", "/").split("/")
         inflect_engine = inflect.engine()
         parts = [inflect_engine.singular_noun(word) or word for word in parts]
-        capitalised = [p.capitalize() for p in parts]
-        return "".join(capitalised)
+        small_case = [p.lower() for p in parts]
+        return "_".join(small_case)
 
     def write(self, schemas_dir: str):
         """Write the module py file containing the dataclass code."""
@@ -166,51 +167,11 @@ class DataModule:
             f.write(dataclass_code)
 
     def get_code(self) -> str:
-        class_name = self.class_name
-        key_types = get_all_unique_keys_with_their_types(self.resource_files)
-        mappings = KeyAttributeMapper()
-        attrs_as_string = self.get_dataclass_attribute_definitions_as_str(
-            key_types, mappings
-        )
-        special_mapping_str = self.get_special_mapping_lines(mappings)
-        dataclass_def = f"""import dataclasses
-from typing import ClassVar
-
-from cws_insights.definitions import Undefined
-
-@dataclasses.dataclass
-class {class_name}:
-    '''Dataset associated with files in 'gameresources/{self.rel_path}'.'''
-    {special_mapping_str}
-    {attrs_as_string}
-"""
-        dataclass_def = black.format_str(dataclass_def, mode=black.FileMode())
-        return dataclass_def
-
-    @classmethod
-    def get_dataclass_attribute_definitions_as_str(
-        cls, key_types: dict[str, set[type]], mappings: KeyAttributeMapper
-    ):
-        attrs = sorted(
-            [
-                f"{mappings.key_to_attribute(key)}: {cls.get_dataclass_types_as_str(types)} = Undefined"
-                for key, types in key_types.items()
-            ]
-        )
-        attrs_as_string = "\n    ".join(attrs)
-        return attrs_as_string
-
-    @staticmethod
-    def get_dataclass_types_as_str(the_types: set[type]) -> str:
-        return "|".join(sorted([t.__name__ for t in the_types]))
-
-    @staticmethod
-    def get_special_mapping_lines(mappings: KeyAttributeMapper):
-        special_mapping_str = (
-            f"_special_mappings: ClassVar[dict] = {mappings.special_mapping}"
-        )
-        return special_mapping_str
-
+        records = [obj.contents for obj in self.resource_files]
+        schema = schema_from_objects(records)
+        module_code, class_name = get_dataclass_python_code_from_json_schema(json_schema=schema, root_property_name=self.get_root_property_name() )
+        self.class_name = class_name
+        return module_code
 
 def main(
     gameresources_dir: str, extensions_to_consider: Collection[str], schemas_dir: str
@@ -227,7 +188,6 @@ def main(
             module_name=data_module.module_name, class_name=data_module.class_name
         )
     index.write(schemas_dir)
-
 
 def clean_schemas_dir(schemas_dir: str):
     """Wipe all py files from the schemas dir and initialise it with an __init__.py."""
@@ -250,6 +210,6 @@ def get_all_unique_keys_with_their_types(collection: list[ResourceFile]):
 
 if __name__ == "__main__":
     gameresources_dir = r"C:\Program Files (x86)\Steam\steamapps\common\Cattails Wildwood Story\gameresources"
-    extensions_to_consider = (".meta", ".lang")
+    extensions_to_consider = (".meta", ".lang", ".region")
     schemas_dir = SCHEMAS_DIR
     main(gameresources_dir, extensions_to_consider, schemas_dir)

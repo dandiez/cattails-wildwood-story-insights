@@ -1,6 +1,10 @@
+import json
+import os
 import os.path
 
 from slugify import slugify
+
+from cws_insights.read_files import JSON
 
 _THIS_DIR = os.path.dirname(__file__)
 
@@ -31,3 +35,14 @@ SITE_SRC_DIR = os.path.abspath(
         "_site_src",
     )
 )
+WIKI_CONTENTS_DIR = os.path.abspath(
+    os.path.join(_THIS_DIR, "..", "..", "_wiki_contents")
+)
+
+
+def write_json(data: JSON, file_path: str):
+    """Write json file and create folders if needed."""
+    directory = os.path.dirname(file_path)
+    os.makedirs(directory, exist_ok=True)
+    with open(file_path, "w") as f:
+        json.dump(data, f, indent=2)

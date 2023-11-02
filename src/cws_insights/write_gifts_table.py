@@ -4,7 +4,8 @@ import os.path
 import pandas as pd
 
 from cws_insights.common import SITE_SRC_DIR, CI_CD_GAMERESOURCES_DIR
-from cws_insights.definitions import Undefined, instantiate_all_resource_data
+from cws_insights.definitions import Undefined
+from cws_insights.read_files_data import instantiate_all_resource_data
 from cws_insights.read_files import (
     read_all_resource_files,
 )
