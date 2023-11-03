@@ -18,6 +18,16 @@ item_uid: Snake Lily [Poor]
 
 item_venom_amount: 1200
 
+# Herb data
+
+Snake Lily is a ranked herb which can be found in different qualities.
+
+Snake Lily is not a bush herb.
+
+Snake Lily is a daytime herb.
+
+Snake Lily grow seasons: winter, autumn
+
 # shops selling Snake Lily:
 
 coco_festival_shop_name sells it for 3 festival tokens.

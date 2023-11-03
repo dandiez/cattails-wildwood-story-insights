@@ -67,10 +67,28 @@ def yield_lines_npc_block(i: ItemPlus, all_data: AllResourceData):
         if from_npcs.npc_gifts:
             yield f"A gift from: " + ", ".join(_npc_nice_names(from_npcs.npc_gifts, all_data))
 
+SEASONS = ("winter", "spring", "summer", "autumn")
+
+def yield_lines_item_herb(i: ItemPlus):
+    herb_data = i.from_herbs
+    if any(v for v in asdict(herb_data).values()):
+        yield f"# Herb data"
+        if herb_data.ranked_herbs:
+            yield f"{i.item_lang.lang_item_name} is a ranked herb which can be found in different qualities."
+        else:
+            yield f"{i.item_lang.lang_item_name} is not a ranked herb and only exists in one quality."
+        yield f"{i.item_lang.lang_item_name} is{' not ' if not herb_data.bush_herbs else ' '}a bush herb."
+        yield f"{i.item_lang.lang_item_name} is a{' night ' if herb_data.night_herbs else ' daytime '}herb."
+        seasons = [s for s in SEASONS if asdict(herb_data)[s]]
+        if seasons:
+            yield f"{i.item_lang.lang_item_name} grow seasons: " + ", ".join(seasons)
+
+
 def yield_lines_from_item_plus(i: ItemPlus, all_resource_data: AllResourceData):
     yield f"# {i.item_lang.lang_item_name}"
     yield i.item_lang.lang_item_description
     yield from yield_lines_item_attributes(i.item)
+    yield from yield_lines_item_herb(i)
     yield from yield_lines_shopping_block(i)
     yield from yield_lines_npc_block(i, all_resource_data)
 

@@ -18,6 +18,16 @@ item_stealth_amount: 2700
 
 item_uid: Peppermint [Fair]
 
+# Herb data
+
+Peppermint is a ranked herb which can be found in different qualities.
+
+Peppermint is not a bush herb.
+
+Peppermint is a daytime herb.
+
+Peppermint grow seasons: winter, spring, autumn
+
 # shops selling Peppermint:
 
 ember_shop_name sells it for 20 mews.

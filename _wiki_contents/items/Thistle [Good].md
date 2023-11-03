@@ -18,6 +18,16 @@ item_swim_amount: 1800
 
 item_uid: Thistle [Good]
 
+# Herb data
+
+Thistle is a ranked herb which can be found in different qualities.
+
+Thistle is not a bush herb.
+
+Thistle is a daytime herb.
+
+Thistle grow seasons: spring, summer, autumn
+
 # shops selling Thistle:
 
 coco_festival_shop_name sells it for 3 festival tokens.

@@ -18,6 +18,16 @@ item_sorting_priority: 4700
 
 item_uid: Blackberries [Fair]
 
+# Herb data
+
+Blackberries is a ranked herb which can be found in different qualities.
+
+Blackberries is a bush herb.
+
+Blackberries is a daytime herb.
+
+Blackberries grow seasons: autumn
+
 # shops selling Blackberries:
 
 molo_shop_name sells it for 75 mole cash.

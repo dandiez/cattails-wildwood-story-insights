@@ -14,6 +14,16 @@ item_sorting_priority: 8200
 
 item_uid: Black Rose
 
+# Herb data
+
+Black Rose is not a ranked herb and only exists in one quality.
+
+Black Rose is a bush herb.
+
+Black Rose is a daytime herb.
+
+Black Rose grow seasons: winter, spring, summer, autumn
+
 # shops selling Black Rose:
 
 ember_shop_name sells it for 75 mews.

@@ -16,6 +16,16 @@ item_sorting_priority: 7900
 
 item_uid: Queen of the Night
 
+# Herb data
+
+Queen of the Night is not a ranked herb and only exists in one quality.
+
+Queen of the Night is not a bush herb.
+
+Queen of the Night is a night herb.
+
+Queen of the Night grow seasons: winter, spring, summer, autumn
+
 # shops selling Queen of the Night:
 
 molay_shop_name sells it for 325 mole cash.

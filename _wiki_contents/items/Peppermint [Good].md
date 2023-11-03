@@ -18,6 +18,16 @@ item_stealth_amount: 3600
 
 item_uid: Peppermint [Good]
 
+# Herb data
+
+Peppermint is a ranked herb which can be found in different qualities.
+
+Peppermint is not a bush herb.
+
+Peppermint is a daytime herb.
+
+Peppermint grow seasons: winter, spring, autumn
+
 # Gift guide
 
 NPCs that love Peppermint: Alabaster, Bob, Bubby, Buttercup, Coco, Phantom, Spark

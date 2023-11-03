@@ -18,6 +18,16 @@ item_swim_amount: 1200
 
 item_uid: Thistle [Fair]
 
+# Herb data
+
+Thistle is a ranked herb which can be found in different qualities.
+
+Thistle is not a bush herb.
+
+Thistle is a daytime herb.
+
+Thistle grow seasons: spring, summer, autumn
+
 # Gift guide
 
 NPCs that love Thistle: Bob, Champ

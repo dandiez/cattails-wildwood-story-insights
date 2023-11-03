@@ -20,6 +20,16 @@ item_sorting_priority: 5600
 
 item_uid: Marigold [Fair]
 
+# Herb data
+
+Marigold is a ranked herb which can be found in different qualities.
+
+Marigold is not a bush herb.
+
+Marigold is a daytime herb.
+
+Marigold grow seasons: spring, summer, autumn
+
 # shops selling Marigold:
 
 ember_shop_name sells it for 18 mews.

@@ -18,6 +18,16 @@ item_sorting_priority: 7500
 
 item_uid: Catnip [Good]
 
+# Herb data
+
+Catnip is a ranked herb which can be found in different qualities.
+
+Catnip is not a bush herb.
+
+Catnip is a daytime herb.
+
+Catnip grow seasons: spring, summer, autumn
+
 # shops selling Catnip:
 
 coco_festival_shop_name sells it for 4 festival tokens.

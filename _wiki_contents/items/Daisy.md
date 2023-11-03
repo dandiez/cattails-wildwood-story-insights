@@ -18,6 +18,16 @@ item_sorting_priority: 8000
 
 item_uid: Daisy
 
+# Herb data
+
+Daisy is not a ranked herb and only exists in one quality.
+
+Daisy is not a bush herb.
+
+Daisy is a daytime herb.
+
+Daisy grow seasons: spring, summer
+
 # shops selling Daisy:
 
 taskboard_shop_name sells it for 1 task tokens.

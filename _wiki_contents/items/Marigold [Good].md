@@ -20,6 +20,16 @@ item_sorting_priority: 5700
 
 item_uid: Marigold [Good]
 
+# Herb data
+
+Marigold is a ranked herb which can be found in different qualities.
+
+Marigold is not a bush herb.
+
+Marigold is a daytime herb.
+
+Marigold grow seasons: spring, summer, autumn
+
 # Gift guide
 
 NPCs that love Marigold: Coco, Fliss, #kitten_two_name#, Krampy, Lainey, Phantom, Spark, Zephyr

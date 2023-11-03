@@ -18,6 +18,16 @@ item_sorting_priority: 4900
 
 item_uid: Blueberries [Poor]
 
+# Herb data
+
+Blueberries is a ranked herb which can be found in different qualities.
+
+Blueberries is a bush herb.
+
+Blueberries is a daytime herb.
+
+Blueberries grow seasons: winter
+
 # Gift guide
 
 NPCs that love Blueberries: Falcon, Salem

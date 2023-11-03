@@ -18,6 +18,16 @@ item_sorting_priority: 5100
 
 item_uid: Blueberries [Good]
 
+# Herb data
+
+Blueberries is a ranked herb which can be found in different qualities.
+
+Blueberries is a bush herb.
+
+Blueberries is a daytime herb.
+
+Blueberries grow seasons: winter
+
 # shops selling Blueberries:
 
 coco_festival_shop_name sells it for 2 festival tokens.

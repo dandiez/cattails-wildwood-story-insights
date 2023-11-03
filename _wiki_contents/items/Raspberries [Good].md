@@ -18,6 +18,16 @@ item_sorting_priority: 4500
 
 item_uid: Raspberries [Good]
 
+# Herb data
+
+Raspberries is a ranked herb which can be found in different qualities.
+
+Raspberries is a bush herb.
+
+Raspberries is a daytime herb.
+
+Raspberries grow seasons: spring, summer
+
 # Gift guide
 
 NPCs that love Raspberries: Elli, Falcon, Lux

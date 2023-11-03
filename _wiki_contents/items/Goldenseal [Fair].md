@@ -18,6 +18,16 @@ item_sorting_priority: 5300
 
 item_uid: Goldenseal [Fair]
 
+# Herb data
+
+Goldenseal is a ranked herb which can be found in different qualities.
+
+Goldenseal is not a bush herb.
+
+Goldenseal is a daytime herb.
+
+Goldenseal grow seasons: spring, summer, autumn
+
 # shops selling Goldenseal:
 
 ember_shop_name sells it for 14 mews.

@@ -72,11 +72,11 @@ class ItemPlus:
     # herb_uid: Uid = None
     # sprite: str = None
     from_npc: ItemFromNpc = dataclasses.field(default_factory=ItemFromNpc)
-    from_map: ItemFromMap = dataclasses.field(default_factory=ItemFromMap)
     from_herbs: ItemFromHerbs = dataclasses.field(default_factory=ItemFromHerbs)
     from_recipes: ItemFromItemRecipe = dataclasses.field(
         default_factory=ItemFromItemRecipe
     )
+    from_map: ItemFromMap = dataclasses.field(default_factory=ItemFromMap)
 
 
 AllItemPlus: TypeAlias = dict[Uid, ItemPlus]

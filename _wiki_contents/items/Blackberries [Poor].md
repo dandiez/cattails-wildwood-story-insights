@@ -18,6 +18,16 @@ item_sorting_priority: 4600
 
 item_uid: Blackberries [Poor]
 
+# Herb data
+
+Blackberries is a ranked herb which can be found in different qualities.
+
+Blackberries is a bush herb.
+
+Blackberries is a daytime herb.
+
+Blackberries grow seasons: autumn
+
 # Gift guide
 
 NPCs that love Blackberries: Falcon

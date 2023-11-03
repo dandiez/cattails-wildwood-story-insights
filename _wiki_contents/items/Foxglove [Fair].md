@@ -18,6 +18,16 @@ item_sorting_priority: 7100
 
 item_uid: Foxglove [Fair]
 
+# Herb data
+
+Foxglove is a ranked herb which can be found in different qualities.
+
+Foxglove is not a bush herb.
+
+Foxglove is a daytime herb.
+
+Foxglove grow seasons: summer, autumn
+
 # shops selling Foxglove:
 
 taskboard_shop_name sells it for 6 task tokens.

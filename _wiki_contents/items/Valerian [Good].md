@@ -18,6 +18,16 @@ item_speed_amount: 1800
 
 item_uid: Valerian [Good]
 
+# Herb data
+
+Valerian is a ranked herb which can be found in different qualities.
+
+Valerian is not a bush herb.
+
+Valerian is a daytime herb.
+
+Valerian grow seasons: spring, summer, autumn
+
 # Gift guide
 
 NPCs that love Valerian: Alabaster

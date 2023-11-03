@@ -18,6 +18,16 @@ item_sorting_priority: 4100
 
 item_uid: Licorice [Fair]
 
+# Herb data
+
+Licorice is a ranked herb which can be found in different qualities.
+
+Licorice is not a bush herb.
+
+Licorice is a daytime herb.
+
+Licorice grow seasons: spring, summer
+
 # Gift guide
 
 NPCs that love Licorice: #kitten_four_name#

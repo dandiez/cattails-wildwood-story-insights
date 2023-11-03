@@ -18,6 +18,16 @@ item_sorting_priority: 7400
 
 item_uid: Catnip [Fair]
 
+# Herb data
+
+Catnip is a ranked herb which can be found in different qualities.
+
+Catnip is not a bush herb.
+
+Catnip is a daytime herb.
+
+Catnip grow seasons: spring, summer, autumn
+
 # Gift guide
 
 NPCs that love Catnip: Alabaster, Beau, Bob, Buttercup, Coco, Elli, Ember, Falcon, Fliss, Jag, #kitten_four_name#, #kitten_one_name#, Krampy, Lainey, Phantom, Rosemary, Spark, Talon, Zephyr

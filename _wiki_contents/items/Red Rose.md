@@ -16,6 +16,16 @@ item_sorting_priority: 8100
 
 item_uid: Red Rose
 
+# Herb data
+
+Red Rose is not a ranked herb and only exists in one quality.
+
+Red Rose is a bush herb.
+
+Red Rose is a daytime herb.
+
+Red Rose grow seasons: winter, spring, summer, autumn
+
 # shops selling Red Rose:
 
 ember_shop_name sells it for 50 mews.

@@ -18,6 +18,16 @@ item_uid: Snake Lily [Good]
 
 item_venom_amount: 2400
 
+# Herb data
+
+Snake Lily is a ranked herb which can be found in different qualities.
+
+Snake Lily is not a bush herb.
+
+Snake Lily is a daytime herb.
+
+Snake Lily grow seasons: winter, autumn
+
 # Gift guide
 
 NPCs that love Snake Lily: Beau, Charlotte, Glimmer, Talon, Umbra

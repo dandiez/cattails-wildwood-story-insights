@@ -18,6 +18,16 @@ item_sorting_priority: 7700
 
 item_uid: Lavender [Fair]
 
+# Herb data
+
+Lavender is a ranked herb which can be found in different qualities.
+
+Lavender is not a bush herb.
+
+Lavender is a daytime herb.
+
+Lavender grow seasons: spring, summer, autumn
+
 # Gift guide
 
 NPCs that love Lavender: Bob, Garlic, Spark, Zephyr

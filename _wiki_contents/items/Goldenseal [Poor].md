@@ -18,6 +18,16 @@ item_sorting_priority: 5200
 
 item_uid: Goldenseal [Poor]
 
+# Herb data
+
+Goldenseal is a ranked herb which can be found in different qualities.
+
+Goldenseal is not a bush herb.
+
+Goldenseal is a daytime herb.
+
+Goldenseal grow seasons: spring, summer, autumn
+
 # Gift guide
 
 NPCs that love Goldenseal: Coco, Krampy

@@ -18,6 +18,16 @@ item_speed_amount: 1200
 
 item_uid: Valerian [Fair]
 
+# Herb data
+
+Valerian is a ranked herb which can be found in different qualities.
+
+Valerian is not a bush herb.
+
+Valerian is a daytime herb.
+
+Valerian grow seasons: spring, summer, autumn
+
 # shops selling Valerian:
 
 ember_shop_name sells it for 30 mews.

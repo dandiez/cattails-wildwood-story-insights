@@ -18,6 +18,16 @@ item_sorting_priority: 7600
 
 item_uid: Lavender [Poor]
 
+# Herb data
+
+Lavender is a ranked herb which can be found in different qualities.
+
+Lavender is not a bush herb.
+
+Lavender is a daytime herb.
+
+Lavender grow seasons: spring, summer, autumn
+
 # shops selling Lavender:
 
 molo_shop_name sells it for 80 mole cash.

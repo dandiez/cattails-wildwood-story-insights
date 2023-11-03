@@ -18,6 +18,16 @@ item_sorting_priority: 7800
 
 item_uid: Lavender [Good]
 
+# Herb data
+
+Lavender is a ranked herb which can be found in different qualities.
+
+Lavender is not a bush herb.
+
+Lavender is a daytime herb.
+
+Lavender grow seasons: spring, summer, autumn
+
 # shops selling Lavender:
 
 coco_festival_shop_name sells it for 3 festival tokens.

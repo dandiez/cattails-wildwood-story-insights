@@ -18,6 +18,16 @@ item_sorting_priority: 4400
 
 item_uid: Raspberries [Fair]
 
+# Herb data
+
+Raspberries is a ranked herb which can be found in different qualities.
+
+Raspberries is a bush herb.
+
+Raspberries is a daytime herb.
+
+Raspberries grow seasons: spring, summer
+
 # shops selling Raspberries:
 
 taskboard_shop_name sells it for 2 task tokens.
