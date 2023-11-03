@@ -55,7 +55,7 @@ def main(gameresources_dir, wiki_contents_dir):
     all_raw_files = read_all_resource_files(gameresources_dir)
     all_resource_data = instantiate_all_resource_data(all_raw_files)
     item_merged = get_merged_item_data(all_resource_data)
-    write_item_merged_data(item_merged, wiki_contents_dir)
+    write_item_merged_data(item_merged, os.path.join(wiki_contents_dir, "items"))
 
 
 if __name__ == "__main__":
