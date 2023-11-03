@@ -45,7 +45,8 @@ AllResourceFiles: TypeAlias = dict[ResourcesRelPath, list[ResourceFile]]
 
 
 def read_all_resource_files(
-    gameresources_root_path: str, file_suffixes: Collection[str]
+    gameresources_root_path: str,
+    file_suffixes: Collection[str] = (".meta", ".lang", ".region"),
 ) -> AllResourceFiles:
     """Nested dict which mimics the OS folder and file structure."""
     all_resources = defaultdict(list)

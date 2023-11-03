@@ -1,9 +1,10 @@
 import dataclasses
+import os
 from collections import defaultdict
 from typing import TypeAlias, Callable
 
 from cws_insights.common import WIKI_CONTENTS_DIR
-from cws_insights.definitions import Undefined
+from cws_insights.definitions import Undefined, POWER_POWS
 from cws_insights.read_files_data import instantiate_all_resource_data
 from cws_insights.read_files import (
     read_all_resource_files,
@@ -17,9 +18,19 @@ from cws_insights.schemas.items_lang_english_lang import (
 from cws_insights.schemas.items_recipes_meta import ItemRecipeMeta as ItemRecipe
 from cws_insights.schemas.map_region import MapRegion as Map
 from cws_insights.schemas.npcs_meta import NpcMeta as Npc
+from cws_insights.schemas.npcs_shops_meta import (
+    NpcShopMeta as NpcShop,
+    NpcShopMeta_ShopItems,
+)
 
 Uid: TypeAlias = str
 UidStem: TypeAlias = str
+
+
+@dataclasses.dataclass
+class ItemFromNpcShop:
+    shop_selling_it: NpcShop = None
+    sale_details: NpcShopMeta_ShopItems = None
 
 
 @dataclasses.dataclass
@@ -40,32 +51,35 @@ class ItemFromMap:
 
 @dataclasses.dataclass
 class ItemFromHerbs:
-    ranked_herbs: bool
-    bush_herbs: bool
-    night_herbs: bool
-    autumn: bool
-    spring: bool
-    summer: bool
-    winter: bool
+    ranked_herbs: bool = False
+    bush_herbs: bool = False
+    night_herbs: bool = False
+    autumn: bool = False
+    spring: bool = False
+    summer: bool = False
+    winter: bool = False
 
 
 @dataclasses.dataclass
 class ItemFromItemRecipe:
-    as_input: list[ItemRecipe]
-    as_output: list[ItemRecipe]
+    as_input: list[ItemRecipe] = dataclasses.field(default_factory=list)
+    as_output: list[ItemRecipe] = dataclasses.field(default_factory=list)
 
 
 @dataclasses.dataclass
 class ItemPlus:
     game_version = None
+    item_lang: ItemLangEnglish = None
     item: Item = None
     herb_uid: Uid = None
-    item_lang: ItemLangEnglish = None
     sprite: str = None
     from_npc: ItemFromNpc = dataclasses.field(default_factory=ItemFromNpc)
     from_map: ItemFromMap = dataclasses.field(default_factory=ItemFromMap)
-    from_herbs: ItemFromHerbs = None
-    from_recipes: ItemFromItemRecipe = None
+    from_herbs: ItemFromHerbs = dataclasses.field(default_factory=ItemFromHerbs)
+    from_recipes: ItemFromItemRecipe = dataclasses.field(
+        default_factory=ItemFromItemRecipe
+    )
+    from_shops: list[ItemFromNpcShop] = dataclasses.field(default_factory=list)
 
 
 AllItemPlus: TypeAlias = dict[Uid, ItemPlus]
@@ -127,6 +141,14 @@ def apply_function_to_item_plus_with_groups(
             function_to_apply(item)
 
 
+def yield_items_in_itemplus_or_group(item_or_group: ItemPlus | ItemPlusGroup):
+    if isinstance(item_or_group, ItemPlus):
+        yield item_or_group
+    if isinstance(item_or_group, ItemPlusGroup):
+        for item in item_or_group._contained:
+            yield item
+
+
 def _get_map_data(
     map: dict[Uid, Map], all_item_plus_with_groups: AllItemPlusWithGroups
 ):
@@ -139,6 +161,59 @@ def _get_map_data(
         for spawner in region.region_data.spawners:
             for item_id in spawner.item_uids:
                 all_item_plus_with_groups[item_id].from_map.spawners.append(region)
+
+
+def _get_herb_data(
+    herbs_meta: dict[Uid, Herb], all_item_plus_with_groups: AllItemPlusWithGroups
+):
+    for herb_ui, herb in herbs_meta.items():
+        for night_herb_uid in herb.night_herbs:
+            for item in yield_items_in_itemplus_or_group(
+                all_item_plus_with_groups[night_herb_uid]
+            ):
+                item.from_herbs.night_herbs = True
+        for bush_herb_uid in herb.bush_herbs:
+            for item in yield_items_in_itemplus_or_group(
+                all_item_plus_with_groups[bush_herb_uid]
+            ):
+                item.from_herbs.bush_herbs = True
+        for ranked_herb_uid in herb.ranked_herbs:
+            for item in yield_items_in_itemplus_or_group(
+                all_item_plus_with_groups[ranked_herb_uid]
+            ):
+                item.from_herbs.ranked_herbs = True
+        for autum_herb_uid in herb.autumn:
+            for item in yield_items_in_itemplus_or_group(
+                all_item_plus_with_groups[autum_herb_uid]
+            ):
+                item.from_herbs.autumn = True
+        for spring_herb_uid in herb.spring:
+            for item in yield_items_in_itemplus_or_group(
+                all_item_plus_with_groups[spring_herb_uid]
+            ):
+                item.from_herbs.spring = True
+        for summer_herb_uid in herb.summer:
+            for item in yield_items_in_itemplus_or_group(
+                all_item_plus_with_groups[summer_herb_uid]
+            ):
+                item.from_herbs.summer = True
+        for winter_herb_uid in herb.winter:
+            for item in yield_items_in_itemplus_or_group(
+                all_item_plus_with_groups[winter_herb_uid]
+            ):
+                item.from_herbs.winter = True
+
+
+def _get_shop_data(npcs_shops_meta: dict[Uid, NpcShop], all_item_plus: AllItemPlus):
+    for npc_shop_id, npc_shop in npcs_shops_meta.items():
+        for shop_item in npc_shop.shop_items:
+            lookup_name = POWER_POWS.get(shop_item.item_name, shop_item.item_name)
+            split = lookup_name.split(" ", maxsplit=1)
+            if split[-1] in ("XP", "Mews", "Mole Cash"):
+                continue
+            all_item_plus[lookup_name].from_shops.append(
+                ItemFromNpcShop(shop_selling_it=npc_shop, sale_details=shop_item)
+            )
 
 
 def get_merged_item_data(all_resource_data: AllResourceData):
@@ -154,14 +229,15 @@ def get_merged_item_data(all_resource_data: AllResourceData):
         for item in all_items_indexed_by_uid.values()
         if item.item_uid is not None
     }
-
     grouped_items_by_group_id = _get_grouped_items(all_item_plus)
     _merge_with_item_lang_data(all_resource_data.items_lang_english_lang, all_item_plus)
     _get_sprite(all_item_plus)
     _get_npc_data(all_resource_data.npcs_meta, all_item_plus)
     all_item_plus_with_groups = grouped_items_by_group_id | all_item_plus
     _get_map_data(all_resource_data.map_region, all_item_plus_with_groups)
-    return all_item_plus_with_groups
+    _get_herb_data(all_resource_data.herbs_meta, all_item_plus_with_groups)
+    _get_shop_data(all_resource_data.npcs_shops_meta, all_item_plus)
+    return all_item_plus
 
 
 def double_check_assumptions(all_resource_data: AllResourceData):
@@ -201,35 +277,3 @@ def _merge_with_item_lang_data(
                 f"skipping over lang with uid {uid}, which does not have a matching item."
             )
 
-
-def write_item_merged_data(item_merged: dict[Uid, ItemPlus], wiki_contents_dir):
-    n = 100
-    for k, v in item_merged.items():
-        print(k, type(v), v)
-        if n == 0:
-            break
-        n -= 1
-    print(item_merged["Blackberries [Poor]"])
-    g = item_merged["Blackberries"]
-    g.herb_uid = "Blackberries!"
-    for k, v in item_merged.items():
-        if not isinstance(v, ItemPlus):  # TODO: For writing, get rid of groups
-            continue
-        if v.herb_uid == "Blackberries!":
-            print(v)
-
-
-def main(gameresources_dir, wiki_contents_dir):
-    extensions_to_consider = (".meta", ".lang", ".region")
-    all_raw_files = read_all_resource_files(
-        gameresources_dir, file_suffixes=extensions_to_consider
-    )
-    all_resource_data = instantiate_all_resource_data(all_raw_files)
-    item_merged = get_merged_item_data(all_resource_data)
-    write_item_merged_data(item_merged, wiki_contents_dir)
-
-
-if __name__ == "__main__":
-    gameresources_dir = r"C:\Program Files (x86)\Steam\steamapps\common\Cattails Wildwood Story\gameresources"
-    wiki_contents_dir = WIKI_CONTENTS_DIR
-    main(gameresources_dir, wiki_contents_dir)
