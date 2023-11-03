@@ -2,6 +2,14 @@
 
 These sparkling jewels are hard to come by. A faint humming noise emanates from the center. What power is contained within?
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 8 Mews
+item_mews_value: 8
+
+item_mole_cash_value: 34
+
+item_rarity: Rare
+
+item_sorting_priority: 13023
+
+item_uid: Shimmercrag

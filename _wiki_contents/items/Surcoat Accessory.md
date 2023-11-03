@@ -2,20 +2,22 @@
 
 A loose-fitting shirt with bold, flat colors.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 17600
+
+item_uid: Surcoat Accessory
 
 # shops selling Surcoat:
 
 coco_festival_shop_name sells it for 6 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = True
-
-filter_spring = False
-
-filter_summer = False
-
-filter_winter = False
+    - it is autumn

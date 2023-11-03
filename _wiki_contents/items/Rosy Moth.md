@@ -2,6 +2,14 @@
 
 A pleasant pastel prize with a velvety abdomen.
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 60 Mews
+item_mews_value: 60
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 9600
+
+item_uid: Rosy Moth

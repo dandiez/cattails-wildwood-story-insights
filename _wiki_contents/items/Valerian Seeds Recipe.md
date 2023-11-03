@@ -2,9 +2,17 @@
 
 Grow valerian in your garden with these seeds! Valerian can give a cat a boost of energy.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 22003
+
+item_uid: Valerian Seeds Recipe
 
 # shops selling Valerian Seeds Recipe:
 

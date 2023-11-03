@@ -2,6 +2,14 @@
 
 A hastily-scribbled autograph from Zephyr.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 35 Mews
+item_mews_value: 35
+
+item_mole_cash_value: 0
+
+item_rarity: Rare
+
+item_sorting_priority: 8034
+
+item_uid: Autograph

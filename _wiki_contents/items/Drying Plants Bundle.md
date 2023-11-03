@@ -2,9 +2,17 @@
 
 Plants strung up to dry, ready to decorate your den walls.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 9520
+
+item_uid: Drying Plants Bundle
 
 # shops selling Drying Plants Bundle:
 

@@ -2,9 +2,17 @@
 
 An assortment of various seeds that you cannot identify. Sow these in the garden and see what grows!
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 81936
+
+item_uid: Mystery Seeds
 
 # shops selling Mystery Seeds:
 

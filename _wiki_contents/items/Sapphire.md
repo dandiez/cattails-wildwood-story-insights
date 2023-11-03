@@ -2,6 +2,14 @@
 
 A sparkling blue gemstone as vibrant and deep as a clear summer sky.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 3 Mews
+item_mews_value: 3
+
+item_mole_cash_value: 8
+
+item_rarity: Uncommon
+
+item_sorting_priority: 12800
+
+item_uid: Sapphire

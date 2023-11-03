@@ -2,14 +2,22 @@
 
 A music disc that you can play at your den record player. This track is a contemplative tune for the dark places of the world.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 19930
+
+item_uid: Dark Ruins Record
 
 # shops selling Dark Ruins:
 
 ember_shop_name sells it for 750 mews.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_year = 3
+    - at least we are on year 3

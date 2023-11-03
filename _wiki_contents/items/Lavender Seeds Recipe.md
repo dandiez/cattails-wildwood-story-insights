@@ -2,9 +2,17 @@
 
 Grow lavender in your garden with these seeds! Lavender can be used to gain power in a region quickly.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 22012
+
+item_uid: Lavender Seeds Recipe
 
 # shops selling Lavender Seeds Recipe:
 

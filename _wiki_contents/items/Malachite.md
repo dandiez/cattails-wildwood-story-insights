@@ -2,6 +2,14 @@
 
 A coppery-green gemstone with a beautiful banded pattern.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 7 Mews
+item_mews_value: 7
+
+item_mole_cash_value: 32
+
+item_rarity: Rare
+
+item_sorting_priority: 13018
+
+item_uid: Malachite

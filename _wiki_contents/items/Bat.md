@@ -2,9 +2,21 @@
 
 A curious flying critter with large webbed wings.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 1 Mews
+item_hunger_amount: 100
+
+item_mews_value: 1
+
+item_mole_cash_value: 0
+
+item_prey_resource_value: 1
+
+item_rarity: Rare
+
+item_sorting_priority: 800
+
+item_uid: Bat
 
 # shops selling Bat:
 

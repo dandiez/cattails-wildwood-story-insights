@@ -2,6 +2,14 @@
 
 A perfectly spherical stone, rounded and sanded until its smooth surface shines. This item may be donated to your stone stockpile.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 43108
+
+item_uid: Polished Stone Recipe

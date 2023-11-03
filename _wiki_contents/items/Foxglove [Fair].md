@@ -2,9 +2,21 @@
 
 A deadly flower. Apply to your claws to temporarily increase the damage of all attacks.
 
-raritiy: Legendary
+item_attack_amount: 1800
 
-sell value: 12 Mews
+item_can_sell: True
+
+item_herbs_resource_value: 1
+
+item_mews_value: 12
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 7100
+
+item_uid: Foxglove [Fair]
 
 # shops selling Foxglove:
 

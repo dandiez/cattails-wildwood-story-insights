@@ -2,20 +2,24 @@
 
 Use this at any time to summon a light spring rain shower until the end of the day. Single-use.
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 4 Mews
+item_mews_value: 4
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 98901
+
+item_special_effect: True
+
+item_uid: Vial of Spring Showers
 
 # shops selling Vial of Spring Showers:
 
 coco_festival_shop_name sells it for 2 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = False
-
-filter_spring = True
-
-filter_summer = False
-
-filter_winter = False
+    - it is spring

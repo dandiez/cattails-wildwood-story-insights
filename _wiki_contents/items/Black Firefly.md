@@ -2,9 +2,17 @@
 
 A curious summer bug that swallows light around it. Some believe that a visit from this creature is an evil omen.
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 60 Mews
+item_mews_value: 60
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 10400
+
+item_uid: Black Firefly
 
 # shops selling Black Firefly:
 

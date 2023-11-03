@@ -2,20 +2,22 @@
 
 A comfortable red sweater.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 17300
+
+item_uid: Knitted Sweater Accessory
 
 # shops selling Knitted Sweater:
 
 coco_festival_shop_name sells it for 6 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = False
-
-filter_spring = False
-
-filter_summer = False
-
-filter_winter = True
+    - it is winter

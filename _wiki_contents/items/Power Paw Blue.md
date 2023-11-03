@@ -2,9 +2,17 @@
 
 An ancient token made from a shining blue metal. According to legend, it can make you more resilient to hunger.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 0
+
+item_uid: Power Paw Blue
 
 # shops selling Power Paw (Blue):
 

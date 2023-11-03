@@ -2,6 +2,14 @@
 
 A long, gangly dragonfly with four wide wings.
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 1 Mews
+item_mews_value: 1
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 10500
+
+item_uid: Southern Damselfly

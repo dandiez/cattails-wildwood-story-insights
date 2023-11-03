@@ -2,6 +2,14 @@
 
 A wondrous green gemstone.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 5 Mews
+item_mews_value: 5
+
+item_mole_cash_value: 14
+
+item_rarity: Rare
+
+item_sorting_priority: 13000
+
+item_uid: Emerald

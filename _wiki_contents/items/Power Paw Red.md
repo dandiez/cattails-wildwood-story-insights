@@ -2,9 +2,17 @@
 
 An ancient token made from a shining red metal. According to legend, it can increase your vitality.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 0
+
+item_uid: Power Paw Red
 
 # shops selling Power Paw (Red):
 

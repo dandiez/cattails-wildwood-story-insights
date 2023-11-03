@@ -2,9 +2,17 @@
 
 A thick blanket with a blue plaid design on top and warm wooly fibers on the other side, folded neatly.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 9500
+
+item_uid: Folded Blanket Furniture
 
 # shops selling Folded Blanket:
 

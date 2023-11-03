@@ -2,9 +2,19 @@
 
 A fabulously scarce jewel! It seems to shine either red or green under different lighting conditions.
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 50 Mews
+item_mews_value: 50
+
+item_mole_cash_value: 150
+
+item_rarity: Legendary
+
+item_sorting_priority: 13218
+
+item_treasure_resource_value: 1
+
+item_uid: Alexandrite
 
 # shops selling Alexandrite:
 

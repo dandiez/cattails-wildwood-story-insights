@@ -2,9 +2,17 @@
 
 A pretty pink bow to set atop your head.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 15600
+
+item_uid: Bow Accessory
 
 # shops selling Bow:
 

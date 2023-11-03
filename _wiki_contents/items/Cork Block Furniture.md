@@ -2,9 +2,17 @@
 
 A rectangular block made of solid cork with rounded edges.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 9500
+
+item_uid: Cork Block Furniture
 
 # shops selling Cork Block:
 

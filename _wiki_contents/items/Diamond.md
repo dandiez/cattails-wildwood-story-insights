@@ -2,9 +2,19 @@
 
 An enthralling pale gemstone that is highly prized! This item may be donated to your treasure stockpile.
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 40 Mews
+item_mews_value: 40
+
+item_mole_cash_value: 100
+
+item_rarity: Legendary
+
+item_sorting_priority: 13200
+
+item_treasure_resource_value: 1
+
+item_uid: Diamond
 
 # shops selling Diamond:
 

@@ -2,6 +2,14 @@
 
 Layers of dark, brittle rock.
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 1 Mews
+item_mews_value: 1
+
+item_mole_cash_value: 3
+
+item_rarity: Common
+
+item_sorting_priority: 12123
+
+item_uid: Shale

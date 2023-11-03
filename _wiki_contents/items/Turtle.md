@@ -2,6 +2,18 @@
 
 A painted turtle with a hard shell.
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 40 Mews
+item_hunger_amount: 300
+
+item_mews_value: 40
+
+item_mole_cash_value: 0
+
+item_prey_resource_value: 1
+
+item_rarity: Legendary
+
+item_sorting_priority: 2700
+
+item_uid: Turtle

@@ -2,9 +2,17 @@
 
 A creepy spirit that will haunt your every step!
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 14400
+
+item_uid: Pet Ghost Accessory
 
 # shops selling Pet Ghost:
 

@@ -2,9 +2,17 @@
 
 A dreadful orange spider that will follow you around!
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 14100
+
+item_uid: Pet Wolf Spider Accessory
 
 # shops selling Pet Wolf Spider:
 

@@ -2,6 +2,14 @@
 
 A bright summer bug that sheds yellow light.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 2 Mews
+item_mews_value: 2
+
+item_mole_cash_value: 0
+
+item_rarity: Uncommon
+
+item_sorting_priority: 10200
+
+item_uid: Yellow Firefly

@@ -2,9 +2,21 @@
 
 A silver-scaled saltwater fish. Its reflective body gleams brightly in the sunlight.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 16 Mews
+item_hunger_amount: 100
+
+item_mews_value: 16
+
+item_mole_cash_value: 0
+
+item_prey_resource_value: 1
+
+item_rarity: Uncommon
+
+item_sorting_priority: 3086
+
+item_uid: Mackerel
 
 # shops selling Mackerel:
 

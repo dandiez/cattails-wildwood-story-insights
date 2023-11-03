@@ -2,23 +2,31 @@
 
 What could this strange novelty item be? Bring it to the curio identification table in the Museum to identify it.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 10 Mews
+item_mews_value: 10
+
+item_mole_cash_value: 0
+
+item_rarity: Rare
+
+item_sorting_priority: 99901
+
+item_uid: Unidentified Curio
 
 # shops selling Unidentified Curio:
 
 coco_festival_shop_name sells it for 3 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = True
+    - it is autumn
 
-filter_spring = True
+    - it is spring
 
-filter_summer = True
+    - it is summer
 
-filter_winter = True
+    - it is winter
 
 molu_shop_name sells it for 250 mole cash.
 

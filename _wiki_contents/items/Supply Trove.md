@@ -2,6 +2,26 @@
 
 Donate this item to increase each of your stockpiles' values by 2!
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 14 Mews
+item_herbs_resource_value: 2
+
+item_mews_value: 14
+
+item_mole_cash_value: 0
+
+item_prey_resource_value: 2
+
+item_rarity: Legendary
+
+item_sand_resource_value: 2
+
+item_sorting_priority: 8068
+
+item_stone_resource_value: 2
+
+item_treasure_resource_value: 2
+
+item_uid: Supply Trove
+
+item_wood_resource_value: 2

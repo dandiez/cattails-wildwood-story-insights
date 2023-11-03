@@ -2,6 +2,14 @@
 
 A large beetle with dusty red elytra.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 4 Mews
+item_mews_value: 4
+
+item_mole_cash_value: 0
+
+item_rarity: Rare
+
+item_sorting_priority: 11100
+
+item_uid: Bark Beetle

@@ -2,6 +2,14 @@
 
 A dark clump of jet-black ore.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 2 Mews
+item_mews_value: 2
+
+item_mole_cash_value: 6
+
+item_rarity: Uncommon
+
+item_sorting_priority: 12423
+
+item_uid: Abyssal Ore

@@ -2,9 +2,19 @@
 
 A mysterious flower that only blooms at night.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 16 Mews
+item_herbs_resource_value: 2
+
+item_mews_value: 16
+
+item_mole_cash_value: 0
+
+item_rarity: Rare
+
+item_sorting_priority: 7900
+
+item_uid: Queen of the Night
 
 # shops selling Queen of the Night:
 

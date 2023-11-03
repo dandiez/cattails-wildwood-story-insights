@@ -2,6 +2,18 @@
 
 A lightly colored freshwater fish with long, cat-like whiskers. A mouth-watering meal!
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 40 Mews
+item_hunger_amount: 400
+
+item_mews_value: 40
+
+item_mole_cash_value: 0
+
+item_prey_resource_value: 2
+
+item_rarity: Legendary
+
+item_sorting_priority: 3400
+
+item_uid: Barbel

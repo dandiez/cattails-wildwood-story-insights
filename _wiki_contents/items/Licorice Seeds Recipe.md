@@ -2,9 +2,17 @@
 
 Grow licorice in your garden with these seeds! Licorice roots can be eaten for a quick snack.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 22006
+
+item_uid: Licorice Seeds Recipe
 
 # shops selling Licorice Seeds Recipe:
 

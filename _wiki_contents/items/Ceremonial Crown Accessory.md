@@ -2,9 +2,17 @@
 
 The type of crown that would be used during a coronation. How did it end up here?
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 15100
+
+item_uid: Ceremonial Crown Accessory
 
 # shops selling Ceremonial Crown:
 

@@ -2,9 +2,17 @@
 
 Some cat spent a lot of time carefully weaving the thick material used to create this small rug!
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 9500
+
+item_uid: Woven Rug Furniture
 
 # shops selling Woven Rug:
 

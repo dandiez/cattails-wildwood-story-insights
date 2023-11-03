@@ -2,20 +2,26 @@
 
 A healthy strand of light blue needles. Improves your swimming for a short time.
 
-raritiy: Rare
+item_can_sell: True
 
-sell value: 7 Mews
+item_herbs_resource_value: 1
+
+item_mews_value: 7
+
+item_mole_cash_value: 0
+
+item_rarity: Rare
+
+item_sorting_priority: 6600
+
+item_swim_amount: 1800
+
+item_uid: Thistle [Good]
 
 # shops selling Thistle:
 
 coco_festival_shop_name sells it for 3 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = True
-
-filter_spring = False
-
-filter_summer = False
-
-filter_winter = False
+    - it is autumn

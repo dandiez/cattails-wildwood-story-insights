@@ -2,9 +2,17 @@
 
 Ideal nourishment for a growing plant. Apply daily to every plant in your garden and you will grow high-quality herbs! Consumed on use.
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 81899
+
+item_uid: Plant Food
 
 # shops selling Plant Food:
 

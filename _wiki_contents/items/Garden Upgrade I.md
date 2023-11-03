@@ -2,9 +2,17 @@
 
 Adds 3 additional tillable slots to your garden. Grow more plants at once with this garden expansion!
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 17833
+
+item_uid: Garden Upgrade I
 
 # shops selling Garden Upgrade I:
 

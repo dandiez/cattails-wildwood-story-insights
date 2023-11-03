@@ -2,9 +2,17 @@
 
 Pinkish-white quartz crystals that can cling to vertical surfaces like your den walls.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 9500
+
+item_uid: Wall Crystals Furniture
 
 # shops selling Wall Crystals:
 

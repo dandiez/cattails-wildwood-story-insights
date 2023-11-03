@@ -2,9 +2,17 @@
 
 A glowing yellow firefly that will follow you around!
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 13300
+
+item_uid: Pet Firefly Accessory
 
 # shops selling Pet Firefly:
 

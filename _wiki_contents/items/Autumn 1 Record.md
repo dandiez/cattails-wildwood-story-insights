@@ -2,20 +2,22 @@
 
 A music disc that you can play at your den record player. This track is a soothing autumntime tune.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 19930
+
+item_uid: Autumn 1 Record
 
 # shops selling Autumn 1:
 
 ember_shop_name sells it for 100 mews.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = True
-
-filter_spring = False
-
-filter_summer = False
-
-filter_winter = False
+    - it is autumn

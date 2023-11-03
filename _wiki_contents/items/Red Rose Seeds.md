@@ -2,9 +2,17 @@
 
 Lightly colored seeds yielded from a red rose. Sow these in the garden and watch them grow!
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 81916
+
+item_uid: Red Rose Seeds
 
 # shops selling Red Rose Seeds:
 

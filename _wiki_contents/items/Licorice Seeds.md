@@ -2,6 +2,14 @@
 
 Small yellow-striped seeds yielded from a licorice plant. Sow these in the garden and watch them grow!
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 81903
+
+item_uid: Licorice Seeds

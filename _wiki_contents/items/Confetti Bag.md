@@ -2,20 +2,24 @@
 
 This fun item allows you to make confetti rain from the sky until the end of the day. Single-use.
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 4 Mews
+item_mews_value: 4
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 98902
+
+item_special_effect: True
+
+item_uid: Confetti Bag
 
 # shops selling Confetti Bag:
 
 coco_festival_shop_name sells it for 2 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = False
-
-filter_spring = False
-
-filter_summer = True
-
-filter_winter = False
+    - it is summer

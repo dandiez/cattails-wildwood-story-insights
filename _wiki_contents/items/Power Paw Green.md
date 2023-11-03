@@ -2,20 +2,28 @@
 
 An ancient token made from a shining green metal. According to legend, it can increase your luck.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 0
+
+item_uid: Power Paw Green
 
 # shops selling Power Paw (Green):
 
 coco_festival_shop_name sells it for 18 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = True
+    - it is autumn
 
-filter_spring = True
+    - it is spring
 
-filter_summer = True
+    - it is summer
 
-filter_winter = True
+    - it is winter

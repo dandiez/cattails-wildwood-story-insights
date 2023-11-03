@@ -2,9 +2,17 @@
 
 This fearsome cap once belonged to the most dangerous pirate in all the Seven Seas.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 14700
+
+item_uid: Captain Hat Accessory
 
 # shops selling Captain Hat:
 

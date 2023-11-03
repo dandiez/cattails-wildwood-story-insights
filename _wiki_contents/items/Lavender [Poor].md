@@ -2,9 +2,21 @@
 
 A pleasant bunch of purple flowers. Use to gain a small amount of influence in a region.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 4 Mews
+item_herbs_resource_value: 1
+
+item_influence_amount: 10
+
+item_mews_value: 4
+
+item_mole_cash_value: 0
+
+item_rarity: Uncommon
+
+item_sorting_priority: 7600
+
+item_uid: Lavender [Poor]
 
 # shops selling Lavender:
 

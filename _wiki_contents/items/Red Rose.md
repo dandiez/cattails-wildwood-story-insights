@@ -2,14 +2,24 @@
 
 A gorgeous red flower that symbolizes true love. Give to a cat to let them know you've fallen for them!
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 5 Mews
+item_herbs_resource_value: 1
+
+item_mews_value: 5
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 8100
+
+item_uid: Red Rose
 
 # shops selling Red Rose:
 
 ember_shop_name sells it for 50 mews.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_day = 15
+    - at least 15 have passed

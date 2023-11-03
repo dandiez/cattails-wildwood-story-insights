@@ -2,6 +2,16 @@
 
 A symbol of great authority. Use to immediately gain 100% influence in your current region. Consumed on use.
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 25 Mews
+item_influence_amount: 100
+
+item_mews_value: 25
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 8061
+
+item_uid: Bright Insignia

@@ -2,9 +2,17 @@
 
 Dazzling purple crystals shine from within this stone.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 3 Mews
+item_mews_value: 3
+
+item_mole_cash_value: 7
+
+item_rarity: Uncommon
+
+item_sorting_priority: 12700
+
+item_uid: Amethyst
 
 # shops selling Amethyst:
 

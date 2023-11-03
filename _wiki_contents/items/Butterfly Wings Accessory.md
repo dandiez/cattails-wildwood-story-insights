@@ -2,20 +2,22 @@
 
 Some cat spent a lot of time on these replica butterfly wings to proudly wear on your back.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 15700
+
+item_uid: Butterfly Wings Accessory
 
 # shops selling Butterfly Wings:
 
 coco_festival_shop_name sells it for 6 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = False
-
-filter_spring = False
-
-filter_summer = True
-
-filter_winter = False
+    - it is summer

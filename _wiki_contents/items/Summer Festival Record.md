@@ -2,20 +2,22 @@
 
 A music disc that you can play at your den record player. This track is a summertime party tune.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 19930
+
+item_uid: Summer Festival Record
 
 # shops selling Summer Festival:
 
 coco_festival_shop_name sells it for 5 festival tokens.
 
-can buy it when meeting conditions: 
+  can buy it when meeting conditions: 
 
-filter_autumn = False
-
-filter_spring = False
-
-filter_summer = True
-
-filter_winter = False
+    - it is summer

@@ -2,6 +2,16 @@
 
 Several robust roots, dried until hardened. This item may be donated to your wood stockpile.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 15 Mews
+item_mews_value: 15
+
+item_mole_cash_value: 0
+
+item_rarity: Uncommon
+
+item_sorting_priority: 12108
+
+item_uid: Dried Roots
+
+item_wood_resource_value: 1

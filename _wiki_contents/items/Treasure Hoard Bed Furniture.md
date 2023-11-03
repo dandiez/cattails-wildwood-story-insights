@@ -2,9 +2,17 @@
 
 Guard your wealth from prying paws by sleeping atop it like a slumbering dragon! A generous pile of coins and precious gemstones.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 9500
+
+item_uid: Treasure Hoard Bed Furniture
 
 # shops selling Treasure Hoard Bed:
 

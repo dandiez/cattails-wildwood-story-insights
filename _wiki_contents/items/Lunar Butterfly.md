@@ -2,6 +2,14 @@
 
 This fabled insect has translucent skin and emits a curious pale light.
 
-raritiy: Legendary
+item_can_sell: True
 
-sell value: 60 Mews
+item_mews_value: 60
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 10000
+
+item_uid: Lunar Butterfly

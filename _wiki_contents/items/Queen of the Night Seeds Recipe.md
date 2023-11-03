@@ -2,9 +2,17 @@
 
 Grow Queen of the Night flowers in your garden with these seeds! These beautiful flowers are delicate and beautiful to behold.
 
-raritiy: Legendary
+item_can_sell: False
 
-sell value: 0 Mews
+item_mews_value: 0
+
+item_mole_cash_value: 0
+
+item_rarity: Legendary
+
+item_sorting_priority: 22013
+
+item_uid: Queen of the Night Seeds Recipe
 
 # shops selling Queen Seeds Recipe:
 

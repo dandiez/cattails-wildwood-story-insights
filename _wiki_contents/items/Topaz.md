@@ -2,6 +2,14 @@
 
 A gleaming yellow gemstone.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 2 Mews
+item_mews_value: 2
+
+item_mole_cash_value: 6
+
+item_rarity: Uncommon
+
+item_sorting_priority: 12600
+
+item_uid: Topaz

@@ -2,6 +2,16 @@
 
 A perfectly spherical stone, rounded and sanded until its smooth surface shines. This item may be donated to your stone stockpile.
 
-raritiy: Uncommon
+item_can_sell: True
 
-sell value: 12 Mews
+item_mews_value: 12
+
+item_mole_cash_value: 0
+
+item_rarity: Uncommon
+
+item_sorting_priority: 12104
+
+item_stone_resource_value: 1
+
+item_uid: Polished Stone

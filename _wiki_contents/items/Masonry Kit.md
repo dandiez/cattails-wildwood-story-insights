@@ -2,9 +2,17 @@
 
 A bundle of tools and materials for stonework. Can be used to repair a broken staircase in the mines.
 
-raritiy: Common
+item_can_sell: True
 
-sell value: 5 Mews
+item_mews_value: 5
+
+item_mole_cash_value: 0
+
+item_rarity: Common
+
+item_sorting_priority: 18292
+
+item_uid: Masonry Kit
 
 # shops selling Masonry Kit:
 
