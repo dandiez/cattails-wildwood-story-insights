@@ -35,3 +35,9 @@ NPCs that love Peppermint: Alabaster, Bubby, Buttercup, Coco, Phantom, Spark
 NPCs that like Peppermint: Aster, Beau, Bob, Jag, #kitten_three_name#
 
 NPCs that dislike Peppermint: Rosemary, Forest Guardian
+
+# Recipes
+
+Recipes that consume Peppermint:
+
+1 Peppermint [Poor] --> 1 Peppermint Seeds

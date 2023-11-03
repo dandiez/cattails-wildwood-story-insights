@@ -39,3 +39,15 @@ NPCs that dislike Foxglove: Bob, Bubby, Coco
 NPCs that hate Foxglove: Elli
 
 A gift from: Krampy
+
+# Recipes
+
+Recipes that consume Foxglove:
+
+1 Foxglove [Good] + 1 Snake Lily [Good] + 1 Coral --> 1 Battle Potion
+
+3 Foxglove [Good] + 3 Snake Lily [Good] + 3 Coral --> 3 Battle Potion
+
+9 Foxglove [Good] + 9 Snake Lily [Good] + 9 Coral --> 9 Battle Potion
+
+1 Foxglove [Good] --> 6 Foxglove Seeds

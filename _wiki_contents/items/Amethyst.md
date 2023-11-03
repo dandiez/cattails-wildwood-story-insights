@@ -29,3 +29,9 @@ NPCs that dislike Amethyst: Buttercup, Garlic, Krampy, Phantom
 NPCs that hate Amethyst: Lux, Rosemary, Spark
 
 A gift from: Jag, #kitten_one_name#, Umbra
+
+# Recipes
+
+Recipes that consume Amethyst:
+
+3 Sapphire + 6 Amethyst --> 1 Magnet Upgrade II

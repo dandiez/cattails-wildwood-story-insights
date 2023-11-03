@@ -41,3 +41,17 @@ NPCs that dislike Marigold: Jag
 NPCs that hate Marigold: Elli, Rosemary, Umbra
 
 A gift from: Buttercup, Coco, Krampy, Zephyr
+
+# Recipes
+
+Recipes that consume Marigold:
+
+2 Goldenseal [Good] + 2 Marigold [Good] + 1 Voidmarrow --> 1 Elixir of Healing
+
+6 Goldenseal [Good] + 6 Marigold [Good] + 3 Voidmarrow --> 3 Elixir of Healing
+
+18 Goldenseal [Good] + 18 Marigold [Good] + 9 Voidmarrow --> 9 Elixir of Healing
+
+1 Marigold [Good] --> 6 Marigold Seeds
+
+1 Honeycomb + 1 Marigold [Good] --> 1 Unidentified Curio

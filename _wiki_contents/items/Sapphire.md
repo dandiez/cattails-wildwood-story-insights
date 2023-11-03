@@ -25,3 +25,9 @@ NPCs that dislike Sapphire: Buttercup, Garlic, Krampy, Phantom
 NPCs that hate Sapphire: Rosemary
 
 A gift from: Glimmer, Jag, #kitten_one_name#
+
+# Recipes
+
+Recipes that consume Sapphire:
+
+3 Sapphire + 6 Amethyst --> 1 Magnet Upgrade II

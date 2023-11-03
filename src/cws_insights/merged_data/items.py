@@ -11,7 +11,12 @@ from cws_insights.schemas.items_meta import ItemMeta as Item
 from cws_insights.schemas.items_lang_english_lang import (
     ItemLangEnglishLang as ItemLangEnglish,
 )
-from cws_insights.schemas.items_recipes_meta import ItemRecipeMeta as ItemRecipe
+from cws_insights.schemas.items_recipes_meta import (
+    ItemRecipeMeta as ItemRecipe,
+    ItemRecipeMeta_RecipeVariant3,
+    ItemRecipeMeta_RecipeVariant2,
+    ItemRecipeMeta_RecipeVariant1,
+)
 from cws_insights.schemas.map_region import MapRegion as Map
 from cws_insights.schemas.npcs_meta import NpcMeta as Npc
 from cws_insights.schemas.npcs_shops_meta import (
@@ -57,10 +62,17 @@ class ItemFromHerbs:
     winter: bool = False
 
 
+RecipeVariant = (
+    ItemRecipeMeta_RecipeVariant1
+    | ItemRecipeMeta_RecipeVariant2
+    | ItemRecipeMeta_RecipeVariant3
+)
+
+
 @dataclasses.dataclass
 class ItemFromItemRecipe:
-    as_input: list[ItemRecipe] = dataclasses.field(default_factory=list)
-    as_output: list[ItemRecipe] = dataclasses.field(default_factory=list)
+    as_input: list[RecipeVariant] = dataclasses.field(default_factory=list)
+    as_output: list[RecipeVariant] = dataclasses.field(default_factory=list)
 
 
 @dataclasses.dataclass
@@ -213,6 +225,22 @@ def _get_shop_data(npcs_shops_meta: dict[Uid, NpcShop], all_item_plus: AllItemPl
             )
 
 
+def _merge_recipe_data(
+    items_recipes_meta: dict[UidStem, ItemRecipe], all_item_plus: AllItemPlus
+):
+    for recipe_uid, recipe in items_recipes_meta.items():
+        for variant in [
+            recipe.recipe_variant_1,
+            recipe.recipe_variant_2,
+            recipe.recipe_variant_3,
+        ]:
+            if variant is None:
+                continue
+            for inp in variant.input:
+                all_item_plus[inp.uid].from_recipes.as_input.append(variant)
+            all_item_plus[variant.output.uid].from_recipes.as_output.append(variant)
+
+
 def get_merged_item_data(all_resource_data: AllResourceData):
     double_check_assumptions(all_resource_data)
 
@@ -234,6 +262,7 @@ def get_merged_item_data(all_resource_data: AllResourceData):
     _get_map_data(all_resource_data.map_region, all_item_plus_with_groups)
     _get_herb_data(all_resource_data.herbs_meta, all_item_plus_with_groups)
     _get_shop_data(all_resource_data.npcs_shops_meta, all_item_plus)
+    _merge_recipe_data(all_resource_data.items_recipes_meta, all_item_plus)
     return all_item_plus
 
 
@@ -273,4 +302,3 @@ def _merge_with_item_lang_data(
             print(
                 f"skipping over lang with uid {uid}, which does not have a matching item."
             )
-

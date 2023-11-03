@@ -25,3 +25,13 @@ NPCs that dislike Polished Stone: Krampy, Salem
 NPCs that hate Polished Stone: Jack
 
 A gift from: Bubby, #kitten_four_name#
+
+# Recipes
+
+Recipes that produce Polished Stone:
+
+9 Rock Debris + 1 Silver Ore --> 1 Polished Stone
+
+6 Granite + 1 Bismuth --> 1 Polished Stone
+
+6 Pitlode --> 1 Polished Stone

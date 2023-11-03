@@ -39,3 +39,9 @@ NPCs that dislike Foxglove: Bob, Bubby, Coco
 NPCs that hate Foxglove: Elli
 
 A gift from: Champ, Coco, Jack, Zephyr
+
+# Recipes
+
+Recipes that consume Foxglove:
+
+1 Foxglove [Poor] --> 1 Foxglove Seeds

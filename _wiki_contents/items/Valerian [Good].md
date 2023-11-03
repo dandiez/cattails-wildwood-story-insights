@@ -37,3 +37,9 @@ NPCs that like Valerian: Basil, Krampy, Salem, Talon, Zephyr
 NPCs that dislike Valerian: Jack, #kitten_one_name#
 
 NPCs that hate Valerian: Charlotte, Jag
+
+# Recipes
+
+Recipes that consume Valerian:
+
+1 Valerian [Good] --> 6 Valerian Seeds

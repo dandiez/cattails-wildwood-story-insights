@@ -23,3 +23,11 @@ NPCs that dislike Silver Ore: Bob, Bubby, Coco, Fliss, Jag, #kitten_three_name#,
 NPCs that hate Silver Ore: Alabaster, Aster, Basil, Beau, Champ, Garlic, Jack, #kitten_one_name#, Lux, Phantom, Rosemary, Salem, Spark, Wildwood Champion
 
 A gift from: Salem
+
+# Recipes
+
+Recipes that consume Silver Ore:
+
+3 Silver Ore + 6 Topaz --> 1 Magnet Upgrade I
+
+9 Rock Debris + 1 Silver Ore --> 1 Polished Stone

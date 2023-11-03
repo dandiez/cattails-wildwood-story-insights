@@ -21,3 +21,9 @@ NPCs that like Gloomshard: Aurora, Garlic, Krampy, Umbra
 NPCs that dislike Gloomshard: Alabaster, Buttercup, Charlotte, Ember, Phantom, Forest Guardian, Zephyr
 
 NPCs that hate Gloomshard: Aurora, Bob, Champ, Lainey, Lux, Rosemary, Spark, Talon
+
+# Recipes
+
+Recipes that consume Gloomshard:
+
+1 Brightstone + 1 Shimmercrag + 3 Gloomshard --> 1 Supply Trove

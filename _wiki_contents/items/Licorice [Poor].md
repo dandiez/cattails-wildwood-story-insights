@@ -37,3 +37,11 @@ NPCs that dislike Licorice: Bubby, #kitten_three_name#, Lainey, Talon, Wildwood 
 NPCs that hate Licorice: Aster, Falcon
 
 A gift from: Aurora, Basil, Spark
+
+# Recipes
+
+Recipes that consume Licorice:
+
+9 Licorice [Poor] --> 1 Dried Roots
+
+1 Licorice [Poor] --> 1 Licorice Seeds

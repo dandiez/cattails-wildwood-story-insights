@@ -43,3 +43,11 @@ NPCs that dislike Daisy: Alabaster, Jack, #kitten_four_name#, Wildwood Champion
 NPCs that hate Daisy: Basil, Bob, Garlic, Talon
 
 A gift from: Buttercup, #kitten_two_name#, Zephyr
+
+# Recipes
+
+Recipes that consume Daisy:
+
+1 Daisy --> 3 Daisy Seeds
+
+1 Daisy --> 6 Plant Food

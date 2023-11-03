@@ -25,3 +25,9 @@ NPCs that dislike Amber: Buttercup, Garlic, Krampy, Phantom
 NPCs that hate Amber: Rosemary
 
 A gift from: Basil, Zephyr
+
+# Recipes
+
+Recipes that consume Amber:
+
+3 Amber + 6 Quartz --> 1 Headlamp Upgrade II

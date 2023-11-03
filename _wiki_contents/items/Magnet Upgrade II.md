@@ -13,3 +13,9 @@ item_rarity: Legendary
 item_sorting_priority: 17810
 
 item_uid: Magnet Upgrade II
+
+# Recipes
+
+Recipes that produce Greedy Paw Upgrade II:
+
+3 Sapphire + 6 Amethyst --> 1 Magnet Upgrade II

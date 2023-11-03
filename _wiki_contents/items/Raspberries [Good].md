@@ -35,3 +35,9 @@ NPCs that love Raspberries: Elli, Falcon, Lux
 NPCs that like Raspberries: Buttercup, Fliss, #kitten_three_name#, Umbra
 
 A gift from: Elli
+
+# Recipes
+
+Recipes that consume Raspberries:
+
+1 Raspberries [Good] --> 6 Raspberries Seeds

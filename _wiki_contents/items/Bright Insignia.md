@@ -25,3 +25,9 @@ NPCs that like Bright Insignia: Alabaster, Ember, Zephyr
 NPCs that dislike Bright Insignia: Garlic, Glimmer
 
 NPCs that hate Bright Insignia: Charlotte, Umbra
+
+# Recipes
+
+Recipes that produce Bright Insignia:
+
+1 Brightstone + 3 Shimmercrag --> 1 Bright Insignia

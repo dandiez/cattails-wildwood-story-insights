@@ -25,3 +25,11 @@ molay_shop_name sells it for 2000 mole cash.
 NPCs that love Alexandrite: Alabaster, Aurora, Bob, Champ, Coco, Elli, Ember, Garlic, Glimmer, Jag, Krampy, Rosemary, Salem, Spark, Forest Guardian, Wildwood Champion, Zephyr
 
 NPCs that like Alexandrite: Aster, Fliss, Umbra
+
+# Recipes
+
+Recipes that consume Alexandrite:
+
+1 Alexandrite --> 3 Dynamite
+
+1 Alexandrite + 3 Malachite + 3 Aquamarine --> 1 Supply Trove

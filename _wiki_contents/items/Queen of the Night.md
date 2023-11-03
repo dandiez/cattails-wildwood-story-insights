@@ -41,3 +41,11 @@ NPCs that dislike Queen of the Night: Jack, #kitten_four_name#
 NPCs that hate Queen of the Night: Buttercup
 
 A gift from: Charlotte
+
+# Recipes
+
+Recipes that consume Queen of the Night:
+
+1 Queen of the Night --> 3 Queen of the Night Seeds
+
+2 Queen of the Night --> 1 Unidentified Curio

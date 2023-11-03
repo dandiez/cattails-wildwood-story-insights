@@ -23,3 +23,9 @@ NPCs that like Malachite: Alabaster, Aurora, Champ, Coco, Garlic, Spark, Umbra
 NPCs that dislike Malachite: Fliss
 
 NPCs that hate Malachite: Jag, Talon
+
+# Recipes
+
+Recipes that consume Malachite:
+
+1 Alexandrite + 3 Malachite + 3 Aquamarine --> 1 Supply Trove

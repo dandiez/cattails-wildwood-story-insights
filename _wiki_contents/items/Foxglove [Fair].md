@@ -43,3 +43,9 @@ NPCs that dislike Foxglove: Bob, Bubby, Coco
 NPCs that hate Foxglove: Elli
 
 A gift from: Talon
+
+# Recipes
+
+Recipes that consume Foxglove:
+
+1 Foxglove [Fair] --> 3 Foxglove Seeds

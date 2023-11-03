@@ -23,3 +23,15 @@ NPCs that love Brightstone: Alabaster, Aurora, Buttercup, Champ, Coco, Elli, Emb
 NPCs that like Brightstone: Aster, Jag, Phantom, Talon
 
 NPCs that dislike Brightstone: Bob
+
+# Recipes
+
+Recipes that consume Brightstone:
+
+1 Brightstone + 3 Shimmercrag --> 1 Bright Insignia
+
+1 Brightstone --> 3 Farsighted Orb
+
+1 Brightstone + 1 Shimmercrag + 3 Gloomshard --> 1 Supply Trove
+
+1 Brightstone --> 1 Wretched Talisman

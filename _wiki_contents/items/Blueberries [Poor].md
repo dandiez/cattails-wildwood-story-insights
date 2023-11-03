@@ -37,3 +37,9 @@ NPCs that like Blueberries: Alabaster, Charlotte, Elli, Ember, Lux
 NPCs that dislike Blueberries: Aster, Aurora, Champ, Glimmer
 
 A gift from: Champ
+
+# Recipes
+
+Recipes that consume Blueberries:
+
+1 Blueberries [Poor] --> 1 Blueberries Seeds

@@ -41,3 +41,9 @@ NPCs that like Snake Lily: Jack, Jag, Krampy, Zephyr
 NPCs that dislike Snake Lily: Aurora, Coco, Elli, #kitten_two_name#
 
 NPCs that hate Snake Lily: Fliss, Wildwood Champion
+
+# Recipes
+
+Recipes that consume Snake Lily:
+
+1 Snake Lily [Fair] --> 3 Snake Lily Seeds

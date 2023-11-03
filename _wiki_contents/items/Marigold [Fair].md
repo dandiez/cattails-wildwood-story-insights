@@ -45,3 +45,9 @@ NPCs that dislike Marigold: Jag
 NPCs that hate Marigold: Elli, Rosemary, Umbra
 
 A gift from: Basil, Charlotte, Talon, Zephyr
+
+# Recipes
+
+Recipes that consume Marigold:
+
+1 Marigold [Fair] --> 3 Marigold Seeds

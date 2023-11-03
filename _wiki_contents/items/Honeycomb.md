@@ -27,3 +27,13 @@ NPCs that dislike Honeycomb: Falcon
 NPCs that hate Honeycomb: #kitten_two_name#
 
 A gift from: Alabaster, Charlotte, Ember, #kitten_one_name#, Lainey
+
+# Recipes
+
+Recipes that produce Honeycomb:
+
+3 Unidentified Curio --> 1 Honeycomb
+
+Recipes that consume Honeycomb:
+
+1 Honeycomb + 1 Marigold [Good] --> 1 Unidentified Curio

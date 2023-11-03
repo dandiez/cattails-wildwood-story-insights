@@ -39,3 +39,9 @@ NPCs that dislike Valerian: Jack, #kitten_one_name#
 NPCs that hate Valerian: Charlotte, Jag
 
 A gift from: Buttercup
+
+# Recipes
+
+Recipes that consume Valerian:
+
+1 Valerian [Poor] --> 1 Valerian Seeds

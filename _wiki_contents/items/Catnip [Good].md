@@ -47,3 +47,9 @@ NPCs that like Catnip: Aster, Basil, Champ, Charlotte, Garlic, #kitten_two_name#
 NPCs that dislike Catnip: Glimmer
 
 A gift from: Elli, Krampy
+
+# Recipes
+
+Recipes that consume Catnip:
+
+1 Catnip [Good] --> 6 Catnip Seeds

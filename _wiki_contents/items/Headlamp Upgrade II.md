@@ -13,3 +13,9 @@ item_rarity: Legendary
 item_sorting_priority: 17820
 
 item_uid: Headlamp Upgrade II
+
+# Recipes
+
+Recipes that produce Headlamp Upgrade II:
+
+3 Amber + 6 Quartz --> 1 Headlamp Upgrade II

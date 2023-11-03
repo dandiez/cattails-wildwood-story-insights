@@ -21,3 +21,13 @@ NPCs that dislike Catnip Seeds: Alabaster, Basil, Phantom
 NPCs that hate Catnip Seeds: Aster, Aurora, Beau, Bob, Bubby, Buttercup, Champ, Charlotte, Coco, Elli, Ember, Falcon, Fliss, Garlic, Glimmer, Jack, Jag, #kitten_four_name#, #kitten_three_name#, #kitten_two_name#, Krampy, Lainey, Lux, Rosemary, Spark, Talon, Forest Guardian, Zephyr
 
 A gift from: Alabaster
+
+# Recipes
+
+Recipes that produce Catnip Seeds:
+
+1 Catnip [Poor] --> 1 Catnip Seeds
+
+1 Catnip [Fair] --> 3 Catnip Seeds
+
+1 Catnip [Good] --> 6 Catnip Seeds

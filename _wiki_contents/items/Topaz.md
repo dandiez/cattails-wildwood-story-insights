@@ -25,3 +25,11 @@ NPCs that dislike Topaz: Buttercup, Charlotte, Garlic, Krampy, Phantom
 NPCs that hate Topaz: Alabaster, Basil, Beau, Jack, Lux, Rosemary, Salem, Spark
 
 A gift from: Aurora, Bob, Champ, Ember, Jag, #kitten_two_name#
+
+# Recipes
+
+Recipes that consume Topaz:
+
+3 Silver Ore + 6 Topaz --> 1 Magnet Upgrade I
+
+9 Rock Debris + 9 Iron Ore + 9 Topaz --> 1 Unidentified Curio

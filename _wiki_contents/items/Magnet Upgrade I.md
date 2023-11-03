@@ -13,3 +13,9 @@ item_rarity: Legendary
 item_sorting_priority: 17810
 
 item_uid: Magnet Upgrade I
+
+# Recipes
+
+Recipes that produce Greedy Paw Upgrade I:
+
+3 Silver Ore + 6 Topaz --> 1 Magnet Upgrade I

@@ -49,3 +49,9 @@ NPCs that dislike Snake Lily: Aurora, Coco, Elli, #kitten_two_name#
 NPCs that hate Snake Lily: Fliss, Wildwood Champion
 
 A gift from: Beau, Elli
+
+# Recipes
+
+Recipes that consume Snake Lily:
+
+1 Snake Lily [Poor] --> 1 Snake Lily Seeds

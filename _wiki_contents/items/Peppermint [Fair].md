@@ -41,3 +41,9 @@ NPCs that like Peppermint: Aster, Beau, Bob, Jag, #kitten_three_name#
 NPCs that dislike Peppermint: Rosemary, Forest Guardian
 
 A gift from: Coco, Ember, Jag, Phantom
+
+# Recipes
+
+Recipes that consume Peppermint:
+
+1 Peppermint [Fair] --> 3 Peppermint Seeds

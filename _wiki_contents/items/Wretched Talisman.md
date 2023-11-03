@@ -23,3 +23,13 @@ NPCs that like Wretched Talisman: Jag
 NPCs that dislike Wretched Talisman: Bob, Garlic, #kitten_three_name#
 
 NPCs that hate Wretched Talisman: Alabaster, Aurora, Bubby, Buttercup, #kitten_two_name#, Lainey, Forest Guardian, Wildwood Champion
+
+# Recipes
+
+Recipes that produce Wretched Talisman:
+
+2 Ruby + 6 Iron Ore + 18 Voidmarrow --> 1 Wretched Talisman
+
+72 Voidmarrow --> 1 Wretched Talisman
+
+1 Brightstone --> 1 Wretched Talisman

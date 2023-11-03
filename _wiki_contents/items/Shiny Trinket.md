@@ -21,3 +21,9 @@ ember_shop_name sells it for 200 mews.
   can buy it when meeting conditions: 
 
     - at least 25 have passed
+
+# Recipes
+
+Recipes that produce Shiny Trinket:
+
+3 Diamond + 9 Gold Ore --> 1 Shiny Trinket

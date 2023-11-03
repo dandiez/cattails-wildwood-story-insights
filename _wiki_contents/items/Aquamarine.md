@@ -23,3 +23,11 @@ NPCs that like Aquamarine: Rosemary, Forest Guardian, Zephyr
 NPCs that dislike Aquamarine: Charlotte, Glimmer
 
 NPCs that hate Aquamarine: Champ, Elli, Fliss, Talon
+
+# Recipes
+
+Recipes that consume Aquamarine:
+
+1 Bismuth + 1 Platinum Ore + 1 Aquamarine --> 1 Dynamite
+
+1 Alexandrite + 3 Malachite + 3 Aquamarine --> 1 Supply Trove

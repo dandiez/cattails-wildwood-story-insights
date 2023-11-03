@@ -37,3 +37,9 @@ NPCs that like Lavender: Aurora, #kitten_one_name#, Rosemary
 NPCs that dislike Lavender: Jack, #kitten_four_name#
 
 A gift from: Aurora, Phantom, Zephyr
+
+# Recipes
+
+Recipes that consume Lavender:
+
+1 Lavender [Fair] --> 3 Lavender Seeds

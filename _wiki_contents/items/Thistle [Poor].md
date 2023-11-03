@@ -39,3 +39,9 @@ NPCs that dislike Thistle: Ember, Rosemary
 NPCs that hate Thistle: Charlotte, Coco
 
 A gift from: Zephyr
+
+# Recipes
+
+Recipes that consume Thistle:
+
+1 Thistle [Poor] --> 1 Thistle Seeds

@@ -39,3 +39,9 @@ NPCs that dislike Thistle: Ember, Rosemary
 NPCs that hate Thistle: Charlotte, Coco
 
 A gift from: Garlic, #kitten_three_name#
+
+# Recipes
+
+Recipes that consume Thistle:
+
+1 Thistle [Fair] --> 3 Thistle Seeds

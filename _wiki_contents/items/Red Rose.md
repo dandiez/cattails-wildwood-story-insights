@@ -33,3 +33,9 @@ ember_shop_name sells it for 50 mews.
   can buy it when meeting conditions: 
 
     - at least 15 have passed
+
+# Recipes
+
+Recipes that consume Red Rose:
+
+1 Red Rose --> 3 Red Rose Seeds

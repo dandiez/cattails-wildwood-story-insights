@@ -39,3 +39,9 @@ NPCs that dislike Blackberries: Phantom
 NPCs that hate Blackberries: Glimmer, Forest Guardian
 
 A gift from: Bob
+
+# Recipes
+
+Recipes that consume Blackberries:
+
+1 Blackberries [Good] --> 6 Blackberries Seeds

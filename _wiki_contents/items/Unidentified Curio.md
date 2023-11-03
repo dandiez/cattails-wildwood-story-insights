@@ -39,3 +39,21 @@ NPCs that love Unidentified Curio: Aster, Aurora, Basil, Beau, Bubby, Glimmer, #
 NPCs that like Unidentified Curio: Umbra
 
 A gift from: Bubby, #kitten_four_name#, #kitten_three_name#
+
+# Recipes
+
+Recipes that produce Unidentified Curio:
+
+2 Queen of the Night --> 1 Unidentified Curio
+
+1 Honeycomb + 1 Marigold [Good] --> 1 Unidentified Curio
+
+9 Rock Debris + 9 Iron Ore + 9 Topaz --> 1 Unidentified Curio
+
+Recipes that consume Unidentified Curio:
+
+1 Unidentified Curio --> 1 Gift Box
+
+1 Unidentified Curio --> 3 Gold Ore
+
+3 Unidentified Curio --> 1 Honeycomb

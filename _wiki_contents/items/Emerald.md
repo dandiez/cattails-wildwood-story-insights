@@ -25,3 +25,9 @@ NPCs that dislike Emerald: Buttercup, Garlic, Krampy
 NPCs that hate Emerald: Rosemary
 
 A gift from: Glimmer
+
+# Recipes
+
+Recipes that consume Emerald:
+
+3 Diamond + 6 Emerald --> 1 Magnet Upgrade III

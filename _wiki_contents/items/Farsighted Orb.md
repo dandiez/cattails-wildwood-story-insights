@@ -23,3 +23,11 @@ NPCs that love Farsighted Orb: Alabaster, Glimmer, Jack, Salem, Forest Guardian
 NPCs that like Farsighted Orb: Basil, Charlotte, Umbra, Zephyr
 
 NPCs that dislike Farsighted Orb: Buttercup
+
+# Recipes
+
+Recipes that produce Farsighted Orb:
+
+9 Shale + 6 Abyssal Ore --> 1 Farsighted Orb
+
+1 Brightstone --> 3 Farsighted Orb

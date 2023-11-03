@@ -13,3 +13,9 @@ item_rarity: Legendary
 item_sorting_priority: 17810
 
 item_uid: Headlamp Upgrade I
+
+# Recipes
+
+Recipes that produce Headlamp Upgrade I:
+
+3 Iron Ore + 6 Quartz --> 1 Headlamp Upgrade I

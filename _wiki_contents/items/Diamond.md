@@ -29,3 +29,11 @@ NPCs that like Diamond: Alabaster, Aster, Bob, Champ, Talon, Wildwood Champion, 
 NPCs that dislike Diamond: Phantom
 
 A gift from: Glimmer, Krampy
+
+# Recipes
+
+Recipes that consume Diamond:
+
+3 Diamond + 6 Emerald --> 1 Magnet Upgrade III
+
+3 Diamond + 9 Gold Ore --> 1 Shiny Trinket

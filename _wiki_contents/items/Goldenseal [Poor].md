@@ -39,3 +39,9 @@ NPCs that dislike Goldenseal: Basil, Elli, Glimmer
 NPCs that hate Goldenseal: Aster
 
 A gift from: Ember, #kitten_one_name#, Spark
+
+# Recipes
+
+Recipes that consume Goldenseal:
+
+1 Goldenseal [Poor] --> 1 Goldenseal Seeds

@@ -25,3 +25,13 @@ molo_shop_name sells it for 50 mole cash.
 NPCs that dislike Masonry Kit: #kitten_three_name#
 
 NPCs that hate Masonry Kit: Rosemary, Zephyr
+
+# Recipes
+
+Recipes that produce Masonry Kit:
+
+9 Rock Debris + 3 Iron Ore --> 1 Masonry Kit
+
+9 Granite + 2 Platinum Ore --> 1 Masonry Kit
+
+9 Shale + 1 Abyssal Ore --> 1 Masonry Kit

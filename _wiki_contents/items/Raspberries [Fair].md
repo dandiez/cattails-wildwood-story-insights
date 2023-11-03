@@ -39,3 +39,9 @@ NPCs that love Raspberries: Falcon, Lux
 NPCs that like Raspberries: Buttercup, Elli, Fliss
 
 A gift from: Lainey
+
+# Recipes
+
+Recipes that consume Raspberries:
+
+1 Raspberries [Fair] --> 3 Raspberries Seeds

@@ -43,3 +43,9 @@ NPCs that dislike Valerian: Jack, #kitten_one_name#
 NPCs that hate Valerian: Charlotte, Jag
 
 A gift from: #kitten_two_name#
+
+# Recipes
+
+Recipes that consume Valerian:
+
+1 Valerian [Fair] --> 3 Valerian Seeds

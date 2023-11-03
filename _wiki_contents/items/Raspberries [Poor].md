@@ -37,3 +37,9 @@ NPCs that like Raspberries: Elli
 NPCs that dislike Raspberries: Aurora
 
 A gift from: Champ, Spark
+
+# Recipes
+
+Recipes that consume Raspberries:
+
+1 Raspberries [Poor] --> 1 Raspberries Seeds

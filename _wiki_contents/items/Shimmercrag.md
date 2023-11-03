@@ -23,3 +23,11 @@ NPCs that like Shimmercrag: Aster, Aurora, Coco, Ember, Garlic, Forest Guardian,
 NPCs that dislike Shimmercrag: Charlotte, Jag
 
 NPCs that hate Shimmercrag: Aurora, Bob, Lainey, Phantom
+
+# Recipes
+
+Recipes that consume Shimmercrag:
+
+1 Brightstone + 3 Shimmercrag --> 1 Bright Insignia
+
+1 Brightstone + 1 Shimmercrag + 3 Gloomshard --> 1 Supply Trove

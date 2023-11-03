@@ -25,3 +25,9 @@ NPCs that dislike Mystery Seeds: Alabaster, Basil, Phantom
 NPCs that hate Mystery Seeds: Aster, Aurora, Beau, Bob, Bubby, Buttercup, Champ, Charlotte, Coco, Elli, Ember, Fliss, Garlic, Glimmer, Jack, Jag, #kitten_four_name#, #kitten_three_name#, #kitten_two_name#, Krampy, Lainey, Rosemary, Spark, Talon, Forest Guardian, Zephyr
 
 A gift from: Lux
+
+# Recipes
+
+Recipes that produce Mystery Seeds:
+
+1 Gold Ore + 1 Plant Food --> 1 Mystery Seeds

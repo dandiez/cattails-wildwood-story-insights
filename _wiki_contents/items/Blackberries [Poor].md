@@ -39,3 +39,9 @@ NPCs that dislike Blackberries: Aurora, Phantom
 NPCs that hate Blackberries: Glimmer, Forest Guardian
 
 A gift from: Bubby
+
+# Recipes
+
+Recipes that consume Blackberries:
+
+1 Blackberries [Poor] --> 1 Blackberries Seeds
