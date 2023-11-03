@@ -111,16 +111,73 @@ class ItemPlusGroup:
 AllItemPlusWithGroups: TypeAlias = dict[Uid, ItemPlus | ItemPlusGroup]
 
 
-def get_stem_from_uid(uid: Uid) -> UidStem:
-    return uid.lower().replace(" ", "").replace("[", "").replace("]", "")
+def get_merged_item_data(all_resource_data: AllResourceData):
+    _double_check_assumptions(all_resource_data)
+    all_items_indexed_by_uid = {
+        item.item_uid: item
+        for item in all_resource_data.items_meta.values()
+        if item.item_uid is not None
+    }
+    all_item_plus = {
+        item.item_uid: ItemPlus(item=item)
+        for item in all_items_indexed_by_uid.values()
+        if item.item_uid is not None
+    }
+    grouped_items_by_group_id = _get_grouped_items(all_item_plus)
+    _merge_item_lang(all_resource_data.items_lang_english_lang, all_item_plus)
+    _merge_sprite(all_item_plus)
+    _merge_npc(all_resource_data.npcs_meta, all_item_plus)
+    all_item_plus_with_groups = grouped_items_by_group_id | all_item_plus
+    _merge_map_regions(all_resource_data.map_region, all_item_plus_with_groups)
+    _merge_herbs(all_resource_data.herbs_meta, all_item_plus_with_groups)
+    _merge_shop(all_resource_data.npcs_shops_meta, all_item_plus)
+    _merge_recipe(all_resource_data.items_recipes_meta, all_item_plus)
+    return all_item_plus
+
+def _double_check_assumptions(all_resource_data: AllResourceData):
+    for stem, item in all_resource_data.items_meta.items():
+        if item.item_uid is None:
+            continue
+        assert (
+            stem == get_stem_from_uid(item.item_uid) + "item"
+        ), f"{stem} is not equal {get_stem_from_uid(item.item_uid)}"
 
 
-def _get_sprite(all_item_plus: AllItemPlus):
+def _get_grouped_items(all_item_plus):
+    groups = defaultdict(list)
+    for item_uid, item_plus in all_item_plus.items():
+        for quality in ["[Poor]", "[Fair]", "[Good]"]:
+            if quality in item_uid:
+                group_id = item_uid.split(quality)[0].strip()
+                groups[group_id].append(item_plus)
+    grouped_items_by_group_id = {
+        group_id: ItemPlusGroup(group_list) for group_id, group_list in groups.items()
+    }
+    return grouped_items_by_group_id
+
+
+def _merge_item_lang(
+    items_lang: dict[UidStem, ItemLangEnglish], item_plus: AllItemPlus
+):
+    all_items_lang_indexed_by_uid = {
+        item_lang.item_uid_do_not_translate: item_lang
+        for item_lang in items_lang.values()
+    }
+    for uid, item_lang in all_items_lang_indexed_by_uid.items():
+        try:
+            item_plus[uid].item_lang = item_lang
+        except KeyError:
+            print(
+                f"skipping over lang with uid {uid}, which does not have a matching item."
+            )
+
+def _merge_sprite(all_item_plus: AllItemPlus):
     for i in all_item_plus.values():
         i.sprite = get_stem_from_uid(i.item.item_uid) + "_wildwood_story.png"
 
 
-def _get_npc_data(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
+
+def _merge_npc(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
     for npc_uid, npc in npcs.items():
         if npc.npc_item_loves is not Undefined:
             for item_uid in npc.npc_item_loves:
@@ -139,26 +196,7 @@ def _get_npc_data(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
             for item_uid in npc.npc_item_gifts:
                 all_item_plus[item_uid].from_npc.npc_gifts.append(npc_uid)
 
-
-def apply_function_to_item_plus_with_groups(
-    item_or_group: ItemPlus | ItemPlusGroup, function_to_apply: Callable
-):
-    if isinstance(item_or_group, ItemPlus):
-        function_to_apply(item_or_group)
-    if isinstance(item_or_group, ItemPlusGroup):
-        for item in item_or_group._contained:
-            function_to_apply(item)
-
-
-def yield_items_in_itemplus_or_group(item_or_group: ItemPlus | ItemPlusGroup):
-    if isinstance(item_or_group, ItemPlus):
-        yield item_or_group
-    if isinstance(item_or_group, ItemPlusGroup):
-        for item in item_or_group._contained:
-            yield item
-
-
-def _get_map_data(
+def _merge_map_regions(
     map: dict[Uid, Map], all_item_plus_with_groups: AllItemPlusWithGroups
 ):
     for region in map.values():
@@ -172,7 +210,7 @@ def _get_map_data(
                 all_item_plus_with_groups[item_id].from_map.spawners.append(region)
 
 
-def _get_herb_data(
+def _merge_herbs(
     herbs_meta: dict[Uid, Herb], all_item_plus_with_groups: AllItemPlusWithGroups
 ):
     for herb_ui, herb in herbs_meta.items():
@@ -213,7 +251,7 @@ def _get_herb_data(
                 item.from_herbs.winter = True
 
 
-def _get_shop_data(npcs_shops_meta: dict[Uid, NpcShop], all_item_plus: AllItemPlus):
+def _merge_shop(npcs_shops_meta: dict[Uid, NpcShop], all_item_plus: AllItemPlus):
     for npc_shop_id, npc_shop in npcs_shops_meta.items():
         for shop_item in npc_shop.shop_items:
             lookup_name = POWER_POWS.get(shop_item.item_name, shop_item.item_name)
@@ -225,7 +263,7 @@ def _get_shop_data(npcs_shops_meta: dict[Uid, NpcShop], all_item_plus: AllItemPl
             )
 
 
-def _merge_recipe_data(
+def _merge_recipe(
     items_recipes_meta: dict[UidStem, ItemRecipe], all_item_plus: AllItemPlus
 ):
     for recipe_uid, recipe in items_recipes_meta.items():
@@ -241,64 +279,26 @@ def _merge_recipe_data(
             all_item_plus[variant.output.uid].from_recipes.as_output.append(variant)
 
 
-def get_merged_item_data(all_resource_data: AllResourceData):
-    double_check_assumptions(all_resource_data)
-
-    all_items_indexed_by_uid = {
-        item.item_uid: item
-        for item in all_resource_data.items_meta.values()
-        if item.item_uid is not None
-    }
-    all_item_plus = {
-        item.item_uid: ItemPlus(item=item)
-        for item in all_items_indexed_by_uid.values()
-        if item.item_uid is not None
-    }
-    grouped_items_by_group_id = _get_grouped_items(all_item_plus)
-    _merge_with_item_lang_data(all_resource_data.items_lang_english_lang, all_item_plus)
-    _get_sprite(all_item_plus)
-    _get_npc_data(all_resource_data.npcs_meta, all_item_plus)
-    all_item_plus_with_groups = grouped_items_by_group_id | all_item_plus
-    _get_map_data(all_resource_data.map_region, all_item_plus_with_groups)
-    _get_herb_data(all_resource_data.herbs_meta, all_item_plus_with_groups)
-    _get_shop_data(all_resource_data.npcs_shops_meta, all_item_plus)
-    _merge_recipe_data(all_resource_data.items_recipes_meta, all_item_plus)
-    return all_item_plus
+def get_stem_from_uid(uid: Uid) -> UidStem:
+    return uid.lower().replace(" ", "").replace("[", "").replace("]", "")
 
 
-def double_check_assumptions(all_resource_data: AllResourceData):
-    for stem, item in all_resource_data.items_meta.items():
-        if item.item_uid is None:
-            continue
-        assert (
-            stem == get_stem_from_uid(item.item_uid) + "item"
-        ), f"{stem} is not equal {get_stem_from_uid(item.item_uid)}"
-
-
-def _get_grouped_items(all_item_plus):
-    groups = defaultdict(list)
-    for item_uid, item_plus in all_item_plus.items():
-        for quality in ["[Poor]", "[Fair]", "[Good]"]:
-            if quality in item_uid:
-                group_id = item_uid.split(quality)[0].strip()
-                groups[group_id].append(item_plus)
-    grouped_items_by_group_id = {
-        group_id: ItemPlusGroup(group_list) for group_id, group_list in groups.items()
-    }
-    return grouped_items_by_group_id
-
-
-def _merge_with_item_lang_data(
-    items_lang: dict[UidStem, ItemLangEnglish], item_plus: AllItemPlus
+def apply_function_to_item_plus_with_groups(
+    item_or_group: ItemPlus | ItemPlusGroup, function_to_apply: Callable
 ):
-    all_items_lang_indexed_by_uid = {
-        item_lang.item_uid_do_not_translate: item_lang
-        for item_lang in items_lang.values()
-    }
-    for uid, item_lang in all_items_lang_indexed_by_uid.items():
-        try:
-            item_plus[uid].item_lang = item_lang
-        except KeyError:
-            print(
-                f"skipping over lang with uid {uid}, which does not have a matching item."
-            )
+    if isinstance(item_or_group, ItemPlus):
+        function_to_apply(item_or_group)
+    if isinstance(item_or_group, ItemPlusGroup):
+        for item in item_or_group._contained:
+            function_to_apply(item)
+
+
+def yield_items_in_itemplus_or_group(item_or_group: ItemPlus | ItemPlusGroup):
+    if isinstance(item_or_group, ItemPlus):
+        yield item_or_group
+    if isinstance(item_or_group, ItemPlusGroup):
+        for item in item_or_group._contained:
+            yield item
+
+
+
