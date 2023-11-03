@@ -13,3 +13,7 @@ item_rarity: Rare
 item_sorting_priority: 99913
 
 item_uid: Concave Curio
+
+# Gift guide
+
+NPCs that love Concave Curio: Aster, Aurora, Basil, Beau, Bubby, Glimmer, #kitten_four_name#, #kitten_one_name#, #kitten_three_name#, #kitten_two_name#, Lux, Salem

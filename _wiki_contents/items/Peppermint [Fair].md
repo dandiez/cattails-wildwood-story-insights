@@ -21,3 +21,13 @@ item_uid: Peppermint [Fair]
 # shops selling Peppermint:
 
 ember_shop_name sells it for 20 mews.
+
+# Gift guide
+
+NPCs that love Peppermint: Alabaster, Bubby, Buttercup, Coco, Phantom, Spark
+
+NPCs that like Peppermint: Aster, Beau, Bob, Jag, #kitten_three_name#
+
+NPCs that dislike Peppermint: Rosemary, Forest Guardian
+
+A gift from: Coco, Ember, Jag, Phantom

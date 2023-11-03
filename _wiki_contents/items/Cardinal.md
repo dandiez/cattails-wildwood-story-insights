@@ -17,3 +17,13 @@ item_rarity: Legendary
 item_sorting_priority: 2108
 
 item_uid: Cardinal
+
+# Gift guide
+
+NPCs that love Cardinal: Alabaster, Aster, Buttercup, Champ, Charlotte, Elli, Ember, Falcon, Jack, Jag, #kitten_one_name#, #kitten_two_name#, Krampy, Phantom, Salem, Spark, Talon, Forest Guardian, Wildwood Champion, Umbra
+
+NPCs that like Cardinal: Bob, Coco, #kitten_four_name#, Lainey, Zephyr
+
+NPCs that dislike Cardinal: Garlic
+
+A gift from: Ember

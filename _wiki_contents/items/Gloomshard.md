@@ -13,3 +13,11 @@ item_rarity: Common
 item_sorting_priority: 12623
 
 item_uid: Gloomshard
+
+# Gift guide
+
+NPCs that like Gloomshard: Aurora, Garlic, Krampy, Umbra
+
+NPCs that dislike Gloomshard: Alabaster, Buttercup, Charlotte, Ember, Phantom, Forest Guardian, Zephyr
+
+NPCs that hate Gloomshard: Aurora, Bob, Champ, Lainey, Lux, Rosemary, Spark, Talon

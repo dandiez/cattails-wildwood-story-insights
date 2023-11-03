@@ -17,3 +17,15 @@ item_rarity: Common
 item_sorting_priority: 4200
 
 item_uid: Licorice [Good]
+
+# Gift guide
+
+NPCs that love Licorice: Elli, Jag, #kitten_four_name#
+
+NPCs that like Licorice: Beau, Ember, Phantom, Rosemary
+
+NPCs that dislike Licorice: Bubby, #kitten_three_name#, Lainey, Talon, Wildwood Champion
+
+NPCs that hate Licorice: Aster, Falcon
+
+A gift from: Ember, #kitten_four_name#, Lainey, Lux

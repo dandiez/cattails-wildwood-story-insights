@@ -17,3 +17,13 @@ item_rarity: Rare
 item_sorting_priority: 7400
 
 item_uid: Catnip [Fair]
+
+# Gift guide
+
+NPCs that love Catnip: Alabaster, Beau, Bob, Buttercup, Coco, Elli, Ember, Falcon, Fliss, Jag, #kitten_four_name#, #kitten_one_name#, Krampy, Lainey, Phantom, Rosemary, Spark, Talon, Zephyr
+
+NPCs that like Catnip: Aster, Basil, Bubby, Charlotte, Garlic, #kitten_two_name#, Forest Guardian, Wildwood Champion
+
+NPCs that dislike Catnip: Glimmer
+
+A gift from: Buttercup, Garlic, Glimmer, Zephyr

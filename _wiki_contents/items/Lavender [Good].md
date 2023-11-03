@@ -25,3 +25,13 @@ coco_festival_shop_name sells it for 3 festival tokens.
   can buy it when meeting conditions: 
 
     - it is spring
+
+# Gift guide
+
+NPCs that love Lavender: Bob, Garlic, Spark, Zephyr
+
+NPCs that like Lavender: Aurora, #kitten_one_name#, Rosemary, Salem
+
+NPCs that dislike Lavender: Jack, #kitten_four_name#
+
+A gift from: Buttercup, Rosemary

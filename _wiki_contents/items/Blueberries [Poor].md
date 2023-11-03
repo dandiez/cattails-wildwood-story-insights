@@ -17,3 +17,13 @@ item_rarity: Common
 item_sorting_priority: 4900
 
 item_uid: Blueberries [Poor]
+
+# Gift guide
+
+NPCs that love Blueberries: Falcon, Salem
+
+NPCs that like Blueberries: Alabaster, Charlotte, Elli, Ember, Lux
+
+NPCs that dislike Blueberries: Aster, Aurora, Champ, Glimmer
+
+A gift from: Champ

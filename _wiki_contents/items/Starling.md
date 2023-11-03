@@ -17,3 +17,13 @@ item_rarity: Legendary
 item_sorting_priority: 2100
 
 item_uid: Starling
+
+# Gift guide
+
+NPCs that love Starling: Alabaster, Aster, Bob, Coco, Elli, Ember, Falcon, Jack, Jag, #kitten_one_name#, #kitten_two_name#, Krampy, Phantom, Forest Guardian, Wildwood Champion, Umbra
+
+NPCs that like Starling: Buttercup, #kitten_four_name#, Zephyr
+
+NPCs that dislike Starling: Garlic
+
+A gift from: Jack

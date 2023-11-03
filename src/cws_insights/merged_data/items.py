@@ -31,11 +31,12 @@ class ItemFromNpcShop:
 
 @dataclasses.dataclass
 class ItemFromNpc:
-    npc_loves: list[Npc] = dataclasses.field(default_factory=list)
-    npc_likes: list[Npc] = dataclasses.field(default_factory=list)
-    npc_dislikes: list[Npc] = dataclasses.field(default_factory=list)
-    npc_hates: list[Npc] = dataclasses.field(default_factory=list)
-    npc_gifts: list[Npc] = dataclasses.field(default_factory=list)
+    # TODO use NPC merge object instead of id which has language info
+    npc_loves: list[Uid] = dataclasses.field(default_factory=list)
+    npc_likes: list[Uid] = dataclasses.field(default_factory=list)
+    npc_dislikes: list[Uid] = dataclasses.field(default_factory=list)
+    npc_hates: list[Uid] = dataclasses.field(default_factory=list)
+    npc_gifts: list[Uid] = dataclasses.field(default_factory=list)
 
 
 @dataclasses.dataclass
@@ -67,15 +68,15 @@ class ItemPlus:
     game_version = None
     item_lang: ItemLangEnglish = None
     item: Item = None
-    herb_uid: Uid = None
-    sprite: str = None
+    from_shops: list[ItemFromNpcShop] = dataclasses.field(default_factory=list)
+    # herb_uid: Uid = None
+    # sprite: str = None
     from_npc: ItemFromNpc = dataclasses.field(default_factory=ItemFromNpc)
     from_map: ItemFromMap = dataclasses.field(default_factory=ItemFromMap)
     from_herbs: ItemFromHerbs = dataclasses.field(default_factory=ItemFromHerbs)
     from_recipes: ItemFromItemRecipe = dataclasses.field(
         default_factory=ItemFromItemRecipe
     )
-    from_shops: list[ItemFromNpcShop] = dataclasses.field(default_factory=list)
 
 
 AllItemPlus: TypeAlias = dict[Uid, ItemPlus]
@@ -108,23 +109,23 @@ def _get_sprite(all_item_plus: AllItemPlus):
 
 
 def _get_npc_data(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
-    for npc in npcs.values():
+    for npc_uid, npc in npcs.items():
         if npc.npc_item_loves is not Undefined:
             for item_uid in npc.npc_item_loves:
-                all_item_plus[item_uid].from_npc.npc_loves.append(npc)
+                all_item_plus[item_uid].from_npc.npc_loves.append(npc_uid)
         if npc.npc_item_likes is not Undefined:
             for item_uid in npc.npc_item_likes:
-                all_item_plus[item_uid].from_npc.npc_likes.append(npc)
+                all_item_plus[item_uid].from_npc.npc_likes.append(npc_uid)
         if npc.npc_item_dislikes is not Undefined:
             for item_uid in npc.npc_item_dislikes:
-                all_item_plus[item_uid].from_npc.npc_dislikes.append(npc)
+                all_item_plus[item_uid].from_npc.npc_dislikes.append(npc_uid)
         if npc.npc_item_hates is not Undefined:
             for item_uid in npc.npc_item_hates:
-                all_item_plus[item_uid].from_npc.npc_hates.append(npc)
+                all_item_plus[item_uid].from_npc.npc_hates.append(npc_uid)
 
         if npc.npc_item_gifts is not Undefined:
             for item_uid in npc.npc_item_gifts:
-                all_item_plus[item_uid].from_npc.npc_gifts.append(npc)
+                all_item_plus[item_uid].from_npc.npc_gifts.append(npc_uid)
 
 
 def apply_function_to_item_plus_with_groups(

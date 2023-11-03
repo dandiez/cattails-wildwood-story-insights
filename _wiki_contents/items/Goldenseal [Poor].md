@@ -17,3 +17,15 @@ item_rarity: Common
 item_sorting_priority: 5200
 
 item_uid: Goldenseal [Poor]
+
+# Gift guide
+
+NPCs that love Goldenseal: Coco, Krampy
+
+NPCs that like Goldenseal: Alabaster, Ember, #kitten_three_name#, Phantom, Rosemary
+
+NPCs that dislike Goldenseal: Basil, Elli, Glimmer
+
+NPCs that hate Goldenseal: Aster
+
+A gift from: Ember, #kitten_one_name#, Spark

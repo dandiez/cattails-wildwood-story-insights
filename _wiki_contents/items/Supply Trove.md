@@ -25,3 +25,9 @@ item_treasure_resource_value: 2
 item_uid: Supply Trove
 
 item_wood_resource_value: 2
+
+# Gift guide
+
+NPCs that love Supply Trove: Coco, Salem, Talon, Wildwood Champion
+
+NPCs that like Supply Trove: Jag

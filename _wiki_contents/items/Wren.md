@@ -17,3 +17,15 @@ item_rarity: Uncommon
 item_sorting_priority: 1500
 
 item_uid: Wren
+
+# Gift guide
+
+NPCs that love Wren: Elli, Falcon, Jack
+
+NPCs that like Wren: Aster, Bob, Jag, Phantom
+
+NPCs that dislike Wren: Alabaster, #kitten_one_name#
+
+NPCs that hate Wren: Bubby, Garlic, Glimmer
+
+A gift from: Alabaster, Aster, Coco, Ember, #kitten_four_name#, Phantom

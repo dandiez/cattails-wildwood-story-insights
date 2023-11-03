@@ -17,3 +17,13 @@ item_rarity: Uncommon
 item_sorting_priority: 400
 
 item_uid: Vole
+
+# Gift guide
+
+NPCs that love Vole: Bubby, Buttercup, Elli, #kitten_four_name#, Lux
+
+NPCs that like Vole: Aster, Champ, Coco, Fliss, Talon
+
+NPCs that dislike Vole: Charlotte, Lainey
+
+A gift from: Aster, Bob, Bubby, Buttercup, Charlotte, #kitten_four_name#, #kitten_one_name#, Krampy, Talon

@@ -25,3 +25,15 @@ ember_shop_name sells it for 14 mews.
 mold_shop_name sells it for 35 mews.
 
 taskboard_shop_name sells it for 3 task tokens.
+
+# Gift guide
+
+NPCs that love Goldenseal: Coco, Krampy, Rosemary
+
+NPCs that like Goldenseal: Alabaster, Ember, #kitten_three_name#, Phantom
+
+NPCs that dislike Goldenseal: Basil, Elli, Glimmer
+
+NPCs that hate Goldenseal: Aster
+
+A gift from: Alabaster, Bubby, Buttercup, Coco, #kitten_one_name#, Rosemary, Talon

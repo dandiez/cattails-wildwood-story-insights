@@ -15,3 +15,15 @@ item_rarity: Rare
 item_sorting_priority: 8400
 
 item_uid: Honeycomb
+
+# Gift guide
+
+NPCs that love Honeycomb: Talon, Forest Guardian, Wildwood Champion
+
+NPCs that like Honeycomb: Alabaster, Elli, Lainey, Umbra
+
+NPCs that dislike Honeycomb: Falcon
+
+NPCs that hate Honeycomb: #kitten_two_name#
+
+A gift from: Alabaster, Charlotte, Ember, #kitten_one_name#, Lainey

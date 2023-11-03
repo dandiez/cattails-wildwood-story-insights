@@ -19,3 +19,13 @@ item_uid: Diamond
 # shops selling Diamond:
 
 mold_shop_name sells it for 1000 mews.
+
+# Gift guide
+
+NPCs that love Diamond: Aurora, Buttercup, Coco, Elli, Ember, Fliss, Glimmer, Jack, Jag, #kitten_one_name#, #kitten_two_name#, Lainey, Salem, Forest Guardian
+
+NPCs that like Diamond: Alabaster, Aster, Bob, Champ, Talon, Wildwood Champion, Umbra
+
+NPCs that dislike Diamond: Phantom
+
+A gift from: Glimmer, Krampy

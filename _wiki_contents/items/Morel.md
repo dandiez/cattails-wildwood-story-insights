@@ -15,3 +15,15 @@ item_rarity: Uncommon
 item_sorting_priority: 3700
 
 item_uid: Morel
+
+# Gift guide
+
+NPCs that love Morel: Buttercup, Umbra
+
+NPCs that like Morel: Coco, Garlic, Talon, Forest Guardian
+
+NPCs that dislike Morel: Champ, Jag, Rosemary
+
+NPCs that hate Morel: Bob, Bubby, Ember, #kitten_four_name#
+
+A gift from: Alabaster, Aurora, Coco, Garlic, Talon, Umbra

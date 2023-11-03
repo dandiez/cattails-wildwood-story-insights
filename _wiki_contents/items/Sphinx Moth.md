@@ -17,3 +17,15 @@ item_uid: Sphinx Moth
 # shops selling Sphinx Moth:
 
 molu_shop_name sells it for 100 mole cash.
+
+# Gift guide
+
+NPCs that love Sphinx Moth: Buttercup, Rosemary
+
+NPCs that like Sphinx Moth: Aurora, Elli, Krampy, Phantom, Salem, Spark, Umbra
+
+NPCs that dislike Sphinx Moth: Aster, #kitten_one_name#, Lux, Talon, Forest Guardian
+
+NPCs that hate Sphinx Moth: Champ
+
+A gift from: Bob, Rosemary

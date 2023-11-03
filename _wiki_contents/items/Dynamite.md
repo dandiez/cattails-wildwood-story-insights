@@ -15,3 +15,15 @@ item_rarity: Rare
 item_sorting_priority: 8054
 
 item_uid: Dynamite
+
+# Gift guide
+
+NPCs that love Dynamite: Jack, Salem
+
+NPCs that like Dynamite: Krampy, Umbra
+
+NPCs that dislike Dynamite: Bob, Zephyr
+
+NPCs that hate Dynamite: Alabaster, Buttercup, Forest Guardian
+
+A gift from: Salem

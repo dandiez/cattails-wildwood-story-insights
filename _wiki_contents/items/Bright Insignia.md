@@ -15,3 +15,13 @@ item_rarity: Legendary
 item_sorting_priority: 8061
 
 item_uid: Bright Insignia
+
+# Gift guide
+
+NPCs that love Bright Insignia: Champ, Coco, Jag, Talon, Forest Guardian, Wildwood Champion
+
+NPCs that like Bright Insignia: Alabaster, Ember, Zephyr
+
+NPCs that dislike Bright Insignia: Garlic, Glimmer
+
+NPCs that hate Bright Insignia: Charlotte, Umbra

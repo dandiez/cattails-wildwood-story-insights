@@ -21,3 +21,13 @@ item_uid: Rabbit
 # shops selling Rabbit:
 
 ember_shop_name sells it for 26 mews.
+
+# Gift guide
+
+NPCs that love Rabbit: Alabaster, Aster, Coco, Jag, #kitten_four_name#, #kitten_one_name#, Rosemary
+
+NPCs that like Rabbit: Beau, Champ, Elli, Fliss, Talon, Forest Guardian, Wildwood Champion
+
+NPCs that hate Rabbit: Salem
+
+A gift from: Aster, Bob, Charlotte, Ember, Jag, #kitten_four_name#, #kitten_one_name#, Lainey

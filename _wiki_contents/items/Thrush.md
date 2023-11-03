@@ -21,3 +21,15 @@ item_uid: Thrush
 # shops selling Thrush:
 
 taskboard_shop_name sells it for 2 task tokens.
+
+# Gift guide
+
+NPCs that love Thrush: Elli, Jack, Lux
+
+NPCs that like Thrush: Aster, Bob, Buttercup, Coco, Jag, Phantom
+
+NPCs that dislike Thrush: Alabaster, #kitten_one_name#
+
+NPCs that hate Thrush: Garlic
+
+A gift from: Basil, Coco

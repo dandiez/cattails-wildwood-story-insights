@@ -17,3 +17,15 @@ item_sorting_priority: 5800
 item_speed_amount: 600
 
 item_uid: Valerian [Poor]
+
+# Gift guide
+
+NPCs that love Valerian: Alabaster
+
+NPCs that like Valerian: Basil, Krampy, Zephyr
+
+NPCs that dislike Valerian: Jack, #kitten_one_name#
+
+NPCs that hate Valerian: Charlotte, Jag
+
+A gift from: Buttercup

@@ -13,3 +13,15 @@ item_rarity: Uncommon
 item_sorting_priority: 11500
 
 item_uid: Turret
+
+# Gift guide
+
+NPCs that love Turret: Basil
+
+NPCs that like Turret: Bob, Garlic, Glimmer, #kitten_two_name#, Wildwood Champion
+
+NPCs that dislike Turret: Charlotte, Salem, Spark, Forest Guardian
+
+NPCs that hate Turret: Alabaster, Talon
+
+A gift from: Bob, Bubby, Glimmer, #kitten_two_name#

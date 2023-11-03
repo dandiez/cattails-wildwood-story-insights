@@ -21,3 +21,13 @@ item_uid: Bat
 # shops selling Bat:
 
 mold_shop_name sells it for 25 mews.
+
+# Gift guide
+
+NPCs that like Bat: Alabaster, Aster, Talon
+
+NPCs that dislike Bat: Buttercup, #kitten_four_name#, #kitten_two_name#, Forest Guardian, Wildwood Champion, Umbra
+
+NPCs that hate Bat: Coco, Rosemary
+
+A gift from: #kitten_three_name#, Krampy, Salem, Talon, Umbra

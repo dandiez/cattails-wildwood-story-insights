@@ -13,3 +13,13 @@ item_rarity: Legendary
 item_sorting_priority: 10000
 
 item_uid: Lunar Butterfly
+
+# Gift guide
+
+NPCs that love Lunar Butterfly: Aurora, Basil, Coco, Ember, Jack, #kitten_two_name#, Krampy, Lainey, Rosemary, Spark, Forest Guardian, Wildwood Champion, Zephyr
+
+NPCs that like Lunar Butterfly: Buttercup, Elli
+
+NPCs that dislike Lunar Butterfly: Lux, Phantom, Talon
+
+NPCs that hate Lunar Butterfly: Alabaster

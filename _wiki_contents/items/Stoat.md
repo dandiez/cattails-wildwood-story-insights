@@ -17,3 +17,13 @@ item_rarity: Rare
 item_sorting_priority: 1000
 
 item_uid: Stoat
+
+# Gift guide
+
+NPCs that love Stoat: Alabaster, Aster, Buttercup, Champ, Charlotte, Jag, #kitten_one_name#, Lux, Rosemary, Talon, Forest Guardian
+
+NPCs that like Stoat: Coco, #kitten_four_name#
+
+NPCs that dislike Stoat: #kitten_two_name#, Umbra
+
+A gift from: Spark

@@ -13,3 +13,13 @@ item_rarity: Rare
 item_sorting_priority: 13023
 
 item_uid: Shimmercrag
+
+# Gift guide
+
+NPCs that love Shimmercrag: Alabaster, Buttercup, Glimmer, Krampy, Zephyr
+
+NPCs that like Shimmercrag: Aster, Aurora, Coco, Ember, Garlic, Forest Guardian, Umbra
+
+NPCs that dislike Shimmercrag: Charlotte, Jag
+
+NPCs that hate Shimmercrag: Aurora, Bob, Lainey, Phantom

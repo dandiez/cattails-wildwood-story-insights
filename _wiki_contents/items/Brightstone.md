@@ -15,3 +15,11 @@ item_sorting_priority: 13223
 item_treasure_resource_value: 2
 
 item_uid: Brightstone
+
+# Gift guide
+
+NPCs that love Brightstone: Alabaster, Aurora, Buttercup, Champ, Coco, Elli, Ember, Fliss, Garlic, Glimmer, Jack, Krampy, Rosemary, Salem, Spark, Forest Guardian, Wildwood Champion, Zephyr
+
+NPCs that like Brightstone: Aster, Jag, Phantom, Talon
+
+NPCs that dislike Brightstone: Bob

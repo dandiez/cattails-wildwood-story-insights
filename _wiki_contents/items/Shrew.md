@@ -21,3 +21,15 @@ item_uid: Shrew
 # shops selling Shrew:
 
 molo_shop_name sells it for 55 mole cash.
+
+# Gift guide
+
+NPCs that love Shrew: Buttercup, Elli
+
+NPCs that like Shrew: Aster, Beau, Fliss
+
+NPCs that dislike Shrew: Charlotte, #kitten_one_name#, Lainey
+
+NPCs that hate Shrew: Wildwood Champion
+
+A gift from: Aster, Aurora, Glimmer, #kitten_four_name#, Talon, Umbra

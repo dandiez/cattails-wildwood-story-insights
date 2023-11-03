@@ -17,3 +17,15 @@ item_sorting_priority: 6900
 item_uid: Snake Lily [Good]
 
 item_venom_amount: 2400
+
+# Gift guide
+
+NPCs that love Snake Lily: Beau, Charlotte, Glimmer, Talon, Umbra
+
+NPCs that like Snake Lily: Jack, Jag, Krampy, Zephyr
+
+NPCs that dislike Snake Lily: Aurora, Coco, Elli, #kitten_two_name#
+
+NPCs that hate Snake Lily: Fliss, Wildwood Champion
+
+A gift from: Spark, Umbra

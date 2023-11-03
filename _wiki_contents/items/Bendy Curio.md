@@ -13,3 +13,7 @@ item_rarity: Rare
 item_sorting_priority: 99924
 
 item_uid: Bendy Curio
+
+# Gift guide
+
+NPCs that love Bendy Curio: Aster, Aurora, Basil, Beau, Bubby, Glimmer, #kitten_four_name#, #kitten_one_name#, #kitten_three_name#, #kitten_two_name#, Lux, Salem

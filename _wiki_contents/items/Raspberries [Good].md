@@ -17,3 +17,11 @@ item_rarity: Common
 item_sorting_priority: 4500
 
 item_uid: Raspberries [Good]
+
+# Gift guide
+
+NPCs that love Raspberries: Elli, Falcon, Lux
+
+NPCs that like Raspberries: Buttercup, Fliss, #kitten_three_name#, Umbra
+
+A gift from: Elli

@@ -17,3 +17,15 @@ item_rarity: Rare
 item_sorting_priority: 700
 
 item_uid: Rat
+
+# Gift guide
+
+NPCs that love Rat: Champ, Elli
+
+NPCs that like Rat: Alabaster, Aster, Talon, Forest Guardian
+
+NPCs that dislike Rat: Buttercup, #kitten_four_name#, #kitten_two_name#, Wildwood Champion
+
+NPCs that hate Rat: Coco, Garlic, Rosemary
+
+A gift from: Aster, Krampy, Salem, Talon, Umbra

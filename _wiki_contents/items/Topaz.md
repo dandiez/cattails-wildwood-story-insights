@@ -13,3 +13,15 @@ item_rarity: Uncommon
 item_sorting_priority: 12600
 
 item_uid: Topaz
+
+# Gift guide
+
+NPCs that love Topaz: Elli
+
+NPCs that like Topaz: Aurora, Ember, Glimmer, Jag, Forest Guardian
+
+NPCs that dislike Topaz: Buttercup, Charlotte, Garlic, Krampy, Phantom
+
+NPCs that hate Topaz: Alabaster, Basil, Beau, Jack, Lux, Rosemary, Salem, Spark
+
+A gift from: Aurora, Bob, Champ, Ember, Jag, #kitten_two_name#

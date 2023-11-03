@@ -17,3 +17,15 @@ item_rarity: Uncommon
 item_sorting_priority: 5500
 
 item_uid: Marigold [Poor]
+
+# Gift guide
+
+NPCs that love Marigold: Coco, Fliss, Krampy, Lainey, Phantom, Zephyr
+
+NPCs that like Marigold: Bubby, #kitten_one_name#, #kitten_two_name#, Spark, Talon, Wildwood Champion
+
+NPCs that dislike Marigold: Jag
+
+NPCs that hate Marigold: Elli, Rosemary, Umbra
+
+A gift from: Spark

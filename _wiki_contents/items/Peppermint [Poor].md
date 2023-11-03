@@ -17,3 +17,11 @@ item_sorting_priority: 6100
 item_stealth_amount: 1800
 
 item_uid: Peppermint [Poor]
+
+# Gift guide
+
+NPCs that love Peppermint: Alabaster, Bubby, Buttercup, Coco, Phantom, Spark
+
+NPCs that like Peppermint: Aster, Beau, Bob, Jag, #kitten_three_name#
+
+NPCs that dislike Peppermint: Rosemary, Forest Guardian

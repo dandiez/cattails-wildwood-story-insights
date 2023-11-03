@@ -17,3 +17,15 @@ item_rarity: Common
 item_sorting_priority: 2200
 
 item_uid: Frog
+
+# Gift guide
+
+NPCs that love Frog: Alabaster, #kitten_four_name#
+
+NPCs that like Frog: Aster, Aurora, Beau, Buttercup, Garlic, Glimmer, Jack
+
+NPCs that dislike Frog: Ember, Wildwood Champion, Zephyr
+
+NPCs that hate Frog: #kitten_one_name#, Lux, Phantom, Spark
+
+A gift from: Alabaster, Aster, Aurora, Beau, Elli, Krampy, Umbra

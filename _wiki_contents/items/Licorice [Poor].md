@@ -17,3 +17,13 @@ item_rarity: Common
 item_sorting_priority: 4000
 
 item_uid: Licorice [Poor]
+
+# Gift guide
+
+NPCs that like Licorice: Beau, Elli, Jag, #kitten_four_name#, Phantom, Rosemary
+
+NPCs that dislike Licorice: Bubby, #kitten_three_name#, Lainey, Talon, Wildwood Champion
+
+NPCs that hate Licorice: Aster, Falcon
+
+A gift from: Aurora, Basil, Spark

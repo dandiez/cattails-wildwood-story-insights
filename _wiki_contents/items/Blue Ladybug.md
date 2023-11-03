@@ -13,3 +13,13 @@ item_rarity: Legendary
 item_sorting_priority: 8800
 
 item_uid: Blue Ladybug
+
+# Gift guide
+
+NPCs that love Blue Ladybug: Aurora, Coco, Ember, #kitten_two_name#, Krampy, Rosemary, Spark, Forest Guardian, Wildwood Champion, Zephyr
+
+NPCs that like Blue Ladybug: Salem
+
+NPCs that dislike Blue Ladybug: #kitten_three_name#, Lux, Talon
+
+NPCs that hate Blue Ladybug: Charlotte

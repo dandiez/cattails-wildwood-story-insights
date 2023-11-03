@@ -29,3 +29,15 @@ coco_festival_shop_name sells it for 3 festival tokens.
 ember_shop_name sells it for 15 mews.
 
 molo_shop_name sells it for 35 mole cash.
+
+# Gift guide
+
+NPCs that love Mouse: Buttercup, Elli
+
+NPCs that like Mouse: Aster, Aurora, Beau, Bob, Champ, Coco, Ember, Fliss, #kitten_one_name#, Rosemary, Wildwood Champion
+
+NPCs that dislike Mouse: Basil, Charlotte, #kitten_three_name#, Lainey
+
+NPCs that hate Mouse: Salem
+
+A gift from: Alabaster, Aster, Buttercup, Champ, Elli, Fliss, #kitten_four_name#, #kitten_one_name#, Rosemary, Talon

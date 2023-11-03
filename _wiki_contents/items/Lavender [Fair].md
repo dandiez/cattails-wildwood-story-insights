@@ -17,3 +17,13 @@ item_rarity: Uncommon
 item_sorting_priority: 7700
 
 item_uid: Lavender [Fair]
+
+# Gift guide
+
+NPCs that love Lavender: Bob, Garlic, Spark, Zephyr
+
+NPCs that like Lavender: Aurora, #kitten_one_name#, Rosemary
+
+NPCs that dislike Lavender: Jack, #kitten_four_name#
+
+A gift from: Aurora, Phantom, Zephyr

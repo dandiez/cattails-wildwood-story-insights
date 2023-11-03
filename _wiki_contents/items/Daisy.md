@@ -21,3 +21,15 @@ item_uid: Daisy
 # shops selling Daisy:
 
 taskboard_shop_name sells it for 1 task tokens.
+
+# Gift guide
+
+NPCs that love Daisy: Charlotte, Falcon, Fliss, #kitten_two_name#, Krampy, Zephyr
+
+NPCs that like Daisy: Aurora, Coco, Jag, Lainey
+
+NPCs that dislike Daisy: Alabaster, Jack, #kitten_four_name#, Wildwood Champion
+
+NPCs that hate Daisy: Basil, Bob, Garlic, Talon
+
+A gift from: Buttercup, #kitten_two_name#, Zephyr

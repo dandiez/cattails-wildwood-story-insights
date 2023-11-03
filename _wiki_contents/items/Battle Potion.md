@@ -19,3 +19,13 @@ item_sorting_priority: 6681
 item_uid: Battle Potion
 
 item_venom_amount: 3200
+
+# Gift guide
+
+NPCs that love Battle Potion: Champ, Charlotte, Coco, Fliss, #kitten_one_name#, Talon, Forest Guardian, Wildwood Champion
+
+NPCs that like Battle Potion: Jag, Krampy, Phantom, Zephyr
+
+NPCs that dislike Battle Potion: Alabaster, Bob, Elli, Garlic
+
+NPCs that hate Battle Potion: Buttercup, Rosemary

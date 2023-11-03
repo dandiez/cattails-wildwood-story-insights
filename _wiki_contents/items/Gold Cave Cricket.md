@@ -17,3 +17,11 @@ item_uid: Gold Cave Cricket
 # shops selling Gold Cave Cricket:
 
 mold_shop_name sells it for 500 mews.
+
+# Gift guide
+
+NPCs that love Gold Cave Cricket: Aurora, Bubby, Rosemary
+
+NPCs that dislike Gold Cave Cricket: Bob, Buttercup, Fliss
+
+NPCs that hate Gold Cave Cricket: Alabaster, Aurora, Champ, Charlotte, Coco, Elli, Ember, Falcon, Glimmer, Krampy, Lainey, Phantom, Talon, Forest Guardian, Zephyr

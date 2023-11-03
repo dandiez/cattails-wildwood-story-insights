@@ -17,3 +17,15 @@ item_rarity: Common
 item_sorting_priority: 1300
 
 item_uid: Magpie
+
+# Gift guide
+
+NPCs that love Magpie: Elli, Jack
+
+NPCs that like Magpie: Bob, Buttercup, Coco, Jag, Phantom, Rosemary
+
+NPCs that dislike Magpie: Alabaster, #kitten_one_name#
+
+NPCs that hate Magpie: Garlic
+
+A gift from: Basil, Jack, Rosemary

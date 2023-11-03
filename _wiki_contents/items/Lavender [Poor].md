@@ -21,3 +21,13 @@ item_uid: Lavender [Poor]
 # shops selling Lavender:
 
 molo_shop_name sells it for 80 mole cash.
+
+# Gift guide
+
+NPCs that love Lavender: Bob, Spark, Zephyr
+
+NPCs that like Lavender: Aurora, Garlic, #kitten_one_name#, Rosemary
+
+NPCs that dislike Lavender: Jack, #kitten_four_name#
+
+A gift from: Aurora, #kitten_one_name#, #kitten_three_name#, Phantom, Umbra

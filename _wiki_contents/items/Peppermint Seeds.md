@@ -13,3 +13,9 @@ item_rarity: Common
 item_sorting_priority: 81908
 
 item_uid: Peppermint Seeds
+
+# Gift guide
+
+NPCs that dislike Peppermint Seeds: Alabaster, Basil, Phantom
+
+NPCs that hate Peppermint Seeds: Aster, Aurora, Beau, Bob, Bubby, Buttercup, Champ, Charlotte, Coco, Elli, Ember, Falcon, Fliss, Garlic, Glimmer, Jack, Jag, #kitten_four_name#, #kitten_three_name#, #kitten_two_name#, Krampy, Lainey, Lux, Rosemary, Spark, Talon, Forest Guardian, Zephyr

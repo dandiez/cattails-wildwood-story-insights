@@ -13,3 +13,11 @@ item_rarity: Rare
 item_sorting_priority: 8034
 
 item_uid: Autograph
+
+# Gift guide
+
+NPCs that love Autograph: Aster, Bubby, Elli, Fliss, #kitten_four_name#, #kitten_one_name#, #kitten_three_name#, #kitten_two_name#, Lainey, Rosemary, Spark
+
+NPCs that like Autograph: Coco, Glimmer, Salem
+
+NPCs that dislike Autograph: Jag, Zephyr

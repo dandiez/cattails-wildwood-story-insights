@@ -21,3 +21,15 @@ item_uid: Trout
 # shops selling Trout:
 
 mold_shop_name sells it for 45 mews.
+
+# Gift guide
+
+NPCs that love Trout: Basil, Bubby, #kitten_three_name#, Lux, Umbra
+
+NPCs that like Trout: Aster, Bob, Coco, Elli, Falcon, Fliss, Glimmer, Lainey, Wildwood Champion
+
+NPCs that dislike Trout: Aurora, #kitten_two_name#, Phantom, Spark, Talon
+
+NPCs that hate Trout: Krampy
+
+A gift from: Alabaster, Charlotte, Fliss, Glimmer, Jag, #kitten_three_name#

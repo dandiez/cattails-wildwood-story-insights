@@ -17,3 +17,15 @@ item_rarity: Common
 item_sorting_priority: 4600
 
 item_uid: Blackberries [Poor]
+
+# Gift guide
+
+NPCs that love Blackberries: Falcon
+
+NPCs that like Blackberries: Alabaster, Elli, #kitten_three_name#, Lux, Umbra
+
+NPCs that dislike Blackberries: Aurora, Phantom
+
+NPCs that hate Blackberries: Glimmer, Forest Guardian
+
+A gift from: Bubby

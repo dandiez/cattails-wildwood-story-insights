@@ -23,3 +23,11 @@ ember_shop_name sells it for 55 mews.
   can buy it when meeting conditions: 
 
     - at least we are on year 2
+
+# Gift guide
+
+NPCs that love Training Manual: Talon
+
+NPCs that like Training Manual: Champ, #kitten_four_name#, #kitten_one_name#
+
+NPCs that dislike Training Manual: Buttercup

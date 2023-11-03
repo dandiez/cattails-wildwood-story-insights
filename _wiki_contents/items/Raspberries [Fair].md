@@ -21,3 +21,11 @@ item_uid: Raspberries [Fair]
 # shops selling Raspberries:
 
 taskboard_shop_name sells it for 2 task tokens.
+
+# Gift guide
+
+NPCs that love Raspberries: Falcon, Lux
+
+NPCs that like Raspberries: Buttercup, Elli, Fliss
+
+A gift from: Lainey

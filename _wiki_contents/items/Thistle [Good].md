@@ -25,3 +25,15 @@ coco_festival_shop_name sells it for 3 festival tokens.
   can buy it when meeting conditions: 
 
     - it is autumn
+
+# Gift guide
+
+NPCs that love Thistle: Bob, Champ, Garlic, #kitten_two_name#
+
+NPCs that like Thistle: Lux, Zephyr
+
+NPCs that dislike Thistle: Ember, Rosemary
+
+NPCs that hate Thistle: Charlotte, Coco
+
+A gift from: Coco

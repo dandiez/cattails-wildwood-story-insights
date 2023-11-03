@@ -27,3 +27,15 @@ coco_festival_shop_name sells it for 3 festival tokens.
     - it is winter
 
 ember_shop_name sells it for 24 mews.
+
+# Gift guide
+
+NPCs that love Dove: Elli, Falcon, Jack, Jag, #kitten_two_name#, Phantom
+
+NPCs that like Dove: Beau, Bob, Buttercup, Coco, Ember, Forest Guardian
+
+NPCs that dislike Dove: Alabaster, Garlic
+
+NPCs that hate Dove: Champ
+
+A gift from: Beau, Bob, Elli, Fliss

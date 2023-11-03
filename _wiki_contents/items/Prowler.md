@@ -13,3 +13,13 @@ item_rarity: Common
 item_sorting_priority: 87138
 
 item_uid: Prowler
+
+# Gift guide
+
+NPCs that love Prowler: Salem, Spark
+
+NPCs that like Prowler: Charlotte, Jag
+
+NPCs that dislike Prowler: Bob, Bubby, Coco, Garlic, Forest Guardian, Zephyr
+
+NPCs that hate Prowler: Alabaster, Aurora, Basil, Beau, Buttercup, Elli, Ember, Lainey, Rosemary, Talon

@@ -15,3 +15,11 @@ item_sorting_priority: 12108
 item_uid: Dried Roots
 
 item_wood_resource_value: 1
+
+# Gift guide
+
+NPCs that dislike Dried Roots: Krampy, Salem
+
+NPCs that hate Dried Roots: Jack
+
+A gift from: #kitten_three_name#, Lux

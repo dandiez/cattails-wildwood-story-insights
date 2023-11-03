@@ -13,3 +13,7 @@ item_rarity: Rare
 item_sorting_priority: 99929
 
 item_uid: Flexible Curio
+
+# Gift guide
+
+NPCs that love Flexible Curio: Aster, Aurora, Basil, Beau, Bubby, Glimmer, #kitten_four_name#, #kitten_one_name#, #kitten_three_name#, #kitten_two_name#, Lux, Salem

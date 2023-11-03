@@ -13,3 +13,13 @@ item_rarity: Rare
 item_sorting_priority: 13018
 
 item_uid: Malachite
+
+# Gift guide
+
+NPCs that love Malachite: Bob, Buttercup, Krampy, Forest Guardian, Zephyr
+
+NPCs that like Malachite: Alabaster, Aurora, Champ, Coco, Garlic, Spark, Umbra
+
+NPCs that dislike Malachite: Fliss
+
+NPCs that hate Malachite: Jag, Talon

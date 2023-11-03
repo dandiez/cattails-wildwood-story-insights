@@ -27,3 +27,13 @@ coco_festival_shop_name sells it for 4 festival tokens.
     - it is summer
 
 taskboard_shop_name sells it for 6 task tokens.
+
+# Gift guide
+
+NPCs that love Catnip: Alabaster, Beau, Bob, Bubby, Buttercup, Coco, Elli, Ember, Falcon, Fliss, Jag, #kitten_four_name#, #kitten_one_name#, Krampy, Lainey, Phantom, Rosemary, Spark, Talon, Forest Guardian, Wildwood Champion, Zephyr
+
+NPCs that like Catnip: Aster, Basil, Champ, Charlotte, Garlic, #kitten_two_name#
+
+NPCs that dislike Catnip: Glimmer
+
+A gift from: Elli, Krampy

@@ -17,3 +17,15 @@ item_rarity: Legendary
 item_sorting_priority: 7000
 
 item_uid: Foxglove [Poor]
+
+# Gift guide
+
+NPCs that love Foxglove: Champ, Glimmer, #kitten_one_name#, Talon, Forest Guardian, Wildwood Champion, Zephyr
+
+NPCs that like Foxglove: Alabaster, Beau, Garlic, Jag
+
+NPCs that dislike Foxglove: Bob, Bubby, Coco
+
+NPCs that hate Foxglove: Elli
+
+A gift from: Champ, Coco, Jack, Zephyr

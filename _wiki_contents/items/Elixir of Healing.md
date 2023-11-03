@@ -17,3 +17,13 @@ item_rarity: Rare
 item_sorting_priority: 5149
 
 item_uid: Elixir of Healing
+
+# Gift guide
+
+NPCs that love Elixir of Healing: Bob, Champ, Ember, Glimmer, Krampy, Forest Guardian, Zephyr
+
+NPCs that like Elixir of Healing: Coco, Elli, Jag, #kitten_one_name#, Lainey, Rosemary
+
+NPCs that dislike Elixir of Healing: Charlotte, Spark
+
+NPCs that hate Elixir of Healing: Buttercup

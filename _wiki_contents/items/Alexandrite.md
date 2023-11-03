@@ -19,3 +19,9 @@ item_uid: Alexandrite
 # shops selling Alexandrite:
 
 molay_shop_name sells it for 2000 mole cash.
+
+# Gift guide
+
+NPCs that love Alexandrite: Alabaster, Aurora, Bob, Champ, Coco, Elli, Ember, Garlic, Glimmer, Jag, Krampy, Rosemary, Salem, Spark, Forest Guardian, Wildwood Champion, Zephyr
+
+NPCs that like Alexandrite: Aster, Fliss, Umbra

@@ -17,3 +17,15 @@ item_uid: Quartz
 # shops selling Quartz:
 
 mold_shop_name sells it for 50 mews.
+
+# Gift guide
+
+NPCs that love Quartz: Elli
+
+NPCs that like Quartz: Bob, Charlotte, Jag, Forest Guardian
+
+NPCs that dislike Quartz: Buttercup, Garlic, #kitten_three_name#, Krampy, Phantom
+
+NPCs that hate Quartz: Basil, Beau, Jack, Rosemary, Salem
+
+A gift from: Bubby, Garlic, Lainey

@@ -15,3 +15,15 @@ item_rarity: Common
 item_sorting_priority: 3500
 
 item_uid: White Button
+
+# Gift guide
+
+NPCs that love White Button: Buttercup
+
+NPCs that like White Button: Falcon, Garlic, #kitten_three_name#, Talon
+
+NPCs that dislike White Button: Champ, Coco, Fliss, Jag, Rosemary, Spark
+
+NPCs that hate White Button: Bob, Bubby, Ember, #kitten_four_name#
+
+A gift from: Alabaster, Beau, Champ, Coco, #kitten_two_name#, Zephyr

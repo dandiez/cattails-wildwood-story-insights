@@ -21,3 +21,15 @@ item_uid: Valerian [Fair]
 # shops selling Valerian:
 
 ember_shop_name sells it for 30 mews.
+
+# Gift guide
+
+NPCs that love Valerian: Alabaster
+
+NPCs that like Valerian: Basil, Krampy, Talon, Zephyr
+
+NPCs that dislike Valerian: Jack, #kitten_one_name#
+
+NPCs that hate Valerian: Charlotte, Jag
+
+A gift from: #kitten_two_name#

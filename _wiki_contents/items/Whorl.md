@@ -13,3 +13,15 @@ item_rarity: Rare
 item_sorting_priority: 11600
 
 item_uid: Whorl
+
+# Gift guide
+
+NPCs that love Whorl: Basil, Fliss, Glimmer, #kitten_two_name#
+
+NPCs that like Whorl: Bob, Garlic, Lux, Wildwood Champion, Umbra
+
+NPCs that dislike Whorl: Salem, Spark, Forest Guardian
+
+NPCs that hate Whorl: Alabaster, Talon
+
+A gift from: Glimmer, Phantom

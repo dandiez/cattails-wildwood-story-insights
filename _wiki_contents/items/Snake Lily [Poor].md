@@ -27,3 +27,15 @@ coco_festival_shop_name sells it for 3 festival tokens.
     - it is spring
 
     - it is summer
+
+# Gift guide
+
+NPCs that love Snake Lily: Beau, Glimmer, Umbra
+
+NPCs that like Snake Lily: Charlotte, Jack, Jag, Krampy, Talon, Zephyr
+
+NPCs that dislike Snake Lily: Aurora, Coco, Elli, #kitten_two_name#
+
+NPCs that hate Snake Lily: Fliss, Wildwood Champion
+
+A gift from: Beau, Elli

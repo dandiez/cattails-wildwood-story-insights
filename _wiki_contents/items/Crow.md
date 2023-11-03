@@ -21,3 +21,15 @@ item_uid: Crow
 # shops selling Crow:
 
 molu_shop_name sells it for 200 mole cash.
+
+# Gift guide
+
+NPCs that love Crow: Elli, Falcon, Jack, Jag, Phantom, Rosemary, Talon
+
+NPCs that like Crow: Bob, Ember, #kitten_four_name#
+
+NPCs that dislike Crow: Alabaster
+
+NPCs that hate Crow: Garlic, Glimmer
+
+A gift from: Bubby, Champ, Ember, Fliss, Jack, Jag, #kitten_three_name#, Umbra

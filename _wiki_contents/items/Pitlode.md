@@ -13,3 +13,13 @@ item_rarity: Uncommon
 item_sorting_priority: 12627
 
 item_uid: Pitlode
+
+# Gift guide
+
+NPCs that love Pitlode: Ember
+
+NPCs that like Pitlode: Alabaster, Aurora, Coco, Garlic, Glimmer, Krampy, Umbra
+
+NPCs that dislike Pitlode: Buttercup, Champ, Charlotte, Forest Guardian
+
+NPCs that hate Pitlode: Aurora, Bob, Lainey, Lux, Phantom, Spark, Zephyr

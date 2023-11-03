@@ -15,3 +15,11 @@ item_rarity: Rare
 item_sorting_priority: 8052
 
 item_uid: Farsighted Orb
+
+# Gift guide
+
+NPCs that love Farsighted Orb: Alabaster, Glimmer, Jack, Salem, Forest Guardian
+
+NPCs that like Farsighted Orb: Basil, Charlotte, Umbra, Zephyr
+
+NPCs that dislike Farsighted Orb: Buttercup

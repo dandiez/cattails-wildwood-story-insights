@@ -17,3 +17,15 @@ item_rarity: Uncommon
 item_sorting_priority: 3100
 
 item_uid: Bass
+
+# Gift guide
+
+NPCs that love Bass: Basil, Bob, Bubby, Champ, Coco, Elli, #kitten_three_name#, Lux
+
+NPCs that like Bass: Aster, Ember, Falcon, Fliss, Glimmer, Wildwood Champion
+
+NPCs that dislike Bass: Aurora, #kitten_two_name#, Talon
+
+NPCs that hate Bass: Krampy
+
+A gift from: Basil, Fliss, #kitten_three_name#

@@ -19,3 +19,15 @@ item_uid: Queen of the Night
 # shops selling Queen of the Night:
 
 molay_shop_name sells it for 325 mole cash.
+
+# Gift guide
+
+NPCs that love Queen of the Night: Alabaster, Charlotte, Falcon, #kitten_two_name#, Krampy, Lainey, Wildwood Champion, Zephyr
+
+NPCs that like Queen of the Night: Forest Guardian, Umbra
+
+NPCs that dislike Queen of the Night: Jack, #kitten_four_name#
+
+NPCs that hate Queen of the Night: Buttercup
+
+A gift from: Charlotte

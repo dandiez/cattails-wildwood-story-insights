@@ -17,3 +17,13 @@ item_rarity: Common
 item_sorting_priority: 4300
 
 item_uid: Raspberries [Poor]
+
+# Gift guide
+
+NPCs that love Raspberries: Falcon, Lux
+
+NPCs that like Raspberries: Elli
+
+NPCs that dislike Raspberries: Aurora
+
+A gift from: Champ, Spark

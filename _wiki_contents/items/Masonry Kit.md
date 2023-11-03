@@ -19,3 +19,9 @@ item_uid: Masonry Kit
 mold_shop_name sells it for 50 mews.
 
 molo_shop_name sells it for 50 mole cash.
+
+# Gift guide
+
+NPCs that dislike Masonry Kit: #kitten_three_name#
+
+NPCs that hate Masonry Kit: Rosemary, Zephyr

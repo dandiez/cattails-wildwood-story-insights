@@ -25,3 +25,13 @@ coco_festival_shop_name sells it for 2 festival tokens.
   can buy it when meeting conditions: 
 
     - it is winter
+
+# Gift guide
+
+NPCs that love Blueberries: Elli, Falcon, Salem
+
+NPCs that like Blueberries: Alabaster, Charlotte, Ember, #kitten_three_name#, Lux, Umbra
+
+NPCs that dislike Blueberries: Aster, Champ, Glimmer
+
+A gift from: Champ, Lux, Salem

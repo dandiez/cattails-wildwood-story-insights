@@ -21,3 +21,15 @@ item_uid: Mackerel
 # shops selling Mackerel:
 
 molo_shop_name sells it for 85 mole cash.
+
+# Gift guide
+
+NPCs that love Mackerel: Elli, Lux, Phantom
+
+NPCs that like Mackerel: Aster, Bob, Bubby, Coco, Fliss, Garlic, Glimmer, #kitten_four_name#, Spark
+
+NPCs that dislike Mackerel: Aurora, Charlotte, #kitten_one_name#, #kitten_two_name#, Talon, Zephyr
+
+NPCs that hate Mackerel: Buttercup, Krampy
+
+A gift from: Aurora

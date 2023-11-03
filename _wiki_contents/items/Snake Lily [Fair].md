@@ -21,3 +21,13 @@ item_venom_amount: 1800
 # shops selling Snake Lily:
 
 molu_shop_name sells it for 250 mole cash.
+
+# Gift guide
+
+NPCs that love Snake Lily: Beau, Charlotte, Glimmer, Talon, Umbra
+
+NPCs that like Snake Lily: Jack, Jag, Krampy, Zephyr
+
+NPCs that dislike Snake Lily: Aurora, Coco, Elli, #kitten_two_name#
+
+NPCs that hate Snake Lily: Fliss, Wildwood Champion

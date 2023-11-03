@@ -13,3 +13,15 @@ item_rarity: Rare
 item_sorting_priority: 13000
 
 item_uid: Emerald
+
+# Gift guide
+
+NPCs that love Emerald: Elli, Glimmer
+
+NPCs that like Emerald: Aster, Aurora, Bob, Ember, Jag, #kitten_two_name#, Lainey, Phantom, Forest Guardian
+
+NPCs that dislike Emerald: Buttercup, Garlic, Krampy
+
+NPCs that hate Emerald: Rosemary
+
+A gift from: Glimmer

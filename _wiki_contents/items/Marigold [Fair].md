@@ -23,3 +23,15 @@ item_uid: Marigold [Fair]
 # shops selling Marigold:
 
 ember_shop_name sells it for 18 mews.
+
+# Gift guide
+
+NPCs that love Marigold: Coco, Fliss, #kitten_two_name#, Krampy, Lainey, Phantom, Spark, Zephyr
+
+NPCs that like Marigold: Bubby, #kitten_one_name#, Talon, Wildwood Champion
+
+NPCs that dislike Marigold: Jag
+
+NPCs that hate Marigold: Elli, Rosemary, Umbra
+
+A gift from: Basil, Charlotte, Talon, Zephyr

@@ -17,3 +17,13 @@ item_sorting_priority: 6000
 item_speed_amount: 1800
 
 item_uid: Valerian [Good]
+
+# Gift guide
+
+NPCs that love Valerian: Alabaster
+
+NPCs that like Valerian: Basil, Krampy, Salem, Talon, Zephyr
+
+NPCs that dislike Valerian: Jack, #kitten_one_name#
+
+NPCs that hate Valerian: Charlotte, Jag

@@ -17,3 +17,13 @@ item_rarity: Legendary
 item_sorting_priority: 3400
 
 item_uid: Barbel
+
+# Gift guide
+
+NPCs that love Barbel: Alabaster, Aster, Basil, Bob, Bubby, Champ, Coco, Elli, Ember, Jag, #kitten_one_name#, #kitten_three_name#, Lainey, Lux, Rosemary, Talon, Forest Guardian, Wildwood Champion, Umbra
+
+NPCs that like Barbel: Falcon, Fliss, Glimmer, #kitten_four_name#
+
+NPCs that dislike Barbel: Aurora, #kitten_two_name#
+
+NPCs that hate Barbel: Krampy
