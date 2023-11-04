@@ -18,6 +18,10 @@ item_sorting_priority: 400
 
 item_uid: Vole
 
+# Map regions
+
+Vole is prey in beachsidewoods, scorcheddesert, thicketburrows, beacheast, mountainsummit, caldera, riverdell, birchlake, westcentral, centralmeadow, northfloodplain, meadowoutskirts, westwoodland, volcanicbasin, birchholt
+
 # Gift guide
 
 NPCs that love Vole: Bubby, Buttercup, Elli, #kitten_four_name#, Lux

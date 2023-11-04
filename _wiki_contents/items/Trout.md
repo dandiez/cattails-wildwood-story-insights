@@ -18,6 +18,10 @@ item_sorting_priority: 2800
 
 item_uid: Trout
 
+# Map regions
+
+Trout is prey in westfoothills, swampnorth, westwoodland, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, chainoflakes, southcentral, claypits, birchholt, southfoothills, wetlandestuary, woodedbog, swampcorner, birchlake, northfoothills, southglade, northfloodplain, westcentral
+
 # shops selling Trout:
 
 mold_shop_name sells it for 45 mews.

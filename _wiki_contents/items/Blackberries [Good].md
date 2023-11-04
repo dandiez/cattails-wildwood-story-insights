@@ -18,6 +18,10 @@ item_sorting_priority: 4800
 
 item_uid: Blackberries [Good]
 
+# Map regions
+
+Blackberries grows as herb in scorcheddesert, westernwastes, beachwest, caldera, volcanicbasin, rivervale, northmeadow, eastcentral, eastfoothills, mountainlake, eastforest, mountainsummit, badlandsmaze, aridplains, southcentral, birchholt, southfoothills, swampcorner, birchlake, northfoothills, crater, meadowoutskirts
+
 # Herb data
 
 Blackberries is a ranked herb which can be found in different qualities.

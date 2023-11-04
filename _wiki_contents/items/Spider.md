@@ -14,6 +14,10 @@ item_sorting_priority: 11900
 
 item_uid: Spider
 
+# Map regions
+
+Spider is prey in theoldfarm, caldera, eastcentral, creepinghollow, thegrimclearing, meadowoutskirts, volcanicbasin
+
 # Gift guide
 
 NPCs that love Spider: Aster, Buttercup, Glimmer, #kitten_one_name#, Krampy, Lux, Spark, Talon, Forest Guardian

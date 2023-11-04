@@ -18,6 +18,10 @@ item_sorting_priority: 7000
 
 item_uid: Foxglove [Poor]
 
+# Map regions
+
+Foxglove grows as herb in scorcheddesert, theoldfarm, beacheast, caldera, westfoothills, swampnorth, blossomingfield, westcentral, oceanisland, strangetarn, thestaunchstones, volcanicbasin, westwoodland, theconfluence, northmeadow, westmeadow, centralmeadow, badlandsmaze, aridplains, claypits, ashenknolls, beachsidewoods, creepinghollow, thegrimclearing, northfloodplain, meadowoutskirts
+
 # Herb data
 
 Foxglove is a ranked herb which can be found in different qualities.

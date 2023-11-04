@@ -18,6 +18,10 @@ item_sorting_priority: 3400
 
 item_uid: Barbel
 
+# Map regions
+
+Barbel is prey in westfoothills, swampnorth, westwoodland, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, chainoflakes, southcentral, birchholt, southfoothills, woodedbog, birchlake, northfoothills, southglade, northfloodplain, westcentral
+
 # Gift guide
 
 NPCs that love Barbel: Alabaster, Aster, Basil, Bob, Bubby, Champ, Coco, Elli, Ember, Jag, #kitten_one_name#, #kitten_three_name#, Lainey, Lux, Rosemary, Talon, Forest Guardian, Wildwood Champion, Umbra

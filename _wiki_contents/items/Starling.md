@@ -18,6 +18,10 @@ item_sorting_priority: 2100
 
 item_uid: Starling
 
+# Map regions
+
+Starling is prey in beachsidewoods, beacheast, thestaunchstones, woodedbog, swampcorner, birchlake, swampnorth, westcentral, strangetarn, birchholt
+
 # Gift guide
 
 NPCs that love Starling: Alabaster, Aster, Bob, Coco, Elli, Ember, Falcon, Jack, Jag, #kitten_one_name#, #kitten_two_name#, Krampy, Phantom, Forest Guardian, Wildwood Champion, Umbra

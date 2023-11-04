@@ -18,6 +18,10 @@ item_sorting_priority: 7400
 
 item_uid: Catnip [Fair]
 
+# Map regions
+
+Catnip grows as herb in southfoothills, theoldfarm, northmeadow, wetlandestuary, beachwest, riverdell, westwoodland, eastcentral, northfoothills, westfoothills, northernwastes, southcentral, blossomingfield, westcentral, thestaunchstones, eastforest
+
 # Herb data
 
 Catnip is a ranked herb which can be found in different qualities.

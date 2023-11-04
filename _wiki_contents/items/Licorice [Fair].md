@@ -18,6 +18,10 @@ item_sorting_priority: 4100
 
 item_uid: Licorice [Fair]
 
+# Map regions
+
+Licorice grows as herb in westernwastes, caldera, westfoothills, westcentral, thestaunchstones, westwoodland, volcanicbasin, theconfluence, eastcentral, eastfoothills, northernwastes, mountainlake, westmeadow, eastforest, centralmeadow, badlandsmaze, southcentral, claypits, birchholt, southfoothills, woodedbog, swampcorner, birchlake, northfloodplain, meadowoutskirts
+
 # Herb data
 
 Licorice is a ranked herb which can be found in different qualities.

@@ -14,6 +14,10 @@ item_sorting_priority: 99901
 
 item_uid: Unidentified Curio
 
+# Map regions
+
+Unidentified Curio spawns in scorcheddesert, theoldfarm, thestaunchstones, crater, strangetarn, mountainlake
+
 # shops selling Unidentified Curio:
 
 coco_festival_shop_name sells it for 3 festival tokens.

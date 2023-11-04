@@ -18,6 +18,10 @@ item_sorting_priority: 3200
 
 item_uid: Pike
 
+# Map regions
+
+Pike is prey in southfoothills, birchholt, eastfoothills, birchlake, northfoothills, westcentral, westfoothills, strangetarn, mountainlake, mountainsummit
+
 # shops selling Pike:
 
 taskboard_shop_name sells it for 6 task tokens.

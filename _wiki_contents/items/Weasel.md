@@ -18,6 +18,10 @@ item_sorting_priority: 1100
 
 item_uid: Weasel
 
+# Map regions
+
+Weasel is prey in westmeadow, scorcheddesert, wetlandestuary, northmeadow, thicketburrows, swampcorner, eastcentral, westcentral, centralmeadow, thegrimclearing, blossomingfield, meadowoutskirts, mountainlake, volcanicbasin, eastforest, mountainsummit
+
 # Gift guide
 
 NPCs that love Weasel: Alabaster, Aster, Bubby, Buttercup, Champ, Charlotte, Jag, #kitten_one_name#, Rosemary, Talon, Forest Guardian

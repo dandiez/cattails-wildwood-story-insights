@@ -18,6 +18,10 @@ item_speed_amount: 1800
 
 item_uid: Valerian [Good]
 
+# Map regions
+
+Valerian grows as herb in westernwastes, beacheast, blossomingfield, westwoodland, rivervale, theconfluence, thicketburrows, meadowoutskirts, eastcentral, northernwastes, westmeadow, eastforest, chainoflakes, birchholt, beachsidewoods, southfoothills, wetlandestuary, swampcorner, birchlake, creepinghollow, southglade, westcentral
+
 # Herb data
 
 Valerian is a ranked herb which can be found in different qualities.

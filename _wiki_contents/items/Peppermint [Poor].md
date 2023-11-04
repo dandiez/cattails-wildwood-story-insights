@@ -18,6 +18,10 @@ item_stealth_amount: 1800
 
 item_uid: Peppermint [Poor]
 
+# Map regions
+
+Peppermint grows as herb in southfoothills, theoldfarm, westwoodland, chainoflakes, eastfoothills, northfoothills, thegrimclearing, southcentral, meadowoutskirts, mountainlake, mountainsummit
+
 # Herb data
 
 Peppermint is a ranked herb which can be found in different qualities.

@@ -13,3 +13,5 @@ item_rarity: Legendary
 item_sorting_priority: 0
 
 item_uid: Power Paw Purple
+
+Power Paw (Purple) can be found in crater, eastfoothills, blossomingfield

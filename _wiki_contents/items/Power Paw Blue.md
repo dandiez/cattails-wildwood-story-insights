@@ -14,6 +14,8 @@ item_sorting_priority: 0
 
 item_uid: Power Paw Blue
 
+Power Paw (Blue) can be found in caldera, northernwastes, wetlandestuary, thestaunchstones
+
 # shops selling Power Paw (Blue):
 
 molo_shop_name sells it for 1000 mole cash.

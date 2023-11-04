@@ -18,6 +18,10 @@ item_sorting_priority: 2113
 
 item_uid: Bluejay
 
+# Map regions
+
+Bluejay is prey in beachsidewoods, beacheast, beachwest, mountainsummit, westwoodland, chainoflakes, creepinghollow, crater, southglade, meadowoutskirts, strangetarn, eastforest, birchholt
+
 # Gift guide
 
 NPCs that love Bluejay: Alabaster, Aster, Bob, Buttercup, Champ, Charlotte, Coco, Elli, Ember, Falcon, Jack, Jag, #kitten_one_name#, #kitten_two_name#, Krampy, Phantom, Salem, Talon, Forest Guardian, Wildwood Champion, Umbra

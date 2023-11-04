@@ -18,6 +18,10 @@ item_sorting_priority: 1600
 
 item_uid: Pigeon
 
+# Map regions
+
+Pigeon is prey in birchlake, eastfoothills, thegrimclearing, claypits, thestaunchstones, volcanicbasin, rivervale, birchholt
+
 # Gift guide
 
 NPCs that love Pigeon: Elli, Falcon, Jack, #kitten_two_name#

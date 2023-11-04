@@ -18,6 +18,10 @@ item_sorting_priority: 600
 
 item_uid: Hare
 
+# Map regions
+
+Hare is prey in southfoothills, theoldfarm, thicketburrows, thestaunchstones, westwoodland, chainoflakes, eastfoothills, centralmeadow, westfoothills, crater, badlandsmaze, blossomingfield, mountainlake, westmeadow, mountainsummit
+
 # Gift guide
 
 NPCs that love Hare: Alabaster, Aster, Coco, Jag, #kitten_four_name#, #kitten_one_name#, Rosemary

@@ -18,6 +18,10 @@ item_sorting_priority: 2000
 
 item_uid: Dove
 
+# Map regions
+
+Dove is prey in beachsidewoods, wetlandestuary, beacheast, woodedbog, beachwest, swampcorner, birchlake, chainoflakes, southglade, aridplains, northfloodplain, blossomingfield, westcentral, thestaunchstones, westmeadow, rivervale, birchholt
+
 # shops selling Dove:
 
 coco_festival_shop_name sells it for 3 festival tokens.

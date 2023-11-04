@@ -18,6 +18,10 @@ item_sorting_priority: 3081
 
 item_uid: Sea Bass
 
+# Map regions
+
+Sea Bass is prey in beachwest, oceanisland, beachsidewoods, beacheast
+
 # Gift guide
 
 NPCs that love Sea Bass: Phantom

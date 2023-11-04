@@ -14,6 +14,10 @@ item_sorting_priority: 11400
 
 item_uid: Coral
 
+# Map regions
+
+Coral spawns in beachwest, oceanisland, beachsidewoods, beacheast
+
 # Gift guide
 
 NPCs that love Coral: Basil

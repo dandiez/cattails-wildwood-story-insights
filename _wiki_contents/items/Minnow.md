@@ -18,6 +18,10 @@ item_sorting_priority: 3300
 
 item_uid: Minnow
 
+# Map regions
+
+Minnow is prey in southfoothills, wetlandestuary, mountainsummit, westwoodland, swampcorner, eastfoothills, chainoflakes, birchlake, northfoothills, westcentral, westfoothills, northfloodplain, strangetarn, mountainlake, birchholt
+
 # shops selling Minnow:
 
 ember_shop_name sells it for 38 mews.

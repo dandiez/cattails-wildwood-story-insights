@@ -18,6 +18,10 @@ item_sorting_priority: 1400
 
 item_uid: Sparrow
 
+# Map regions
+
+Sparrow is prey in beachsidewoods, theconfluence, theoldfarm, westernwastes, eastcentral, westcentral, rivervale, creepinghollow, crater, southglade, badlandsmaze, northfloodplain, southcentral, meadowoutskirts, eastforest
+
 # Gift guide
 
 NPCs that love Sparrow: Elli, Fliss, Jack, Lainey

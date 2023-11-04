@@ -18,6 +18,10 @@ item_swim_amount: 1800
 
 item_uid: Thistle [Good]
 
+# Map regions
+
+Thistle grows as herb in beacheast, beachwest, westfoothills, rivervale, theconfluence, eastfoothills, centralmeadow, aridplains, claypits, birchholt, beachsidewoods, southfoothills, wetlandestuary, woodedbog, swampcorner, creepinghollow, crater, thegrimclearing, westcentral
+
 # Herb data
 
 Thistle is a ranked herb which can be found in different qualities.

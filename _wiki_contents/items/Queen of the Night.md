@@ -16,6 +16,10 @@ item_sorting_priority: 7900
 
 item_uid: Queen of the Night
 
+# Map regions
+
+Queen of the Night grows as herb in scorcheddesert, beacheast, beachwest, caldera, blossomingfield, westcentral, oceanisland, volcanicbasin, northmeadow, thicketburrows, eastcentral, northernwastes, mountainlake, westmeadow, eastforest, mountainsummit, centralmeadow, claypits, ashenknolls, beachsidewoods, wetlandestuary, swampcorner, birchlake, meadowoutskirts
+
 # Herb data
 
 Queen of the Night is not a ranked herb and only exists in one quality.

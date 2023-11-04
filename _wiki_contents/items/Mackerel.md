@@ -18,6 +18,10 @@ item_sorting_priority: 3086
 
 item_uid: Mackerel
 
+# Map regions
+
+Mackerel is prey in beachwest, oceanisland, beachsidewoods, beacheast
+
 # shops selling Mackerel:
 
 molo_shop_name sells it for 85 mole cash.

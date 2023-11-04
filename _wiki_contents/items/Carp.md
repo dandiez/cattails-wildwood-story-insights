@@ -18,6 +18,10 @@ item_sorting_priority: 2900
 
 item_uid: Carp
 
+# Map regions
+
+Carp is prey in westfoothills, swampnorth, westwoodland, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, southcentral, claypits, birchholt, southfoothills, woodedbog, birchlake, northfoothills, southglade, northfloodplain, westcentral
+
 # shops selling Carp:
 
 coco_festival_shop_name sells it for 3 festival tokens.

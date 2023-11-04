@@ -18,6 +18,10 @@ item_sorting_priority: 500
 
 item_uid: Rabbit
 
+# Map regions
+
+Rabbit is prey in westernwastes, westfoothills, blossomingfield, thestaunchstones, westwoodland, volcanicbasin, northmeadow, thicketburrows, eastfoothills, mountainlake, westmeadow, mountainsummit, chainoflakes, centralmeadow, aridplains, birchholt, southfoothills, birchlake, creepinghollow, crater, meadowoutskirts
+
 # shops selling Rabbit:
 
 ember_shop_name sells it for 26 mews.

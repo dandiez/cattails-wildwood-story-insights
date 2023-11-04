@@ -18,6 +18,10 @@ item_sorting_priority: 4300
 
 item_uid: Raspberries [Poor]
 
+# Map regions
+
+Raspberries grows as herb in scorcheddesert, theoldfarm, westernwastes, beacheast, caldera, westfoothills, westcentral, strangetarn, volcanicbasin, rivervale, northmeadow, eastfoothills, mountainlake, mountainsummit, badlandsmaze, claypits, ashenknolls, birchholt, beachsidewoods, swampcorner, birchlake, northfoothills, crater, meadowoutskirts
+
 # Herb data
 
 Raspberries is a ranked herb which can be found in different qualities.

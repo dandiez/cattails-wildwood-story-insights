@@ -18,6 +18,10 @@ item_sorting_priority: 700
 
 item_uid: Rat
 
+# Map regions
+
+Rat is prey in swampcorner, northfoothills, thegrimclearing, northernwastes, thestaunchstones, mountainsummit
+
 # Gift guide
 
 NPCs that love Rat: Champ, Elli

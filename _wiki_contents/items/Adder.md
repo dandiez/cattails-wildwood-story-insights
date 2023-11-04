@@ -18,6 +18,10 @@ item_sorting_priority: 2600
 
 item_uid: Adder
 
+# Map regions
+
+Adder is prey in caldera, theoldfarm, volcanicbasin, ashenknolls
+
 # Gift guide
 
 NPCs that love Adder: Alabaster, Charlotte, Coco, Ember, Garlic, Glimmer, #kitten_one_name#, Talon, Forest Guardian

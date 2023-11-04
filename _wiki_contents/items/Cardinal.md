@@ -18,6 +18,10 @@ item_sorting_priority: 2108
 
 item_uid: Cardinal
 
+# Map regions
+
+Cardinal is prey in beachsidewoods, wetlandestuary, westernwastes, beacheast, eastcentral, centralmeadow, aridplains, blossomingfield, strangetarn, westmeadow, ashenknolls
+
 # Gift guide
 
 NPCs that love Cardinal: Alabaster, Aster, Buttercup, Champ, Charlotte, Elli, Ember, Falcon, Jack, Jag, #kitten_one_name#, #kitten_two_name#, Krampy, Phantom, Salem, Spark, Talon, Forest Guardian, Wildwood Champion, Umbra

@@ -14,6 +14,10 @@ item_sorting_priority: 12041
 
 item_uid: Voidmarrow
 
+# Map regions
+
+Voidmarrow spawns in oceanisland
+
 # Gift guide
 
 NPCs that love Voidmarrow: Jack, Krampy

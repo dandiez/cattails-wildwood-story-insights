@@ -18,6 +18,10 @@ item_sorting_priority: 1200
 
 item_uid: Thrush
 
+# Map regions
+
+Thrush is prey in scorcheddesert, eastcentral, westcentral, southglade, southcentral, meadowoutskirts, westwoodland, eastforest
+
 # shops selling Thrush:
 
 taskboard_shop_name sells it for 2 task tokens.

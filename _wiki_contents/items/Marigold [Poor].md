@@ -18,6 +18,10 @@ item_sorting_priority: 5500
 
 item_uid: Marigold [Poor]
 
+# Map regions
+
+Marigold grows as herb in scorcheddesert, westernwastes, beacheast, beachwest, caldera, swampnorth, strangetarn, thestaunchstones, volcanicbasin, westwoodland, rivervale, thicketburrows, riverdell, eastcentral, eastfoothills, eastforest, mountainsummit, centralmeadow, badlandsmaze, aridplains, birchholt, ashenknolls, beachsidewoods, wetlandestuary, woodedbog, swampcorner, birchlake, southglade, crater, northfloodplain, meadowoutskirts
+
 # Herb data
 
 Marigold is a ranked herb which can be found in different qualities.

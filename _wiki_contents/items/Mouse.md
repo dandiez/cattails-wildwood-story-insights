@@ -18,6 +18,10 @@ item_sorting_priority: 100
 
 item_uid: Mouse
 
+# Map regions
+
+Mouse is prey in scorcheddesert, theoldfarm, westernwastes, beacheast, beachwest, westfoothills, westcentral, strangetarn, thestaunchstones, northmeadow, thicketburrows, eastcentral, eastforest, centralmeadow, badlandsmaze, aridplains, southcentral, claypits, beachsidewoods, wetlandestuary, swampcorner, birchlake, creepinghollow, crater, thegrimclearing, meadowoutskirts
+
 # shops selling Mouse:
 
 coco_festival_shop_name sells it for 3 festival tokens.

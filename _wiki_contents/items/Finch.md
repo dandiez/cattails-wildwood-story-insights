@@ -18,6 +18,10 @@ item_sorting_priority: 1800
 
 item_uid: Finch
 
+# Map regions
+
+Finch is prey in southfoothills, northmeadow, westwoodland, eastfoothills, northfoothills, centralmeadow, creepinghollow, crater, westcentral, blossomingfield, meadowoutskirts, claypits, mountainlake, westmeadow
+
 # Gift guide
 
 NPCs that love Finch: Elli, Falcon, Jack, Jag, #kitten_two_name#, Phantom

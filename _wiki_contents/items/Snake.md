@@ -18,6 +18,10 @@ item_sorting_priority: 2500
 
 item_uid: Snake
 
+# Map regions
+
+Snake is prey in westernwastes, beacheast, beachwest, caldera, westwoodland, volcanicbasin, northmeadow, meadowoutskirts, eastcentral, northernwastes, eastforest, chainoflakes, centralmeadow, badlandsmaze, aridplains, ashenknolls, beachsidewoods, wetlandestuary, swampcorner, creepinghollow, thegrimclearing, westcentral
+
 # shops selling Snake:
 
 molay_shop_name sells it for 280 mole cash.

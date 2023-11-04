@@ -18,6 +18,10 @@ item_sorting_priority: 2300
 
 item_uid: Lizard
 
+# Map regions
+
+Lizard is prey in beachsidewoods, wetlandestuary, beacheast, beachwest, caldera, swampcorner, northernwastes, volcanicbasin, ashenknolls
+
 # Gift guide
 
 NPCs that love Lizard: Alabaster, Beau, Garlic, #kitten_four_name#, Talon

@@ -14,6 +14,10 @@ item_sorting_priority: 11850
 
 item_uid: Crab
 
+# Map regions
+
+Crab is prey in beachwest, oceanisland, beachsidewoods, beacheast
+
 # Gift guide
 
 NPCs that like Crab: Charlotte, Glimmer

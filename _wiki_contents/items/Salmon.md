@@ -18,6 +18,10 @@ item_sorting_priority: 3000
 
 item_uid: Salmon
 
+# Map regions
+
+Salmon is prey in westfoothills, swampnorth, westwoodland, strangetarn, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, chainoflakes, southcentral, birchholt, southfoothills, woodedbog, birchlake, northfoothills, southglade, northfloodplain, westcentral
+
 # shops selling Salmon:
 
 taskboard_shop_name sells it for 4 task tokens.

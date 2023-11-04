@@ -18,6 +18,10 @@ item_sorting_priority: 1500
 
 item_uid: Wren
 
+# Map regions
+
+Wren is prey in theconfluence, southfoothills, chainoflakes, southglade, northfloodplain, badlandsmaze, southcentral, rivervale, ashenknolls
+
 # Gift guide
 
 NPCs that love Wren: Elli, Falcon, Jack

@@ -18,6 +18,10 @@ item_sorting_priority: 2400
 
 item_uid: Toad
 
+# Map regions
+
+Toad is prey in theconfluence, theoldfarm, wetlandestuary, woodedbog, beachwest, swampcorner, creepinghollow, swampnorth, oceanisland, northernwastes, northfloodplain, blossomingfield, claypits, strangetarn, westmeadow, rivervale, ashenknolls
+
 # shops selling Toad:
 
 alabaster_shop_name sells it for 95 mews.

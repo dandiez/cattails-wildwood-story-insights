@@ -14,6 +14,8 @@ item_sorting_priority: 0
 
 item_uid: Power Paw Yellow
 
+Power Paw (Yellow) can be found in swampcorner, eastcentral
+
 # shops selling Power Paw (Yellow):
 
 taskboard_shop_name sells it for 12 task tokens.

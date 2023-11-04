@@ -14,6 +14,10 @@ item_sorting_priority: 11600
 
 item_uid: Whorl
 
+# Map regions
+
+Whorl spawns in beachwest, oceanisland, beachsidewoods, beacheast
+
 # Gift guide
 
 NPCs that love Whorl: Basil, Fliss, Glimmer, #kitten_two_name#

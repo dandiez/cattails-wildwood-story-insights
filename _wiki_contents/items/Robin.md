@@ -18,6 +18,10 @@ item_sorting_priority: 1700
 
 item_uid: Robin
 
+# Map regions
+
+Robin is prey in scorcheddesert, theoldfarm, northmeadow, westwoodland, northfoothills, westfoothills, creepinghollow, crater, northfloodplain, meadowoutskirts, claypits, mountainlake, volcanicbasin, mountainsummit
+
 # Gift guide
 
 NPCs that love Robin: Elli, Falcon, Jack, #kitten_two_name#

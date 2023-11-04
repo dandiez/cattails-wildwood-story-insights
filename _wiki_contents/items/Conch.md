@@ -16,6 +16,10 @@ item_sorting_priority: 11700
 
 item_uid: Conch
 
+# Map regions
+
+Conch spawns in beachwest, oceanisland, beachsidewoods, beacheast
+
 # Gift guide
 
 NPCs that love Conch: Basil, Buttercup, Coco, Elli, Fliss, Garlic, Glimmer, #kitten_two_name#, Wildwood Champion

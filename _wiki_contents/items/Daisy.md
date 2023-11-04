@@ -18,6 +18,10 @@ item_sorting_priority: 8000
 
 item_uid: Daisy
 
+# Map regions
+
+Daisy grows as herb in theoldfarm, westernwastes, blossomingfield, westcentral, oceanisland, thestaunchstones, theconfluence, thicketburrows, riverdell, eastcentral, northernwastes, westmeadow, eastforest, mountainsummit, chainoflakes, centralmeadow, southcentral, birchholt, birchlake, southglade, northfloodplain, meadowoutskirts
+
 # Herb data
 
 Daisy is not a ranked herb and only exists in one quality.

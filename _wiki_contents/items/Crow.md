@@ -18,6 +18,10 @@ item_sorting_priority: 1900
 
 item_uid: Crow
 
+# Map regions
+
+Crow is prey in scorcheddesert, southfoothills, theoldfarm, westernwastes, woodedbog, westwoodland, swampcorner, eastfoothills, swampnorth, thegrimclearing, northernwastes, badlandsmaze, aridplains, thestaunchstones
+
 # shops selling Crow:
 
 molu_shop_name sells it for 200 mole cash.

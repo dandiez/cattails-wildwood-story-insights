@@ -14,6 +14,10 @@ item_sorting_priority: 11500
 
 item_uid: Turret
 
+# Map regions
+
+Turret spawns in beachwest, oceanisland, beachsidewoods, beacheast
+
 # Gift guide
 
 NPCs that love Turret: Basil

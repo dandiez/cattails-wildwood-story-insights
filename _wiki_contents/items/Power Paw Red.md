@@ -14,6 +14,8 @@ item_sorting_priority: 0
 
 item_uid: Power Paw Red
 
+Power Paw (Red) can be found in southfoothills, theoldfarm, swampnorth, badlandsmaze, festivalplaza, meadowoutskirts, birchholt, mountainsummit
+
 # shops selling Power Paw (Red):
 
 ember_shop_name sells it for 900 mews.

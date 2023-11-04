@@ -18,6 +18,10 @@ item_sorting_priority: 2200
 
 item_uid: Frog
 
+# Map regions
+
+Frog is prey in beachsidewoods, theconfluence, wetlandestuary, beacheast, woodedbog, beachwest, riverdell, swampcorner, birchlake, chainoflakes, swampnorth, westcentral, claypits, strangetarn, rivervale, birchholt
+
 # Gift guide
 
 NPCs that love Frog: Alabaster, #kitten_four_name#

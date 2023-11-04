@@ -18,6 +18,10 @@ item_sorting_priority: 200
 
 item_uid: Shrew
 
+# Map regions
+
+Shrew is prey in scorcheddesert, theoldfarm, thicketburrows, westernwastes, wetlandestuary, riverdell, eastcentral, northfoothills, centralmeadow, creepinghollow, rivervale, westcentral, aridplains, northernwastes, blossomingfield, meadowoutskirts, mountainlake, eastforest
+
 # shops selling Shrew:
 
 molo_shop_name sells it for 55 mole cash.

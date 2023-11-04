@@ -14,6 +14,10 @@ item_sorting_priority: 11300
 
 item_uid: Scallop
 
+# Map regions
+
+Scallop spawns in beachwest, oceanisland, beachsidewoods, beacheast
+
 # shops selling Scallop:
 
 molay_shop_name sells it for 65 mole cash.

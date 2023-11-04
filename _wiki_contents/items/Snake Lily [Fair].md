@@ -18,6 +18,10 @@ item_uid: Snake Lily [Fair]
 
 item_venom_amount: 1800
 
+# Map regions
+
+Snake Lily grows as herb in wetlandestuary, woodedbog, swampcorner, creepinghollow, swampnorth, oceanisland
+
 # Herb data
 
 Snake Lily is a ranked herb which can be found in different qualities.

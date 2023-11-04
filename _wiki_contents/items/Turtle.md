@@ -18,6 +18,10 @@ item_sorting_priority: 2700
 
 item_uid: Turtle
 
+# Map regions
+
+Turtle is prey in beachsidewoods, theconfluence, westernwastes, westmeadow, beacheast, wetlandestuary, beachwest, swampcorner, birchlake, chainoflakes, rivervale, swampnorth, blossomingfield, westcentral, strangetarn, volcanicbasin, ashenknolls, birchholt
+
 # Gift guide
 
 NPCs that love Turtle: Alabaster, Aster, Buttercup, Ember, Garlic, #kitten_four_name#, Talon, Forest Guardian, Wildwood Champion, Umbra

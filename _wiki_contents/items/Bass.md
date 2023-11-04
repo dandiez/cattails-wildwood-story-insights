@@ -18,6 +18,10 @@ item_sorting_priority: 3100
 
 item_uid: Bass
 
+# Map regions
+
+Bass is prey in westfoothills, swampnorth, westwoodland, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, chainoflakes, southcentral, birchholt, southfoothills, wetlandestuary, woodedbog, swampcorner, birchlake, northfoothills, southglade, northfloodplain, westcentral
+
 # Gift guide
 
 NPCs that love Bass: Basil, Bob, Bubby, Champ, Coco, Elli, #kitten_three_name#, Lux

@@ -45,11 +45,11 @@ class ItemFromNpc:
 
 
 @dataclasses.dataclass
-class ItemFromMap:
-    herb_list: list[Map] = dataclasses.field(default_factory=list)
-    prey_list: list[Map] = dataclasses.field(default_factory=list)
-    spawners: list[Map] = dataclasses.field(default_factory=list)
-
+class ItemfromMapRegion:
+    herb_list: list[Uid] = dataclasses.field(default_factory=list)
+    prey_list: list[Uid] = dataclasses.field(default_factory=list)
+    spawners: list[Uid] = dataclasses.field(default_factory=list)
+    world_objects: list[Uid] = dataclasses.field(default_factory=list)
 
 @dataclasses.dataclass
 class ItemFromHerbs:
@@ -88,7 +88,7 @@ class ItemPlus:
     from_recipes: ItemFromItemRecipe = dataclasses.field(
         default_factory=ItemFromItemRecipe
     )
-    from_map: ItemFromMap = dataclasses.field(default_factory=ItemFromMap)
+    from_map: ItemfromMapRegion = dataclasses.field(default_factory=ItemfromMapRegion)
 
 
 AllItemPlus: TypeAlias = dict[Uid, ItemPlus]
@@ -199,16 +199,19 @@ def _merge_npc(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
 def _merge_map_regions(
     map: dict[Uid, Map], all_item_plus_with_groups: AllItemPlusWithGroups
 ):
-    for region in map.values():
+    for region_id, region in map.items():
         for herb in region.region_data.herbs_list:
-            f = lambda x: x.from_map.herb_list.append(region)
+            f = lambda x: x.from_map.herb_list.append(region_id)
             apply_function_to_item_plus_with_groups(all_item_plus_with_groups[herb], f)
         for prey in region.region_data.prey_list:
-            all_item_plus_with_groups[prey].from_map.prey_list.append(region)
+            all_item_plus_with_groups[prey].from_map.prey_list.append(region_id)
         for spawner in region.region_data.spawners:
             for item_id in spawner.item_uids:
-                all_item_plus_with_groups[item_id].from_map.spawners.append(region)
-
+                all_item_plus_with_groups[item_id].from_map.spawners.append(region_id)
+        for world_object in region.region_data.world_objects:
+            if world_object.power_paw_index is not None:
+                paw_item = POWER_POWS[f"Power Paw {world_object.power_paw_index}"]
+                all_item_plus_with_groups[paw_item].from_map.world_objects.append(region_id)
 
 def _merge_herbs(
     herbs_meta: dict[Uid, Herb], all_item_plus_with_groups: AllItemPlusWithGroups

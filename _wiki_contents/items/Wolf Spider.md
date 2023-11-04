@@ -14,6 +14,10 @@ item_sorting_priority: 12000
 
 item_uid: Wolf Spider
 
+# Map regions
+
+Wolf Spider is prey in southfoothills, theoldfarm, northmeadow, caldera, centralmeadow, creepinghollow, thegrimclearing, blossomingfield, westmeadow
+
 # Gift guide
 
 NPCs that love Wolf Spider: Aster, Buttercup, Charlotte, Coco, Glimmer, #kitten_one_name#, Krampy, Lux, Spark, Talon, Forest Guardian

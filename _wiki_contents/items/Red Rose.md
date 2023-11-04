@@ -16,6 +16,10 @@ item_sorting_priority: 8100
 
 item_uid: Red Rose
 
+# Map regions
+
+Red Rose spawns in theoldfarm
+
 # Herb data
 
 Red Rose is not a ranked herb and only exists in one quality.
