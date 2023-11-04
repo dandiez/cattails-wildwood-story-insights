@@ -16,7 +16,7 @@ item_uid: Scallop
 
 # Map regions
 
-Scallop spawns in beachwest, oceanisland, beachsidewoods, beacheast
+Scallop spawns in beacheast, beachsidewoods, beachwest, oceanisland
 
 # shops selling Scallop:
 

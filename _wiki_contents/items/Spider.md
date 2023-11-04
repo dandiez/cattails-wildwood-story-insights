@@ -16,7 +16,7 @@ item_uid: Spider
 
 # Map regions
 
-Spider is prey in theoldfarm, caldera, eastcentral, creepinghollow, thegrimclearing, meadowoutskirts, volcanicbasin
+Spider is prey in caldera, creepinghollow, eastcentral, meadowoutskirts, thegrimclearing, theoldfarm, volcanicbasin
 
 # Gift guide
 

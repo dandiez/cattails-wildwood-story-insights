@@ -20,7 +20,7 @@ item_uid: Barbel
 
 # Map regions
 
-Barbel is prey in westfoothills, swampnorth, westwoodland, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, chainoflakes, southcentral, birchholt, southfoothills, woodedbog, birchlake, northfoothills, southglade, northfloodplain, westcentral
+Barbel is prey in birchholt, birchlake, chainoflakes, eastfoothills, mountainlake, mountainsummit, northfloodplain, northfoothills, riverdell, rivervale, southcentral, southfoothills, southglade, swampnorth, theconfluence, westcentral, westfoothills, westwoodland, woodedbog
 
 # Gift guide
 

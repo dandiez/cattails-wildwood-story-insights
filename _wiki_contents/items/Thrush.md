@@ -20,7 +20,7 @@ item_uid: Thrush
 
 # Map regions
 
-Thrush is prey in scorcheddesert, eastcentral, westcentral, southglade, southcentral, meadowoutskirts, westwoodland, eastforest
+Thrush is prey in eastcentral, eastforest, meadowoutskirts, scorcheddesert, southcentral, southglade, westcentral, westwoodland
 
 # shops selling Thrush:
 

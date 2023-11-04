@@ -20,7 +20,7 @@ item_uid: Lavender [Fair]
 
 # Map regions
 
-Lavender grows as herb in scorcheddesert, caldera, swampnorth, blossomingfield, westcentral, strangetarn, westwoodland, volcanicbasin, theconfluence, thicketburrows, eastcentral, eastfoothills, mountainlake, westmeadow, eastforest, centralmeadow, badlandsmaze, aridplains, ashenknolls, southfoothills, woodedbog, northfoothills, thegrimclearing, meadowoutskirts
+Lavender grows as herb in aridplains, ashenknolls, badlandsmaze, blossomingfield, caldera, centralmeadow, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, northfoothills, scorcheddesert, southfoothills, strangetarn, swampnorth, theconfluence, thegrimclearing, thicketburrows, volcanicbasin, westcentral, westmeadow, westwoodland, woodedbog
 
 # Herb data
 

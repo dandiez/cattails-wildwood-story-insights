@@ -20,7 +20,7 @@ item_uid: Shrew
 
 # Map regions
 
-Shrew is prey in scorcheddesert, theoldfarm, thicketburrows, westernwastes, wetlandestuary, riverdell, eastcentral, northfoothills, centralmeadow, creepinghollow, rivervale, westcentral, aridplains, northernwastes, blossomingfield, meadowoutskirts, mountainlake, eastforest
+Shrew is prey in aridplains, blossomingfield, centralmeadow, creepinghollow, eastcentral, eastforest, meadowoutskirts, mountainlake, northernwastes, northfoothills, riverdell, rivervale, scorcheddesert, theoldfarm, thicketburrows, westcentral, westernwastes, wetlandestuary
 
 # shops selling Shrew:
 

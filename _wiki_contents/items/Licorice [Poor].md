@@ -20,7 +20,7 @@ item_uid: Licorice [Poor]
 
 # Map regions
 
-Licorice grows as herb in westernwastes, caldera, westfoothills, westcentral, thestaunchstones, westwoodland, volcanicbasin, theconfluence, eastcentral, eastfoothills, northernwastes, mountainlake, westmeadow, eastforest, centralmeadow, badlandsmaze, southcentral, claypits, birchholt, southfoothills, woodedbog, swampcorner, birchlake, northfloodplain, meadowoutskirts
+Licorice grows as herb in badlandsmaze, birchholt, birchlake, caldera, centralmeadow, claypits, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, northernwastes, northfloodplain, southcentral, southfoothills, swampcorner, theconfluence, thestaunchstones, volcanicbasin, westcentral, westernwastes, westfoothills, westmeadow, westwoodland, woodedbog
 
 # Herb data
 

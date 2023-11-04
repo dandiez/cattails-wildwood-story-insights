@@ -20,7 +20,7 @@ item_uid: Daisy
 
 # Map regions
 
-Daisy grows as herb in theoldfarm, westernwastes, blossomingfield, westcentral, oceanisland, thestaunchstones, theconfluence, thicketburrows, riverdell, eastcentral, northernwastes, westmeadow, eastforest, mountainsummit, chainoflakes, centralmeadow, southcentral, birchholt, birchlake, southglade, northfloodplain, meadowoutskirts
+Daisy grows as herb in birchholt, birchlake, blossomingfield, centralmeadow, chainoflakes, eastcentral, eastforest, meadowoutskirts, mountainsummit, northernwastes, northfloodplain, oceanisland, riverdell, southcentral, southglade, theconfluence, theoldfarm, thestaunchstones, thicketburrows, westcentral, westernwastes, westmeadow
 
 # Herb data
 

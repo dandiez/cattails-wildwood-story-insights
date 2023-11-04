@@ -20,7 +20,7 @@ item_uid: Carp
 
 # Map regions
 
-Carp is prey in westfoothills, swampnorth, westwoodland, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, southcentral, claypits, birchholt, southfoothills, woodedbog, birchlake, northfoothills, southglade, northfloodplain, westcentral
+Carp is prey in birchholt, birchlake, claypits, eastfoothills, mountainlake, mountainsummit, northfloodplain, northfoothills, riverdell, rivervale, southcentral, southfoothills, southglade, swampnorth, theconfluence, westcentral, westfoothills, westwoodland, woodedbog
 
 # shops selling Carp:
 

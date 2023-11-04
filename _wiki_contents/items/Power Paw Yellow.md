@@ -14,7 +14,7 @@ item_sorting_priority: 0
 
 item_uid: Power Paw Yellow
 
-Power Paw (Yellow) can be found in swampcorner, eastcentral
+Power Paw (Yellow) can be found in eastcentral, swampcorner
 
 # shops selling Power Paw (Yellow):
 

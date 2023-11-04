@@ -20,7 +20,7 @@ item_uid: Rabbit
 
 # Map regions
 
-Rabbit is prey in westernwastes, westfoothills, blossomingfield, thestaunchstones, westwoodland, volcanicbasin, northmeadow, thicketburrows, eastfoothills, mountainlake, westmeadow, mountainsummit, chainoflakes, centralmeadow, aridplains, birchholt, southfoothills, birchlake, creepinghollow, crater, meadowoutskirts
+Rabbit is prey in aridplains, birchholt, birchlake, blossomingfield, centralmeadow, chainoflakes, crater, creepinghollow, eastfoothills, meadowoutskirts, mountainlake, mountainsummit, northmeadow, southfoothills, thestaunchstones, thicketburrows, volcanicbasin, westernwastes, westfoothills, westmeadow, westwoodland
 
 # shops selling Rabbit:
 

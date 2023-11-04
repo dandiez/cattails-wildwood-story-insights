@@ -20,7 +20,7 @@ item_uid: Rat
 
 # Map regions
 
-Rat is prey in swampcorner, northfoothills, thegrimclearing, northernwastes, thestaunchstones, mountainsummit
+Rat is prey in mountainsummit, northernwastes, northfoothills, swampcorner, thegrimclearing, thestaunchstones
 
 # Gift guide
 

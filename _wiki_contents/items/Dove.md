@@ -20,7 +20,7 @@ item_uid: Dove
 
 # Map regions
 
-Dove is prey in beachsidewoods, wetlandestuary, beacheast, woodedbog, beachwest, swampcorner, birchlake, chainoflakes, southglade, aridplains, northfloodplain, blossomingfield, westcentral, thestaunchstones, westmeadow, rivervale, birchholt
+Dove is prey in aridplains, beacheast, beachsidewoods, beachwest, birchholt, birchlake, blossomingfield, chainoflakes, northfloodplain, rivervale, southglade, swampcorner, thestaunchstones, westcentral, westmeadow, wetlandestuary, woodedbog
 
 # shops selling Dove:
 

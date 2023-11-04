@@ -14,7 +14,7 @@ item_sorting_priority: 0
 
 item_uid: Power Paw Blue
 
-Power Paw (Blue) can be found in caldera, northernwastes, wetlandestuary, thestaunchstones
+Power Paw (Blue) can be found in caldera, northernwastes, thestaunchstones, wetlandestuary
 
 # shops selling Power Paw (Blue):
 

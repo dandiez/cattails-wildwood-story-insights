@@ -20,7 +20,7 @@ item_uid: Pigeon
 
 # Map regions
 
-Pigeon is prey in birchlake, eastfoothills, thegrimclearing, claypits, thestaunchstones, volcanicbasin, rivervale, birchholt
+Pigeon is prey in birchholt, birchlake, claypits, eastfoothills, rivervale, thegrimclearing, thestaunchstones, volcanicbasin
 
 # Gift guide
 

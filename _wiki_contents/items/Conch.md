@@ -18,7 +18,7 @@ item_uid: Conch
 
 # Map regions
 
-Conch spawns in beachwest, oceanisland, beachsidewoods, beacheast
+Conch spawns in beacheast, beachsidewoods, beachwest, oceanisland
 
 # Gift guide
 

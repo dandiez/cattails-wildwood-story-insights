@@ -16,7 +16,7 @@ item_uid: Whorl
 
 # Map regions
 
-Whorl spawns in beachwest, oceanisland, beachsidewoods, beacheast
+Whorl spawns in beacheast, beachsidewoods, beachwest, oceanisland
 
 # Gift guide
 

@@ -20,7 +20,7 @@ item_uid: Robin
 
 # Map regions
 
-Robin is prey in scorcheddesert, theoldfarm, northmeadow, westwoodland, northfoothills, westfoothills, creepinghollow, crater, northfloodplain, meadowoutskirts, claypits, mountainlake, volcanicbasin, mountainsummit
+Robin is prey in claypits, crater, creepinghollow, meadowoutskirts, mountainlake, mountainsummit, northfloodplain, northfoothills, northmeadow, scorcheddesert, theoldfarm, volcanicbasin, westfoothills, westwoodland
 
 # Gift guide
 

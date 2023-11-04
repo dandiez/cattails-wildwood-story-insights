@@ -14,7 +14,7 @@ item_sorting_priority: 0
 
 item_uid: Power Paw Red
 
-Power Paw (Red) can be found in southfoothills, theoldfarm, swampnorth, badlandsmaze, festivalplaza, meadowoutskirts, birchholt, mountainsummit
+Power Paw (Red) can be found in badlandsmaze, birchholt, festivalplaza, meadowoutskirts, mountainsummit, southfoothills, swampnorth, theoldfarm
 
 # shops selling Power Paw (Red):
 

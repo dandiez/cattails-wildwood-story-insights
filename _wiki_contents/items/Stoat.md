@@ -20,7 +20,7 @@ item_uid: Stoat
 
 # Map regions
 
-Stoat is prey in southfoothills, scorcheddesert, northmeadow, eastfoothills, thegrimclearing, mountainsummit
+Stoat is prey in eastfoothills, mountainsummit, northmeadow, scorcheddesert, southfoothills, thegrimclearing
 
 # Gift guide
 

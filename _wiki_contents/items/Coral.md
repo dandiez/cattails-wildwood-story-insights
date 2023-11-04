@@ -16,7 +16,7 @@ item_uid: Coral
 
 # Map regions
 
-Coral spawns in beachwest, oceanisland, beachsidewoods, beacheast
+Coral spawns in beacheast, beachsidewoods, beachwest, oceanisland
 
 # Gift guide
 

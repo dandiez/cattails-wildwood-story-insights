@@ -20,7 +20,7 @@ item_uid: Frog
 
 # Map regions
 
-Frog is prey in beachsidewoods, theconfluence, wetlandestuary, beacheast, woodedbog, beachwest, riverdell, swampcorner, birchlake, chainoflakes, swampnorth, westcentral, claypits, strangetarn, rivervale, birchholt
+Frog is prey in beacheast, beachsidewoods, beachwest, birchholt, birchlake, chainoflakes, claypits, riverdell, rivervale, strangetarn, swampcorner, swampnorth, theconfluence, westcentral, wetlandestuary, woodedbog
 
 # Gift guide
 

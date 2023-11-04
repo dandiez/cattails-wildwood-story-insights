@@ -20,7 +20,7 @@ item_uid: Blueberries [Fair]
 
 # Map regions
 
-Blueberries grows as herb in theoldfarm, beachwest, westfoothills, westcentral, strangetarn, thestaunchstones, westwoodland, rivervale, northmeadow, riverdell, eastcentral, eastfoothills, northernwastes, mountainlake, eastforest, mountainsummit, chainoflakes, southcentral, ashenknolls, birchholt, southfoothills, wetlandestuary, swampcorner, birchlake, northfoothills, creepinghollow, southglade, meadowoutskirts
+Blueberries grows as herb in ashenknolls, beachwest, birchholt, birchlake, chainoflakes, creepinghollow, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, mountainsummit, northernwastes, northfoothills, northmeadow, riverdell, rivervale, southcentral, southfoothills, southglade, strangetarn, swampcorner, theoldfarm, thestaunchstones, westcentral, westfoothills, westwoodland, wetlandestuary
 
 # Herb data
 

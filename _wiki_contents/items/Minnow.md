@@ -20,7 +20,7 @@ item_uid: Minnow
 
 # Map regions
 
-Minnow is prey in southfoothills, wetlandestuary, mountainsummit, westwoodland, swampcorner, eastfoothills, chainoflakes, birchlake, northfoothills, westcentral, westfoothills, northfloodplain, strangetarn, mountainlake, birchholt
+Minnow is prey in birchholt, birchlake, chainoflakes, eastfoothills, mountainlake, mountainsummit, northfloodplain, northfoothills, southfoothills, strangetarn, swampcorner, westcentral, westfoothills, westwoodland, wetlandestuary
 
 # shops selling Minnow:
 

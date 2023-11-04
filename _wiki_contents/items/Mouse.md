@@ -20,7 +20,7 @@ item_uid: Mouse
 
 # Map regions
 
-Mouse is prey in scorcheddesert, theoldfarm, westernwastes, beacheast, beachwest, westfoothills, westcentral, strangetarn, thestaunchstones, northmeadow, thicketburrows, eastcentral, eastforest, centralmeadow, badlandsmaze, aridplains, southcentral, claypits, beachsidewoods, wetlandestuary, swampcorner, birchlake, creepinghollow, crater, thegrimclearing, meadowoutskirts
+Mouse is prey in aridplains, badlandsmaze, beacheast, beachsidewoods, beachwest, birchlake, centralmeadow, claypits, crater, creepinghollow, eastcentral, eastforest, meadowoutskirts, northmeadow, scorcheddesert, southcentral, strangetarn, swampcorner, thegrimclearing, theoldfarm, thestaunchstones, thicketburrows, westcentral, westernwastes, westfoothills, wetlandestuary
 
 # shops selling Mouse:
 

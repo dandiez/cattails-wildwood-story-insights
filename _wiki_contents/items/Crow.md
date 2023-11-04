@@ -20,7 +20,7 @@ item_uid: Crow
 
 # Map regions
 
-Crow is prey in scorcheddesert, southfoothills, theoldfarm, westernwastes, woodedbog, westwoodland, swampcorner, eastfoothills, swampnorth, thegrimclearing, northernwastes, badlandsmaze, aridplains, thestaunchstones
+Crow is prey in aridplains, badlandsmaze, eastfoothills, northernwastes, scorcheddesert, southfoothills, swampcorner, swampnorth, thegrimclearing, theoldfarm, thestaunchstones, westernwastes, westwoodland, woodedbog
 
 # shops selling Crow:
 

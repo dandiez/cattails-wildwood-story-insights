@@ -20,7 +20,7 @@ item_uid: Squirrel
 
 # Map regions
 
-Squirrel is prey in westfoothills, westcentral, strangetarn, westwoodland, volcanicbasin, thicketburrows, riverdell, eastcentral, eastfoothills, mountainlake, westmeadow, eastforest, mountainsummit, chainoflakes, centralmeadow, badlandsmaze, aridplains, southfoothills, northfoothills, thegrimclearing, crater, northfloodplain, meadowoutskirts
+Squirrel is prey in aridplains, badlandsmaze, centralmeadow, chainoflakes, crater, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, mountainsummit, northfloodplain, northfoothills, riverdell, southfoothills, strangetarn, thegrimclearing, thicketburrows, volcanicbasin, westcentral, westfoothills, westmeadow, westwoodland
 
 # shops selling Squirrel:
 

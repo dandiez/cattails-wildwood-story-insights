@@ -20,7 +20,7 @@ item_uid: Thistle [Fair]
 
 # Map regions
 
-Thistle grows as herb in beacheast, beachwest, westfoothills, rivervale, theconfluence, eastfoothills, centralmeadow, aridplains, claypits, birchholt, beachsidewoods, southfoothills, wetlandestuary, woodedbog, swampcorner, creepinghollow, crater, thegrimclearing, westcentral
+Thistle grows as herb in aridplains, beacheast, beachsidewoods, beachwest, birchholt, centralmeadow, claypits, crater, creepinghollow, eastfoothills, rivervale, southfoothills, swampcorner, theconfluence, thegrimclearing, westcentral, westfoothills, wetlandestuary, woodedbog
 
 # Herb data
 

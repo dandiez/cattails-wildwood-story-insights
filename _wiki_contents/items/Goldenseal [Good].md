@@ -20,7 +20,7 @@ item_uid: Goldenseal [Good]
 
 # Map regions
 
-Goldenseal grows as herb in theoldfarm, beacheast, swampnorth, westcentral, oceanisland, westwoodland, riverdell, chainoflakes, centralmeadow, aridplains, southcentral, claypits, birchholt, beachsidewoods, woodedbog, swampcorner, birchlake, southglade, crater, thegrimclearing, northfloodplain, meadowoutskirts
+Goldenseal grows as herb in aridplains, beacheast, beachsidewoods, birchholt, birchlake, centralmeadow, chainoflakes, claypits, crater, meadowoutskirts, northfloodplain, oceanisland, riverdell, southcentral, southglade, swampcorner, swampnorth, thegrimclearing, theoldfarm, westcentral, westwoodland, woodedbog
 
 # Herb data
 

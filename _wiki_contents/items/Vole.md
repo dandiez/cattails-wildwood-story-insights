@@ -20,7 +20,7 @@ item_uid: Vole
 
 # Map regions
 
-Vole is prey in beachsidewoods, scorcheddesert, thicketburrows, beacheast, mountainsummit, caldera, riverdell, birchlake, westcentral, centralmeadow, northfloodplain, meadowoutskirts, westwoodland, volcanicbasin, birchholt
+Vole is prey in beacheast, beachsidewoods, birchholt, birchlake, caldera, centralmeadow, meadowoutskirts, mountainsummit, northfloodplain, riverdell, scorcheddesert, thicketburrows, volcanicbasin, westcentral, westwoodland
 
 # Gift guide
 

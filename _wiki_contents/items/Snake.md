@@ -20,7 +20,7 @@ item_uid: Snake
 
 # Map regions
 
-Snake is prey in westernwastes, beacheast, beachwest, caldera, westwoodland, volcanicbasin, northmeadow, meadowoutskirts, eastcentral, northernwastes, eastforest, chainoflakes, centralmeadow, badlandsmaze, aridplains, ashenknolls, beachsidewoods, wetlandestuary, swampcorner, creepinghollow, thegrimclearing, westcentral
+Snake is prey in aridplains, ashenknolls, badlandsmaze, beacheast, beachsidewoods, beachwest, caldera, centralmeadow, chainoflakes, creepinghollow, eastcentral, eastforest, meadowoutskirts, northernwastes, northmeadow, swampcorner, thegrimclearing, volcanicbasin, westcentral, westernwastes, westwoodland, wetlandestuary
 
 # shops selling Snake:
 

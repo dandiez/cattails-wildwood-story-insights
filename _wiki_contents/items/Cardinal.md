@@ -20,7 +20,7 @@ item_uid: Cardinal
 
 # Map regions
 
-Cardinal is prey in beachsidewoods, wetlandestuary, westernwastes, beacheast, eastcentral, centralmeadow, aridplains, blossomingfield, strangetarn, westmeadow, ashenknolls
+Cardinal is prey in aridplains, ashenknolls, beacheast, beachsidewoods, blossomingfield, centralmeadow, eastcentral, strangetarn, westernwastes, westmeadow, wetlandestuary
 
 # Gift guide
 

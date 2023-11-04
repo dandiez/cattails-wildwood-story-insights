@@ -20,7 +20,7 @@ item_uid: Raspberries [Fair]
 
 # Map regions
 
-Raspberries grows as herb in scorcheddesert, theoldfarm, westernwastes, beacheast, caldera, westfoothills, westcentral, strangetarn, volcanicbasin, rivervale, northmeadow, eastfoothills, mountainlake, mountainsummit, badlandsmaze, claypits, ashenknolls, birchholt, beachsidewoods, swampcorner, birchlake, northfoothills, crater, meadowoutskirts
+Raspberries grows as herb in ashenknolls, badlandsmaze, beacheast, beachsidewoods, birchholt, birchlake, caldera, claypits, crater, eastfoothills, meadowoutskirts, mountainlake, mountainsummit, northfoothills, northmeadow, rivervale, scorcheddesert, strangetarn, swampcorner, theoldfarm, volcanicbasin, westcentral, westernwastes, westfoothills
 
 # Herb data
 

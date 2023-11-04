@@ -20,7 +20,7 @@ item_uid: Peppermint [Fair]
 
 # Map regions
 
-Peppermint grows as herb in southfoothills, theoldfarm, westwoodland, chainoflakes, eastfoothills, northfoothills, thegrimclearing, southcentral, meadowoutskirts, mountainlake, mountainsummit
+Peppermint grows as herb in chainoflakes, eastfoothills, meadowoutskirts, mountainlake, mountainsummit, northfoothills, southcentral, southfoothills, thegrimclearing, theoldfarm, westwoodland
 
 # Herb data
 

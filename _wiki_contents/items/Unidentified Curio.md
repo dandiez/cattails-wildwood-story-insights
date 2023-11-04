@@ -16,7 +16,7 @@ item_uid: Unidentified Curio
 
 # Map regions
 
-Unidentified Curio spawns in scorcheddesert, theoldfarm, thestaunchstones, crater, strangetarn, mountainlake
+Unidentified Curio spawns in crater, mountainlake, scorcheddesert, strangetarn, theoldfarm, thestaunchstones
 
 # shops selling Unidentified Curio:
 

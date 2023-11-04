@@ -20,7 +20,7 @@ item_uid: Magpie
 
 # Map regions
 
-Magpie is prey in westernwastes, westwoodland, eastforest, eastcentral, westcentral, northernwastes, meadowoutskirts, thestaunchstones, rivervale
+Magpie is prey in eastcentral, eastforest, meadowoutskirts, northernwastes, rivervale, thestaunchstones, westcentral, westernwastes, westwoodland
 
 # Gift guide
 

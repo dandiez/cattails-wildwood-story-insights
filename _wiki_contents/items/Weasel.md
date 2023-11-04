@@ -20,7 +20,7 @@ item_uid: Weasel
 
 # Map regions
 
-Weasel is prey in westmeadow, scorcheddesert, wetlandestuary, northmeadow, thicketburrows, swampcorner, eastcentral, westcentral, centralmeadow, thegrimclearing, blossomingfield, meadowoutskirts, mountainlake, volcanicbasin, eastforest, mountainsummit
+Weasel is prey in blossomingfield, centralmeadow, eastcentral, eastforest, meadowoutskirts, mountainlake, mountainsummit, northmeadow, scorcheddesert, swampcorner, thegrimclearing, thicketburrows, volcanicbasin, westcentral, westmeadow, wetlandestuary
 
 # Gift guide
 

@@ -20,7 +20,7 @@ item_uid: Lizard
 
 # Map regions
 
-Lizard is prey in beachsidewoods, wetlandestuary, beacheast, beachwest, caldera, swampcorner, northernwastes, volcanicbasin, ashenknolls
+Lizard is prey in ashenknolls, beacheast, beachsidewoods, beachwest, caldera, northernwastes, swampcorner, volcanicbasin, wetlandestuary
 
 # Gift guide
 

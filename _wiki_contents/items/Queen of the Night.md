@@ -18,7 +18,7 @@ item_uid: Queen of the Night
 
 # Map regions
 
-Queen of the Night grows as herb in scorcheddesert, beacheast, beachwest, caldera, blossomingfield, westcentral, oceanisland, volcanicbasin, northmeadow, thicketburrows, eastcentral, northernwastes, mountainlake, westmeadow, eastforest, mountainsummit, centralmeadow, claypits, ashenknolls, beachsidewoods, wetlandestuary, swampcorner, birchlake, meadowoutskirts
+Queen of the Night grows as herb in ashenknolls, beacheast, beachsidewoods, beachwest, birchlake, blossomingfield, caldera, centralmeadow, claypits, eastcentral, eastforest, meadowoutskirts, mountainlake, mountainsummit, northernwastes, northmeadow, oceanisland, scorcheddesert, swampcorner, thicketburrows, volcanicbasin, westcentral, westmeadow, wetlandestuary
 
 # Herb data
 

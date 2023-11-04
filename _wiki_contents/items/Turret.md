@@ -16,7 +16,7 @@ item_uid: Turret
 
 # Map regions
 
-Turret spawns in beachwest, oceanisland, beachsidewoods, beacheast
+Turret spawns in beacheast, beachsidewoods, beachwest, oceanisland
 
 # Gift guide
 

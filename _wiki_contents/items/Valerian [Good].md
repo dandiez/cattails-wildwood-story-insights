@@ -20,7 +20,7 @@ item_uid: Valerian [Good]
 
 # Map regions
 
-Valerian grows as herb in westernwastes, beacheast, blossomingfield, westwoodland, rivervale, theconfluence, thicketburrows, meadowoutskirts, eastcentral, northernwastes, westmeadow, eastforest, chainoflakes, birchholt, beachsidewoods, southfoothills, wetlandestuary, swampcorner, birchlake, creepinghollow, southglade, westcentral
+Valerian grows as herb in beacheast, beachsidewoods, birchholt, birchlake, blossomingfield, chainoflakes, creepinghollow, eastcentral, eastforest, meadowoutskirts, northernwastes, rivervale, southfoothills, southglade, swampcorner, theconfluence, thicketburrows, westcentral, westernwastes, westmeadow, westwoodland, wetlandestuary
 
 # Herb data
 

@@ -20,7 +20,7 @@ item_uid: Bass
 
 # Map regions
 
-Bass is prey in westfoothills, swampnorth, westwoodland, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, chainoflakes, southcentral, birchholt, southfoothills, wetlandestuary, woodedbog, swampcorner, birchlake, northfoothills, southglade, northfloodplain, westcentral
+Bass is prey in birchholt, birchlake, chainoflakes, eastfoothills, mountainlake, mountainsummit, northfloodplain, northfoothills, riverdell, rivervale, southcentral, southfoothills, southglade, swampcorner, swampnorth, theconfluence, westcentral, westfoothills, westwoodland, wetlandestuary, woodedbog
 
 # Gift guide
 

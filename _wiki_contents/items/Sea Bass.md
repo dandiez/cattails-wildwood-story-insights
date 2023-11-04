@@ -20,7 +20,7 @@ item_uid: Sea Bass
 
 # Map regions
 
-Sea Bass is prey in beachwest, oceanisland, beachsidewoods, beacheast
+Sea Bass is prey in beacheast, beachsidewoods, beachwest, oceanisland
 
 # Gift guide
 

@@ -20,7 +20,7 @@ item_uid: Bluejay
 
 # Map regions
 
-Bluejay is prey in beachsidewoods, beacheast, beachwest, mountainsummit, westwoodland, chainoflakes, creepinghollow, crater, southglade, meadowoutskirts, strangetarn, eastforest, birchholt
+Bluejay is prey in beacheast, beachsidewoods, beachwest, birchholt, chainoflakes, crater, creepinghollow, eastforest, meadowoutskirts, mountainsummit, southglade, strangetarn, westwoodland
 
 # Gift guide
 

@@ -20,7 +20,7 @@ item_uid: Hare
 
 # Map regions
 
-Hare is prey in southfoothills, theoldfarm, thicketburrows, thestaunchstones, westwoodland, chainoflakes, eastfoothills, centralmeadow, westfoothills, crater, badlandsmaze, blossomingfield, mountainlake, westmeadow, mountainsummit
+Hare is prey in badlandsmaze, blossomingfield, centralmeadow, chainoflakes, crater, eastfoothills, mountainlake, mountainsummit, southfoothills, theoldfarm, thestaunchstones, thicketburrows, westfoothills, westmeadow, westwoodland
 
 # Gift guide
 

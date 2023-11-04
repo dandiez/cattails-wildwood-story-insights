@@ -20,7 +20,7 @@ item_uid: Wren
 
 # Map regions
 
-Wren is prey in theconfluence, southfoothills, chainoflakes, southglade, northfloodplain, badlandsmaze, southcentral, rivervale, ashenknolls
+Wren is prey in ashenknolls, badlandsmaze, chainoflakes, northfloodplain, rivervale, southcentral, southfoothills, southglade, theconfluence
 
 # Gift guide
 

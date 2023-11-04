@@ -128,18 +128,28 @@ def yield_lines_recipes(i: ItemPlus):
         for r in i.from_recipes.as_input:
             yield _recipe_variant_as_str(r)
 
-def yield_lines_from_map_regions(i: ItemPlus , all_data: AllResourceData):
+
+def yield_lines_from_map_regions(i: ItemPlus, all_data: AllResourceData):
     regions = i.from_map
     if any((regions.spawners, regions.prey_list, regions.herb_list)):
         yield "# Map regions"
     if regions.spawners:
-        yield f"{i.item_lang.lang_item_name} spawns in " + ', '.join(set(regions.spawners))
+        yield f"{i.item_lang.lang_item_name} spawns in " + ", ".join(
+            sorted(set(regions.spawners))
+        )
     if regions.prey_list:
-        yield f"{i.item_lang.lang_item_name} is prey in " + ', '.join(set(regions.prey_list))
+        yield f"{i.item_lang.lang_item_name} is prey in " + ", ".join(
+            sorted(set(regions.prey_list))
+        )
     if regions.herb_list:
-        yield f"{i.item_lang.lang_item_name} grows as herb in "+ ', '.join(set(regions.herb_list))
+        yield f"{i.item_lang.lang_item_name} grows as herb in " + ", ".join(
+            sorted(set(regions.herb_list))
+        )
     if regions.world_objects:
-        yield f"{i.item_lang.lang_item_name} can be found in "+ ', '.join(set(regions.world_objects))
+        yield f"{i.item_lang.lang_item_name} can be found in " + ", ".join(
+            sorted(set(regions.world_objects))
+        )
+
 
 def yield_lines_from_item_plus(i: ItemPlus, all_resource_data: AllResourceData):
     yield f"# {i.item_lang.lang_item_name}"
@@ -150,7 +160,6 @@ def yield_lines_from_item_plus(i: ItemPlus, all_resource_data: AllResourceData):
     yield from yield_lines_shopping_block(i)
     yield from yield_lines_npc_block(i, all_resource_data)
     yield from yield_lines_recipes(i)
-
 
 
 def write_item_merged_data(

@@ -16,7 +16,7 @@ item_uid: Crab
 
 # Map regions
 
-Crab is prey in beachwest, oceanisland, beachsidewoods, beacheast
+Crab is prey in beacheast, beachsidewoods, beachwest, oceanisland
 
 # Gift guide
 

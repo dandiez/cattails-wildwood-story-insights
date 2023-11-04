@@ -20,7 +20,7 @@ item_uid: Starling
 
 # Map regions
 
-Starling is prey in beachsidewoods, beacheast, thestaunchstones, woodedbog, swampcorner, birchlake, swampnorth, westcentral, strangetarn, birchholt
+Starling is prey in beacheast, beachsidewoods, birchholt, birchlake, strangetarn, swampcorner, swampnorth, thestaunchstones, westcentral, woodedbog
 
 # Gift guide
 

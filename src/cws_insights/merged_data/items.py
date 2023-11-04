@@ -51,6 +51,7 @@ class ItemfromMapRegion:
     spawners: list[Uid] = dataclasses.field(default_factory=list)
     world_objects: list[Uid] = dataclasses.field(default_factory=list)
 
+
 @dataclasses.dataclass
 class ItemFromHerbs:
     ranked_herbs: bool = False
@@ -134,6 +135,7 @@ def get_merged_item_data(all_resource_data: AllResourceData):
     _merge_recipe(all_resource_data.items_recipes_meta, all_item_plus)
     return all_item_plus
 
+
 def _double_check_assumptions(all_resource_data: AllResourceData):
     for stem, item in all_resource_data.items_meta.items():
         if item.item_uid is None:
@@ -171,10 +173,10 @@ def _merge_item_lang(
                 f"skipping over lang with uid {uid}, which does not have a matching item."
             )
 
+
 def _merge_sprite(all_item_plus: AllItemPlus):
     for i in all_item_plus.values():
         i.sprite = get_stem_from_uid(i.item.item_uid) + "_wildwood_story.png"
-
 
 
 def _merge_npc(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
@@ -196,6 +198,7 @@ def _merge_npc(npcs: dict[Uid, Npc], all_item_plus: AllItemPlus):
             for item_uid in npc.npc_item_gifts:
                 all_item_plus[item_uid].from_npc.npc_gifts.append(npc_uid)
 
+
 def _merge_map_regions(
     map: dict[Uid, Map], all_item_plus_with_groups: AllItemPlusWithGroups
 ):
@@ -211,7 +214,10 @@ def _merge_map_regions(
         for world_object in region.region_data.world_objects:
             if world_object.power_paw_index is not None:
                 paw_item = POWER_POWS[f"Power Paw {world_object.power_paw_index}"]
-                all_item_plus_with_groups[paw_item].from_map.world_objects.append(region_id)
+                all_item_plus_with_groups[paw_item].from_map.world_objects.append(
+                    region_id
+                )
+
 
 def _merge_herbs(
     herbs_meta: dict[Uid, Herb], all_item_plus_with_groups: AllItemPlusWithGroups
@@ -302,6 +308,3 @@ def yield_items_in_itemplus_or_group(item_or_group: ItemPlus | ItemPlusGroup):
     if isinstance(item_or_group, ItemPlusGroup):
         for item in item_or_group._contained:
             yield item
-
-
-

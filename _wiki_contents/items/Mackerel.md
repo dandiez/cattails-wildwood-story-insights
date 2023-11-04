@@ -20,7 +20,7 @@ item_uid: Mackerel
 
 # Map regions
 
-Mackerel is prey in beachwest, oceanisland, beachsidewoods, beacheast
+Mackerel is prey in beacheast, beachsidewoods, beachwest, oceanisland
 
 # shops selling Mackerel:
 

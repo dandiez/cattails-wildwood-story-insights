@@ -20,7 +20,7 @@ item_uid: Sparrow
 
 # Map regions
 
-Sparrow is prey in beachsidewoods, theconfluence, theoldfarm, westernwastes, eastcentral, westcentral, rivervale, creepinghollow, crater, southglade, badlandsmaze, northfloodplain, southcentral, meadowoutskirts, eastforest
+Sparrow is prey in badlandsmaze, beachsidewoods, crater, creepinghollow, eastcentral, eastforest, meadowoutskirts, northfloodplain, rivervale, southcentral, southglade, theconfluence, theoldfarm, westcentral, westernwastes
 
 # Gift guide
 

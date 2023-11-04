@@ -20,7 +20,7 @@ item_uid: Salmon
 
 # Map regions
 
-Salmon is prey in westfoothills, swampnorth, westwoodland, strangetarn, rivervale, theconfluence, riverdell, eastfoothills, mountainlake, mountainsummit, chainoflakes, southcentral, birchholt, southfoothills, woodedbog, birchlake, northfoothills, southglade, northfloodplain, westcentral
+Salmon is prey in birchholt, birchlake, chainoflakes, eastfoothills, mountainlake, mountainsummit, northfloodplain, northfoothills, riverdell, rivervale, southcentral, southfoothills, southglade, strangetarn, swampnorth, theconfluence, westcentral, westfoothills, westwoodland, woodedbog
 
 # shops selling Salmon:
 

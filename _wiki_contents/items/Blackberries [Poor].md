@@ -20,7 +20,7 @@ item_uid: Blackberries [Poor]
 
 # Map regions
 
-Blackberries grows as herb in scorcheddesert, westernwastes, beachwest, caldera, volcanicbasin, rivervale, northmeadow, eastcentral, eastfoothills, mountainlake, eastforest, mountainsummit, badlandsmaze, aridplains, southcentral, birchholt, southfoothills, swampcorner, birchlake, northfoothills, crater, meadowoutskirts
+Blackberries grows as herb in aridplains, badlandsmaze, beachwest, birchholt, birchlake, caldera, crater, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, mountainsummit, northfoothills, northmeadow, rivervale, scorcheddesert, southcentral, southfoothills, swampcorner, volcanicbasin, westernwastes
 
 # Herb data
 

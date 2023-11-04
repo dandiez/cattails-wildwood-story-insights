@@ -20,7 +20,7 @@ item_venom_amount: 1800
 
 # Map regions
 
-Snake Lily grows as herb in wetlandestuary, woodedbog, swampcorner, creepinghollow, swampnorth, oceanisland
+Snake Lily grows as herb in creepinghollow, oceanisland, swampcorner, swampnorth, wetlandestuary, woodedbog
 
 # Herb data
 

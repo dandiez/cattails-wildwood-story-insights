@@ -20,7 +20,7 @@ item_uid: Bat
 
 # Map regions
 
-Bat is prey in scorcheddesert, theoldfarm, westernwastes, caldera, blossomingfield, thestaunchstones, volcanicbasin, eastfoothills, northernwastes, mountainlake, westmeadow, eastforest, mountainsummit, centralmeadow, badlandsmaze, aridplains, southcentral, ashenknolls, birchholt, southfoothills, swampcorner, birchlake, northfoothills, creepinghollow, crater, southglade, meadowoutskirts
+Bat is prey in aridplains, ashenknolls, badlandsmaze, birchholt, birchlake, blossomingfield, caldera, centralmeadow, crater, creepinghollow, eastfoothills, eastforest, meadowoutskirts, mountainlake, mountainsummit, northernwastes, northfoothills, scorcheddesert, southcentral, southfoothills, southglade, swampcorner, theoldfarm, thestaunchstones, volcanicbasin, westernwastes, westmeadow
 
 # shops selling Bat:
 

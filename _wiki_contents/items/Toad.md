@@ -20,7 +20,7 @@ item_uid: Toad
 
 # Map regions
 
-Toad is prey in theconfluence, theoldfarm, wetlandestuary, woodedbog, beachwest, swampcorner, creepinghollow, swampnorth, oceanisland, northernwastes, northfloodplain, blossomingfield, claypits, strangetarn, westmeadow, rivervale, ashenknolls
+Toad is prey in ashenknolls, beachwest, blossomingfield, claypits, creepinghollow, northernwastes, northfloodplain, oceanisland, rivervale, strangetarn, swampcorner, swampnorth, theconfluence, theoldfarm, westmeadow, wetlandestuary, woodedbog
 
 # shops selling Toad:
 

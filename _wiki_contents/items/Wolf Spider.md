@@ -16,7 +16,7 @@ item_uid: Wolf Spider
 
 # Map regions
 
-Wolf Spider is prey in southfoothills, theoldfarm, northmeadow, caldera, centralmeadow, creepinghollow, thegrimclearing, blossomingfield, westmeadow
+Wolf Spider is prey in blossomingfield, caldera, centralmeadow, creepinghollow, northmeadow, southfoothills, thegrimclearing, theoldfarm, westmeadow
 
 # Gift guide
 

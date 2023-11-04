@@ -20,7 +20,7 @@ item_uid: Finch
 
 # Map regions
 
-Finch is prey in southfoothills, northmeadow, westwoodland, eastfoothills, northfoothills, centralmeadow, creepinghollow, crater, westcentral, blossomingfield, meadowoutskirts, claypits, mountainlake, westmeadow
+Finch is prey in blossomingfield, centralmeadow, claypits, crater, creepinghollow, eastfoothills, meadowoutskirts, mountainlake, northfoothills, northmeadow, southfoothills, westcentral, westmeadow, westwoodland
 
 # Gift guide
 

@@ -20,7 +20,7 @@ item_uid: Adder
 
 # Map regions
 
-Adder is prey in caldera, theoldfarm, volcanicbasin, ashenknolls
+Adder is prey in ashenknolls, caldera, theoldfarm, volcanicbasin
 
 # Gift guide
 

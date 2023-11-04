@@ -20,7 +20,7 @@ item_uid: Turtle
 
 # Map regions
 
-Turtle is prey in beachsidewoods, theconfluence, westernwastes, westmeadow, beacheast, wetlandestuary, beachwest, swampcorner, birchlake, chainoflakes, rivervale, swampnorth, blossomingfield, westcentral, strangetarn, volcanicbasin, ashenknolls, birchholt
+Turtle is prey in ashenknolls, beacheast, beachsidewoods, beachwest, birchholt, birchlake, blossomingfield, chainoflakes, rivervale, strangetarn, swampcorner, swampnorth, theconfluence, volcanicbasin, westcentral, westernwastes, westmeadow, wetlandestuary
 
 # Gift guide
 

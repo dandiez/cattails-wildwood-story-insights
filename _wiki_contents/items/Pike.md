@@ -20,7 +20,7 @@ item_uid: Pike
 
 # Map regions
 
-Pike is prey in southfoothills, birchholt, eastfoothills, birchlake, northfoothills, westcentral, westfoothills, strangetarn, mountainlake, mountainsummit
+Pike is prey in birchholt, birchlake, eastfoothills, mountainlake, mountainsummit, northfoothills, southfoothills, strangetarn, westcentral, westfoothills
 
 # shops selling Pike:
 
