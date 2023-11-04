@@ -2,17 +2,17 @@
 
 A luminescent summer bug that emits white light.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 1
+Sell Price: 1 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 10100
+Sorting priority: 10100
 
-item_uid: White Firefly
+Item uid: White Firefly
 
 # shops selling White Firefly:
 

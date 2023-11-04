@@ -2,19 +2,19 @@
 
 A gorgeous red flower that symbolizes true love. Give to a cat to let them know you've fallen for them!
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_mews_value: 5
+Sell Price: 5 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 8100
+Sorting priority: 8100
 
-item_uid: Red Rose
+Item uid: Red Rose
 
 # Map regions
 

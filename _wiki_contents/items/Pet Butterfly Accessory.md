@@ -2,17 +2,17 @@
 
 A colorful butterfly that will follow you around!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 13700
+Sorting priority: 13700
 
-item_uid: Pet Butterfly Accessory
+Item uid: Pet Butterfly Accessory
 
 # shops selling Pet Butterfly:
 

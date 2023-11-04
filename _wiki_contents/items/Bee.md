@@ -2,17 +2,17 @@
 
 This tiny insect packs a punch! Mind the venomous stinger.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 5
+Sell Price: 5 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 11800
+Sorting priority: 11800
 
-item_uid: Bee
+Item uid: Bee
 
 # Gift guide
 

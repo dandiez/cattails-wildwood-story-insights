@@ -2,21 +2,21 @@
 
 Several kinds of mushrooms tossed together with leafy salad greens. A very filling meal!
 
-item_can_sell: True
+Can be sold: True
 
-item_heal_amount: 3
+Heal amount: 3
 
-item_hunger_amount: 500
+Hunger amount: 500
 
-item_mews_value: 28
+Sell Price: 28 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 3425
+Sorting priority: 3425
 
-item_uid: Mushroom Salad
+Item uid: Mushroom Salad
 
 # Gift guide
 

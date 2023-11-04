@@ -2,17 +2,17 @@
 
 A glowing summer bug that shines bright green.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 10300
+Sorting priority: 10300
 
-item_uid: Green Firefly
+Item uid: Green Firefly
 
 # Gift guide
 

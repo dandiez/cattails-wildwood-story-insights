@@ -47,11 +47,40 @@ def yield_lines_shopping_block(i: ItemPlus):
 
 
 def yield_lines_item_attributes(i: ItemMeta):
-    for k, v in asdict(i).items():
-        if not k.startswith("item_"):
-            continue
+    description_attribute = {
+        "Attack amount: {}": i.item_attack_amount,
+        "Buddy XP amount: {}": i.item_buddy_xp_amount,
+        "Can explode: {}": i.item_can_explode,
+        "Can be sold: {}": i.item_can_sell,
+        "Catnip amount: {}": i.item_catnip_amount,
+        "Confusion amount: {}": i.item_confusion_amount,
+        "Cures poison: {}": i.item_cures_poison,
+        "Heal amount: {}": i.item_heal_amount,
+        "Herbs resource value: {}": i.item_herbs_resource_value,
+        "Hunger amount: {}": i.item_hunger_amount,
+        "Immunity amount: {}": i.item_immunity_amount,
+        "Influence amount: {}": i.item_influence_amount,
+        "Is farsighted: {}": i.item_is_farsighted,
+        "Sell Price: {} Mews": i.item_mews_value,
+        "Sell Price: {} Mole Cash": i.item_mole_cash_value,
+        "Prey resource value: {}": i.item_prey_resource_value,
+        "Random effect: {}": i.item_random_effect,
+        "Rarity: {}": i.item_rarity,
+        "Sand resource value: {}": i.item_sand_resource_value,
+        "Sorting priority: {}": i.item_sorting_priority,
+        "Special effect: {}": i.item_special_effect,
+        "Speed amount: {}": i.item_speed_amount,
+        "Stealth amount: {}": i.item_stealth_amount,
+        "Stone resource value: {}": i.item_stone_resource_value,
+        "Swim amount: {}": i.item_swim_amount,
+        "Treasure resource value: {}": i.item_treasure_resource_value,
+        "Item uid: {}": i.item_uid,
+        "Venom amount: {}": i.item_venom_amount,
+        "Wood resource value: {}": i.item_wood_resource_value,
+    }
+    for k, v in description_attribute.items():
         if v is not None:
-            yield f"{k}: {v}"
+            yield k.format(v)
 
 
 def _npc_nice_names(npc_stem_ids: list[UidStem], all_data: AllResourceData):

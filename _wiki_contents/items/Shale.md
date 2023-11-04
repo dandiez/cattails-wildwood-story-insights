@@ -2,17 +2,17 @@
 
 Layers of dark, brittle rock.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 1
+Sell Price: 1 Mews
 
-item_mole_cash_value: 3
+Sell Price: 3 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12123
+Sorting priority: 12123
 
-item_uid: Shale
+Item uid: Shale
 
 # Gift guide
 

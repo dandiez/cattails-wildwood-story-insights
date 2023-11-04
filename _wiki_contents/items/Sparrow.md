@@ -2,21 +2,21 @@
 
 A tiny brown bird with a reddish hue.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 7
+Sell Price: 7 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 1400
+Sorting priority: 1400
 
-item_uid: Sparrow
+Item uid: Sparrow
 
 # Map regions
 

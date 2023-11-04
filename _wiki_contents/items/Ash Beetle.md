@@ -2,17 +2,17 @@
 
 A large beetle with a muted green carapace.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 11000
+Sorting priority: 11000
 
-item_uid: Ash Beetle
+Item uid: Ash Beetle
 
 # Gift guide
 

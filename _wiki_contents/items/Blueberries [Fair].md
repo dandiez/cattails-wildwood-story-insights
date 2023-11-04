@@ -2,21 +2,21 @@
 
 A brilliant cluster of small berries on a bright green stem.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 5000
+Sorting priority: 5000
 
-item_uid: Blueberries [Fair]
+Item uid: Blueberries [Fair]
 
 # Map regions
 

@@ -2,19 +2,19 @@
 
 A stalky fungus with a curative property. Treats poison.
 
-item_can_sell: True
+Can be sold: True
 
-item_cures_poison: True
+Cures poison: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 3800
+Sorting priority: 3800
 
-item_uid: Coprinus
+Item uid: Coprinus
 
 # shops selling Coprinus:
 

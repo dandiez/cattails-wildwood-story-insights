@@ -2,21 +2,21 @@
 
 A large rabbit-like creature with long, dark-tipped ears.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 400
+Hunger amount: 400
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 600
+Sorting priority: 600
 
-item_uid: Hare
+Item uid: Hare
 
 # Map regions
 

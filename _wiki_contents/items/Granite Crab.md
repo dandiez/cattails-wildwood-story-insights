@@ -2,14 +2,14 @@
 
 A cave dwelling crab with granite-like skin. These critters love to nestle underneath boulders.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 11850
+Sorting priority: 11850
 
-item_uid: Granite Crab
+Item uid: Granite Crab

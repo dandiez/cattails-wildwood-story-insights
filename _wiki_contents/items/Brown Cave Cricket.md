@@ -2,17 +2,17 @@
 
 A small creature with bulging eyes and a crooked body. It likes to hide in dark places.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 11260
+Sorting priority: 11260
 
-item_uid: Brown Cave Cricket
+Item uid: Brown Cave Cricket
 
 # shops selling Brown Cave Cricket:
 

@@ -2,21 +2,21 @@
 
 The roots of this plant may be chewed on for a quick bite.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 3
+Sell Price: 3 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 4100
+Sorting priority: 4100
 
-item_uid: Licorice [Fair]
+Item uid: Licorice [Fair]
 
 # Map regions
 

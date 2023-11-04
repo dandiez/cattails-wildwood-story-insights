@@ -2,17 +2,17 @@
 
 Some odd fabric material twisted into an elastic ring.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99929
+Sorting priority: 99929
 
-item_uid: Flexible Curio
+Item uid: Flexible Curio
 
 # Gift guide
 

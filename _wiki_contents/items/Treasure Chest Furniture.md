@@ -2,17 +2,17 @@
 
 The perfect place to stash your valuables! Can be used to access your storage.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Treasure Chest Furniture
+Item uid: Treasure Chest Furniture
 
 # shops selling Treasure Chest:
 

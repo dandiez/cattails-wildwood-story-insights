@@ -2,17 +2,17 @@
 
 A cursed amulet that whispers of the void. Use to summon an invading army of Voidling Cats. If you defeat them all, you'll be rewarded.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 20
+Sell Price: 20 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 799929
+Sorting priority: 799929
 
-item_uid: Wretched Talisman
+Item uid: Wretched Talisman
 
 # Gift guide
 

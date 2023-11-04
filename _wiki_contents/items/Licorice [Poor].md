@@ -2,21 +2,21 @@
 
 The roots of this plant may be chewed on for some light refreshment.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_hunger_amount: 100
+Hunger amount: 100
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 4000
+Sorting priority: 4000
 
-item_uid: Licorice [Poor]
+Item uid: Licorice [Poor]
 
 # Map regions
 

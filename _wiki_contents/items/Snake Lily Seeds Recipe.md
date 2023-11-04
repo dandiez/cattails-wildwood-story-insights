@@ -2,17 +2,17 @@
 
 Grow snake lily in your garden with these seeds! This dangerous plant can be applied to your claws to deal bonus damage.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22009
+Sorting priority: 22009
 
-item_uid: Snake Lily Seeds Recipe
+Item uid: Snake Lily Seeds Recipe
 
 # shops selling Snake Lily Seeds Recipe:
 

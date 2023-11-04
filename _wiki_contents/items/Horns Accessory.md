@@ -2,17 +2,17 @@
 
 Mind the pointy ends!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 15300
+Sorting priority: 15300
 
-item_uid: Horns Accessory
+Item uid: Horns Accessory
 
 # shops selling Horns:
 

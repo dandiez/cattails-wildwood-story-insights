@@ -2,21 +2,21 @@
 
 A fatal flower. Apply to your claws to temporarily increase the damage of all attacks.
 
-item_attack_amount: 2400
+Attack amount: 2400
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 2
+Herbs resource value: 2
 
-item_mews_value: 15
+Sell Price: 15 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 7200
+Sorting priority: 7200
 
-item_uid: Foxglove [Good]
+Item uid: Foxglove [Good]
 
 # Map regions
 

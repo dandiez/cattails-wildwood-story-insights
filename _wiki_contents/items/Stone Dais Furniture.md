@@ -2,17 +2,17 @@
 
 A low platform made of dusty yellowed stones.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Stone Dais Furniture
+Item uid: Stone Dais Furniture
 
 # shops selling Stone Dais:
 

@@ -2,17 +2,17 @@
 
 A striking little bug with black spots.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 8600
+Sorting priority: 8600
 
-item_uid: Yellow Ladybug
+Item uid: Yellow Ladybug
 
 # Gift guide
 

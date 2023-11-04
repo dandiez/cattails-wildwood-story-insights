@@ -2,21 +2,21 @@
 
 A slender, slimy creature. Doesn't look very appetizing.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 8
+Sell Price: 8 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 2300
+Sorting priority: 2300
 
-item_uid: Lizard
+Item uid: Lizard
 
 # Map regions
 

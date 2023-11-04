@@ -2,17 +2,17 @@
 
 A small pile of nearly worthless pebbles.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 1
+Sell Price: 1 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12100
+Sorting priority: 12100
 
-item_uid: Rock Debris
+Item uid: Rock Debris
 
 # Gift guide
 

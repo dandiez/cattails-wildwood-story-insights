@@ -2,21 +2,21 @@
 
 A dark freshwater fish with a prominent dorsal fin.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 100
+Hunger amount: 100
 
-item_mews_value: 9
+Sell Price: 9 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 2900
+Sorting priority: 2900
 
-item_uid: Carp
+Item uid: Carp
 
 # Map regions
 

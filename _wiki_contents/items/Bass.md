@@ -2,21 +2,21 @@
 
 A dark green freshwater fish with a big mouth.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 300
+Hunger amount: 300
 
-item_mews_value: 14
+Sell Price: 14 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 3100
+Sorting priority: 3100
 
-item_uid: Bass
+Item uid: Bass
 
 # Map regions
 

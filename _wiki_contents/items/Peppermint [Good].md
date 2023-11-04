@@ -2,21 +2,21 @@
 
 This sweet-smelling leaf can mask the scent of a cat, so that tracking prey will be easier for a time.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_mews_value: 7
+Sell Price: 7 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 6300
+Sorting priority: 6300
 
-item_stealth_amount: 3600
+Stealth amount: 3600
 
-item_uid: Peppermint [Good]
+Item uid: Peppermint [Good]
 
 # Map regions
 

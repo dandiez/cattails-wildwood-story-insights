@@ -2,17 +2,17 @@
 
 Festive reindeer antlers that remind you of snowy days.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 15400
+Sorting priority: 15400
 
-item_uid: Antlers Accessory
+Item uid: Antlers Accessory
 
 # shops selling Antlers:
 

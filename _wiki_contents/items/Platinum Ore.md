@@ -2,17 +2,17 @@
 
 Unrefined platinum, a valuable mineral found only in certain caves.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 5
+Sell Price: 5 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12418
+Sorting priority: 12418
 
-item_uid: Platinum Ore
+Item uid: Platinum Ore
 
 # Gift guide
 

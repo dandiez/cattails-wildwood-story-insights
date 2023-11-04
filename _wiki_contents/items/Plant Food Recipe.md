@@ -2,14 +2,14 @@
 
 Keep your herb garden well fed with this plant food!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22081
+Sorting priority: 22081
 
-item_uid: Plant Food Recipe
+Item uid: Plant Food Recipe

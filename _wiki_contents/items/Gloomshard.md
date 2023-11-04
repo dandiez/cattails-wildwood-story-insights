@@ -2,17 +2,17 @@
 
 A tiny fragment of a gemstone found only in the darkest of caves.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 3
+Sell Price: 3 Mews
 
-item_mole_cash_value: 10
+Sell Price: 10 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12623
+Sorting priority: 12623
 
-item_uid: Gloomshard
+Item uid: Gloomshard
 
 # Gift guide
 

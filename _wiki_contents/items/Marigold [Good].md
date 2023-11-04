@@ -2,23 +2,23 @@
 
 A vibrant orange flower atop a sturdy stem. Treats poison and restores a small amount of health.
 
-item_can_sell: True
+Can be sold: True
 
-item_cures_poison: True
+Cures poison: True
 
-item_heal_amount: 1
+Heal amount: 1
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_mews_value: 7
+Sell Price: 7 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 5700
+Sorting priority: 5700
 
-item_uid: Marigold [Good]
+Item uid: Marigold [Good]
 
 # Map regions
 

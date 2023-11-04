@@ -2,17 +2,17 @@
 
 A large bulb yielded from a Queen of the Night plant. Sow this in the garden and watch it grow!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 81914
+Sorting priority: 81914
 
-item_uid: Queen of the Night Seeds
+Item uid: Queen of the Night Seeds
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A small seashell with a pink hue. Smooth to the touch.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 11300
+Sorting priority: 11300
 
-item_uid: Scallop
+Item uid: Scallop
 
 # Map regions
 

@@ -2,17 +2,17 @@
 
 A red crustacean with several legs. Careful with the claws!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 11850
+Sorting priority: 11850
 
-item_uid: Crab
+Item uid: Crab
 
 # Map regions
 

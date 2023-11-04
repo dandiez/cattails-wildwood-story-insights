@@ -2,21 +2,21 @@
 
 A large, speckled freshwater fish. Dinner's served!
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 8
+Sell Price: 8 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 2800
+Sorting priority: 2800
 
-item_uid: Trout
+Item uid: Trout
 
 # Map regions
 

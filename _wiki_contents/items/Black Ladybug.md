@@ -2,17 +2,17 @@
 
 An odd little bug with gray spots.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 8700
+Sorting priority: 8700
 
-item_uid: Black Ladybug
+Item uid: Black Ladybug
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A chunk of stone with a visible streak of iron ore.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 1
+Sell Price: 1 Mews
 
-item_mole_cash_value: 2
+Sell Price: 2 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12200
+Sorting priority: 12200
 
-item_uid: Iron Ore
+Item uid: Iron Ore
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 An ugly wilted flower that nobody likes to see. Give to a cat to end your relationship.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 20
+Sell Price: 20 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 8200
+Sorting priority: 8200
 
-item_uid: Black Rose
+Item uid: Black Rose
 
 # Herb data
 

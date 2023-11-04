@@ -2,17 +2,17 @@
 
 A loose-fitting shirt with bold, flat colors.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 17600
+Sorting priority: 17600
 
-item_uid: Surcoat Accessory
+Item uid: Surcoat Accessory
 
 # shops selling Surcoat:
 

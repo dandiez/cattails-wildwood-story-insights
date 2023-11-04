@@ -2,17 +2,17 @@
 
 A flying insect with black stripes on its yellow wings.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 9800
+Sorting priority: 9800
 
-item_uid: Tiger Butterfly
+Item uid: Tiger Butterfly
 
 # shops selling Tiger Butterfly:
 

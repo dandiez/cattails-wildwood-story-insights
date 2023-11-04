@@ -2,19 +2,19 @@
 
 A perfectly spherical stone, rounded and sanded until its smooth surface shines. This item may be donated to your stone stockpile.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 12104
+Sorting priority: 12104
 
-item_stone_resource_value: 1
+Stone resource value: 1
 
-item_uid: Polished Stone
+Item uid: Polished Stone
 
 # Gift guide
 

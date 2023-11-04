@@ -2,21 +2,21 @@
 
 A sweet plant with an irresistible smell. Liked and valued by almost all cats.
 
-item_can_sell: True
+Can be sold: True
 
-item_catnip_amount: 2700
+Catnip amount: 2700
 
-item_herbs_resource_value: 2
+Herbs resource value: 2
 
-item_mews_value: 28
+Sell Price: 28 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 7500
+Sorting priority: 7500
 
-item_uid: Catnip [Good]
+Item uid: Catnip [Good]
 
 # Map regions
 

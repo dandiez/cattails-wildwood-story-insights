@@ -2,21 +2,21 @@
 
 Modest red berries that pop with a splash of sweet flavor.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_hunger_amount: 100
+Hunger amount: 100
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 4300
+Sorting priority: 4300
 
-item_uid: Raspberries [Poor]
+Item uid: Raspberries [Poor]
 
 # Map regions
 

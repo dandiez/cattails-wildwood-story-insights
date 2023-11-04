@@ -2,21 +2,21 @@
 
 A scrappy rodent that won't go down without a fight.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 100
+Hunger amount: 100
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 700
+Sorting priority: 700
 
-item_uid: Rat
+Item uid: Rat
 
 # Map regions
 

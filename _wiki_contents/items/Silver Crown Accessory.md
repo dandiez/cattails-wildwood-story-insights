@@ -2,17 +2,17 @@
 
 This elegant crown is made from sturdy metal.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 15000
+Sorting priority: 15000
 
-item_uid: Silver Crown Accessory
+Item uid: Silver Crown Accessory
 
 # shops selling Silver Crown:
 

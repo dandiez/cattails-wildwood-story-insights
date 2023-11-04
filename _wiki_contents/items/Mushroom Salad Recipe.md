@@ -2,14 +2,14 @@
 
 Several kinds of mushrooms tossed together with leafy salad greens. A very filling meal!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 42008
+Sorting priority: 42008
 
-item_uid: Mushroom Salad Recipe
+Item uid: Mushroom Salad Recipe

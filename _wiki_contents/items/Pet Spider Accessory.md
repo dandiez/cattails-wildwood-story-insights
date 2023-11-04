@@ -2,17 +2,17 @@
 
 A terrifying purple spider that will follow you around!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 14000
+Sorting priority: 14000
 
-item_uid: Pet Spider Accessory
+Item uid: Pet Spider Accessory
 
 # shops selling Pet Spider:
 

@@ -2,17 +2,17 @@
 
 A creepy-crawler with a nasty bite. Often encountered in swarms.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 1
+Sell Price: 1 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 87138
+Sorting priority: 87138
 
-item_uid: Prowler
+Item uid: Prowler
 
 # Gift guide
 

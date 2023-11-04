@@ -2,14 +2,14 @@
 
 A living creature with basalt-like skin. Its eerie eyes pierce the darkness of the mines. Infamous for its bad temper.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 931
+Sorting priority: 931
 
-item_uid: Glower
+Item uid: Glower

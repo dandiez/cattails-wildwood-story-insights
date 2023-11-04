@@ -2,17 +2,17 @@
 
 A powerful flashlight, built by moles for their long delves into the dark places of the world. Wearing it will illuminate your surroundings.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 13094
+Sorting priority: 13094
 
-item_uid: Headlamp Accessory
+Item uid: Headlamp Accessory
 
 # shops selling Headlamp:
 

@@ -2,17 +2,17 @@
 
 A tall, otherworldly lantern. Light emanates from the yellow orb near the top, but how it is created is a mystery.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Celestial Lamp Furniture
+Item uid: Celestial Lamp Furniture
 
 # shops selling Celestial Lamp:
 

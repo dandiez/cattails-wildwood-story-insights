@@ -2,17 +2,17 @@
 
 Grow goldenseal in your garden with these seeds! Goldenseal is well-known for its healing properties.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22005
+Sorting priority: 22005
 
-item_uid: Goldenseal Seeds Recipe
+Item uid: Goldenseal Seeds Recipe
 
 # shops selling Goldenseal Seeds Recipe:
 

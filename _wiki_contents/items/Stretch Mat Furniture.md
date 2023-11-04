@@ -2,17 +2,17 @@
 
 A long mint-green rubber mat, the perfect spot to do your morning stretching routine. Stay flexible!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Stretch Mat Furniture
+Item uid: Stretch Mat Furniture
 
 # shops selling Stretch Mat:
 

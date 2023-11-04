@@ -2,17 +2,17 @@
 
 A river of valuable gold ore encased in stone.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 3
+Sell Price: 3 Mews
 
-item_mole_cash_value: 4
+Sell Price: 4 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12400
+Sorting priority: 12400
 
-item_uid: Gold Ore
+Item uid: Gold Ore
 
 # Gift guide
 

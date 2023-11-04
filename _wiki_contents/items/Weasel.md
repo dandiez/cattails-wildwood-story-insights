@@ -2,21 +2,21 @@
 
 A slender creature with small, round ears.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 400
+Hunger amount: 400
 
-item_mews_value: 40
+Sell Price: 40 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 1100
+Sorting priority: 1100
 
-item_uid: Weasel
+Item uid: Weasel
 
 # Map regions
 

@@ -2,14 +2,14 @@
 
 Several robust roots, dried until hardened. This item may be donated to your wood stockpile.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 43109
+Sorting priority: 43109
 
-item_uid: Dried Roots Recipe
+Item uid: Dried Roots Recipe

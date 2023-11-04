@@ -2,17 +2,17 @@
 
 Tiny black seeds yielded from a goldenseal plant. Sow these in the garden and watch them grow!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 81901
+Sorting priority: 81901
 
-item_uid: Goldenseal Seeds
+Item uid: Goldenseal Seeds
 
 # Gift guide
 

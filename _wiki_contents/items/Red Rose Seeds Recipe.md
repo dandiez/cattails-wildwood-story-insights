@@ -2,17 +2,17 @@
 
 Grow red roses in your garden with these seeds! Symbolic of true love. All cats know what it means to be given one.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22015
+Sorting priority: 22015
 
-item_uid: Red Rose Seeds Recipe
+Item uid: Red Rose Seeds Recipe
 
 # shops selling Red Rose Seeds Recipe:
 

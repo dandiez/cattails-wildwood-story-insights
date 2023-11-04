@@ -2,17 +2,17 @@
 
 A silver vein runs through this rock and makes it shine.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 1
+Sell Price: 1 Mews
 
-item_mole_cash_value: 3
+Sell Price: 3 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12300
+Sorting priority: 12300
 
-item_uid: Silver Ore
+Item uid: Silver Ore
 
 # Gift guide
 

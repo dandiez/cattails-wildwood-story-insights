@@ -2,17 +2,17 @@
 
 A flawless red gemstone.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 30
+Sell Price: 30 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 13100
+Sorting priority: 13100
 
-item_uid: Ruby
+Item uid: Ruby
 
 # Gift guide
 

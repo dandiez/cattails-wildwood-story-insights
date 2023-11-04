@@ -2,17 +2,17 @@
 
 A gleaming yellow gemstone.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 6
+Sell Price: 6 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 12600
+Sorting priority: 12600
 
-item_uid: Topaz
+Item uid: Topaz
 
 # Gift guide
 

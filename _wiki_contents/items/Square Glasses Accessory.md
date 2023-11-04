@@ -2,17 +2,17 @@
 
 Large rectangular frames to wear on your face.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 16000
+Sorting priority: 16000
 
-item_uid: Square Glasses Accessory
+Item uid: Square Glasses Accessory
 
 # shops selling Square Glasses:
 

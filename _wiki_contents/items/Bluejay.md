@@ -2,21 +2,21 @@
 
 A legendary sapphire bird. It smells delicious!
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 500
+Hunger amount: 500
 
-item_mews_value: 45
+Sell Price: 45 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 2113
+Sorting priority: 2113
 
-item_uid: Bluejay
+Item uid: Bluejay
 
 # Map regions
 

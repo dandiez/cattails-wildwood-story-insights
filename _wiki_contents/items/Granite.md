@@ -2,17 +2,17 @@
 
 A lump of unpolished granite rock.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 1
+Sell Price: 1 Mews
 
-item_mole_cash_value: 2
+Sell Price: 2 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 12118
+Sorting priority: 12118
 
-item_uid: Granite
+Item uid: Granite
 
 # Gift guide
 

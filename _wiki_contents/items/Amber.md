@@ -2,17 +2,17 @@
 
 A gorgeous dark resin with shades of orange and gold.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 10
+Sell Price: 10 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 12900
+Sorting priority: 12900
 
-item_uid: Amber
+Item uid: Amber
 
 # Gift guide
 

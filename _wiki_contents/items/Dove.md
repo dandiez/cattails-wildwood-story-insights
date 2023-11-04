@@ -2,21 +2,21 @@
 
 The dove traditionally symbolizes peace. This one was unsuccessful.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 300
+Hunger amount: 300
 
-item_mews_value: 16
+Sell Price: 16 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 2000
+Sorting priority: 2000
 
-item_uid: Dove
+Item uid: Dove
 
 # Map regions
 

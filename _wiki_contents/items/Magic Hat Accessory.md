@@ -2,17 +2,17 @@
 
 Some say that this hat was once worn by a powerful mage.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 14600
+Sorting priority: 14600
 
-item_uid: Magic Hat Accessory
+Item uid: Magic Hat Accessory
 
 # shops selling Magic Hat:
 

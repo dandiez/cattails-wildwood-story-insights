@@ -2,17 +2,17 @@
 
 A coppery-green gemstone with a beautiful banded pattern.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 7
+Sell Price: 7 Mews
 
-item_mole_cash_value: 32
+Sell Price: 32 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 13018
+Sorting priority: 13018
 
-item_uid: Malachite
+Item uid: Malachite
 
 # Gift guide
 

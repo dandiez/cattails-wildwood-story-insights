@@ -2,21 +2,21 @@
 
 It's hard to miss the bright red belly.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 9
+Sell Price: 9 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 1700
+Sorting priority: 1700
 
-item_uid: Robin
+Item uid: Robin
 
 # Map regions
 

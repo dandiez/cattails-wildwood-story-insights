@@ -2,29 +2,29 @@
 
 Donate this item to increase each of your stockpiles' values by 2!
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 2
+Herbs resource value: 2
 
-item_mews_value: 14
+Sell Price: 14 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sand_resource_value: 2
+Sand resource value: 2
 
-item_sorting_priority: 8068
+Sorting priority: 8068
 
-item_stone_resource_value: 2
+Stone resource value: 2
 
-item_treasure_resource_value: 2
+Treasure resource value: 2
 
-item_uid: Supply Trove
+Item uid: Supply Trove
 
-item_wood_resource_value: 2
+Wood resource value: 2
 
 # Gift guide
 

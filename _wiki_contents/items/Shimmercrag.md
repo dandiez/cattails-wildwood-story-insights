@@ -2,17 +2,17 @@
 
 These sparkling jewels are hard to come by. A faint humming noise emanates from the center. What power is contained within?
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 8
+Sell Price: 8 Mews
 
-item_mole_cash_value: 34
+Sell Price: 34 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 13023
+Sorting priority: 13023
 
-item_uid: Shimmercrag
+Item uid: Shimmercrag
 
 # Gift guide
 

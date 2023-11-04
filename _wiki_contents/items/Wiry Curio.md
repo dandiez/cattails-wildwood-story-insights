@@ -2,17 +2,17 @@
 
 A tantalizing length of some twiny material.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99909
+Sorting priority: 99909
 
-item_uid: Wiry Curio
+Item uid: Wiry Curio
 
 # Gift guide
 

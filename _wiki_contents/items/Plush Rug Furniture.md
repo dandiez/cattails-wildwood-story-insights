@@ -2,17 +2,17 @@
 
 A small floor rug composed of thick pink fibers that feel very soft on the paws.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Plush Rug Furniture
+Item uid: Plush Rug Furniture
 
 # shops selling Plush Rug:
 

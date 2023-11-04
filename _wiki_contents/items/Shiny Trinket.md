@@ -2,17 +2,17 @@
 
 A dazzling trinket of human-make. Use this item to propose to the cat that's stolen your heart!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 50
+Sell Price: 50 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 8300
+Sorting priority: 8300
 
-item_uid: Shiny Trinket
+Item uid: Shiny Trinket
 
 # shops selling Shiny Trinket:
 

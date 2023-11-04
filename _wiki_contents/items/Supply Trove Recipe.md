@@ -2,17 +2,17 @@
 
 Unlocks a new recipe for Supply Troves at the Mole Forge anvil. Supply Troves may be donated to increase all of your colony stockpiles' values by 2!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22015
+Sorting priority: 22015
 
-item_uid: Supply Trove Recipe
+Item uid: Supply Trove Recipe
 
 # shops selling Supply Trove Recipe:
 

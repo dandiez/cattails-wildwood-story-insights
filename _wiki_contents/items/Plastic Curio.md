@@ -2,17 +2,17 @@
 
 A ring of brightly-colored plastic with spiky bits on the inside.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99923
+Sorting priority: 99923
 
-item_uid: Plastic Curio
+Item uid: Plastic Curio
 
 # Gift guide
 

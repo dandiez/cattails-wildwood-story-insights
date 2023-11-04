@@ -2,17 +2,17 @@
 
 A tiny cylinder of dense cork.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99926
+Sorting priority: 99926
 
-item_uid: Cork Curio
+Item uid: Cork Curio
 
 # Gift guide
 

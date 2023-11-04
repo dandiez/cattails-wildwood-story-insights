@@ -2,21 +2,21 @@
 
 Its days of hopping are over.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 5
+Sell Price: 5 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 2200
+Sorting priority: 2200
 
-item_uid: Frog
+Item uid: Frog
 
 # Map regions
 

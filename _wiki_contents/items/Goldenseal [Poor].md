@@ -2,21 +2,21 @@
 
 A green, leafy plant with a small red berry. Can be applied to a wound for immediate relief.
 
-item_can_sell: True
+Can be sold: True
 
-item_heal_amount: 1
+Heal amount: 1
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 5200
+Sorting priority: 5200
 
-item_uid: Goldenseal [Poor]
+Item uid: Goldenseal [Poor]
 
 # Map regions
 

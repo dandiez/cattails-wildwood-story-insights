@@ -2,17 +2,17 @@
 
 A hastily-scribbled autograph from Zephyr.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 35
+Sell Price: 35 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 8034
+Sorting priority: 8034
 
-item_uid: Autograph
+Item uid: Autograph
 
 # Gift guide
 

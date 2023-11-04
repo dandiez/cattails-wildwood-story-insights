@@ -2,21 +2,21 @@
 
 A cluster of cheery pink and white blooms. Increases your movement speed for a short while.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 5900
+Sorting priority: 5900
 
-item_speed_amount: 1200
+Speed amount: 1200
 
-item_uid: Valerian [Fair]
+Item uid: Valerian [Fair]
 
 # Map regions
 

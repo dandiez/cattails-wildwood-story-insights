@@ -2,14 +2,14 @@
 
 Strengthens the power of your Headlamp accessory, increasing the area of illumination.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 23062
+Sorting priority: 23062
 
-item_uid: Headlamp Upgrade Recipe
+Item uid: Headlamp Upgrade Recipe

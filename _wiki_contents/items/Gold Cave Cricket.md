@@ -2,17 +2,17 @@
 
 Its crooked torso shines with an unnatural light, even in the gloomiest of caves. They like warm, dark places.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 50
+Sell Price: 50 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 11290
+Sorting priority: 11290
 
-item_uid: Gold Cave Cricket
+Item uid: Gold Cave Cricket
 
 # shops selling Gold Cave Cricket:
 

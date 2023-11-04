@@ -2,21 +2,21 @@
 
 A plump rabbit. Would make for a filling meal.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 300
+Hunger amount: 300
 
-item_mews_value: 10
+Sell Price: 10 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 500
+Sorting priority: 500
 
-item_uid: Rabbit
+Item uid: Rabbit
 
 # Map regions
 

@@ -2,19 +2,19 @@
 
 This fun item allows you to make confetti rain from the sky until the end of the day. Single-use.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 98902
+Sorting priority: 98902
 
-item_special_effect: True
+Special effect: True
 
-item_uid: Confetti Bag
+Item uid: Confetti Bag
 
 # shops selling Confetti Bag:
 

@@ -2,14 +2,14 @@
 
 A lost spirit that remains in this world to haunt the living.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 900
+Sorting priority: 900
 
-item_uid: Ghost
+Item uid: Ghost

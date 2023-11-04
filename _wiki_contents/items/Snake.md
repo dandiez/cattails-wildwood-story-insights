@@ -2,21 +2,21 @@
 
 A slithering green menace with a forked tongue.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 200
+Hunger amount: 200
 
-item_mews_value: 10
+Sell Price: 10 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 2500
+Sorting priority: 2500
 
-item_uid: Snake
+Item uid: Snake
 
 # Map regions
 

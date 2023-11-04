@@ -2,21 +2,21 @@
 
 A toxic purple bloom. Applies a poison effect to your attacks.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_mews_value: 3
+Sell Price: 3 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 6700
+Sorting priority: 6700
 
-item_uid: Snake Lily [Poor]
+Item uid: Snake Lily [Poor]
 
-item_venom_amount: 1200
+Venom amount: 1200
 
 # Map regions
 

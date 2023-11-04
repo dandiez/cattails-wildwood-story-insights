@@ -2,21 +2,21 @@
 
 A fragrant bunch of purple flowers. Use to gain a small amount of influence in a region.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_influence_amount: 15
+Influence amount: 15
 
-item_mews_value: 6
+Sell Price: 6 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 7700
+Sorting priority: 7700
 
-item_uid: Lavender [Fair]
+Item uid: Lavender [Fair]
 
 # Map regions
 

@@ -2,14 +2,14 @@
 
 A dark creature that takes the form of a giant, shadowy mole. Found in the mines. It does not like intruders.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 932
+Sorting priority: 932
 
-item_uid: Murk
+Item uid: Murk

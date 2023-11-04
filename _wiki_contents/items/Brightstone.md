@@ -2,19 +2,19 @@
 
 A true Brightstone! Many geologists believe this gemstone to be mythic. The rarest of all minerals!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 75
+Sell Price: 75 Mews
 
-item_mole_cash_value: 250
+Sell Price: 250 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 13223
+Sorting priority: 13223
 
-item_treasure_resource_value: 2
+Treasure resource value: 2
 
-item_uid: Brightstone
+Item uid: Brightstone
 
 # Gift guide
 

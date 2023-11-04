@@ -2,17 +2,17 @@
 
 What could this strange novelty item be? Bring it to the curio identification table in the Museum to identify it.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 10
+Sell Price: 10 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99901
+Sorting priority: 99901
 
-item_uid: Unidentified Curio
+Item uid: Unidentified Curio
 
 # Map regions
 

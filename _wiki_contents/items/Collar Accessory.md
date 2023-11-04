@@ -2,14 +2,14 @@
 
 A cute red collar purchased by a human for their pet.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 16700
+Sorting priority: 16700
 
-item_uid: Collar Accessory
+Item uid: Collar Accessory

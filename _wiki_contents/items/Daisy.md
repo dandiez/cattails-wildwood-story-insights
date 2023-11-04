@@ -2,21 +2,21 @@
 
 A pretty little flower with a vibrant yellow center. Known to be toxic to cats. Be careful while handling!
 
-item_can_sell: True
+Can be sold: True
 
-item_confusion_amount: 480
+Confusion amount: 480
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 8000
+Sorting priority: 8000
 
-item_uid: Daisy
+Item uid: Daisy
 
 # Map regions
 

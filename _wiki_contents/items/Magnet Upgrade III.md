@@ -2,17 +2,17 @@
 
 Greatly strengthens your Greedy Paw accessory, increasing the range of its magnetic item-grabbing ability. Requires Greedy Paw accessory.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 17810
+Sorting priority: 17810
 
-item_uid: Magnet Upgrade III
+Item uid: Magnet Upgrade III
 
 # Recipes
 

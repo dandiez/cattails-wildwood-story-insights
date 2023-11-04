@@ -2,17 +2,17 @@
 
 A brilliant creature that reflects light in stunning iridescent patterns!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 60
+Sell Price: 60 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 10800
+Sorting priority: 10800
 
-item_uid: Northern Emerald
+Item uid: Northern Emerald
 
 # Gift guide
 

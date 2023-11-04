@@ -2,17 +2,17 @@
 
 A pretty little bug with black spots.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 1
+Sell Price: 1 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 8500
+Sorting priority: 8500
 
-item_uid: Red Ladybug
+Item uid: Red Ladybug
 
 # Gift guide
 

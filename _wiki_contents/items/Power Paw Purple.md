@@ -2,16 +2,16 @@
 
 An ancient token made from a shining purple metal. According to legend, it can improve your social grace.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 0
+Sorting priority: 0
 
-item_uid: Power Paw Purple
+Item uid: Power Paw Purple
 
 Power Paw (Purple) can be found in blossomingfield, crater, eastfoothills

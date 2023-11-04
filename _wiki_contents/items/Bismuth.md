@@ -2,17 +2,17 @@
 
 A curious stone with many sharp angles and a multicolored hue.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 8
+Sell Price: 8 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 12437
+Sorting priority: 12437
 
-item_uid: Bismuth
+Item uid: Bismuth
 
 # Gift guide
 

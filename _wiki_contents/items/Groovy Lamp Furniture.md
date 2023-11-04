@@ -2,17 +2,17 @@
 
 Mesmerizing glowing liquid moves around in this lamp under the heat of the recessed bulb. Far out!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Groovy Lamp Furniture
+Item uid: Groovy Lamp Furniture
 
 # shops selling Groovy Lamp:
 

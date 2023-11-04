@@ -2,17 +2,17 @@
 
 A small creature with dark eyes and a translucent body. They often congregate under rocks.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 3
+Sell Price: 3 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 11270
+Sorting priority: 11270
 
-item_uid: White Cave Cricket
+Item uid: White Cave Cricket
 
 # shops selling White Cave Cricket:
 

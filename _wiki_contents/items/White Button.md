@@ -2,19 +2,19 @@
 
 A petite whitecap mushroom that tastes earthy.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 100
+Hunger amount: 100
 
-item_mews_value: 6
+Sell Price: 6 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 3500
+Sorting priority: 3500
 
-item_uid: White Button
+Item uid: White Button
 
 # Gift guide
 

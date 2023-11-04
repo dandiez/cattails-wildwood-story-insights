@@ -2,14 +2,14 @@
 
 A strange fluttering creature that shimmers every color imaginable. Unpredictable in a fight.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 900
+Sorting priority: 900
 
-item_uid: Chromatic Bat
+Item uid: Chromatic Bat

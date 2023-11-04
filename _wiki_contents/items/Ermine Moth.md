@@ -2,17 +2,17 @@
 
 A wooly winged wonder with tiny dark spots.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 9400
+Sorting priority: 9400
 
-item_uid: Ermine Moth
+Item uid: Ermine Moth
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A white band of leather studded with small black spikes. They look pointy!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 16600
+Sorting priority: 16600
 
-item_uid: White Spike Collar Accessory
+Item uid: White Spike Collar Accessory
 
 # shops selling White Spike Collar:
 

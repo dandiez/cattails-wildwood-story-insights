@@ -2,17 +2,17 @@
 
 A creepy-crawly creature with eight legs and a drooping mandible.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 15
+Sell Price: 15 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 11900
+Sorting priority: 11900
 
-item_uid: Spider
+Item uid: Spider
 
 # Map regions
 

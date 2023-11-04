@@ -2,21 +2,21 @@
 
 An aggressive snow-white mammal.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 300
+Hunger amount: 300
 
-item_mews_value: 20
+Sell Price: 20 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 1000
+Sorting priority: 1000
 
-item_uid: Stoat
+Item uid: Stoat
 
 # Map regions
 

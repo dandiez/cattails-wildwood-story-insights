@@ -2,14 +2,14 @@
 
 An unfriendly shadow in the form of a cat.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 932
+Sorting priority: 932
 
-item_uid: VoidlingCat
+Item uid: VoidlingCat

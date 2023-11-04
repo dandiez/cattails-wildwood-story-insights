@@ -2,17 +2,17 @@
 
 A music disc that you can play at your den record player. This track is a lively springtime tune.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 19930
+Sorting priority: 19930
 
-item_uid: Spring 1 Record
+Item uid: Spring 1 Record
 
 # shops selling Spring 1:
 

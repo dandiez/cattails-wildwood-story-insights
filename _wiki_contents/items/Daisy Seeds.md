@@ -2,17 +2,17 @@
 
 Little yellow seeds yielded from a daisy. Sow these in the garden and watch them grow!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 81915
+Sorting priority: 81915
 
-item_uid: Daisy Seeds
+Item uid: Daisy Seeds
 
 # Gift guide
 

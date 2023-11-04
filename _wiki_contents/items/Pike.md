@@ -2,21 +2,21 @@
 
 A huge light yellow fish. Found in freshwater environments.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 400
+Hunger amount: 400
 
-item_mews_value: 16
+Sell Price: 16 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 3200
+Sorting priority: 3200
 
-item_uid: Pike
+Item uid: Pike
 
 # Map regions
 

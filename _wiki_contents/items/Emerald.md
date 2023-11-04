@@ -2,17 +2,17 @@
 
 A wondrous green gemstone.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 5
+Sell Price: 5 Mews
 
-item_mole_cash_value: 14
+Sell Price: 14 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 13000
+Sorting priority: 13000
 
-item_uid: Emerald
+Item uid: Emerald
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A bright sweater with an image of the sun emblazoned upon the back.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 17500
+Sorting priority: 17500
 
-item_uid: Summer Sweater Accessory
+Item uid: Summer Sweater Accessory
 
 # shops selling Summer Sweater:
 

@@ -2,17 +2,17 @@
 
 Grow daisies in your garden with these seeds! While pretty to look at, daisies are toxic to cats and should not be consumed.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22014
+Sorting priority: 22014
 
-item_uid: Daisy Seeds Recipe
+Item uid: Daisy Seeds Recipe
 
 # shops selling Daisy Seeds Recipe:
 

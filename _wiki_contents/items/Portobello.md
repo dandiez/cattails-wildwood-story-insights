@@ -2,19 +2,19 @@
 
 A wholesome brown mushroom. Makes for a filling snack.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 300
+Hunger amount: 300
 
-item_mews_value: 10
+Sell Price: 10 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 3600
+Sorting priority: 3600
 
-item_uid: Portobello
+Item uid: Portobello
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A plastic disk-shaped object with an odd spiraling groove on the inside.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99905
+Sorting priority: 99905
 
-item_uid: Hard Curio
+Item uid: Hard Curio
 
 # Gift guide
 

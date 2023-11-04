@@ -2,17 +2,17 @@
 
 A dashing black hat with a round brim. Formal and elegant!
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 14800
+Sorting priority: 14800
 
-item_uid: Top Hat Accessory
+Item uid: Top Hat Accessory
 
 # shops selling Top Hat:
 

@@ -2,17 +2,17 @@
 
 A music disc that you can play at your den record player. This track is an autumntime party tune.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 19930
+Sorting priority: 19930
 
-item_uid: Autumn Festival Record
+Item uid: Autumn Festival Record
 
 # shops selling Autumn Festival:
 

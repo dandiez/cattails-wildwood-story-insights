@@ -2,19 +2,19 @@
 
 This spooky item will make your fur shine a bright luminescent color for one minute. Single-use.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 98903
+Sorting priority: 98903
 
-item_special_effect: True
+Special effect: True
 
-item_uid: Glow Potion
+Item uid: Glow Potion
 
 # shops selling Glow Potion:
 

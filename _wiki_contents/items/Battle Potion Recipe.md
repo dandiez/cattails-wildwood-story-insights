@@ -2,14 +2,14 @@
 
 A bubbling tincture with a strong smell that fills a cat with rage, greatly increasing their combat prowess for a short time.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 42008
+Sorting priority: 42008
 
-item_uid: Battle Potion Recipe
+Item uid: Battle Potion Recipe

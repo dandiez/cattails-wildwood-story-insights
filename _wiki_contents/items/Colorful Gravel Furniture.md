@@ -2,17 +2,17 @@
 
 A layer of tiny multi-colored stones that look like they belong in an aquarium.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Colorful Gravel Furniture
+Item uid: Colorful Gravel Furniture
 
 # shops selling Colorful Gravel:
 

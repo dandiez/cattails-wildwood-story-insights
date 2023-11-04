@@ -2,17 +2,17 @@
 
 Items will now stack up to a maximum of 9 in each of your inventory slots.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 17900
+Sorting priority: 17900
 
-item_uid: Inventory Upgrade III
+Item uid: Inventory Upgrade III
 
 # shops selling Voluminous Pockets:
 

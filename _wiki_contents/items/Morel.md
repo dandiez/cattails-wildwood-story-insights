@@ -2,19 +2,19 @@
 
 A wrinkly mushroom with greater healing properties.
 
-item_can_sell: True
+Can be sold: True
 
-item_heal_amount: 2.5
+Heal amount: 2.5
 
-item_mews_value: 10
+Sell Price: 10 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 3700
+Sorting priority: 3700
 
-item_uid: Morel
+Item uid: Morel
 
 # Gift guide
 

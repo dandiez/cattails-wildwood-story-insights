@@ -2,17 +2,17 @@
 
 An odd critter with pale, blind eyes. Not much use for eyesight where these live deep underground!
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 5
+Sell Price: 5 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 11280
+Sorting priority: 11280
 
-item_uid: Black Cave Cricket
+Item uid: Black Cave Cricket
 
 # shops selling Black Cave Cricket:
 

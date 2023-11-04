@@ -2,21 +2,21 @@
 
 The roots of this plant may be chewed on for hunger relief.
 
-item_can_sell: True
+Can be sold: True
 
-item_herbs_resource_value: 1
+Herbs resource value: 1
 
-item_hunger_amount: 300
+Hunger amount: 300
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Common
+Rarity: Common
 
-item_sorting_priority: 4200
+Sorting priority: 4200
 
-item_uid: Licorice [Good]
+Item uid: Licorice [Good]
 
 # Map regions
 

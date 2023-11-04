@@ -2,17 +2,17 @@
 
 Grow blackberries in your garden with these seeds! Blackberries make for a lovely snack.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22001
+Sorting priority: 22001
 
-item_uid: Blackberries Seeds Recipe
+Item uid: Blackberries Seeds Recipe
 
 # shops selling Blackberry Seeds Recipe:
 

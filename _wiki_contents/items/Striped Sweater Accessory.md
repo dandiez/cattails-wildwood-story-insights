@@ -2,17 +2,17 @@
 
 A fashionable green-and-white striped sweater.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 17400
+Sorting priority: 17400
 
-item_uid: Striped Sweater Accessory
+Item uid: Striped Sweater Accessory
 
 # shops selling Striped Sweater:
 

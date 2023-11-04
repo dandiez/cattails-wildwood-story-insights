@@ -2,17 +2,17 @@
 
 A small precious stone with a curious dark pattern.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 15
+Sell Price: 15 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 12627
+Sorting priority: 12627
 
-item_uid: Pitlode
+Item uid: Pitlode
 
 # Gift guide
 

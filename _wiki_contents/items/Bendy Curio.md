@@ -2,17 +2,17 @@
 
 A lightweight hollow plastic tube, bent at one end.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99924
+Sorting priority: 99924
 
-item_uid: Bendy Curio
+Item uid: Bendy Curio
 
 # Gift guide
 

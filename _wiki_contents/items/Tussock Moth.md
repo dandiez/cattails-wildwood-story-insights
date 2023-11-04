@@ -2,17 +2,17 @@
 
 An austere airborne animal with lightly-colored stripes on its wings.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 9500
+Sorting priority: 9500
 
-item_uid: Tussock Moth
+Item uid: Tussock Moth
 
 # Gift guide
 

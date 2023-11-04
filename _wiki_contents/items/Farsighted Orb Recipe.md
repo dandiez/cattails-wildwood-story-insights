@@ -2,17 +2,17 @@
 
 Unlocks a new recipe at the Mole Forge anvil. These orbs point towards the nearest downward mine staircase, even one that is concealed, for a short time. Consumed on use.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22015
+Sorting priority: 22015
 
-item_uid: Farsighted Orb Recipe
+Item uid: Farsighted Orb Recipe
 
 # shops selling Farsighted Orb Recipe:
 

@@ -2,17 +2,17 @@
 
 Almost any cat would love to receive a present wrapped as beautifully as this.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 4
+Sell Price: 4 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 8052
+Sorting priority: 8052
 
-item_uid: Gift Box
+Item uid: Gift Box
 
 # Gift guide
 

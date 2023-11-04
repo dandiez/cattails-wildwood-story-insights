@@ -2,21 +2,21 @@
 
 A painted turtle with a hard shell.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 300
+Hunger amount: 300
 
-item_mews_value: 40
+Sell Price: 40 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 1
+Prey resource value: 1
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 2700
+Sorting priority: 2700
 
-item_uid: Turtle
+Item uid: Turtle
 
 # Map regions
 

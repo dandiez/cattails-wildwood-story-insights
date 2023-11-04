@@ -2,19 +2,19 @@
 
 Use this item to instantly destroy all nearby mine rocks! BOOM!
 
-item_can_explode: True
+Can explode: True
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 5
+Sell Price: 5 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 8054
+Sorting priority: 8054
 
-item_uid: Dynamite
+Item uid: Dynamite
 
 # Gift guide
 

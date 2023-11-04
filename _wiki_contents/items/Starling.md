@@ -2,21 +2,21 @@
 
 An iridescent bird with striking star-like dappling.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 400
+Hunger amount: 400
 
-item_mews_value: 40
+Sell Price: 40 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 2100
+Sorting priority: 2100
 
-item_uid: Starling
+Item uid: Starling
 
 # Map regions
 

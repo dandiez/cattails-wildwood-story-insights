@@ -2,17 +2,17 @@
 
 A formation of light-pink translucent crystals.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 5
+Sell Price: 5 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 12500
+Sorting priority: 12500
 
-item_uid: Quartz
+Item uid: Quartz
 
 # shops selling Quartz:
 

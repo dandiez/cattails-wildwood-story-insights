@@ -2,14 +2,14 @@
 
 Combine potent herbs into a powerful tonic capable of healing a massive amount of damage as well as curing poison.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 42007
+Sorting priority: 42007
 
-item_uid: Elixir of Healing Recipe
+Item uid: Elixir of Healing Recipe

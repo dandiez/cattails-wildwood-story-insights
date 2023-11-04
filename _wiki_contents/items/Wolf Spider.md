@@ -2,17 +2,17 @@
 
 A harrowing creature with a specialized toxin that can slow your movements.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 12000
+Sorting priority: 12000
 
-item_uid: Wolf Spider
+Item uid: Wolf Spider
 
 # Map regions
 

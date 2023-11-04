@@ -2,21 +2,21 @@
 
 A legendary scarlet bird whose beautiful plumage is life-like, even in death.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 500
+Hunger amount: 500
 
-item_mews_value: 48
+Sell Price: 48 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 2108
+Sorting priority: 2108
 
-item_uid: Cardinal
+Item uid: Cardinal
 
 # Map regions
 

@@ -2,17 +2,17 @@
 
 A dainty headpiece fit for a princess.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 15500
+Sorting priority: 15500
 
-item_uid: Tiara Accessory
+Item uid: Tiara Accessory
 
 # shops selling Tiara:
 

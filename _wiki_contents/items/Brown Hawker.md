@@ -2,17 +2,17 @@
 
 A lanky brown dragonfly with faint yellow stripes.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 2
+Sell Price: 2 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Uncommon
+Rarity: Uncommon
 
-item_sorting_priority: 10600
+Sorting priority: 10600
 
-item_uid: Brown Hawker
+Item uid: Brown Hawker
 
 # Gift guide
 

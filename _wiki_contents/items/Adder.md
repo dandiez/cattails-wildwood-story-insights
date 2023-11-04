@@ -2,21 +2,21 @@
 
 A venomous creature with dark markings.
 
-item_can_sell: True
+Can be sold: True
 
-item_hunger_amount: 400
+Hunger amount: 400
 
-item_mews_value: 20
+Sell Price: 20 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_prey_resource_value: 2
+Prey resource value: 2
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 2600
+Sorting priority: 2600
 
-item_uid: Adder
+Item uid: Adder
 
 # Map regions
 

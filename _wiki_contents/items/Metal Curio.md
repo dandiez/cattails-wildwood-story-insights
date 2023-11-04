@@ -2,17 +2,17 @@
 
 A long, twisting piece of thin aluminum.
 
-item_can_sell: True
+Can be sold: True
 
-item_mews_value: 12
+Sell Price: 12 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Rare
+Rarity: Rare
 
-item_sorting_priority: 99902
+Sorting priority: 99902
 
-item_uid: Metal Curio
+Item uid: Metal Curio
 
 # Gift guide
 

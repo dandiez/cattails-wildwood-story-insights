@@ -2,14 +2,14 @@
 
 Sifting through these items, you can sometimes find a lost curio hidden within. Bring it to the Museum for identification.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 42909
+Sorting priority: 42909
 
-item_uid: Unidentified Curio Recipe
+Item uid: Unidentified Curio Recipe

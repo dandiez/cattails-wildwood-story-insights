@@ -2,17 +2,17 @@
 
 Grow blueberries in your garden with these seeds! Blueberries make for a tasty snack.
 
-item_can_sell: False
+Can be sold: False
 
-item_mews_value: 0
+Sell Price: 0 Mews
 
-item_mole_cash_value: 0
+Sell Price: 0 Mole Cash
 
-item_rarity: Legendary
+Rarity: Legendary
 
-item_sorting_priority: 22002
+Sorting priority: 22002
 
-item_uid: Blueberries Seeds Recipe
+Item uid: Blueberries Seeds Recipe
 
 # shops selling Blueberry Seeds Recipe:
 
