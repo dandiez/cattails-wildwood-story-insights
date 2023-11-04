@@ -2,17 +2,17 @@
 
 Tiny reddish-brown seeds yielded from a raspberry. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Raspberries Seeds
+
 Sorting priority: 81904
 
-Item uid: Raspberries Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

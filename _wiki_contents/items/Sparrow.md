@@ -2,21 +2,23 @@
 
 A tiny brown bird with a reddish hue.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 7 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Sparrow
+
 Sorting priority: 1400
 
-Item uid: Sparrow
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 7 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

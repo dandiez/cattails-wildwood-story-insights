@@ -2,17 +2,17 @@
 
 A sparkling blue gemstone as vibrant and deep as a clear summer sky.
 
-Can be sold: True
-
-Sell Price: 3 Mews
-
-Sell Price: 8 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Sapphire
+
 Sorting priority: 12800
 
-Item uid: Sapphire
+## economics
+
+Sell value: 3 Mews, 8 Mole Cash
 
 # Gift guide
 

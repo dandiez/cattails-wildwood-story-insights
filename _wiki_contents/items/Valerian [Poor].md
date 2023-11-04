@@ -2,21 +2,23 @@
 
 A cluster of dull pink and white blooms. Increases your movement speed for a short while.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Valerian [Poor]
+
 Sorting priority: 5800
+
+## item effects
 
 Speed amount: 600
 
-Item uid: Valerian [Poor]
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

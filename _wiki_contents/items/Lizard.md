@@ -2,21 +2,23 @@
 
 A slender, slimy creature. Doesn't look very appetizing.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 8 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Lizard
+
 Sorting priority: 2300
 
-Item uid: Lizard
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 8 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

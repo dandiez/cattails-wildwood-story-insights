@@ -2,19 +2,21 @@
 
 A wrinkly mushroom with greater healing properties.
 
-Can be sold: True
-
-Heal amount: 2.5
-
-Sell Price: 10 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Morel
+
 Sorting priority: 3700
 
-Item uid: Morel
+## item effects
+
+Heal amount: 2.5
+
+## economics
+
+Sell value: 10 Mews, 0 Mole Cash
 
 # Gift guide
 

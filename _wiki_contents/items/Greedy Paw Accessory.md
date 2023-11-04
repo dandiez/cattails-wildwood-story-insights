@@ -2,17 +2,13 @@
 
 While wearing this magical amulet, nearby items will be magnetically drawn into your inventory automatically.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17685
-
 Item uid: Greedy Paw Accessory
+
+Sorting priority: 17685
 
 # shops selling Greedy Paw:
 

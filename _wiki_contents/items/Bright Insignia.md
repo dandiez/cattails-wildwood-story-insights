@@ -2,19 +2,21 @@
 
 A symbol of great authority. Use to immediately gain 100% influence in your current region. Consumed on use.
 
-Can be sold: True
-
-Influence amount: 100
-
-Sell Price: 25 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Bright Insignia
+
 Sorting priority: 8061
 
-Item uid: Bright Insignia
+## item effects
+
+Influence amount: 100
+
+## economics
+
+Sell value: 25 Mews, 0 Mole Cash
 
 # Gift guide
 

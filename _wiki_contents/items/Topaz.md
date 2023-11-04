@@ -2,17 +2,17 @@
 
 A gleaming yellow gemstone.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 6 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Topaz
+
 Sorting priority: 12600
 
-Item uid: Topaz
+## economics
+
+Sell value: 2 Mews, 6 Mole Cash
 
 # Gift guide
 

@@ -2,14 +2,10 @@
 
 A dazzling trinket of human-make. Use this item to propose to the cat that's stolen your heart!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 42000
-
 Item uid: Shiny Trinket Recipe
+
+Sorting priority: 42000

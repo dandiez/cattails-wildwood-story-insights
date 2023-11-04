@@ -2,17 +2,17 @@
 
 Lightly colored seeds yielded from a red rose. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Red Rose Seeds
+
 Sorting priority: 81916
 
-Item uid: Red Rose Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # shops selling Red Rose Seeds:
 

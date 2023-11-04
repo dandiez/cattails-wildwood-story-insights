@@ -2,17 +2,17 @@
 
 An odd critter with pale, blind eyes. Not much use for eyesight where these live deep underground!
 
-Can be sold: True
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Black Cave Cricket
+
 Sorting priority: 11280
 
-Item uid: Black Cave Cricket
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
 
 # shops selling Black Cave Cricket:
 

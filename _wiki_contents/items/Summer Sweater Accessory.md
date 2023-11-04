@@ -2,17 +2,13 @@
 
 A bright sweater with an image of the sun emblazoned upon the back.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17500
-
 Item uid: Summer Sweater Accessory
+
+Sorting priority: 17500
 
 # shops selling Summer Sweater:
 

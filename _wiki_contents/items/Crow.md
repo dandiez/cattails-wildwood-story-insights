@@ -2,21 +2,23 @@
 
 A clever black bird. Difficult to catch by all but the most skilled hunters.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 14 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Crow
+
 Sorting priority: 1900
 
-Item uid: Crow
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 14 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

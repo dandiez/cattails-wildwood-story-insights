@@ -2,17 +2,17 @@
 
 An austere airborne animal with lightly-colored stripes on its wings.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Tussock Moth
+
 Sorting priority: 9500
 
-Item uid: Tussock Moth
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # Gift guide
 

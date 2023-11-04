@@ -2,17 +2,13 @@
 
 A comfortable red sweater.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17300
-
 Item uid: Knitted Sweater Accessory
+
+Sorting priority: 17300
 
 # shops selling Knitted Sweater:
 

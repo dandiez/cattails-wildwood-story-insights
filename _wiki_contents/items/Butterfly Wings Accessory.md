@@ -2,17 +2,13 @@
 
 Some cat spent a lot of time on these replica butterfly wings to proudly wear on your back.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 15700
-
 Item uid: Butterfly Wings Accessory
+
+Sorting priority: 15700
 
 # shops selling Butterfly Wings:
 

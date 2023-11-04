@@ -2,17 +2,13 @@
 
 An eerie bat that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14300
-
 Item uid: Pet Bat Accessory
+
+Sorting priority: 14300
 
 # shops selling Pet Bat:
 

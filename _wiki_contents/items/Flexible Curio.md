@@ -2,17 +2,17 @@
 
 Some odd fabric material twisted into an elastic ring.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Flexible Curio
+
 Sorting priority: 99929
 
-Item uid: Flexible Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,17 +2,13 @@
 
 A loose-fitting shirt with bold, flat colors.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17600
-
 Item uid: Surcoat Accessory
+
+Sorting priority: 17600
 
 # shops selling Surcoat:
 

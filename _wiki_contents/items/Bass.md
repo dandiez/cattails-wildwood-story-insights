@@ -2,21 +2,23 @@
 
 A dark green freshwater fish with a big mouth.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 14 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Bass
+
 Sorting priority: 3100
 
-Item uid: Bass
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 14 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

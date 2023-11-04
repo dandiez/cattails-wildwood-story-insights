@@ -2,17 +2,13 @@
 
 Crafting Station. A stone workbench with all the tools necessary to process herbs into more potent concoctions. Use to craft powerful potions.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9507
-
 Item uid: Herbalist Workbench Furniture
+
+Sorting priority: 9507
 
 # shops selling Herbalist Workbench:
 

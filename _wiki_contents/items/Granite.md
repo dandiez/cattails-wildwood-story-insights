@@ -2,17 +2,17 @@
 
 A lump of unpolished granite rock.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 2 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Granite
+
 Sorting priority: 12118
 
-Item uid: Granite
+## economics
+
+Sell value: 1 Mews, 2 Mole Cash
 
 # Gift guide
 

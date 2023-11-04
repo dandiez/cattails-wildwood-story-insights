@@ -2,17 +2,13 @@
 
 Adds 3 additional tillable slots to your garden. Grow more plants at once with this garden expansion!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17834
-
 Item uid: Garden Upgrade II
+
+Sorting priority: 17834
 
 # shops selling Garden Upgrade II:
 

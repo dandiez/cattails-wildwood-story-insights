@@ -2,21 +2,23 @@
 
 A huge light yellow fish. Found in freshwater environments.
 
-Can be sold: True
-
-Hunger amount: 400
-
-Sell Price: 16 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Rare
 
+Item uid: Pike
+
 Sorting priority: 3200
 
-Item uid: Pike
+## item effects
+
+Hunger amount: 400
+
+## economics
+
+Sell value: 16 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

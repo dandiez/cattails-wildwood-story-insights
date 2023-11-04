@@ -2,17 +2,17 @@
 
 A small pile of nearly worthless pebbles.
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 1 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Rock Debris
+
 Sorting priority: 12100
 
-Item uid: Rock Debris
+## economics
+
+Sell value: 0 Mews, 1 Mole Cash
 
 # Gift guide
 

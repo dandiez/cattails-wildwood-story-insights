@@ -2,17 +2,13 @@
 
 A thick blanket with a blue plaid design on top and warm wooly fibers on the other side, folded neatly.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Folded Blanket Furniture
+
+Sorting priority: 9500
 
 # shops selling Folded Blanket:
 

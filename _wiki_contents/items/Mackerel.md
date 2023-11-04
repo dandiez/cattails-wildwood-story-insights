@@ -2,21 +2,23 @@
 
 A silver-scaled saltwater fish. Its reflective body gleams brightly in the sunlight.
 
-Can be sold: True
-
-Hunger amount: 100
-
-Sell Price: 16 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Mackerel
+
 Sorting priority: 3086
 
-Item uid: Mackerel
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 16 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

@@ -2,21 +2,23 @@
 
 A slender creature with small, round ears.
 
-Can be sold: True
-
-Hunger amount: 400
-
-Sell Price: 40 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Legendary
 
+Item uid: Weasel
+
 Sorting priority: 1100
 
-Item uid: Weasel
+## item effects
+
+Hunger amount: 400
+
+## economics
+
+Sell value: 40 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

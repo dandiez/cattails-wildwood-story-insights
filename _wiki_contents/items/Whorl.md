@@ -2,17 +2,17 @@
 
 This hard shell has a spiral pattern.
 
-Can be sold: True
-
-Sell Price: 8 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Whorl
+
 Sorting priority: 11600
 
-Item uid: Whorl
+## economics
+
+Sell value: 8 Mews, 0 Mole Cash
 
 # Map regions
 

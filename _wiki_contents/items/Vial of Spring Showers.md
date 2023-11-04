@@ -2,19 +2,21 @@
 
 Use this at any time to summon a light spring rain shower until the end of the day. Single-use.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Vial of Spring Showers
+
 Sorting priority: 98901
+
+## item effects
 
 Special effect: True
 
-Item uid: Vial of Spring Showers
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # shops selling Vial of Spring Showers:
 

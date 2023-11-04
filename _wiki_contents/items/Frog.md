@@ -2,21 +2,23 @@
 
 Its days of hopping are over.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Frog
+
 Sorting priority: 2200
 
-Item uid: Frog
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

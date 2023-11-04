@@ -2,21 +2,23 @@
 
 The dove traditionally symbolizes peace. This one was unsuccessful.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 16 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Dove
+
 Sorting priority: 2000
 
-Item uid: Dove
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 16 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

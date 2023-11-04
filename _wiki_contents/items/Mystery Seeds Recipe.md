@@ -2,17 +2,13 @@
 
 Who knows what plants will sprout up from these eclectic seeds?
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22016
-
 Item uid: Mystery Seeds Recipe
+
+Sorting priority: 22016
 
 # shops selling Mystery Seeds Recipe:
 

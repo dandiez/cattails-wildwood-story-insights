@@ -2,17 +2,17 @@
 
 Layers of dark, brittle rock.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 3 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Shale
+
 Sorting priority: 12123
 
-Item uid: Shale
+## economics
+
+Sell value: 1 Mews, 3 Mole Cash
 
 # Gift guide
 

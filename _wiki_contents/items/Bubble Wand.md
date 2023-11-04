@@ -2,19 +2,21 @@
 
 Use this playful item to blow some fun soap bubbles. Single-use.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Bubble Wand
+
 Sorting priority: 98904
+
+## item effects
 
 Special effect: True
 
-Item uid: Bubble Wand
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # shops selling Bubble Wand:
 

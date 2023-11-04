@@ -2,21 +2,23 @@
 
 A dark saltwater fish with spiny fins. Tastes... salty.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 7 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Sea Bass
+
 Sorting priority: 3081
 
-Item uid: Sea Bass
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 7 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

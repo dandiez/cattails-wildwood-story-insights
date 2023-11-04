@@ -2,17 +2,17 @@
 
 A wondrous green gemstone.
 
-Can be sold: True
-
-Sell Price: 5 Mews
-
-Sell Price: 14 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Emerald
+
 Sorting priority: 13000
 
-Item uid: Emerald
+## economics
+
+Sell value: 5 Mews, 14 Mole Cash
 
 # Gift guide
 

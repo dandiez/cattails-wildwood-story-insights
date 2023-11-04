@@ -2,19 +2,21 @@
 
 A wholesome brown mushroom. Makes for a filling snack.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 10 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Portobello
+
 Sorting priority: 3600
 
-Item uid: Portobello
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 10 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A curious summer bug that swallows light around it. Some believe that a visit from this creature is an evil omen.
 
-Can be sold: True
-
-Sell Price: 60 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Black Firefly
+
 Sorting priority: 10400
 
-Item uid: Black Firefly
+## economics
+
+Sell value: 60 Mews, 0 Mole Cash
 
 # shops selling Black Firefly:
 

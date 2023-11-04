@@ -2,17 +2,13 @@
 
 A soft oval stool made of chunky knit fabric.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Pouf Furniture
+
+Sorting priority: 9500
 
 # shops selling Pouf:
 

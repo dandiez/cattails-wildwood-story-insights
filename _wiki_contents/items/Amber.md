@@ -2,17 +2,17 @@
 
 A gorgeous dark resin with shades of orange and gold.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 10 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Amber
+
 Sorting priority: 12900
 
-Item uid: Amber
+## economics
+
+Sell value: 4 Mews, 10 Mole Cash
 
 # Gift guide
 

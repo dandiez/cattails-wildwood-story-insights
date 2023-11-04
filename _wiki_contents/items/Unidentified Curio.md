@@ -2,17 +2,17 @@
 
 What could this strange novelty item be? Bring it to the curio identification table in the Museum to identify it.
 
-Can be sold: True
-
-Sell Price: 10 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Unidentified Curio
+
 Sorting priority: 99901
 
-Item uid: Unidentified Curio
+## economics
+
+Sell value: 10 Mews, 0 Mole Cash
 
 # Map regions
 

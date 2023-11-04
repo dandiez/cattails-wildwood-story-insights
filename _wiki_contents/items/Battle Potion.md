@@ -2,23 +2,25 @@
 
 A bubbling tincture with a strong smell that fills a cat with rage, greatly increasing their combat prowess for a short time.
 
-Attack amount: 3200
-
-Can be sold: True
-
-Immunity amount: 1800
-
-Sell Price: 26 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
-Sorting priority: 6681
-
 Item uid: Battle Potion
 
+Sorting priority: 6681
+
+## item effects
+
+Attack amount: 3200
+
+Immunity amount: 1800
+
 Venom amount: 3200
+
+## economics
+
+Sell value: 26 Mews, 0 Mole Cash
 
 # Gift guide
 

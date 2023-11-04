@@ -2,21 +2,23 @@
 
 A painted turtle with a hard shell.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 40 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Legendary
 
+Item uid: Turtle
+
 Sorting priority: 2700
 
-Item uid: Turtle
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 40 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

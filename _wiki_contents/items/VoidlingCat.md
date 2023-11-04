@@ -2,14 +2,10 @@
 
 An unfriendly shadow in the form of a cat.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
-Sorting priority: 932
-
 Item uid: VoidlingCat
+
+Sorting priority: 932

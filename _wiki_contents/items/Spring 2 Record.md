@@ -2,17 +2,13 @@
 
 A music disc that you can play at your den record player. This track is a dynamic springtime tune.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 19930
-
 Item uid: Spring 2 Record
+
+Sorting priority: 19930
 
 # shops selling Spring 2:
 

@@ -2,21 +2,23 @@
 
 A dark freshwater fish with a prominent dorsal fin.
 
-Can be sold: True
-
-Hunger amount: 100
-
-Sell Price: 9 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Carp
+
 Sorting priority: 2900
 
-Item uid: Carp
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 9 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

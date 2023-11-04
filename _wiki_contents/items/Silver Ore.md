@@ -2,17 +2,17 @@
 
 A silver vein runs through this rock and makes it shine.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 3 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Silver Ore
+
 Sorting priority: 12300
 
-Item uid: Silver Ore
+## economics
+
+Sell value: 1 Mews, 3 Mole Cash
 
 # Gift guide
 

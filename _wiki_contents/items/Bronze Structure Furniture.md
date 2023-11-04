@@ -2,17 +2,13 @@
 
 A diminutive yet weighty piece of decor made from a single chaotically-looping bronze wire.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Bronze Structure Furniture
+
+Sorting priority: 9500
 
 # shops selling Bronze Structure:
 

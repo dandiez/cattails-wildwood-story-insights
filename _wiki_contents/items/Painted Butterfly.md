@@ -2,17 +2,17 @@
 
 A winged insect with a vibrant red hue.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Painted Butterfly
+
 Sorting priority: 9700
 
-Item uid: Painted Butterfly
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # Gift guide
 

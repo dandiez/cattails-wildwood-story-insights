@@ -2,17 +2,17 @@
 
 A chunk of stone with a visible streak of iron ore.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 2 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Iron Ore
+
 Sorting priority: 12200
 
-Item uid: Iron Ore
+## economics
+
+Sell value: 1 Mews, 2 Mole Cash
 
 # Gift guide
 

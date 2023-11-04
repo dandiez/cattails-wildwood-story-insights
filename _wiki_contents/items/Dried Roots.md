@@ -2,17 +2,17 @@
 
 Several robust roots, dried until hardened. This item may be donated to your wood stockpile.
 
-Can be sold: True
-
-Sell Price: 15 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Dried Roots
+
 Sorting priority: 12108
 
-Item uid: Dried Roots
+## economics
+
+Sell value: 15 Mews, 0 Mole Cash
 
 Wood resource value: 1
 

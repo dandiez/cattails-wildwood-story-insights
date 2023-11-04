@@ -2,17 +2,13 @@
 
 A dreadful orange spider that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14100
-
 Item uid: Pet Wolf Spider Accessory
+
+Sorting priority: 14100
 
 # shops selling Pet Wolf Spider:
 

@@ -2,17 +2,13 @@
 
 A tough-looking mask to set over your nose and mouth.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 16500
-
 Item uid: Teeth Mask Accessory
+
+Sorting priority: 16500
 
 # shops selling Teeth Mask:
 

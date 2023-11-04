@@ -2,17 +2,13 @@
 
 An ancient token made from a shining red metal. According to legend, it can increase your vitality.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 0
-
 Item uid: Power Paw Red
+
+Sorting priority: 0
 
 Power Paw (Red) can be found in badlandsmaze, birchholt, festivalplaza, meadowoutskirts, mountainsummit, southfoothills, swampnorth, theoldfarm
 

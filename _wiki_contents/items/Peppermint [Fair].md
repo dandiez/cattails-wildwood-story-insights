@@ -2,21 +2,23 @@
 
 This sharp-smelling leaf can mask the scent of a cat, so that tracking prey will be easier for a time.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Peppermint [Fair]
+
 Sorting priority: 6200
+
+## item effects
 
 Stealth amount: 2700
 
-Item uid: Peppermint [Fair]
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

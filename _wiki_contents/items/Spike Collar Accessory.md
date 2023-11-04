@@ -2,17 +2,13 @@
 
 If intimidation is the goal, this collar has your back. Are those spikes made of metal, or teeth..?
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 16600
-
 Item uid: Spike Collar Accessory
+
+Sorting priority: 16600
 
 # shops selling Spike Collar:
 

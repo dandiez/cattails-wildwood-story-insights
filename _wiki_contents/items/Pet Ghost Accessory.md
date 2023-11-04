@@ -2,17 +2,13 @@
 
 A creepy spirit that will haunt your every step!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14400
-
 Item uid: Pet Ghost Accessory
+
+Sorting priority: 14400
 
 # shops selling Pet Ghost:
 

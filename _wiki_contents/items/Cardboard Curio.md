@@ -2,17 +2,17 @@
 
 It rolls with ease when pushed!
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Cardboard Curio
+
 Sorting priority: 99925
 
-Item uid: Cardboard Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A thin yellow stick with a pointed tip.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Pointy Curio
+
 Sorting priority: 99917
 
-Item uid: Pointy Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

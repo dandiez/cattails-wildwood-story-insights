@@ -2,17 +2,13 @@
 
 Guard your wealth from prying paws by sleeping atop it like a slumbering dragon! A generous pile of coins and precious gemstones.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Treasure Hoard Bed Furniture
+
+Sorting priority: 9500
 
 # shops selling Treasure Hoard Bed:
 

@@ -2,17 +2,17 @@
 
 A strange ceramic object with a hole in the middle.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Small Curio
+
 Sorting priority: 99910
 
-Item uid: Small Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

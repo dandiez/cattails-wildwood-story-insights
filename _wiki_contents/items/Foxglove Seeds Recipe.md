@@ -2,17 +2,13 @@
 
 Grow foxglove in your garden with these seeds! This invigorating plant will increase your strength for a short time.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22010
-
 Item uid: Foxglove Seeds Recipe
+
+Sorting priority: 22010
 
 # shops selling Foxglove Seeds Recipe:
 

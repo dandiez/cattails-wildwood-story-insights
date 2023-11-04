@@ -2,17 +2,13 @@
 
 An ancient token made from a shining green metal. According to legend, it can increase your luck.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 0
-
 Item uid: Power Paw Green
+
+Sorting priority: 0
 
 # shops selling Power Paw (Green):
 

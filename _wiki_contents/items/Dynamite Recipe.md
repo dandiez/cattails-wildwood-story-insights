@@ -2,17 +2,13 @@
 
 Unlocks a new recipe for Dynamite at the Mole Forge anvil. Dynamite may be used to instantly destroy all nearby mine rocks. BOOM!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22015
-
 Item uid: Dynamite Recipe
+
+Sorting priority: 22015
 
 # shops selling Dynamite Recipe:
 

@@ -2,17 +2,17 @@
 
 A harrowing creature with a specialized toxin that can slow your movements.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Wolf Spider
+
 Sorting priority: 12000
 
-Item uid: Wolf Spider
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
 
 # Map regions
 

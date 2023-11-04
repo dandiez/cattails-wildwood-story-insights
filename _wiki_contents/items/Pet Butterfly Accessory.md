@@ -2,17 +2,13 @@
 
 A colorful butterfly that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 13700
-
 Item uid: Pet Butterfly Accessory
+
+Sorting priority: 13700
 
 # shops selling Pet Butterfly:
 

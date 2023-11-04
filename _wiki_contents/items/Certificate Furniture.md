@@ -2,17 +2,13 @@
 
 A certificate of excellence to hang on your wall. Awarded only to the most accomplished of cats.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Certificate Furniture
+
+Sorting priority: 9500
 
 # shops selling Certificate:
 

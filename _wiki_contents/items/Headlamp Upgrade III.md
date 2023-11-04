@@ -2,17 +2,13 @@
 
 Greatly strengthens the power of your Headlamp accessory, increasing the area of illumination. Requires Headlamp Upgrade II.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17830
-
 Item uid: Headlamp Upgrade III
+
+Sorting priority: 17830
 
 # Recipes
 

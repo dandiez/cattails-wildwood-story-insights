@@ -2,17 +2,13 @@
 
 A dazzling array of brightly-colored lights arranged in a square grid. Gives off an electronic glow as the color pattern shifts.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Dance Floor Furniture
+
+Sorting priority: 9500
 
 # shops selling Dance Floor:
 

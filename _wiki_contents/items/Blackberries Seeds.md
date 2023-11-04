@@ -2,17 +2,17 @@
 
 Tiny purple seeds yielded from a blackberry. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Blackberries Seeds
+
 Sorting priority: 81905
 
-Item uid: Blackberries Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

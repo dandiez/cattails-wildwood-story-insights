@@ -2,17 +2,17 @@
 
 A coppery-green gemstone with a beautiful banded pattern.
 
-Can be sold: True
-
-Sell Price: 7 Mews
-
-Sell Price: 32 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Malachite
+
 Sorting priority: 13018
 
-Item uid: Malachite
+## economics
+
+Sell value: 7 Mews, 32 Mole Cash
 
 # Gift guide
 

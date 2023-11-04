@@ -2,17 +2,13 @@
 
 A large rectangular rug, woven with red and orange threads.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Fancy Rug Furniture
+
+Sorting priority: 9500
 
 # shops selling Fancy Rug:
 

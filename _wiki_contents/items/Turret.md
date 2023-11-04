@@ -2,17 +2,17 @@
 
 A tall, pointy shell that once housed a tiny snail.
 
-Can be sold: True
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Turret
+
 Sorting priority: 11500
 
-Item uid: Turret
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
 
 # Map regions
 

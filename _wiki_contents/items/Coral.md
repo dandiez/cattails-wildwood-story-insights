@@ -2,17 +2,17 @@
 
 A fiery-red branch of coral, recently washed up on the shore.
 
-Can be sold: True
-
-Sell Price: 3 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Coral
+
 Sorting priority: 11400
 
-Item uid: Coral
+## economics
+
+Sell value: 3 Mews, 0 Mole Cash
 
 # Map regions
 

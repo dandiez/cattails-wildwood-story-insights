@@ -2,21 +2,23 @@
 
 The roots of this plant may be chewed on for hunger relief.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Hunger amount: 300
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Licorice [Good]
+
 Sorting priority: 4200
 
-Item uid: Licorice [Good]
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

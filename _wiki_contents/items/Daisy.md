@@ -2,21 +2,23 @@
 
 A pretty little flower with a vibrant yellow center. Known to be toxic to cats. Be careful while handling!
 
-Can be sold: True
-
-Confusion amount: 480
-
-Herbs resource value: 1
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Daisy
+
 Sorting priority: 8000
 
-Item uid: Daisy
+## item effects
+
+Confusion amount: 480
+
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

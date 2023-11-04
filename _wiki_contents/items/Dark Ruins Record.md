@@ -2,17 +2,13 @@
 
 A music disc that you can play at your den record player. This track is a contemplative tune for the dark places of the world.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 19930
-
 Item uid: Dark Ruins Record
+
+Sorting priority: 19930
 
 # shops selling Dark Ruins:
 

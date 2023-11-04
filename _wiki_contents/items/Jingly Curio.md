@@ -2,17 +2,17 @@
 
 Tiny metal coins, worthless to cats except as a curiosity.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Jingly Curio
+
 Sorting priority: 99922
 
-Item uid: Jingly Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

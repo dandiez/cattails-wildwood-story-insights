@@ -2,17 +2,13 @@
 
 A fashionable green-and-white striped sweater.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17400
-
 Item uid: Striped Sweater Accessory
+
+Sorting priority: 17400
 
 # shops selling Striped Sweater:
 

@@ -2,21 +2,23 @@
 
 A dangerous flower. Apply to your claws to temporarily increase the damage of all attacks.
 
-Attack amount: 1200
-
-Can be sold: True
-
-Herbs resource value: 1
-
-Sell Price: 8 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Foxglove [Poor]
+
 Sorting priority: 7000
 
-Item uid: Foxglove [Poor]
+## item effects
+
+Attack amount: 1200
+
+## economics
+
+Sell value: 8 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

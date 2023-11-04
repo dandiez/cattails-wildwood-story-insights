@@ -2,17 +2,17 @@
 
 An assortment of various seeds that you cannot identify. Sow these in the garden and see what grows!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Mystery Seeds
+
 Sorting priority: 81936
 
-Item uid: Mystery Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # shops selling Mystery Seeds:
 

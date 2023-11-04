@@ -2,17 +2,13 @@
 
 Marble cut and laid into a herringbone pattern for an elegant look.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Marble Tile Furniture
+
+Sorting priority: 9500
 
 # shops selling Marble Tile:
 

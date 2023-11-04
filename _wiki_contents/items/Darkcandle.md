@@ -2,14 +2,10 @@
 
 These sickly flies burn with a pale, cold fire. Found in the mines.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
-Sorting priority: 924
-
 Item uid: Darkcandle
+
+Sorting priority: 924

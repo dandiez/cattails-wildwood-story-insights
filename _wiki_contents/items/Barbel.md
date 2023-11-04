@@ -2,21 +2,23 @@
 
 A lightly colored freshwater fish with long, cat-like whiskers. A mouth-watering meal!
 
-Can be sold: True
-
-Hunger amount: 400
-
-Sell Price: 40 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Legendary
 
+Item uid: Barbel
+
 Sorting priority: 3400
 
-Item uid: Barbel
+## item effects
+
+Hunger amount: 400
+
+## economics
+
+Sell value: 40 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

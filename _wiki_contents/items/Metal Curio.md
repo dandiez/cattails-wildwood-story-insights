@@ -2,17 +2,17 @@
 
 A long, twisting piece of thin aluminum.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Metal Curio
+
 Sorting priority: 99902
 
-Item uid: Metal Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

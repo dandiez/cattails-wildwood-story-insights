@@ -2,17 +2,17 @@
 
 A handful of tiny black seeds yielded from a catnip plant. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Catnip Seeds
+
 Sorting priority: 81912
 
-Item uid: Catnip Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

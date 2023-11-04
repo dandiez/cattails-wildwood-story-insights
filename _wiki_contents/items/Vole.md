@@ -2,21 +2,23 @@
 
 Looks a little like a hamster.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 10 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Vole
+
 Sorting priority: 400
 
-Item uid: Vole
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 10 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

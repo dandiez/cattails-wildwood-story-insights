@@ -2,17 +2,13 @@
 
 Grow peppermint in your garden with these seeds! Peppermint's strong scent can mask a cat's natural odor.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22007
-
 Item uid: Peppermint Seeds Recipe
+
+Sorting priority: 22007
 
 # shops selling Peppermint Seeds Recipe:
 

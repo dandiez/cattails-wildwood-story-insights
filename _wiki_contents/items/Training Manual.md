@@ -2,19 +2,21 @@
 
 Lots of helpful information for those who seek adventure! Use this item while a Buddy is following you to instantly increase their Buddy XP.
 
-Buddy XP amount: 50
-
-Can be sold: True
-
-Sell Price: 7 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Training Manual
+
 Sorting priority: 8061
 
-Item uid: Training Manual
+## item effects
+
+Buddy XP amount: 50
+
+## economics
+
+Sell value: 7 Mews, 0 Mole Cash
 
 # shops selling Training Manual:
 

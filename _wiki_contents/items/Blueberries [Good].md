@@ -2,21 +2,23 @@
 
 An azure cluster of small berries on a bright green stem.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Hunger amount: 400
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Blueberries [Good]
+
 Sorting priority: 5100
 
-Item uid: Blueberries [Good]
+## item effects
+
+Hunger amount: 400
+
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

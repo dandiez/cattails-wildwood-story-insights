@@ -2,17 +2,13 @@
 
 Verily, thy back shall look gallant with this dreadful raiment!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 15800
-
 Item uid: Dragon Wings Accessory
+
+Sorting priority: 15800
 
 # shops selling Dragon Wings:
 

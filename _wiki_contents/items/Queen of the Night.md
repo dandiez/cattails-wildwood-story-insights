@@ -2,19 +2,19 @@
 
 A mysterious flower that only blooms at night.
 
-Can be sold: True
-
-Herbs resource value: 2
-
-Sell Price: 16 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Queen of the Night
+
 Sorting priority: 7900
 
-Item uid: Queen of the Night
+## economics
+
+Sell value: 16 Mews, 0 Mole Cash
+
+Herbs resource value: 2
 
 # Map regions
 

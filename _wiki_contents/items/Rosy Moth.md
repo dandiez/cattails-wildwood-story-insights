@@ -2,17 +2,17 @@
 
 A pleasant pastel prize with a velvety abdomen.
 
-Can be sold: True
-
-Sell Price: 60 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Rosy Moth
+
 Sorting priority: 9600
 
-Item uid: Rosy Moth
+## economics
+
+Sell value: 60 Mews, 0 Mole Cash
 
 # Gift guide
 

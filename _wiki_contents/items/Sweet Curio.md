@@ -2,17 +2,17 @@
 
 You aren't sure how to remove the lid, but it sure does smell sweet.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Sweet Curio
+
 Sorting priority: 99912
 
-Item uid: Sweet Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,21 +2,23 @@
 
 An aggressive snow-white mammal.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 20 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Rare
 
+Item uid: Stoat
+
 Sorting priority: 1000
 
-Item uid: Stoat
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 20 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

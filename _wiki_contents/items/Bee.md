@@ -2,17 +2,17 @@
 
 This tiny insect packs a punch! Mind the venomous stinger.
 
-Can be sold: True
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Bee
+
 Sorting priority: 11800
 
-Item uid: Bee
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
 
 # Gift guide
 

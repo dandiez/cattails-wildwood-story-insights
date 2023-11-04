@@ -2,17 +2,13 @@
 
 A decorative clay pot holding a colorful collection of spring flowers.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Flower Vase Furniture
+
+Sorting priority: 9500
 
 # shops selling Flower Vase:
 

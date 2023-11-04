@@ -2,17 +2,13 @@
 
 A huge rock hauled out of a dark cave.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Boulder Plain Furniture
+
+Sorting priority: 9500
 
 # shops selling Boulder (Plain):
 

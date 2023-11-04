@@ -2,21 +2,23 @@
 
 A pleasant bunch of purple flowers. Use to gain a small amount of influence in a region.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Influence amount: 10
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Lavender [Poor]
+
 Sorting priority: 7600
 
-Item uid: Lavender [Poor]
+## item effects
+
+Influence amount: 10
+
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

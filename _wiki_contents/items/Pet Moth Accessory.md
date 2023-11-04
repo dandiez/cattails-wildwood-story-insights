@@ -2,17 +2,13 @@
 
 A flittering brown moth that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 13500
-
 Item uid: Pet Moth Accessory
+
+Sorting priority: 13500
 
 # shops selling Pet Moth:
 

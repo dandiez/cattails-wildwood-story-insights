@@ -2,17 +2,17 @@
 
 Dazzling purple crystals shine from within this stone.
 
-Can be sold: True
-
-Sell Price: 3 Mews
-
-Sell Price: 7 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Amethyst
+
 Sorting priority: 12700
 
-Item uid: Amethyst
+## economics
+
+Sell value: 3 Mews, 7 Mole Cash
 
 # shops selling Amethyst:
 

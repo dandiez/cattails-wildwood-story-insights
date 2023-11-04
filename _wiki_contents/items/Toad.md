@@ -2,21 +2,23 @@
 
 Looks like he croaked.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 7 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Toad
+
 Sorting priority: 2400
 
-Item uid: Toad
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 7 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

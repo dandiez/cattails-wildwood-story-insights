@@ -2,17 +2,13 @@
 
 A stone brick furnace with a Mole-shaped crest, perfect for heating metal.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Mole Furnace Furniture
+
+Sorting priority: 9500
 
 # shops selling Mole Furnace:
 

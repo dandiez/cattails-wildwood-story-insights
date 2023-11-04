@@ -2,21 +2,23 @@
 
 A plump rabbit. Would make for a filling meal.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 10 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Rabbit
+
 Sorting priority: 500
 
-Item uid: Rabbit
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 10 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

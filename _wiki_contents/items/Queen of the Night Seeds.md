@@ -2,17 +2,17 @@
 
 A large bulb yielded from a Queen of the Night plant. Sow this in the garden and watch it grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Queen of the Night Seeds
+
 Sorting priority: 81914
 
-Item uid: Queen of the Night Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

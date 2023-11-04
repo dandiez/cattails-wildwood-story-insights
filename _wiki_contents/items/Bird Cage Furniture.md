@@ -2,17 +2,13 @@
 
 A tall brass bird cage on a stand that houses a cheerful Magpie.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Bird Cage Furniture
+
+Sorting priority: 9500
 
 # shops selling Bird Cage:
 

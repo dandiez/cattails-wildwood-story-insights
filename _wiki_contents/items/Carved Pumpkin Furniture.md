@@ -2,17 +2,13 @@
 
 A pumpkin, hollowed out and carved with the image of a wicked grin. A candle flickers inside.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Carved Pumpkin Furniture
+
+Sorting priority: 9500
 
 # shops selling Carved Pumpkin:
 

@@ -2,17 +2,17 @@
 
 Little yellow seeds yielded from a daisy. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Daisy Seeds
+
 Sorting priority: 81915
 
-Item uid: Daisy Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

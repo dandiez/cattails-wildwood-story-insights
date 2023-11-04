@@ -2,17 +2,13 @@
 
 A bright pile of burning logs. Warm and cozy!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Campfire Furniture
+
+Sorting priority: 9500
 
 # shops selling Campfire:
 

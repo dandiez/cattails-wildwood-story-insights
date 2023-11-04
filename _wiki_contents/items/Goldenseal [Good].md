@@ -2,21 +2,23 @@
 
 A green, leafy plant with a large red berry. Can be applied to a wound for immediate relief.
 
-Can be sold: True
-
-Heal amount: 3
-
-Herbs resource value: 1
-
-Sell Price: 6 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Goldenseal [Good]
+
 Sorting priority: 5400
 
-Item uid: Goldenseal [Good]
+## item effects
+
+Heal amount: 3
+
+## economics
+
+Sell value: 6 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

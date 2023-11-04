@@ -2,17 +2,17 @@
 
 It's difficult to spot these elusive critters in the snow!
 
-Can be sold: True
-
-Sell Price: 60 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Ghost Beetle
+
 Sorting priority: 11200
 
-Item uid: Ghost Beetle
+## economics
+
+Sell value: 60 Mews, 0 Mole Cash
 
 # Gift guide
 

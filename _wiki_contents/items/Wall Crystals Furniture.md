@@ -2,17 +2,13 @@
 
 Pinkish-white quartz crystals that can cling to vertical surfaces like your den walls.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Wall Crystals Furniture
+
+Sorting priority: 9500
 
 # shops selling Wall Crystals:
 

@@ -47,40 +47,62 @@ def yield_lines_shopping_block(i: ItemPlus):
 
 
 def yield_lines_item_attributes(i: ItemMeta):
-    description_attribute = {
-        "Attack amount: {}": i.item_attack_amount,
-        "Buddy XP amount: {}": i.item_buddy_xp_amount,
-        "Can explode: {}": i.item_can_explode,
-        "Can be sold: {}": i.item_can_sell,
+    main_properties = {
+        "Rarity: {}": i.item_rarity,
+        "Item uid: {}": i.item_uid,
+        "Sorting priority: {}": i.item_sorting_priority,}
+    effects =    {
+
         "Catnip amount: {}": i.item_catnip_amount,
         "Confusion amount: {}": i.item_confusion_amount,
         "Cures poison: {}": i.item_cures_poison,
         "Heal amount: {}": i.item_heal_amount,
-        "Herbs resource value: {}": i.item_herbs_resource_value,
+        "Attack amount: {}": i.item_attack_amount,
+        "Buddy XP amount: {}": i.item_buddy_xp_amount,
         "Hunger amount: {}": i.item_hunger_amount,
         "Immunity amount: {}": i.item_immunity_amount,
         "Influence amount: {}": i.item_influence_amount,
-        "Is farsighted: {}": i.item_is_farsighted,
-        "Sell Price: {} Mews": i.item_mews_value,
-        "Sell Price: {} Mole Cash": i.item_mole_cash_value,
-        "Prey resource value: {}": i.item_prey_resource_value,
-        "Random effect: {}": i.item_random_effect,
-        "Rarity: {}": i.item_rarity,
-        "Sand resource value: {}": i.item_sand_resource_value,
-        "Sorting priority: {}": i.item_sorting_priority,
+        "Has a random effect: {}": i.item_random_effect,
         "Special effect: {}": i.item_special_effect,
         "Speed amount: {}": i.item_speed_amount,
         "Stealth amount: {}": i.item_stealth_amount,
-        "Stone resource value: {}": i.item_stone_resource_value,
         "Swim amount: {}": i.item_swim_amount,
-        "Treasure resource value: {}": i.item_treasure_resource_value,
-        "Item uid: {}": i.item_uid,
         "Venom amount: {}": i.item_venom_amount,
+        "Can explode: {}": i.item_can_explode,
+        "Is farsighted: {}": i.item_is_farsighted,
+    }
+    economics = {
+        "Can be sold: {}": i.item_can_sell,
+        "Sell Price: {} Mews": i.item_mews_value,
+        "Sell Price: {} Mole Cash": i.item_mole_cash_value,}
+    stock_pile = {
+        "Prey resource value: {}": i.item_prey_resource_value,
+        "Herbs resource value: {}": i.item_herbs_resource_value,
+        "Sand resource value: {}": i.item_sand_resource_value,
+        "Stone resource value: {}": i.item_stone_resource_value,
+        "Treasure resource value: {}": i.item_treasure_resource_value,
         "Wood resource value: {}": i.item_wood_resource_value,
     }
-    for k, v in description_attribute.items():
-        if v is not None:
-            yield k.format(v)
+    if any((v is not None for v in main_properties.values())):
+        yield "## main properties"
+        for k, v in main_properties.items():
+            if v is not None:
+                yield k.format(v)
+    if any((v is not None for v in effects.values())):
+        yield "## item effects"
+        for k, v in effects.items():
+            if v is not None:
+                yield k.format(v)
+    has_stockpile_value = any((v is not None for v in stock_pile.values()))
+    if has_stockpile_value or i.item_can_sell:
+        yield "## economics"
+        if i.item_can_sell:
+            mews = f'{i.item_mews_value} Mews' if i.item_mews_value is not None else ''
+            mole = f'{i.item_mole_cash_value} Mole Cash' if i.item_mole_cash_value is not None else ''
+            yield f"Sell value: {', '.join((mews, mole))}"
+        for k, v in stock_pile.items():
+            if v is not None:
+                yield k.format(v)
 
 
 def _npc_nice_names(npc_stem_ids: list[UidStem], all_data: AllResourceData):

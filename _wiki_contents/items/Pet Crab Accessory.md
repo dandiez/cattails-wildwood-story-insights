@@ -2,17 +2,13 @@
 
 A crabby little fellow that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14022
-
 Item uid: Pet Crab Accessory
+
+Sorting priority: 14022
 
 # shops selling Pet Crab:
 

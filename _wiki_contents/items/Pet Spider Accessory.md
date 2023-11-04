@@ -2,17 +2,13 @@
 
 A terrifying purple spider that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14000
-
 Item uid: Pet Spider Accessory
+
+Sorting priority: 14000
 
 # shops selling Pet Spider:
 

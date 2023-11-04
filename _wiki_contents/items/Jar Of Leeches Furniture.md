@@ -2,17 +2,13 @@
 
 A glass jar filled with writhing leeches. Who would keep something like this in their home?
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Jar Of Leeches Furniture
+
+Sorting priority: 9500
 
 # shops selling Jar of Leeches:
 

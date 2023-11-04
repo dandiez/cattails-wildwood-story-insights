@@ -2,17 +2,13 @@
 
 Grow blueberries in your garden with these seeds! Blueberries make for a tasty snack.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22002
-
 Item uid: Blueberries Seeds Recipe
+
+Sorting priority: 22002
 
 # shops selling Blueberry Seeds Recipe:
 

@@ -2,21 +2,23 @@
 
 A large rabbit-like creature with long, dark-tipped ears.
 
-Can be sold: True
-
-Hunger amount: 400
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Rare
 
+Item uid: Hare
+
 Sorting priority: 600
 
-Item uid: Hare
+## item effects
+
+Hunger amount: 400
+
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

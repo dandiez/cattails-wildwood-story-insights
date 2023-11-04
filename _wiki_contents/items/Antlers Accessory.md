@@ -2,17 +2,13 @@
 
 Festive reindeer antlers that remind you of snowy days.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 15400
-
 Item uid: Antlers Accessory
+
+Sorting priority: 15400
 
 # shops selling Antlers:
 

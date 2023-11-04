@@ -2,21 +2,23 @@
 
 An iridescent bird with striking star-like dappling.
 
-Can be sold: True
-
-Hunger amount: 400
-
-Sell Price: 40 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Legendary
 
+Item uid: Starling
+
 Sorting priority: 2100
 
-Item uid: Starling
+## item effects
+
+Hunger amount: 400
+
+## economics
+
+Sell value: 40 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

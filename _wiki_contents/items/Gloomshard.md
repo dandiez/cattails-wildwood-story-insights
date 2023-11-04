@@ -2,17 +2,17 @@
 
 A tiny fragment of a gemstone found only in the darkest of caves.
 
-Can be sold: True
-
-Sell Price: 3 Mews
-
-Sell Price: 10 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Gloomshard
+
 Sorting priority: 12623
 
-Item uid: Gloomshard
+## economics
+
+Sell value: 3 Mews, 10 Mole Cash
 
 # Gift guide
 

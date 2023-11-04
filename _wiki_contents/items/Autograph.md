@@ -2,17 +2,17 @@
 
 A hastily-scribbled autograph from Zephyr.
 
-Can be sold: True
-
-Sell Price: 35 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Autograph
+
 Sorting priority: 8034
 
-Item uid: Autograph
+## economics
+
+Sell value: 35 Mews, 0 Mole Cash
 
 # Gift guide
 

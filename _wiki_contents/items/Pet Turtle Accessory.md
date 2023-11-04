@@ -2,17 +2,13 @@
 
 A friendly little turtle that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14200
-
 Item uid: Pet Turtle Accessory
+
+Sorting priority: 14200
 
 # shops selling Pet Turtle:
 

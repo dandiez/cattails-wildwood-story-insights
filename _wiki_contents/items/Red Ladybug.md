@@ -2,17 +2,17 @@
 
 A pretty little bug with black spots.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Red Ladybug
+
 Sorting priority: 8500
 
-Item uid: Red Ladybug
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # Gift guide
 

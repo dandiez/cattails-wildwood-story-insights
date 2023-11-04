@@ -2,17 +2,17 @@
 
 A formation of light-pink translucent crystals.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 5 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Quartz
+
 Sorting priority: 12500
 
-Item uid: Quartz
+## economics
+
+Sell value: 2 Mews, 5 Mole Cash
 
 # shops selling Quartz:
 

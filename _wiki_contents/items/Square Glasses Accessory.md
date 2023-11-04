@@ -2,17 +2,13 @@
 
 Large rectangular frames to wear on your face.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 16000
-
 Item uid: Square Glasses Accessory
+
+Sorting priority: 16000
 
 # shops selling Square Glasses:
 

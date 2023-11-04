@@ -2,17 +2,17 @@
 
 A red crustacean with several legs. Careful with the claws!
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Crab
+
 Sorting priority: 11850
 
-Item uid: Crab
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
 
 # Map regions
 

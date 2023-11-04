@@ -2,14 +2,14 @@
 
 A cave dwelling crab with granite-like skin. These critters love to nestle underneath boulders.
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Granite Crab
+
 Sorting priority: 11850
 
-Item uid: Granite Crab
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash

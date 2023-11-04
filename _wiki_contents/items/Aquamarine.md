@@ -2,17 +2,17 @@
 
 A wondrous beryl shaded deep blue.
 
-Can be sold: True
-
-Sell Price: 3 Mews
-
-Sell Price: 9 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Aquamarine
+
 Sorting priority: 12618
 
-Item uid: Aquamarine
+## economics
+
+Sell value: 3 Mews, 9 Mole Cash
 
 # Gift guide
 

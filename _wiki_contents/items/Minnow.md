@@ -2,21 +2,23 @@
 
 A very small schooling fish from a freshwater river or pond.
 
-Can be sold: True
-
-Hunger amount: 100
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Minnow
+
 Sorting priority: 3300
 
-Item uid: Minnow
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

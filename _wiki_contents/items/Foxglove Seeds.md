@@ -2,17 +2,17 @@
 
 A handful of tiny brown seeds yielded from a foxglove plant. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Foxglove Seeds
+
 Sorting priority: 81911
 
-Item uid: Foxglove Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

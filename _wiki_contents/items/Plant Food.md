@@ -2,17 +2,17 @@
 
 Ideal nourishment for a growing plant. Apply daily to every plant in your garden and you will grow high-quality herbs! Consumed on use.
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Plant Food
+
 Sorting priority: 81899
 
-Item uid: Plant Food
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # shops selling Plant Food:
 

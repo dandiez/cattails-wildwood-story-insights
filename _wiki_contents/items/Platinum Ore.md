@@ -2,17 +2,17 @@
 
 Unrefined platinum, a valuable mineral found only in certain caves.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 5 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Platinum Ore
+
 Sorting priority: 12418
 
-Item uid: Platinum Ore
+## economics
+
+Sell value: 2 Mews, 5 Mole Cash
 
 # Gift guide
 

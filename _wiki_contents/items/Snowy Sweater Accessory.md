@@ -2,17 +2,13 @@
 
 A warm woolly sweater with a snowflake pattern.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17200
-
 Item uid: Snowy Sweater Accessory
+
+Sorting priority: 17200
 
 # shops selling Snowy Sweater:
 

@@ -2,21 +2,23 @@
 
 A legendary scarlet bird whose beautiful plumage is life-like, even in death.
 
-Can be sold: True
-
-Hunger amount: 500
-
-Sell Price: 48 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Legendary
 
+Item uid: Cardinal
+
 Sorting priority: 2108
 
-Item uid: Cardinal
+## item effects
+
+Hunger amount: 500
+
+## economics
+
+Sell value: 48 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

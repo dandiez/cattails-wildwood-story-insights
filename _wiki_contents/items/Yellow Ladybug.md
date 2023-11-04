@@ -2,17 +2,17 @@
 
 A striking little bug with black spots.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Yellow Ladybug
+
 Sorting priority: 8600
 
-Item uid: Yellow Ladybug
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
 
 # Gift guide
 

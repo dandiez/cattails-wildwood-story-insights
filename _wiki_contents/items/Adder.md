@@ -2,21 +2,23 @@
 
 A venomous creature with dark markings.
 
-Can be sold: True
-
-Hunger amount: 400
-
-Sell Price: 20 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Rare
 
+Item uid: Adder
+
 Sorting priority: 2600
 
-Item uid: Adder
+## item effects
+
+Hunger amount: 400
+
+## economics
+
+Sell value: 20 Mews, 0 Mole Cash
+
+Prey resource value: 2
 
 # Map regions
 

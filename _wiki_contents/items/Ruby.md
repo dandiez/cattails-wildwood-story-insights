@@ -2,17 +2,17 @@
 
 A flawless red gemstone.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 30 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Ruby
+
 Sorting priority: 13100
 
-Item uid: Ruby
+## economics
+
+Sell value: 12 Mews, 30 Mole Cash
 
 # Gift guide
 

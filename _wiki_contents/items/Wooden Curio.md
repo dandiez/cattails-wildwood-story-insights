@@ -2,17 +2,17 @@
 
 A flat wood stick, stained slightly on one end.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Wooden Curio
+
 Sorting priority: 99915
 
-Item uid: Wooden Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,19 +2,19 @@
 
 A perfectly spherical stone, rounded and sanded until its smooth surface shines. This item may be donated to your stone stockpile.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Polished Stone
+
 Sorting priority: 12104
 
-Stone resource value: 1
+## economics
 
-Item uid: Polished Stone
+Sell value: 12 Mews, 0 Mole Cash
+
+Stone resource value: 1
 
 # Gift guide
 

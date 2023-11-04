@@ -2,17 +2,17 @@
 
 A luminescent summer bug that emits white light.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: White Firefly
+
 Sorting priority: 10100
 
-Item uid: White Firefly
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # shops selling White Firefly:
 

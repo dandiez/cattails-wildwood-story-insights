@@ -2,17 +2,13 @@
 
 Show off your fishing prowess with this wall-mounted trophy of a trout on a wooden backboard!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Trout Plaque Furniture
+
+Sorting priority: 9500
 
 # shops selling Trout Plaque:
 

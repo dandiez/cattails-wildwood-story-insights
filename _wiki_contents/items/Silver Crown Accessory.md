@@ -2,17 +2,13 @@
 
 This elegant crown is made from sturdy metal.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 15000
-
 Item uid: Silver Crown Accessory
+
+Sorting priority: 15000
 
 # shops selling Silver Crown:
 

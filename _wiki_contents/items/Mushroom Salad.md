@@ -2,21 +2,23 @@
 
 Several kinds of mushrooms tossed together with leafy salad greens. A very filling meal!
 
-Can be sold: True
+## main properties
+
+Rarity: Rare
+
+Item uid: Mushroom Salad
+
+Sorting priority: 3425
+
+## item effects
 
 Heal amount: 3
 
 Hunger amount: 500
 
-Sell Price: 28 Mews
+## economics
 
-Sell Price: 0 Mole Cash
-
-Rarity: Rare
-
-Sorting priority: 3425
-
-Item uid: Mushroom Salad
+Sell value: 28 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,17 +2,13 @@
 
 The perfect place to stash your valuables! Can be used to access your storage.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Treasure Chest Furniture
+
+Sorting priority: 9500
 
 # shops selling Treasure Chest:
 

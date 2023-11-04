@@ -2,21 +2,23 @@
 
 Dark berries that can gratify the pickiest of palates.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Hunger amount: 200
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Blackberries [Fair]
+
 Sorting priority: 4700
 
-Item uid: Blackberries [Fair]
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

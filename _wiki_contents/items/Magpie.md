@@ -2,21 +2,23 @@
 
 A smart little bird with patches of black and white.
 
-Can be sold: True
-
-Hunger amount: 100
-
-Sell Price: 7 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Magpie
+
 Sorting priority: 1300
 
-Item uid: Magpie
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 7 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

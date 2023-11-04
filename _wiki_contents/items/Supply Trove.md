@@ -2,27 +2,27 @@
 
 Donate this item to increase each of your stockpiles' values by 2!
 
-Can be sold: True
-
-Herbs resource value: 2
-
-Sell Price: 14 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 2
+## main properties
 
 Rarity: Legendary
 
-Sand resource value: 2
+Item uid: Supply Trove
 
 Sorting priority: 8068
+
+## economics
+
+Sell value: 14 Mews, 0 Mole Cash
+
+Prey resource value: 2
+
+Herbs resource value: 2
+
+Sand resource value: 2
 
 Stone resource value: 2
 
 Treasure resource value: 2
-
-Item uid: Supply Trove
 
 Wood resource value: 2
 

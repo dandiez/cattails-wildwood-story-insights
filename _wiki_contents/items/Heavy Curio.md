@@ -2,17 +2,17 @@
 
 A heavy metal ring attached to even heavier metal objects.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Heavy Curio
+
 Sorting priority: 99927
 
-Item uid: Heavy Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

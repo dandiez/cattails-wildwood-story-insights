@@ -2,21 +2,23 @@
 
 A tasty mouse. Mind the whiskers!
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 7 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Mouse
+
 Sorting priority: 100
 
-Item uid: Mouse
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 7 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

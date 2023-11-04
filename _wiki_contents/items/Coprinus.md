@@ -2,19 +2,21 @@
 
 A stalky fungus with a curative property. Treats poison.
 
-Can be sold: True
-
-Cures poison: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Coprinus
+
 Sorting priority: 3800
 
-Item uid: Coprinus
+## item effects
+
+Cures poison: True
+
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # shops selling Coprinus:
 

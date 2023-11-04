@@ -2,17 +2,17 @@
 
 A curious stone with many sharp angles and a multicolored hue.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 8 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Bismuth
+
 Sorting priority: 12437
 
-Item uid: Bismuth
+## economics
+
+Sell value: 2 Mews, 8 Mole Cash
 
 # Gift guide
 

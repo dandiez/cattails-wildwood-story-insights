@@ -2,19 +2,19 @@
 
 An enthralling pale gemstone that is highly prized! This item may be donated to your treasure stockpile.
 
-Can be sold: True
-
-Sell Price: 40 Mews
-
-Sell Price: 100 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Diamond
+
 Sorting priority: 13200
 
-Treasure resource value: 1
+## economics
 
-Item uid: Diamond
+Sell value: 40 Mews, 100 Mole Cash
+
+Treasure resource value: 1
 
 # shops selling Diamond:
 

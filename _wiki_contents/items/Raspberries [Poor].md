@@ -2,21 +2,23 @@
 
 Modest red berries that pop with a splash of sweet flavor.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Hunger amount: 100
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Raspberries [Poor]
+
 Sorting priority: 4300
 
-Item uid: Raspberries [Poor]
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

@@ -2,17 +2,17 @@
 
 A complex knot tied out of a sparkling ribbon.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Sparkly Curio
+
 Sorting priority: 99919
 
-Item uid: Sparkly Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

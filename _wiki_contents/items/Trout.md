@@ -2,21 +2,23 @@
 
 A large, speckled freshwater fish. Dinner's served!
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 8 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Trout
+
 Sorting priority: 2800
 
-Item uid: Trout
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 8 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

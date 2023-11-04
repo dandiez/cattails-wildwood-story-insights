@@ -2,21 +2,23 @@
 
 A bird with a speckled pattern on its belly.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 7 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Thrush
+
 Sorting priority: 1200
 
-Item uid: Thrush
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 7 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

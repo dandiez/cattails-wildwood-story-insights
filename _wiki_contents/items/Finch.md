@@ -2,21 +2,23 @@
 
 A savory songbird.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Finch
+
 Sorting priority: 1800
 
-Item uid: Finch
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

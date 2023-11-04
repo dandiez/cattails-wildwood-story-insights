@@ -2,17 +2,13 @@
 
 Items will now stack up to a maximum of 5 in each of your inventory slots.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 17700
-
 Item uid: Inventory Upgrade I
+
+Sorting priority: 17700
 
 # shops selling Modest Pockets:
 

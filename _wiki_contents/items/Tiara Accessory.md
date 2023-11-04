@@ -2,17 +2,13 @@
 
 A dainty headpiece fit for a princess.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 15500
-
 Item uid: Tiara Accessory
+
+Sorting priority: 15500
 
 # shops selling Tiara:
 

@@ -2,17 +2,13 @@
 
 Large natural stones taken from a river and expertly laid in an organic pattern.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Natural Stone Tile Furniture
+
+Sorting priority: 9500
 
 # shops selling Natural Stone Tile:
 

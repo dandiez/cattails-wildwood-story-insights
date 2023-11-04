@@ -2,17 +2,13 @@
 
 Plants strung up to dry, ready to decorate your den walls.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9520
-
 Item uid: Drying Plants Bundle
+
+Sorting priority: 9520
 
 # shops selling Drying Plants Bundle:
 

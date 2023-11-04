@@ -2,17 +2,17 @@
 
 A brilliant creature that reflects light in stunning iridescent patterns!
 
-Can be sold: True
-
-Sell Price: 60 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Northern Emerald
+
 Sorting priority: 10800
 
-Item uid: Northern Emerald
+## economics
+
+Sell value: 60 Mews, 0 Mole Cash
 
 # Gift guide
 

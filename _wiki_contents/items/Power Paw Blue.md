@@ -2,17 +2,13 @@
 
 An ancient token made from a shining blue metal. According to legend, it can make you more resilient to hunger.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 0
-
 Item uid: Power Paw Blue
+
+Sorting priority: 0
 
 Power Paw (Blue) can be found in caldera, northernwastes, thestaunchstones, wetlandestuary
 

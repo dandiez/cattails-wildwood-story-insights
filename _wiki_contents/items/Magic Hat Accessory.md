@@ -2,17 +2,13 @@
 
 Some say that this hat was once worn by a powerful mage.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14600
-
 Item uid: Magic Hat Accessory
+
+Sorting priority: 14600
 
 # shops selling Magic Hat:
 

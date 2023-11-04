@@ -2,17 +2,13 @@
 
 Some cat spent a lot of time carefully weaving the thick material used to create this small rug!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Woven Rug Furniture
+
+Sorting priority: 9500
 
 # shops selling Woven Rug:
 

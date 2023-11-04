@@ -2,17 +2,17 @@
 
 A very soft round thing made of cotton.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Soft Curio
+
 Sorting priority: 99904
 
-Item uid: Soft Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

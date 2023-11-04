@@ -2,17 +2,17 @@
 
 A flying insect with black stripes on its yellow wings.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Tiger Butterfly
+
 Sorting priority: 9800
 
-Item uid: Tiger Butterfly
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
 
 # shops selling Tiger Butterfly:
 

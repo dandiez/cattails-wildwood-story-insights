@@ -2,17 +2,13 @@
 
 A strange mask from some long-forgotten play.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 16200
-
 Item uid: Theater Mask Accessory
+
+Sorting priority: 16200
 
 # shops selling Theater Mask:
 

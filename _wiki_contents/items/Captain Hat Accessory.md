@@ -2,17 +2,13 @@
 
 This fearsome cap once belonged to the most dangerous pirate in all the Seven Seas.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14700
-
 Item uid: Captain Hat Accessory
+
+Sorting priority: 14700
 
 # shops selling Captain Hat:
 

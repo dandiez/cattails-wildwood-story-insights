@@ -2,19 +2,19 @@
 
 A fabulously scarce jewel! It seems to shine either red or green under different lighting conditions.
 
-Can be sold: True
-
-Sell Price: 50 Mews
-
-Sell Price: 150 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Alexandrite
+
 Sorting priority: 13218
 
-Treasure resource value: 1
+## economics
 
-Item uid: Alexandrite
+Sell value: 50 Mews, 150 Mole Cash
+
+Treasure resource value: 1
 
 # shops selling Alexandrite:
 

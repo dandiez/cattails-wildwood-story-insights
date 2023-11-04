@@ -2,17 +2,13 @@
 
 A kind-hearted bee that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 13900
-
 Item uid: Pet Bee Accessory
+
+Sorting priority: 13900
 
 # shops selling Pet Bee:
 

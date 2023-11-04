@@ -2,17 +2,13 @@
 
 A long mint-green rubber mat, the perfect spot to do your morning stretching routine. Stay flexible!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Stretch Mat Furniture
+
+Sorting priority: 9500
 
 # shops selling Stretch Mat:
 

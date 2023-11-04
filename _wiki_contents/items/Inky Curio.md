@@ -2,17 +2,17 @@
 
 A dark plastic stick that makes a satisfying clicking noise.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Inky Curio
+
 Sorting priority: 99918
 
-Item uid: Inky Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

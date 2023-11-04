@@ -2,19 +2,21 @@
 
 This inscrutable device can point the way towards the nearest downward mine staircase, even one that is concealed, for a short time. Consumed on use.
 
-Can be sold: True
-
-Is farsighted: True
-
-Sell Price: 6 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Farsighted Orb
+
 Sorting priority: 8052
 
-Item uid: Farsighted Orb
+## item effects
+
+Is farsighted: True
+
+## economics
+
+Sell value: 6 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,17 +2,13 @@
 
 A dangerous contraption that runs all by itself. Handle carefully!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Spike Trap Furniture
+
+Sorting priority: 9500
 
 # shops selling Spike Trap:
 

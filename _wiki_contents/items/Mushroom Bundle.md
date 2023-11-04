@@ -2,17 +2,13 @@
 
 Stylish mushroom decor!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9510
-
 Item uid: Mushroom Bundle
+
+Sorting priority: 9510
 
 # shops selling Mushroom Bundle:
 

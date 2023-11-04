@@ -2,19 +2,21 @@
 
 A mysterious redcap mushroom that comes in many varieties. Some are safe, some are not. Who knows what eating it will do?
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
-
-Random effect: True
+## main properties
 
 Rarity: Rare
 
+Item uid: Amanita
+
 Sorting priority: 3900
 
-Item uid: Amanita
+## item effects
+
+Has a random effect: True
+
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # shops selling Amanita:
 

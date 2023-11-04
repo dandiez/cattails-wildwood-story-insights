@@ -2,21 +2,23 @@
 
 A scrappy rodent that won't go down without a fight.
 
-Can be sold: True
-
-Hunger amount: 100
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Rat
+
 Sorting priority: 700
 
-Item uid: Rat
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

@@ -2,17 +2,13 @@
 
 A ceramic mug made for human hands. Wouldn't it be fun to push it off a table?
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Mug Furniture
+
+Sorting priority: 9500
 
 # shops selling Mug:
 

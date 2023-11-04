@@ -2,17 +2,13 @@
 
 Grow red raspberries in your garden with these seeds! Raspberries make for a delightful snack.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22000
-
 Item uid: Raspberries Seeds Recipe
+
+Sorting priority: 22000
 
 # shops selling Raspberry Seeds Recipe:
 

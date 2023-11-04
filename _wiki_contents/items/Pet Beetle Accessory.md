@@ -2,17 +2,13 @@
 
 A cheery blue beetle that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 13600
-
 Item uid: Pet Beetle Accessory
+
+Sorting priority: 13600
 
 # shops selling Pet Beetle:
 

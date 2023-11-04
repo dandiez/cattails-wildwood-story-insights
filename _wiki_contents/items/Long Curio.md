@@ -2,17 +2,17 @@
 
 A lightweight stick with a tiny bit of cotton glued to either end.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Long Curio
+
 Sorting priority: 99903
 
-Item uid: Long Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

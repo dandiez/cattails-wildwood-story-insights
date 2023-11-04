@@ -2,17 +2,17 @@
 
 A small precious stone with a curious dark pattern.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 15 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Pitlode
+
 Sorting priority: 12627
 
-Item uid: Pitlode
+## economics
+
+Sell value: 4 Mews, 15 Mole Cash
 
 # Gift guide
 

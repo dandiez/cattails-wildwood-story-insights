@@ -2,17 +2,17 @@
 
 Small yellow-striped seeds yielded from a licorice plant. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Licorice Seeds
+
 Sorting priority: 81903
 
-Item uid: Licorice Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,17 +2,17 @@
 
 A river of valuable gold ore encased in stone.
 
-Can be sold: True
-
-Sell Price: 3 Mews
-
-Sell Price: 4 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Gold Ore
+
 Sorting priority: 12400
 
-Item uid: Gold Ore
+## economics
+
+Sell value: 3 Mews, 4 Mole Cash
 
 # Gift guide
 

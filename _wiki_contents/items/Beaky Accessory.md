@@ -2,17 +2,13 @@
 
 An odd mask made of a weathered material with a slender beak-like nose. Some believe it can protect the wearer from foul miasmas.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 16100
-
 Item uid: Beaky Accessory
+
+Sorting priority: 16100
 
 # shops selling Beaky:
 

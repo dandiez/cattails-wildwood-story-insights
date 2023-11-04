@@ -2,17 +2,13 @@
 
 Crafting station. Use this anvil to access the recipes from the Mole Forge at any time from your den.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Anvil Furniture
+
+Sorting priority: 9500
 
 # shops selling Anvil:
 

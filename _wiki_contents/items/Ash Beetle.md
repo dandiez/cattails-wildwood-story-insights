@@ -2,17 +2,17 @@
 
 A large beetle with a muted green carapace.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Ash Beetle
+
 Sorting priority: 11000
 
-Item uid: Ash Beetle
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
 
 # Gift guide
 

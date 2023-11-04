@@ -2,17 +2,17 @@
 
 A ring of brightly-colored plastic with spiky bits on the inside.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Plastic Curio
+
 Sorting priority: 99923
 
-Item uid: Plastic Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

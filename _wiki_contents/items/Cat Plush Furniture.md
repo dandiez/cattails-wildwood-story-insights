@@ -2,17 +2,13 @@
 
 A small cat-shaped toy made of very soft fabric, stuffed with fluff.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Cat Plush Furniture
+
+Sorting priority: 9500
 
 # shops selling Cat Plush:
 

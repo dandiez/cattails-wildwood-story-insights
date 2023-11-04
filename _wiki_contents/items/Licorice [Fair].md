@@ -2,21 +2,23 @@
 
 The roots of this plant may be chewed on for a quick bite.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Hunger amount: 200
-
-Sell Price: 3 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Licorice [Fair]
+
 Sorting priority: 4100
 
-Item uid: Licorice [Fair]
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 3 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

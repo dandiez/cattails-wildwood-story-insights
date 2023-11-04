@@ -2,17 +2,17 @@
 
 Drop it and watch it rebound from the ground!
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Bouncy Curio
+
 Sorting priority: 99914
 
-Item uid: Bouncy Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,21 +2,23 @@
 
 This large freshwater fish has a streak of iridescent color along its back.
 
-Can be sold: True
-
-Hunger amount: 300
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Salmon
+
 Sorting priority: 3000
 
-Item uid: Salmon
+## item effects
+
+Hunger amount: 300
+
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

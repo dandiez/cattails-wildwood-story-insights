@@ -2,17 +2,13 @@
 
 A rectangular block made of solid cork with rounded edges.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Cork Block Furniture
+
+Sorting priority: 9500
 
 # shops selling Cork Block:
 

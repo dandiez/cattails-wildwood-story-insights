@@ -2,17 +2,17 @@
 
 An impressive blue bug with black spots. Many cats believe they're mythical, but you managed to find one!
 
-Can be sold: True
-
-Sell Price: 60 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Blue Ladybug
+
 Sorting priority: 8800
 
-Item uid: Blue Ladybug
+## economics
+
+Sell value: 60 Mews, 0 Mole Cash
 
 # Gift guide
 

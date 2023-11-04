@@ -2,19 +2,19 @@
 
 A gorgeous red flower that symbolizes true love. Give to a cat to let them know you've fallen for them!
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Red Rose
+
 Sorting priority: 8100
 
-Item uid: Red Rose
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

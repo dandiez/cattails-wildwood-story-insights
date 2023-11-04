@@ -2,17 +2,13 @@
 
 A pretty pink bow to set atop your head.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 15600
-
 Item uid: Bow Accessory
+
+Sorting priority: 15600
 
 # shops selling Bow:
 

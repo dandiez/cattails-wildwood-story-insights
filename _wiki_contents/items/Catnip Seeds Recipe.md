@@ -2,17 +2,13 @@
 
 Grow catnip in your garden with these seeds! Catnip is well-beloved by nearly all cats and is very valuable.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22011
-
 Item uid: Catnip Seeds Recipe
+
+Sorting priority: 22011
 
 # shops selling Catnip Seeds Recipe:
 

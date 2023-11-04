@@ -2,17 +2,13 @@
 
 A peculiar lamp made with dried mud bricks adorned with deep black crystals that faintly glow from within.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Black Crystal Lamp Furniture
+
+Sorting priority: 9500
 
 # shops selling Black Crystal Lamp:
 

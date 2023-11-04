@@ -2,19 +2,21 @@
 
 A sugary treat taken from a hive of angry bees. The honey inside provides immunity from all negative status effects for a short time.
 
-Can be sold: True
-
-Immunity amount: 7200
-
-Sell Price: 22 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Honeycomb
+
 Sorting priority: 8400
 
-Item uid: Honeycomb
+## item effects
+
+Immunity amount: 7200
+
+## economics
+
+Sell value: 22 Mews, 0 Mole Cash
 
 # Gift guide
 

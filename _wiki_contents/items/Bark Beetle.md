@@ -2,17 +2,17 @@
 
 A large beetle with dusty red elytra.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Bark Beetle
+
 Sorting priority: 11100
 
-Item uid: Bark Beetle
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # Gift guide
 

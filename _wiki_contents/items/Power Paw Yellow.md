@@ -2,17 +2,13 @@
 
 An ancient token made from a shining yellow metal. According to legend, it can make you faster.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 0
-
 Item uid: Power Paw Yellow
+
+Sorting priority: 0
 
 Power Paw (Yellow) can be found in eastcentral, swampcorner
 

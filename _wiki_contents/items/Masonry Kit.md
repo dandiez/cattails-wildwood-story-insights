@@ -2,17 +2,17 @@
 
 A bundle of tools and materials for stonework. Can be used to repair a broken staircase in the mines.
 
-Can be sold: True
-
-Sell Price: 5 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Masonry Kit
+
 Sorting priority: 18292
 
-Item uid: Masonry Kit
+## economics
+
+Sell value: 5 Mews, 0 Mole Cash
 
 # shops selling Masonry Kit:
 

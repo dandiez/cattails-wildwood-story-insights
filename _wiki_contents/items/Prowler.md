@@ -2,17 +2,17 @@
 
 A creepy-crawler with a nasty bite. Often encountered in swarms.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Prowler
+
 Sorting priority: 87138
 
-Item uid: Prowler
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # Gift guide
 

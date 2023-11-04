@@ -2,17 +2,17 @@
 
 Dark pods yielded from a snake lily plant. Sow these in the garden and watch them grow!
 
-Can be sold: True
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Snake Lily Seeds
+
 Sorting priority: 81910
 
-Item uid: Snake Lily Seeds
+## economics
+
+Sell value: 0 Mews, 0 Mole Cash
 
 # Gift guide
 

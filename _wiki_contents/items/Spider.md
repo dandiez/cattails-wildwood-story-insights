@@ -2,17 +2,17 @@
 
 A creepy-crawly creature with eight legs and a drooping mandible.
 
-Can be sold: True
-
-Sell Price: 15 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Spider
+
 Sorting priority: 11900
 
-Item uid: Spider
+## economics
+
+Sell value: 15 Mews, 0 Mole Cash
 
 # Map regions
 

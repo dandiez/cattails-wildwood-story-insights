@@ -2,17 +2,17 @@
 
 A wooly winged wonder with tiny dark spots.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Ermine Moth
+
 Sorting priority: 9400
 
-Item uid: Ermine Moth
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
 
 # Gift guide
 

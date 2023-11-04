@@ -2,17 +2,13 @@
 
 A dark leather patch to place over one eye. Yarrr!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 16400
-
 Item uid: Eyepatch Accessory
+
+Sorting priority: 16400
 
 # shops selling Eyepatch:
 

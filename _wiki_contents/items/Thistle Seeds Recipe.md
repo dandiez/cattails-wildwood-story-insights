@@ -2,17 +2,13 @@
 
 Grow thistle in your garden with these seeds! Thistle helps you swim better for a short time.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22008
-
 Item uid: Thistle Seeds Recipe
+
+Sorting priority: 22008
 
 # shops selling Thistle Seeds Recipe:
 

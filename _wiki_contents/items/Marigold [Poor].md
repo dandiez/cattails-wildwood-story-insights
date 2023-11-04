@@ -2,21 +2,23 @@
 
 A vibrant orange flower atop a withered stem. Treats poison instantly.
 
-Can be sold: True
-
-Cures poison: True
-
-Herbs resource value: 1
-
-Sell Price: 3 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Marigold [Poor]
+
 Sorting priority: 5500
 
-Item uid: Marigold [Poor]
+## item effects
+
+Cures poison: True
+
+## economics
+
+Sell value: 3 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

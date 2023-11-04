@@ -2,17 +2,17 @@
 
 A lanky brown dragonfly with faint yellow stripes.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Brown Hawker
+
 Sorting priority: 10600
 
-Item uid: Brown Hawker
+## economics
+
+Sell value: 2 Mews, 0 Mole Cash
 
 # Gift guide
 

@@ -2,17 +2,13 @@
 
 Unlocks a new recipe at the Mole Forge anvil. These symbols of authority can be used to immediately gain 100% influence in a region. Consumed on use.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22015
-
 Item uid: Bright Insignia Recipe
+
+Sorting priority: 22015
 
 # shops selling Bright Insignia Recipe:
 

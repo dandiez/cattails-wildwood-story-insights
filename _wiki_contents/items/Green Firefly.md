@@ -2,17 +2,17 @@
 
 A glowing summer bug that shines bright green.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Green Firefly
+
 Sorting priority: 10300
 
-Item uid: Green Firefly
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # Gift guide
 

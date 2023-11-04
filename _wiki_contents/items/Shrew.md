@@ -2,21 +2,23 @@
 
 A plump little shrew with a whiskered snout.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 8 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Common
 
+Item uid: Shrew
+
 Sorting priority: 200
 
-Item uid: Shrew
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 8 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

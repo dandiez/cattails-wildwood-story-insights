@@ -2,17 +2,17 @@
 
 A fuzzy flying figure that comes out at night.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Sphinx Moth
+
 Sorting priority: 9300
 
-Item uid: Sphinx Moth
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # shops selling Sphinx Moth:
 

@@ -2,17 +2,17 @@
 
 Almost any cat would love to receive a present wrapped as beautifully as this.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Gift Box
+
 Sorting priority: 8052
 
-Item uid: Gift Box
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # Gift guide
 

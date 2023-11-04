@@ -2,17 +2,17 @@
 
 A lightweight insect with diverse markings.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Tropical Butterfly
+
 Sorting priority: 9900
 
-Item uid: Tropical Butterfly
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # Gift guide
 

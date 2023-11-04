@@ -2,17 +2,13 @@
 
 The type of crown that would be used during a coronation. How did it end up here?
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 15100
-
 Item uid: Ceremonial Crown Accessory
+
+Sorting priority: 15100
 
 # shops selling Ceremonial Crown:
 

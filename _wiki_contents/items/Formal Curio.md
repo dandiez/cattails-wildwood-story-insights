@@ -2,17 +2,17 @@
 
 This looks like it was important to someone once upon a time.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Formal Curio
+
 Sorting priority: 99930
 
-Item uid: Formal Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

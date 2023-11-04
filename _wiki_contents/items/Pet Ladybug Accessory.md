@@ -2,17 +2,13 @@
 
 A cute red ladybug that will follow you around!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 13400
-
 Item uid: Pet Ladybug Accessory
+
+Sorting priority: 13400
 
 # shops selling Pet Ladybug:
 

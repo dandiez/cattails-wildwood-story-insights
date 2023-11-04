@@ -2,17 +2,17 @@
 
 A writhing pile of shadowy essence. It gives you an uneasy feeling.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Voidmarrow
+
 Sorting priority: 12041
 
-Item uid: Voidmarrow
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # Map regions
 

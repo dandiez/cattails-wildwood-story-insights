@@ -2,17 +2,17 @@
 
 A large beetle with a pale blue shell.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Hermit Beetle
+
 Sorting priority: 10900
 
-Item uid: Hermit Beetle
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # Gift guide
 

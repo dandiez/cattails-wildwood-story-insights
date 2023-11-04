@@ -2,17 +2,17 @@
 
 A lightweight hollow plastic tube, bent at one end.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Bendy Curio
+
 Sorting priority: 99924
 
-Item uid: Bendy Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

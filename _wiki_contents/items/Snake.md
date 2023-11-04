@@ -2,21 +2,23 @@
 
 A slithering green menace with a forked tongue.
 
-Can be sold: True
-
-Hunger amount: 200
-
-Sell Price: 10 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Snake
+
 Sorting priority: 2500
 
-Item uid: Snake
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 10 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

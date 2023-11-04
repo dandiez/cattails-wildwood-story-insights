@@ -2,17 +2,13 @@
 
 Grow marigold flowers in your garden with these seeds! Marigold plants are well-known for their curative properties.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22004
-
 Item uid: Marigold Seeds Recipe
+
+Sorting priority: 22004
 
 # shops selling Marigold Seeds Recipe:
 

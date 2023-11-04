@@ -2,17 +2,13 @@
 
 Look regal while you're out and about!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14900
-
 Item uid: Gold Crown Accessory
+
+Sorting priority: 14900
 
 # shops selling Gold Crown:
 

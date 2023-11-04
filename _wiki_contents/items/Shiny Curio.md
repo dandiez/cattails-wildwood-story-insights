@@ -2,17 +2,17 @@
 
 Some shiny material, roughly balled up.
 
-Can be sold: True
-
-Sell Price: 12 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Shiny Curio
+
 Sorting priority: 99908
 
-Item uid: Shiny Curio
+## economics
+
+Sell value: 12 Mews, 0 Mole Cash
 
 # Gift guide
 

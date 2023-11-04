@@ -2,19 +2,19 @@
 
 A greatly prized pearl-white shell. You can almost hear the ocean! This item may be donated to your sand stockpile.
 
-Can be sold: True
-
-Sell Price: 25 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sand resource value: 2
+Item uid: Conch
 
 Sorting priority: 11700
 
-Item uid: Conch
+## economics
+
+Sell value: 25 Mews, 0 Mole Cash
+
+Sand resource value: 2
 
 # Map regions
 

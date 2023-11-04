@@ -2,21 +2,23 @@
 
 A virulent purple bloom. Applies a poison effect to your attacks.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Sell Price: 9 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
-Sorting priority: 6900
-
 Item uid: Snake Lily [Good]
 
+Sorting priority: 6900
+
+## item effects
+
 Venom amount: 2400
+
+## economics
+
+Sell value: 9 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

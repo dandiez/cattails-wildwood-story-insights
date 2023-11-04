@@ -2,21 +2,23 @@
 
 A powerful healing tonic made from potent herbs. Heals a massive amount of health and treats poison when consumed.
 
-Can be sold: True
+## main properties
+
+Rarity: Rare
+
+Item uid: Elixir of Healing
+
+Sorting priority: 5149
+
+## item effects
 
 Cures poison: True
 
 Heal amount: 9
 
-Sell Price: 32 Mews
+## economics
 
-Sell Price: 0 Mole Cash
-
-Rarity: Rare
-
-Sorting priority: 5149
-
-Item uid: Elixir of Healing
+Sell value: 32 Mews, 0 Mole Cash
 
 # Gift guide
 

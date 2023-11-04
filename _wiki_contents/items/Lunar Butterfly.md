@@ -2,17 +2,17 @@
 
 This fabled insect has translucent skin and emits a curious pale light.
 
-Can be sold: True
-
-Sell Price: 60 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
+Item uid: Lunar Butterfly
+
 Sorting priority: 10000
 
-Item uid: Lunar Butterfly
+## economics
+
+Sell value: 60 Mews, 0 Mole Cash
 
 # Gift guide
 

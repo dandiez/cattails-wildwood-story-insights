@@ -2,21 +2,23 @@
 
 A curious flying critter with large webbed wings.
 
-Can be sold: True
-
-Hunger amount: 100
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
-
-Prey resource value: 1
+## main properties
 
 Rarity: Rare
 
+Item uid: Bat
+
 Sorting priority: 800
 
-Item uid: Bat
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
+
+Prey resource value: 1
 
 # Map regions
 

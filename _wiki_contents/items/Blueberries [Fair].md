@@ -2,21 +2,23 @@
 
 A brilliant cluster of small berries on a bright green stem.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Hunger amount: 200
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Blueberries [Fair]
+
 Sorting priority: 5000
 
-Item uid: Blueberries [Fair]
+## item effects
+
+Hunger amount: 200
+
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

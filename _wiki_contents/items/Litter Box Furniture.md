@@ -2,17 +2,13 @@
 
 Not a very glamorous piece of decor, but practical nonetheless.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Litter Box Furniture
+
+Sorting priority: 9500
 
 # shops selling Litter Box:
 

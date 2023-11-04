@@ -2,17 +2,17 @@
 
 A long, gangly dragonfly with four wide wings.
 
-Can be sold: True
-
-Sell Price: 1 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Southern Damselfly
+
 Sorting priority: 10500
 
-Item uid: Southern Damselfly
+## economics
+
+Sell value: 1 Mews, 0 Mole Cash
 
 # Gift guide
 

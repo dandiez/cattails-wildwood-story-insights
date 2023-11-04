@@ -2,19 +2,21 @@
 
 A petite whitecap mushroom that tastes earthy.
 
-Can be sold: True
-
-Hunger amount: 100
-
-Sell Price: 6 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: White Button
+
 Sorting priority: 3500
 
-Item uid: White Button
+## item effects
+
+Hunger amount: 100
+
+## economics
+
+Sell value: 6 Mews, 0 Mole Cash
 
 # Gift guide
 

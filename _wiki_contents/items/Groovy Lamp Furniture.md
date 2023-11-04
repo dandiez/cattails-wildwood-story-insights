@@ -2,17 +2,13 @@
 
 Mesmerizing glowing liquid moves around in this lamp under the heat of the recessed bulb. Far out!
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Groovy Lamp Furniture
+
+Sorting priority: 9500
 
 # shops selling Groovy Lamp:
 

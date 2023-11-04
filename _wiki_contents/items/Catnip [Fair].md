@@ -2,21 +2,23 @@
 
 A sweet plant with a delicious smell. Liked and valued by almost all cats.
 
-Can be sold: True
-
-Catnip amount: 1800
-
-Herbs resource value: 1
-
-Sell Price: 18 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Catnip [Fair]
+
 Sorting priority: 7400
 
-Item uid: Catnip [Fair]
+## item effects
+
+Catnip amount: 1800
+
+## economics
+
+Sell value: 18 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

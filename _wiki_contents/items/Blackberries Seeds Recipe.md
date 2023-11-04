@@ -2,17 +2,13 @@
 
 Grow blackberries in your garden with these seeds! Blackberries make for a lovely snack.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22001
-
 Item uid: Blackberries Seeds Recipe
+
+Sorting priority: 22001
 
 # shops selling Blackberry Seeds Recipe:
 

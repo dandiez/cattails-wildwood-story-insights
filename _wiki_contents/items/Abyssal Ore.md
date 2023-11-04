@@ -2,17 +2,17 @@
 
 A dark clump of jet-black ore.
 
-Can be sold: True
-
-Sell Price: 2 Mews
-
-Sell Price: 6 Mole Cash
+## main properties
 
 Rarity: Uncommon
 
+Item uid: Abyssal Ore
+
 Sorting priority: 12423
 
-Item uid: Abyssal Ore
+## economics
+
+Sell value: 2 Mews, 6 Mole Cash
 
 # Gift guide
 

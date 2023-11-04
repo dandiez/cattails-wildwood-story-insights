@@ -2,21 +2,23 @@
 
 A tall strand of light blue needles. Improves your swimming for a short time.
 
-Can be sold: True
-
-Herbs resource value: 1
-
-Sell Price: 3 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Rare
 
+Item uid: Thistle [Poor]
+
 Sorting priority: 6400
+
+## item effects
 
 Swim amount: 600
 
-Item uid: Thistle [Poor]
+## economics
+
+Sell value: 3 Mews, 0 Mole Cash
+
+Herbs resource value: 1
 
 # Map regions
 

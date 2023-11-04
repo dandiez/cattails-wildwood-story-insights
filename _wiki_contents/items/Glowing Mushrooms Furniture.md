@@ -2,17 +2,13 @@
 
 Harvested from deep underground, this cluster of strange mushrooms sheds a pale, green light on all its surroundings.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 9500
-
 Item uid: Glowing Mushrooms Furniture
+
+Sorting priority: 9500
 
 # shops selling Glowing Mushrooms:
 

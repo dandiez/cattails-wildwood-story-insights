@@ -2,19 +2,21 @@
 
 This fun item allows you to make confetti rain from the sky until the end of the day. Single-use.
 
-Can be sold: True
-
-Sell Price: 4 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Common
 
+Item uid: Confetti Bag
+
 Sorting priority: 98902
+
+## item effects
 
 Special effect: True
 
-Item uid: Confetti Bag
+## economics
+
+Sell value: 4 Mews, 0 Mole Cash
 
 # shops selling Confetti Bag:
 

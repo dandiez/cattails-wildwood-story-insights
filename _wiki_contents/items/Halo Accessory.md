@@ -2,17 +2,13 @@
 
 An angelic look for your cat.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 14500
-
 Item uid: Halo Accessory
+
+Sorting priority: 14500
 
 # shops selling Halo:
 

@@ -2,17 +2,13 @@
 
 Grow Queen of the Night flowers in your garden with these seeds! These beautiful flowers are delicate and beautiful to behold.
 
-Can be sold: False
-
-Sell Price: 0 Mews
-
-Sell Price: 0 Mole Cash
+## main properties
 
 Rarity: Legendary
 
-Sorting priority: 22013
-
 Item uid: Queen of the Night Seeds Recipe
+
+Sorting priority: 22013
 
 # shops selling Queen Seeds Recipe:
 
