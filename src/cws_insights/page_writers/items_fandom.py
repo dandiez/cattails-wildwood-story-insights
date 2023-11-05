@@ -297,14 +297,16 @@ def get_all_ws_items(
         for item_uid, i in item_merged.items()
     }
 
+def no_square_brackets(name: str)-> str:
+    return name.replace("[", "(").replace("]", ")")
 
 def write_all_ws_items(item_merged: AllWsItem, wiki_contents_dir: str):
-    os.makedirs(wiki_contents_dir, exist_ok=True)
+    os.makedirs(wiki_contents_dir, exist_ok=True) #TODO: wipe existing
     for item_uid, item in item_merged.items():
-        file = os.path.join(wiki_contents_dir, item_uid + ".mediawiki")
+        file = os.path.join(wiki_contents_dir, no_square_brackets(item_uid) + ".mediawiki")
         lines = list(item.yield_lines())
         text = "\n".join(lines)
-        with open(file, "w") as f:
+        with open(file, "w", newline="\n") as f:
             f.write(text)
         print(f"written {file}")
 
