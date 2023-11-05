@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Chromatic Bat
 |aka_name=
-|image1=Chromatic Bat.png
+|image1=ws_chromaticbat.png
 |description=A strange fluttering creature that shimmers every color imaginable. Unpredictable in a fight.
 |rarity=Rare
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

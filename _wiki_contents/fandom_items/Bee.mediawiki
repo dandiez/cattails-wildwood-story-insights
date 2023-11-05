@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bee
 |aka_name=
-|image1=Bee.png
+|image1=ws_bee.png
 |description=This tiny insect packs a punch! Mind the venomous stinger.
 |rarity=Uncommon
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

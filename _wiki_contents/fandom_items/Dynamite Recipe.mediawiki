@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Dynamite Recipe
 |aka_name=
-|image1=Dynamite Recipe.png
+|image1=ws_dynamiterecipe.png
 |description=Unlocks a new recipe for Dynamite at the Mole Forge anvil. Dynamite may be used to instantly destroy all nearby mine rocks. BOOM!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

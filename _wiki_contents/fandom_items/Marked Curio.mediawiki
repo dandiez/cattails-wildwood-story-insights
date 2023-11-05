@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Marked Curio
 |aka_name=
-|image1=Marked Curio.png
+|image1=ws_markedcurio.png
 |description=A scrap of some unknown document.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

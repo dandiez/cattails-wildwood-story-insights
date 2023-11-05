@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Crinkly Curio
 |aka_name=
-|image1=Crinkly Curio.png
+|image1=ws_crinklycurio.png
 |description=A torn-open wrapper for some long-forgotten object.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

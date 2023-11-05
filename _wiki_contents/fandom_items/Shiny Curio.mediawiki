@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Shiny Curio
 |aka_name=
-|image1=Shiny Curio.png
+|image1=ws_shinycurio.png
 |description=Some shiny material, roughly balled up.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

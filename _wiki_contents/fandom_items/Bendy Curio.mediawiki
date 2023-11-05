@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bendy Curio
 |aka_name=
-|image1=Bendy Curio.png
+|image1=ws_bendycurio.png
 |description=A lightweight hollow plastic tube, bent at one end.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

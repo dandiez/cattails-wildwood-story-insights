@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Peppermint Seeds Recipe
 |aka_name=
-|image1=Peppermint Seeds Recipe.png
+|image1=ws_peppermintseedsrecipe.png
 |description=Grow peppermint in your garden with these seeds! Peppermint's strong scent can mask a cat's natural odor.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Amethyst
 |aka_name=
-|image1=Amethyst.png
+|image1=ws_amethyst.png
 |description=Dazzling purple crystals shine from within this stone.
 |rarity=Uncommon
 |sell_value=3 {{WSMew}}, 7 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=3 {WSTasktoken}}
+|taskboard_shop=3 {{WSTasktoken}}
 |love_it=[[Charlotte]], [[Elli/Wildwood Story|Elli]], [[Jack]]
 |like_it=[[Aurora]], [[Champ]], [[Glimmer]], [[Jag/Wildwood Story|Jag]], [[Forest Guardian/Wildwood Story|Forest Guardian]]
 |dislike_it=[[Buttercup]], [[Garlic]], [[Krampy/Wildwood Story|Krampy]], [[Phantom]]

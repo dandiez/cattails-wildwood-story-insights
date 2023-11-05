@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Silver Crown Accessory
 |aka_name=Silver Crown
-|image1=Silver Crown Accessory.png
+|image1=ws_silvercrownaccessory.png
 |description=This elegant crown is made from sturdy metal.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

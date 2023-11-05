@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Autumn 1 Record
 |aka_name=Autumn 1
-|image1=Autumn 1 Record.png
+|image1=ws_autumn1record.png
 |description=A music disc that you can play at your den record player. This track is a soothing autumntime tune.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

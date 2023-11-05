@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bass
 |aka_name=
-|image1=Bass.png
+|image1=ws_bass.png
 |description=A dark green freshwater fish with a big mouth.
 |rarity=Uncommon
 |sell_value=14 {{WSMew}}, 0 {{WSMolecash}}

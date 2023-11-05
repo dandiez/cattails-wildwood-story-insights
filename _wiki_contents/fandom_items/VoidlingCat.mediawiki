@@ -1,7 +1,7 @@
 {{WSItem
 |title1=VoidlingCat
 |aka_name=Voidling Cat
-|image1=VoidlingCat.png
+|image1=ws_voidlingcat.png
 |description=An unfriendly shadow in the form of a cat.
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

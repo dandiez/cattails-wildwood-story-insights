@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Soft Curio
 |aka_name=
-|image1=Soft Curio.png
+|image1=ws_softcurio.png
 |description=A very soft round thing made of cotton.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

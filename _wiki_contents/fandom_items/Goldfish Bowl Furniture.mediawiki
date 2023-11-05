@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Goldfish Bowl Furniture
 |aka_name=Goldfish Bowl
-|image1=Goldfish Bowl Furniture.png
+|image1=ws_goldfishbowlfurniture.png
 |description=A lively goldfish resides in this spherical bowl. It looks quite appetizing.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=22 {WSTasktoken}}
+|taskboard_shop=22 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=

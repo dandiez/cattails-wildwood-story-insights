@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Honeycomb
 |aka_name=
-|image1=Honeycomb.png
+|image1=ws_honeycomb.png
 |description=A sugary treat taken from a hive of angry bees. The honey inside provides immunity from all negative status effects for a short time.
 |rarity=Rare
 |sell_value=22 {{WSMew}}, 0 {{WSMolecash}}

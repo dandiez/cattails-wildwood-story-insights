@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Bee Accessory
 |aka_name=Pet Bee
-|image1=Pet Bee Accessory.png
+|image1=ws_petbeeaccessory.png
 |description=A kind-hearted bee that will follow you around!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Autumn Festival Record
 |aka_name=Autumn Festival
-|image1=Autumn Festival Record.png
+|image1=ws_autumnfestivalrecord.png
 |description=A music disc that you can play at your den record player. This track is an autumntime party tune.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Wooden Curio
 |aka_name=
-|image1=Wooden Curio.png
+|image1=ws_woodencurio.png
 |description=A flat wood stick, stained slightly on one end.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Whorl
 |aka_name=
-|image1=Whorl.png
+|image1=ws_whorl.png
 |description=This hard shell has a spiral pattern.
 |rarity=Rare
 |sell_value=8 {{WSMew}}, 0 {{WSMolecash}}

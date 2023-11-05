@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Iron Ore
 |aka_name=
-|image1=Iron Ore.png
+|image1=ws_ironore.png
 |description=A chunk of stone with a visible streak of iron ore.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 2 {{WSMolecash}}

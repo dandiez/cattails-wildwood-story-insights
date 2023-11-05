@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Minnow
 |aka_name=
-|image1=Minnow.png
+|image1=ws_minnow.png
 |description=A very small schooling fish from a freshwater river or pond.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

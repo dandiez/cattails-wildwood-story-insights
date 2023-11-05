@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Headlamp Upgrade I
 |aka_name=
-|image1=Headlamp Upgrade I.png
+|image1=ws_headlampupgradei.png
 |description=Slightly strengthens the power of your Headlamp accessory, increasing the area of illumination. Requires Headlamp Accessory.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

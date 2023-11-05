@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Brown Hawker
 |aka_name=
-|image1=Brown Hawker.png
+|image1=ws_brownhawker.png
 |description=A lanky brown dragonfly with faint yellow stripes.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

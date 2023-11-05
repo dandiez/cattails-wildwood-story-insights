@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Yellow Firefly
 |aka_name=
-|image1=Yellow Firefly.png
+|image1=ws_yellowfirefly.png
 |description=A bright summer bug that sheds yellow light.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

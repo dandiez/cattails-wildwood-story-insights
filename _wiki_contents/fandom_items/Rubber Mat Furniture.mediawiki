@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Rubber Mat Furniture
 |aka_name=Rubber Mat
-|image1=Rubber Mat Furniture.png
+|image1=ws_rubbermatfurniture.png
 |description=A small dark mat made of thin rubber. Great for wiping mud off of your paws, but not much else.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

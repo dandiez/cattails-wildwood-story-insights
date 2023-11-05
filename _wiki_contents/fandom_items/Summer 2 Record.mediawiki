@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Summer 2 Record
 |aka_name=Summer 2
-|image1=Summer 2 Record.png
+|image1=ws_summer2record.png
 |description=A music disc that you can play at your den record player. This track is a pleasant summertime tune.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

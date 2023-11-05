@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Certificate Furniture
 |aka_name=Certificate
-|image1=Certificate Furniture.png
+|image1=ws_certificatefurniture.png
 |description=A certificate of excellence to hang on your wall. Awarded only to the most accomplished of cats.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=16 {WSTasktoken}}
+|taskboard_shop=16 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=

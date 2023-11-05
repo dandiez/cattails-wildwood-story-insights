@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Litter Box Furniture
 |aka_name=Litter Box
-|image1=Litter Box Furniture.png
+|image1=ws_litterboxfurniture.png
 |description=Not a very glamorous piece of decor, but practical nonetheless.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

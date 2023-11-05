@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Wren
 |aka_name=
-|image1=Wren.png
+|image1=ws_wren.png
 |description=A small brown bird.
 |rarity=Uncommon
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

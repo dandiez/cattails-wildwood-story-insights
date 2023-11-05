@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Blueberries [Poor]
 |aka_name=Blueberries
-|image1=Blueberries [Poor].png
+|image1=ws_blueberriespoor.png
 |description=A colorful cluster of small berries on a bright green stem.
 |rarity=Common
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

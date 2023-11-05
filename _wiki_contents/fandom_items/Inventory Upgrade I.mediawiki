@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Inventory Upgrade I
 |aka_name=Modest Pockets
-|image1=Inventory Upgrade I.png
+|image1=ws_inventoryupgradei.png
 |description=Items will now stack up to a maximum of 5 in each of your inventory slots.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

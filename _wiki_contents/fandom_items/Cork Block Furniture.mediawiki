@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Cork Block Furniture
 |aka_name=Cork Block
-|image1=Cork Block Furniture.png
+|image1=ws_corkblockfurniture.png
 |description=A rectangular block made of solid cork with rounded edges.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

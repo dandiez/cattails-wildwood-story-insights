@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Thistle [Good]
 |aka_name=Thistle
-|image1=Thistle [Good].png
+|image1=ws_thistlegood.png
 |description=A healthy strand of light blue needles. Improves your swimming for a short time.
 |rarity=Rare
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

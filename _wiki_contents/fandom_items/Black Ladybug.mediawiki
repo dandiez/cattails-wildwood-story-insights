@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Black Ladybug
 |aka_name=
-|image1=Black Ladybug.png
+|image1=ws_blackladybug.png
 |description=An odd little bug with gray spots.
 |rarity=Rare
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

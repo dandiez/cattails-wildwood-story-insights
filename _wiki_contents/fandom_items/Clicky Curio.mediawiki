@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Clicky Curio
 |aka_name=
-|image1=Clicky Curio.png
+|image1=ws_clickycurio.png
 |description=A strange electronic device.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

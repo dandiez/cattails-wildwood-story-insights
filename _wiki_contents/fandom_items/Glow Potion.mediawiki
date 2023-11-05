@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Glow Potion
 |aka_name=
-|image1=Glow Potion.png
+|image1=ws_glowpotion.png
 |description=This spooky item will make your fur shine a bright luminescent color for one minute. Single-use.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

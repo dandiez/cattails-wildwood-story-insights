@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pointy Curio
 |aka_name=
-|image1=Pointy Curio.png
+|image1=ws_pointycurio.png
 |description=A thin yellow stick with a pointed tip.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

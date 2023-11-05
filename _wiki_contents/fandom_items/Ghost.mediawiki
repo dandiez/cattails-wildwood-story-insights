@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Ghost
 |aka_name=
-|image1=Ghost.png
+|image1=ws_ghost.png
 |description=A lost spirit that remains in this world to haunt the living.
 |rarity=Rare
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

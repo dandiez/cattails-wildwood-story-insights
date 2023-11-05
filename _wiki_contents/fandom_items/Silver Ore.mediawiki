@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Silver Ore
 |aka_name=
-|image1=Silver Ore.png
+|image1=ws_silverore.png
 |description=A silver vein runs through this rock and makes it shine.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 3 {{WSMolecash}}

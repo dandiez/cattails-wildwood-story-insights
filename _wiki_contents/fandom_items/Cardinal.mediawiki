@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Cardinal
 |aka_name=
-|image1=Cardinal.png
+|image1=ws_cardinal.png
 |description=A legendary scarlet bird whose beautiful plumage is life-like, even in death.
 |rarity=Legendary
 |sell_value=48 {{WSMew}}, 0 {{WSMolecash}}

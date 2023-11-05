@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Green Firefly
 |aka_name=
-|image1=Green Firefly.png
+|image1=ws_greenfirefly.png
 |description=A glowing summer bug that shines bright green.
 |rarity=Rare
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

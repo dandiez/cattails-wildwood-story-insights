@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Shimmercrag
 |aka_name=
-|image1=Shimmercrag.png
+|image1=ws_shimmercrag.png
 |description=These sparkling jewels are hard to come by. A faint humming noise emanates from the center. What power is contained within?
 |rarity=Rare
 |sell_value=8 {{WSMew}}, 34 {{WSMolecash}}

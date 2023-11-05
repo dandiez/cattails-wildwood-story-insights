@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Valerian [Poor]
 |aka_name=Valerian
-|image1=Valerian [Poor].png
+|image1=ws_valerianpoor.png
 |description=A cluster of dull pink and white blooms. Increases your movement speed for a short while.
 |rarity=Common
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

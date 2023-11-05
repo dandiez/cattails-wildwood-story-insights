@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Battle Potion
 |aka_name=
-|image1=Battle Potion.png
+|image1=ws_battlepotion.png
 |description=A bubbling tincture with a strong smell that fills a cat with rage, greatly increasing their combat prowess for a short time.
 |rarity=Rare
 |sell_value=26 {{WSMew}}, 0 {{WSMolecash}}

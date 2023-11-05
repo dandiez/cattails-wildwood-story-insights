@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Crab Accessory
 |aka_name=Pet Crab
-|image1=Pet Crab Accessory.png
+|image1=ws_petcrabaccessory.png
 |description=A crabby little fellow that will follow you around!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=18 {WSTasktoken}}
+|taskboard_shop=18 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=

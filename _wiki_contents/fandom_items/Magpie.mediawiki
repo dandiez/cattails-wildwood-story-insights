@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Magpie
 |aka_name=
-|image1=Magpie.png
+|image1=ws_magpie.png
 |description=A smart little bird with patches of black and white.
 |rarity=Common
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

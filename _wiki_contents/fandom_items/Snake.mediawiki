@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Snake
 |aka_name=
-|image1=Snake.png
+|image1=ws_snake.png
 |description=A slithering green menace with a forked tongue.
 |rarity=Rare
 |sell_value=10 {{WSMew}}, 0 {{WSMolecash}}

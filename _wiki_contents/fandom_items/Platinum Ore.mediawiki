@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Platinum Ore
 |aka_name=
-|image1=Platinum Ore.png
+|image1=ws_platinumore.png
 |description=Unrefined platinum, a valuable mineral found only in certain caves.
 |rarity=Common
 |sell_value=2 {{WSMew}}, 5 {{WSMolecash}}

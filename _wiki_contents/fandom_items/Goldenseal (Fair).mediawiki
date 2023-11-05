@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Goldenseal [Fair]
 |aka_name=Goldenseal
-|image1=Goldenseal [Fair].png
+|image1=ws_goldensealfair.png
 |description=A green, leafy plant with a bright red berry. Can be applied to a wound for immediate relief.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=35 {{WSMew}}
 |molo_shop=
 |molu_shop=
-|taskboard_shop=3 {WSTasktoken}}
+|taskboard_shop=3 {{WSTasktoken}}
 |love_it=[[Coco/Wildwood Story|Coco]], [[Krampy/Wildwood Story|Krampy]], [[Rosemary]]
 |like_it=[[Alabaster]], [[Ember/Wildwood Story|Ember]], [[#kitten_three_name#]], [[Phantom]]
 |dislike_it=[[Basil]], [[Elli/Wildwood Story|Elli]], [[Glimmer]]

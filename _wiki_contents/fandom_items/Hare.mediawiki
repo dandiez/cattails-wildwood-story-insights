@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Hare
 |aka_name=
-|image1=Hare.png
+|image1=ws_hare.png
 |description=A large rabbit-like creature with long, dark-tipped ears.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

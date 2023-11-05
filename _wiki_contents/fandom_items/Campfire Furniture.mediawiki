@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Campfire Furniture
 |aka_name=Campfire
-|image1=Campfire Furniture.png
+|image1=ws_campfirefurniture.png
 |description=A bright pile of burning logs. Warm and cozy!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

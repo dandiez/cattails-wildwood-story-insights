@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Dynamite
 |aka_name=
-|image1=Dynamite.png
+|image1=ws_dynamite.png
 |description=Use this item to instantly destroy all nearby mine rocks! BOOM!
 |rarity=Rare
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

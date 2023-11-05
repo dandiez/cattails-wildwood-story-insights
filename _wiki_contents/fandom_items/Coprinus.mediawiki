@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Coprinus
 |aka_name=
-|image1=Coprinus.png
+|image1=ws_coprinus.png
 |description=A stalky fungus with a curative property. Treats poison.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

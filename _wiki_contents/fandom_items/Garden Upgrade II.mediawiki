@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Garden Upgrade II
 |aka_name=
-|image1=Garden Upgrade II.png
+|image1=ws_gardenupgradeii.png
 |description=Adds 3 additional tillable slots to your garden. Grow more plants at once with this garden expansion!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

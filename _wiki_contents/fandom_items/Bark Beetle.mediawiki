@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bark Beetle
 |aka_name=
-|image1=Bark Beetle.png
+|image1=ws_barkbeetle.png
 |description=A large beetle with dusty red elytra.
 |rarity=Rare
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

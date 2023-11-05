@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Gloomshard
 |aka_name=
-|image1=Gloomshard.png
+|image1=ws_gloomshard.png
 |description=A tiny fragment of a gemstone found only in the darkest of caves.
 |rarity=Common
 |sell_value=3 {{WSMew}}, 10 {{WSMolecash}}

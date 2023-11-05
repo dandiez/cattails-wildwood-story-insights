@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Painted Butterfly
 |aka_name=
-|image1=Painted Butterfly.png
+|image1=ws_paintedbutterfly.png
 |description=A winged insect with a vibrant red hue.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

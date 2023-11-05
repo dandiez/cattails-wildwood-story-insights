@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Supply Trove
 |aka_name=
-|image1=Supply Trove.png
+|image1=ws_supplytrove.png
 |description=Donate this item to increase each of your stockpiles' values by 2!
 |rarity=Legendary
 |sell_value=14 {{WSMew}}, 0 {{WSMolecash}}

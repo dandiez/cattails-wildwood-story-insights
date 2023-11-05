@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Brown Cave Cricket
 |aka_name=
-|image1=Brown Cave Cricket.png
+|image1=ws_browncavecricket.png
 |description=A small creature with bulging eyes and a crooked body. It likes to hide in dark places.
 |rarity=Common
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

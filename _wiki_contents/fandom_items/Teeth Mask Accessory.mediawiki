@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Teeth Mask Accessory
 |aka_name=Teeth Mask
-|image1=Teeth Mask Accessory.png
+|image1=ws_teethmaskaccessory.png
 |description=A tough-looking mask to set over your nose and mouth.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

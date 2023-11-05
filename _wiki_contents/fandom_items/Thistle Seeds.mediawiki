@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Thistle Seeds
 |aka_name=
-|image1=Thistle Seeds.png
+|image1=ws_thistleseeds.png
 |description=Small yellow seeds yielded from a thistle plant. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

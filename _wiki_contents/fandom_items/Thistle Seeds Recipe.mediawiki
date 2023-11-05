@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Thistle Seeds Recipe
 |aka_name=
-|image1=Thistle Seeds Recipe.png
+|image1=ws_thistleseedsrecipe.png
 |description=Grow thistle in your garden with these seeds! Thistle helps you swim better for a short time.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

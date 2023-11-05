@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Queen of the Night
 |aka_name=
-|image1=Queen of the Night.png
+|image1=ws_queenofthenight.png
 |description=A mysterious flower that only blooms at night.
 |rarity=Rare
 |sell_value=16 {{WSMew}}, 0 {{WSMolecash}}

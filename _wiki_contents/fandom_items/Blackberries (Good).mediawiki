@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Blackberries [Good]
 |aka_name=Blackberries
-|image1=Blackberries [Good].png
+|image1=ws_blackberriesgood.png
 |description=Dark berries that can placate the pickiest of palates.
 |rarity=Common
 |sell_value=6 {{WSMew}}, 0 {{WSMolecash}}

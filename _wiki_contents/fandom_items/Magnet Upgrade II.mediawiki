@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Magnet Upgrade II
 |aka_name=Greedy Paw Upgrade II
-|image1=Magnet Upgrade II.png
+|image1=ws_magnetupgradeii.png
 |description=Moderately strengthens your Greedy Paw accessory, increasing the range of its magnetic item-grabbing ability. Requires Greedy Paw accessory.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

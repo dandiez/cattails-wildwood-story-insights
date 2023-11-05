@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Horns Accessory
 |aka_name=Horns
-|image1=Horns Accessory.png
+|image1=ws_hornsaccessory.png
 |description=Mind the pointy ends!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

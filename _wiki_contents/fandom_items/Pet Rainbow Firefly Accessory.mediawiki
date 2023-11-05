@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Rainbow Firefly Accessory
 |aka_name=Pet Rainbow Firefly
-|image1=Pet Rainbow Firefly Accessory.png
+|image1=ws_petrainbowfireflyaccessory.png
 |description=A dazzling, mythical firefly that glows with every color of the rainbow. Legend has it that a Rainbow Firefly lit the first stars in the ancient days.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

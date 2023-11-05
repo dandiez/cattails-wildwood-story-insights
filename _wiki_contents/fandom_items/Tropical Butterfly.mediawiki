@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Tropical Butterfly
 |aka_name=
-|image1=Tropical Butterfly.png
+|image1=ws_tropicalbutterfly.png
 |description=A lightweight insect with diverse markings.
 |rarity=Rare
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

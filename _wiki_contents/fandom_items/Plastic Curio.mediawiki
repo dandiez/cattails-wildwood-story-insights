@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Plastic Curio
 |aka_name=
-|image1=Plastic Curio.png
+|image1=ws_plasticcurio.png
 |description=A ring of brightly-colored plastic with spiky bits on the inside.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

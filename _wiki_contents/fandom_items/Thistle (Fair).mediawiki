@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Thistle [Fair]
 |aka_name=Thistle
-|image1=Thistle [Fair].png
+|image1=ws_thistlefair.png
 |description=A bulbous strand of light blue needles. Improves your swimming for a short time.
 |rarity=Rare
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

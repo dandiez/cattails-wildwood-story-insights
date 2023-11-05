@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Confetti Bag
 |aka_name=
-|image1=Confetti Bag.png
+|image1=ws_confettibag.png
 |description=This fun item allows you to make confetti rain from the sky until the end of the day. Single-use.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

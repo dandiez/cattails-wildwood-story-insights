@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Marigold [Good]
 |aka_name=Marigold
-|image1=Marigold [Good].png
+|image1=ws_marigoldgood.png
 |description=A vibrant orange flower atop a sturdy stem. Treats poison and restores a small amount of health.
 |rarity=Uncommon
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

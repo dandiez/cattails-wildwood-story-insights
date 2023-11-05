@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Blue Ladybug
 |aka_name=
-|image1=Blue Ladybug.png
+|image1=ws_blueladybug.png
 |description=An impressive blue bug with black spots. Many cats believe they're mythical, but you managed to find one!
 |rarity=Legendary
 |sell_value=60 {{WSMew}}, 0 {{WSMolecash}}

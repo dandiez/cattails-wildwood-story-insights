@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bell Accessory
 |aka_name=Bell
-|image1=Bell Accessory.png
+|image1=ws_bellaccessory.png
 |description=A golden bell hanging on a narrow chain.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

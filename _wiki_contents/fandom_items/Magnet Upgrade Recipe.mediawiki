@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Magnet Upgrade Recipe
 |aka_name=Greedy Paw Upgrade
-|image1=Magnet Upgrade Recipe.png
+|image1=ws_magnetupgraderecipe.png
 |description=Strengthens your Greedy Paw accessory, increasing the range of its magnetic item-grabbing ability.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

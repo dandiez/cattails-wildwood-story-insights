@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Beaky Accessory
 |aka_name=Beaky
-|image1=Beaky Accessory.png
+|image1=ws_beakyaccessory.png
 |description=An odd mask made of a weathered material with a slender beak-like nose. Some believe it can protect the wearer from foul miasmas.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

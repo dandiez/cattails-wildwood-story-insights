@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Summer Sweater Accessory
 |aka_name=Summer Sweater
-|image1=Summer Sweater Accessory.png
+|image1=ws_summersweateraccessory.png
 |description=A bright sweater with an image of the sun emblazoned upon the back.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

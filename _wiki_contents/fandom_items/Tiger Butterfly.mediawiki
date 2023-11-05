@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Tiger Butterfly
 |aka_name=
-|image1=Tiger Butterfly.png
+|image1=ws_tigerbutterfly.png
 |description=A flying insect with black stripes on its yellow wings.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Darkcandle
 |aka_name=
-|image1=Darkcandle.png
+|image1=ws_darkcandle.png
 |description=These sickly flies burn with a pale, cold fire. Found in the mines.
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

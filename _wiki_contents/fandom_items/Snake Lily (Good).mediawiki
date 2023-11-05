@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Snake Lily [Good]
 |aka_name=Snake Lily
-|image1=Snake Lily [Good].png
+|image1=ws_snakelilygood.png
 |description=A virulent purple bloom. Applies a poison effect to your attacks.
 |rarity=Uncommon
 |sell_value=9 {{WSMew}}, 0 {{WSMolecash}}

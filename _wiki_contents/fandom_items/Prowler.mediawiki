@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Prowler
 |aka_name=
-|image1=Prowler.png
+|image1=ws_prowler.png
 |description=A creepy-crawler with a nasty bite. Often encountered in swarms.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pitlode
 |aka_name=
-|image1=Pitlode.png
+|image1=ws_pitlode.png
 |description=A small precious stone with a curious dark pattern.
 |rarity=Uncommon
 |sell_value=4 {{WSMew}}, 15 {{WSMolecash}}

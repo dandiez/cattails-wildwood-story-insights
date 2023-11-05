@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Underground Industry Record
 |aka_name=Underground Industry
-|image1=Underground Industry Record.png
+|image1=ws_undergroundindustryrecord.png
 |description=A music disc that you can play at your den record player. This track is a mining tune favored by moles everywhere.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

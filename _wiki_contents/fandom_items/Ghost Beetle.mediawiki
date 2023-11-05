@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Ghost Beetle
 |aka_name=
-|image1=Ghost Beetle.png
+|image1=ws_ghostbeetle.png
 |description=It's difficult to spot these elusive critters in the snow!
 |rarity=Legendary
 |sell_value=60 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bismuth
 |aka_name=
-|image1=Bismuth.png
+|image1=ws_bismuth.png
 |description=A curious stone with many sharp angles and a multicolored hue.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 8 {{WSMolecash}}

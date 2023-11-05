@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Goldenseal Seeds
 |aka_name=
-|image1=Goldenseal Seeds.png
+|image1=ws_goldensealseeds.png
 |description=Tiny black seeds yielded from a goldenseal plant. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

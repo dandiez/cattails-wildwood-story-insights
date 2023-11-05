@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bat
 |aka_name=
-|image1=Bat.png
+|image1=ws_bat.png
 |description=A curious flying critter with large webbed wings.
 |rarity=Rare
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

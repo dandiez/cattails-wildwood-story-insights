@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Yellow Ladybug
 |aka_name=
-|image1=Yellow Ladybug.png
+|image1=ws_yellowladybug.png
 |description=A striking little bug with black spots.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

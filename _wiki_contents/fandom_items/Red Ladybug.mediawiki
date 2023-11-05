@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Red Ladybug
 |aka_name=
-|image1=Red Ladybug.png
+|image1=ws_redladybug.png
 |description=A pretty little bug with black spots.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Ruby
 |aka_name=
-|image1=Ruby.png
+|image1=ws_ruby.png
 |description=A flawless red gemstone.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 30 {{WSMolecash}}

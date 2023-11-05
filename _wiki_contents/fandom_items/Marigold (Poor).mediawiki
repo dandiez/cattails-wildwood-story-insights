@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Marigold [Poor]
 |aka_name=Marigold
-|image1=Marigold [Poor].png
+|image1=ws_marigoldpoor.png
 |description=A vibrant orange flower atop a withered stem. Treats poison instantly.
 |rarity=Uncommon
 |sell_value=3 {{WSMew}}, 0 {{WSMolecash}}

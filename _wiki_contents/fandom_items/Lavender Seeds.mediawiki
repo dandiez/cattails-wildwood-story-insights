@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Lavender Seeds
 |aka_name=
-|image1=Lavender Seeds.png
+|image1=ws_lavenderseeds.png
 |description=Little purple seeds yielded from a lavender plant. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

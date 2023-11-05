@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Formal Curio
 |aka_name=
-|image1=Formal Curio.png
+|image1=ws_formalcurio.png
 |description=This looks like it was important to someone once upon a time.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

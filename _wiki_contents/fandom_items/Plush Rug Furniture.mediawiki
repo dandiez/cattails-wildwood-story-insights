@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Plush Rug Furniture
 |aka_name=Plush Rug
-|image1=Plush Rug Furniture.png
+|image1=ws_plushrugfurniture.png
 |description=A small floor rug composed of thick pink fibers that feel very soft on the paws.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

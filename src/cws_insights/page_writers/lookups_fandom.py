@@ -31,7 +31,7 @@ class Units:
 UNITS_FANDOM = Units(
     mews="{{WSMew}}",
     mole_cash="{{WSMolecash}}",
-    task_token="{WSTasktoken}}",
+    task_token="{{WSTasktoken}}",
     festival_token="{{WSFesttoken}}",
     prey="{{Stpile|Prey}}",
     herb="{{Stpile|Herb}}",

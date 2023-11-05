@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Jingly Curio
 |aka_name=
-|image1=Jingly Curio.png
+|image1=ws_jinglycurio.png
 |description=Tiny metal coins, worthless to cats except as a curiosity.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

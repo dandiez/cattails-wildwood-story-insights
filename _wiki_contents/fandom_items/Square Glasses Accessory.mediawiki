@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Square Glasses Accessory
 |aka_name=Square Glasses
-|image1=Square Glasses Accessory.png
+|image1=ws_squareglassesaccessory.png
 |description=Large rectangular frames to wear on your face.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=3 {WSTasktoken}}
+|taskboard_shop=3 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=

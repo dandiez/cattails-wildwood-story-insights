@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Captain Hat Accessory
 |aka_name=Captain Hat
-|image1=Captain Hat Accessory.png
+|image1=ws_captainhataccessory.png
 |description=This fearsome cap once belonged to the most dangerous pirate in all the Seven Seas.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

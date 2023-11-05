@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Colorful Gravel Furniture
 |aka_name=Colorful Gravel
-|image1=Colorful Gravel Furniture.png
+|image1=ws_colorfulgravelfurniture.png
 |description=A layer of tiny multi-colored stones that look like they belong in an aquarium.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Foxglove [Good]
 |aka_name=Foxglove
-|image1=Foxglove [Good].png
+|image1=ws_foxglovegood.png
 |description=A fatal flower. Apply to your claws to temporarily increase the damage of all attacks.
 |rarity=Legendary
 |sell_value=15 {{WSMew}}, 0 {{WSMolecash}}

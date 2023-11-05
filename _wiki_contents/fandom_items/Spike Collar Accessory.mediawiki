@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Spike Collar Accessory
 |aka_name=Spike Collar
-|image1=Spike Collar Accessory.png
+|image1=ws_spikecollaraccessory.png
 |description=If intimidation is the goal, this collar has your back. Are those spikes made of metal, or teeth..?
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Lunar Butterfly
 |aka_name=
-|image1=Lunar Butterfly.png
+|image1=ws_lunarbutterfly.png
 |description=This fabled insect has translucent skin and emits a curious pale light.
 |rarity=Legendary
 |sell_value=60 {{WSMew}}, 0 {{WSMolecash}}

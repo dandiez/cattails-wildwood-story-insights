@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Banded Darter
 |aka_name=
-|image1=Banded Darter.png
+|image1=ws_bandeddarter.png
 |description=A slim, jewel-colored dragonfly. Named for the dark lines on its wings.
 |rarity=Rare
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Carved Pumpkin Furniture
 |aka_name=Carved Pumpkin
-|image1=Carved Pumpkin Furniture.png
+|image1=ws_carvedpumpkinfurniture.png
 |description=A pumpkin, hollowed out and carved with the image of a wicked grin. A candle flickers inside.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

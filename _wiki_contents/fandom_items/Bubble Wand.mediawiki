@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bubble Wand
 |aka_name=
-|image1=Bubble Wand.png
+|image1=ws_bubblewand.png
 |description=Use this playful item to blow some fun soap bubbles. Single-use.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

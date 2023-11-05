@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Adder
 |aka_name=
-|image1=Adder.png
+|image1=ws_adder.png
 |description=A venomous creature with dark markings.
 |rarity=Rare
 |sell_value=20 {{WSMew}}, 0 {{WSMolecash}}

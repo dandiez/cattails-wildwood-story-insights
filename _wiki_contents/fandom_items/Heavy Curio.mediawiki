@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Heavy Curio
 |aka_name=
-|image1=Heavy Curio.png
+|image1=ws_heavycurio.png
 |description=A heavy metal ring attached to even heavier metal objects.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Shiny Trinket
 |aka_name=
-|image1=Shiny Trinket.png
+|image1=ws_shinytrinket.png
 |description=A dazzling trinket of human-make. Use this item to propose to the cat that's stolen your heart!
 |rarity=Legendary
 |sell_value=50 {{WSMew}}, 0 {{WSMolecash}}

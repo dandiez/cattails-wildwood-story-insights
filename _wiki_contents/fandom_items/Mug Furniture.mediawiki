@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Mug Furniture
 |aka_name=Mug
-|image1=Mug Furniture.png
+|image1=ws_mugfurniture.png
 |description=A ceramic mug made for human hands. Wouldn't it be fun to push it off a table?
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

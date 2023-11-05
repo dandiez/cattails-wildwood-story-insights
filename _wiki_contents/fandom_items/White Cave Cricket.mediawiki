@@ -1,7 +1,7 @@
 {{WSItem
 |title1=White Cave Cricket
 |aka_name=
-|image1=White Cave Cricket.png
+|image1=ws_whitecavecricket.png
 |description=A small creature with dark eyes and a translucent body. They often congregate under rocks.
 |rarity=Uncommon
 |sell_value=3 {{WSMew}}, 0 {{WSMolecash}}

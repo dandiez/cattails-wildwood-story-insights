@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Treasure Hoard Bed Furniture
 |aka_name=Treasure Hoard Bed
-|image1=Treasure Hoard Bed Furniture.png
+|image1=ws_treasurehoardbedfurniture.png
 |description=Guard your wealth from prying paws by sleeping atop it like a slumbering dragon! A generous pile of coins and precious gemstones.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

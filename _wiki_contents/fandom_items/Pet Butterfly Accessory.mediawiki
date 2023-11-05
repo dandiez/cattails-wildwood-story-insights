@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Butterfly Accessory
 |aka_name=Pet Butterfly
-|image1=Pet Butterfly Accessory.png
+|image1=ws_petbutterflyaccessory.png
 |description=A colorful butterfly that will follow you around!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

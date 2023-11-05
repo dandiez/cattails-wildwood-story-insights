@@ -1,7 +1,7 @@
 {{WSItem
 |title1=White Firefly
 |aka_name=
-|image1=White Firefly.png
+|image1=ws_whitefirefly.png
 |description=A luminescent summer bug that emits white light.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

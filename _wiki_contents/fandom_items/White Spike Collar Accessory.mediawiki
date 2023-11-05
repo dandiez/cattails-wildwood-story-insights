@@ -1,7 +1,7 @@
 {{WSItem
 |title1=White Spike Collar Accessory
 |aka_name=White Spike Collar
-|image1=White Spike Collar Accessory.png
+|image1=ws_whitespikecollaraccessory.png
 |description=A white band of leather studded with small black spikes. They look pointy!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

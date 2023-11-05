@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Rat
 |aka_name=
-|image1=Rat.png
+|image1=ws_rat.png
 |description=A scrappy rodent that won't go down without a fight.
 |rarity=Rare
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

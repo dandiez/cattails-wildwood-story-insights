@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Boulder Gems Furniture
 |aka_name=Boulder (Gems)
-|image1=Boulder Gems Furniture.png
+|image1=ws_bouldergemsfurniture.png
 |description=A huge rock with visible crystals forming on the surface. What gems might hide within?
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

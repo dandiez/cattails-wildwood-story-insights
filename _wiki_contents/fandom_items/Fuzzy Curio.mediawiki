@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Fuzzy Curio
 |aka_name=
-|image1=Fuzzy Curio.png
+|image1=ws_fuzzycurio.png
 |description=A tiny down feather. It tickles!
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

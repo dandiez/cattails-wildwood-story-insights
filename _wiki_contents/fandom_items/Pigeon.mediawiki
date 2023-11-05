@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pigeon
 |aka_name=
-|image1=Pigeon.png
+|image1=ws_pigeon.png
 |description=A medium-sized bird with blue-tinted feathers.
 |rarity=Uncommon
 |sell_value=9 {{WSMew}}, 0 {{WSMolecash}}

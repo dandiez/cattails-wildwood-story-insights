@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Sapphire
 |aka_name=
-|image1=Sapphire.png
+|image1=ws_sapphire.png
 |description=A sparkling blue gemstone as vibrant and deep as a clear summer sky.
 |rarity=Uncommon
 |sell_value=3 {{WSMew}}, 8 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Drying Plants Bundle
 |aka_name=
-|image1=Drying Plants Bundle.png
+|image1=ws_dryingplantsbundle.png
 |description=Plants strung up to dry, ready to decorate your den walls.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

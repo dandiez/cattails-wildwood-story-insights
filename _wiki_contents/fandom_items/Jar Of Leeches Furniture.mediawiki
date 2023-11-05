@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Jar Of Leeches Furniture
 |aka_name=Jar of Leeches
-|image1=Jar Of Leeches Furniture.png
+|image1=ws_jarofleechesfurniture.png
 |description=A glass jar filled with writhing leeches. Who would keep something like this in their home?
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

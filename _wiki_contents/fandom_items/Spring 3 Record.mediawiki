@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Spring 3 Record
 |aka_name=Spring 3
-|image1=Spring 3 Record.png
+|image1=ws_spring3record.png
 |description=A music disc that you can play at your den record player. This track is an energetic springtime tune.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

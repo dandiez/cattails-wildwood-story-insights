@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Spider Accessory
 |aka_name=Pet Spider
-|image1=Pet Spider Accessory.png
+|image1=ws_petspideraccessory.png
 |description=A terrifying purple spider that will follow you around!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

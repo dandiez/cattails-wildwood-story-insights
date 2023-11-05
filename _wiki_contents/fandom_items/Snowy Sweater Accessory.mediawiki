@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Snowy Sweater Accessory
 |aka_name=Snowy Sweater
-|image1=Snowy Sweater Accessory.png
+|image1=ws_snowysweateraccessory.png
 |description=A warm woolly sweater with a snowflake pattern.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

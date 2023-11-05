@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Power Paw Yellow
 |aka_name=Power Paw (Yellow)
-|image1=Power Paw Yellow.png
+|image1=ws_powerpawyellow.png
 |description=An ancient token made from a shining yellow metal. According to legend, it can make you faster.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=12 {WSTasktoken}}
+|taskboard_shop=12 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=

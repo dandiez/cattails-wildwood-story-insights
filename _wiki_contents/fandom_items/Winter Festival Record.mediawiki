@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Winter Festival Record
 |aka_name=Winter Festival
-|image1=Winter Festival Record.png
+|image1=ws_winterfestivalrecord.png
 |description=A music disc that you can play at your den record player. This track is a wintertime party tune.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

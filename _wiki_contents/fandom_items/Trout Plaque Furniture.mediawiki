@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Trout Plaque Furniture
 |aka_name=Trout Plaque
-|image1=Trout Plaque Furniture.png
+|image1=ws_troutplaquefurniture.png
 |description=Show off your fishing prowess with this wall-mounted trophy of a trout on a wooden backboard!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

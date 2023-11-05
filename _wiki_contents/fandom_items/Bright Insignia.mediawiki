@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bright Insignia
 |aka_name=
-|image1=Bright Insignia.png
+|image1=ws_brightinsignia.png
 |description=A symbol of great authority. Use to immediately gain 100% influence in your current region. Consumed on use.
 |rarity=Legendary
 |sell_value=25 {{WSMew}}, 0 {{WSMolecash}}

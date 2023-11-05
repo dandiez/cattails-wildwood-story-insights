@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Festive Curio
 |aka_name=
-|image1=Festive Curio.png
+|image1=ws_festivecurio.png
 |description=What could its function possibly be?
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

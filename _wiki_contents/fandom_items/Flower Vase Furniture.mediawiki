@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Flower Vase Furniture
 |aka_name=Flower Vase
-|image1=Flower Vase Furniture.png
+|image1=ws_flowervasefurniture.png
 |description=A decorative clay pot holding a colorful collection of spring flowers.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

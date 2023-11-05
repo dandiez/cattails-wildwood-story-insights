@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Licorice Seeds
 |aka_name=
-|image1=Licorice Seeds.png
+|image1=ws_licoriceseeds.png
 |description=Small yellow-striped seeds yielded from a licorice plant. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Ermine Moth
 |aka_name=
-|image1=Ermine Moth.png
+|image1=ws_erminemoth.png
 |description=A wooly winged wonder with tiny dark spots.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

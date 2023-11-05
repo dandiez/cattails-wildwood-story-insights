@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Rosy Moth
 |aka_name=
-|image1=Rosy Moth.png
+|image1=ws_rosymoth.png
 |description=A pleasant pastel prize with a velvety abdomen.
 |rarity=Legendary
 |sell_value=60 {{WSMew}}, 0 {{WSMolecash}}

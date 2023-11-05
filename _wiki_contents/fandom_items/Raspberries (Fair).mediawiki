@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Raspberries [Fair]
 |aka_name=Raspberries
-|image1=Raspberries [Fair].png
+|image1=ws_raspberriesfair.png
 |description=Appealing red berries that pop with a splash of sweet flavor.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=2 {WSTasktoken}}
+|taskboard_shop=2 {{WSTasktoken}}
 |love_it=[[Falcon]], [[Lux]]
 |like_it=[[Buttercup]], [[Elli/Wildwood Story|Elli]], [[Fliss]]
 |dislike_it=

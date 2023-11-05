@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Abyssal Ore
 |aka_name=
-|image1=Abyssal Ore.png
+|image1=ws_abyssalore.png
 |description=A dark clump of jet-black ore.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 6 {{WSMolecash}}

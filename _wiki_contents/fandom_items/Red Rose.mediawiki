@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Red Rose
 |aka_name=
-|image1=Red Rose.png
+|image1=ws_redrose.png
 |description=A gorgeous red flower that symbolizes true love. Give to a cat to let them know you've fallen for them!
 |rarity=Legendary
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

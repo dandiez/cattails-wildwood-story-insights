@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Catnip [Fair]
 |aka_name=Catnip
-|image1=Catnip [Fair].png
+|image1=ws_catnipfair.png
 |description=A sweet plant with a delicious smell. Liked and valued by almost all cats.
 |rarity=Rare
 |sell_value=18 {{WSMew}}, 0 {{WSMolecash}}

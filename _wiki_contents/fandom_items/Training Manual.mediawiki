@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Training Manual
 |aka_name=
-|image1=Training Manual.png
+|image1=ws_trainingmanual.png
 |description=Lots of helpful information for those who seek adventure! Use this item while a Buddy is following you to instantly increase their Buddy XP.
 |rarity=Uncommon
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

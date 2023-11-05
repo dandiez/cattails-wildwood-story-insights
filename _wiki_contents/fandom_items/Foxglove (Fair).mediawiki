@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Foxglove [Fair]
 |aka_name=Foxglove
-|image1=Foxglove [Fair].png
+|image1=ws_foxglovefair.png
 |description=A deadly flower. Apply to your claws to temporarily increase the damage of all attacks.
 |rarity=Legendary
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=6 {WSTasktoken}}
+|taskboard_shop=6 {{WSTasktoken}}
 |love_it=[[Alabaster]], [[Champ]], [[Glimmer]], [[Jag/Wildwood Story|Jag]], [[#kitten_one_name#]], [[Talon]], [[Forest Guardian/Wildwood Story|Forest Guardian]], [[Wildwood Champion]], [[Zephyr]]
 |like_it=[[Beau]], [[Garlic]]
 |dislike_it=[[Bob]], [[Bubby]], [[Coco/Wildwood Story|Coco]]

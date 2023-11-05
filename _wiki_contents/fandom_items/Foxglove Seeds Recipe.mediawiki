@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Foxglove Seeds Recipe
 |aka_name=
-|image1=Foxglove Seeds Recipe.png
+|image1=ws_foxgloveseedsrecipe.png
 |description=Grow foxglove in your garden with these seeds! This invigorating plant will increase your strength for a short time.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

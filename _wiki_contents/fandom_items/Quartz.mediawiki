@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Quartz
 |aka_name=
-|image1=Quartz.png
+|image1=ws_quartz.png
 |description=A formation of light-pink translucent crystals.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 5 {{WSMolecash}}

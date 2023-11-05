@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Finch
 |aka_name=
-|image1=Finch.png
+|image1=ws_finch.png
 |description=A savory songbird.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

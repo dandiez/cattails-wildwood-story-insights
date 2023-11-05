@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Top Hat Accessory
 |aka_name=Top Hat
-|image1=Top Hat Accessory.png
+|image1=ws_tophataccessory.png
 |description=A dashing black hat with a round brim. Formal and elegant!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Valerian [Fair]
 |aka_name=Valerian
-|image1=Valerian [Fair].png
+|image1=ws_valerianfair.png
 |description=A cluster of cheery pink and white blooms. Increases your movement speed for a short while.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

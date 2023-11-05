@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Woven Rug Furniture
 |aka_name=Woven Rug
-|image1=Woven Rug Furniture.png
+|image1=ws_wovenrugfurniture.png
 |description=Some cat spent a lot of time carefully weaving the thick material used to create this small rug!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

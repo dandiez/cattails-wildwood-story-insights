@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Morel
 |aka_name=
-|image1=Morel.png
+|image1=ws_morel.png
 |description=A wrinkly mushroom with greater healing properties.
 |rarity=Uncommon
 |sell_value=10 {{WSMew}}, 0 {{WSMolecash}}

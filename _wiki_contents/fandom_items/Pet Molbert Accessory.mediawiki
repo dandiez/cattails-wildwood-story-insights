@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Molbert Accessory
 |aka_name=Pet Molbert
-|image1=Pet Molbert Accessory.png
+|image1=ws_petmolbertaccessory.png
 |description=A cantankerous little mole with an excellent nose. Is that Diamonds I smell..?
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

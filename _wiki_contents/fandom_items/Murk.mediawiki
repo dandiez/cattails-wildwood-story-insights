@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Murk
 |aka_name=
-|image1=Murk.png
+|image1=ws_murk.png
 |description=A dark creature that takes the form of a giant, shadowy mole. Found in the mines. It does not like intruders.
 |rarity=Uncommon
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

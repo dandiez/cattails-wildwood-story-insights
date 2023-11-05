@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pike
 |aka_name=
-|image1=Pike.png
+|image1=ws_pike.png
 |description=A huge light yellow fish. Found in freshwater environments.
 |rarity=Rare
 |sell_value=16 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=6 {WSTasktoken}}
+|taskboard_shop=6 {{WSTasktoken}}
 |love_it=[[Alabaster]], [[Basil]], [[Bob]], [[Bubby]], [[Champ]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[#kitten_three_name#]], [[Rosemary]], [[Umbra]]
 |like_it=[[Falcon]], [[Fliss]], [[Glimmer]], [[#kitten_one_name#]], [[Lainey]], [[Wildwood Champion]]
 |dislike_it=[[#kitten_two_name#]], [[Talon]]

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pickaxe Furniture
 |aka_name=Pickaxe
-|image1=Pickaxe Furniture.png
+|image1=ws_pickaxefurniture.png
 |description=A heavy digging implement to proudly display on your wall. It looks shiny and new!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

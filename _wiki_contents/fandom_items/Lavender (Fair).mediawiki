@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Lavender [Fair]
 |aka_name=Lavender
-|image1=Lavender [Fair].png
+|image1=ws_lavenderfair.png
 |description=A fragrant bunch of purple flowers. Use to gain a small amount of influence in a region.
 |rarity=Uncommon
 |sell_value=6 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Power Paw Blue
 |aka_name=Power Paw (Blue)
-|image1=Power Paw Blue.png
+|image1=ws_powerpawblue.png
 |description=An ancient token made from a shining blue metal. According to legend, it can make you more resilient to hunger.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

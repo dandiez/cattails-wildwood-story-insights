@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Portobello
 |aka_name=
-|image1=Portobello.png
+|image1=ws_portobello.png
 |description=A wholesome brown mushroom. Makes for a filling snack.
 |rarity=Uncommon
 |sell_value=10 {{WSMew}}, 0 {{WSMolecash}}

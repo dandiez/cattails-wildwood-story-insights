@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Carp
 |aka_name=
-|image1=Carp.png
+|image1=ws_carp.png
 |description=A dark freshwater fish with a prominent dorsal fin.
 |rarity=Common
 |sell_value=9 {{WSMew}}, 0 {{WSMolecash}}

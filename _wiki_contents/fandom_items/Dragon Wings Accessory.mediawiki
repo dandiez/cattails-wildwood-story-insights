@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Dragon Wings Accessory
 |aka_name=Dragon Wings
-|image1=Dragon Wings Accessory.png
+|image1=ws_dragonwingsaccessory.png
 |description=Verily, thy back shall look gallant with this dreadful raiment!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

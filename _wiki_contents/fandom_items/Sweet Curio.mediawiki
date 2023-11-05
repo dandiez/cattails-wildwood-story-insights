@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Sweet Curio
 |aka_name=
-|image1=Sweet Curio.png
+|image1=ws_sweetcurio.png
 |description=You aren't sure how to remove the lid, but it sure does smell sweet.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

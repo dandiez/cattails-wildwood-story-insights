@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Stone Dais Furniture
 |aka_name=Stone Dais
-|image1=Stone Dais Furniture.png
+|image1=ws_stonedaisfurniture.png
 |description=A low platform made of dusty yellowed stones.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

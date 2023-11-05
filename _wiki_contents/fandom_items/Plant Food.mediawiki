@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Plant Food
 |aka_name=
-|image1=Plant Food.png
+|image1=ws_plantfood.png
 |description=Ideal nourishment for a growing plant. Apply daily to every plant in your garden and you will grow high-quality herbs! Consumed on use.
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

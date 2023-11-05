@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Ceremonial Crown Accessory
 |aka_name=Ceremonial Crown
-|image1=Ceremonial Crown Accessory.png
+|image1=ws_ceremonialcrownaccessory.png
 |description=The type of crown that would be used during a coronation. How did it end up here?
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

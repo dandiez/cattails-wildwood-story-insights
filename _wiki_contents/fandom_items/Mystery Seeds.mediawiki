@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Mystery Seeds
 |aka_name=
-|image1=Mystery Seeds.png
+|image1=ws_mysteryseeds.png
 |description=An assortment of various seeds that you cannot identify. Sow these in the garden and see what grows!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

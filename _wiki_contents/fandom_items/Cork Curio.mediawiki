@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Cork Curio
 |aka_name=
-|image1=Cork Curio.png
+|image1=ws_corkcurio.png
 |description=A tiny cylinder of dense cork.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

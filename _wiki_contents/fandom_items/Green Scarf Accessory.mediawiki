@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Green Scarf Accessory
 |aka_name=Green Scarf
-|image1=Green Scarf Accessory.png
+|image1=ws_greenscarfaccessory.png
 |description=Now you can be cozy and stylish at the same time!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

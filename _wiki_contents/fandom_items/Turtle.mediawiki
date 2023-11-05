@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Turtle
 |aka_name=
-|image1=Turtle.png
+|image1=ws_turtle.png
 |description=A painted turtle with a hard shell.
 |rarity=Legendary
 |sell_value=40 {{WSMew}}, 0 {{WSMolecash}}

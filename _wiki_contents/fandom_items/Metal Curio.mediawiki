@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Metal Curio
 |aka_name=
-|image1=Metal Curio.png
+|image1=ws_metalcurio.png
 |description=A long, twisting piece of thin aluminum.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

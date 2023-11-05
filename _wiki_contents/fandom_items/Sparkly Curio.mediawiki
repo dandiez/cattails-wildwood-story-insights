@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Sparkly Curio
 |aka_name=
-|image1=Sparkly Curio.png
+|image1=ws_sparklycurio.png
 |description=A complex knot tied out of a sparkling ribbon.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

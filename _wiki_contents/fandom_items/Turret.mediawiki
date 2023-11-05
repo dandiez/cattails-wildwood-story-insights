@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Turret
 |aka_name=
-|image1=Turret.png
+|image1=ws_turret.png
 |description=A tall, pointy shell that once housed a tiny snail.
 |rarity=Uncommon
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

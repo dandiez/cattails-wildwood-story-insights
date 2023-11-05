@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Lavender [Poor]
 |aka_name=Lavender
-|image1=Lavender [Poor].png
+|image1=ws_lavenderpoor.png
 |description=A pleasant bunch of purple flowers. Use to gain a small amount of influence in a region.
 |rarity=Uncommon
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

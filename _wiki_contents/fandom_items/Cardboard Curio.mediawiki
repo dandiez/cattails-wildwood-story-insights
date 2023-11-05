@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Cardboard Curio
 |aka_name=
-|image1=Cardboard Curio.png
+|image1=ws_cardboardcurio.png
 |description=It rolls with ease when pushed!
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Licorice [Fair]
 |aka_name=Licorice
-|image1=Licorice [Fair].png
+|image1=ws_licoricefair.png
 |description=The roots of this plant may be chewed on for a quick bite.
 |rarity=Common
 |sell_value=3 {{WSMew}}, 0 {{WSMolecash}}

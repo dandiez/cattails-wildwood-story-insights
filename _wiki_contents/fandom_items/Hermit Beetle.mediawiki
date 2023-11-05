@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Hermit Beetle
 |aka_name=
-|image1=Hermit Beetle.png
+|image1=ws_hermitbeetle.png
 |description=A large beetle with a pale blue shell.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Vial of Spring Showers
 |aka_name=
-|image1=Vial of Spring Showers.png
+|image1=ws_vialofspringshowers.png
 |description=Use this at any time to summon a light spring rain shower until the end of the day. Single-use.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

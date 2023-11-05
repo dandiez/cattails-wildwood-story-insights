@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Scallop
 |aka_name=
-|image1=Scallop.png
+|image1=ws_scallop.png
 |description=A small seashell with a pink hue. Smooth to the touch.
 |rarity=Common
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

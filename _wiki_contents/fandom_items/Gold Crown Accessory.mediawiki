@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Gold Crown Accessory
 |aka_name=Gold Crown
-|image1=Gold Crown Accessory.png
+|image1=ws_goldcrownaccessory.png
 |description=Look regal while you're out and about!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=24 {WSTasktoken}}
+|taskboard_shop=24 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=

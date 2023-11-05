@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Foxglove [Poor]
 |aka_name=Foxglove
-|image1=Foxglove [Poor].png
+|image1=ws_foxglovepoor.png
 |description=A dangerous flower. Apply to your claws to temporarily increase the damage of all attacks.
 |rarity=Legendary
 |sell_value=8 {{WSMew}}, 0 {{WSMolecash}}

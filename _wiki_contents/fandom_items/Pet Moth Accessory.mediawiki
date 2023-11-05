@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Moth Accessory
 |aka_name=Pet Moth
-|image1=Pet Moth Accessory.png
+|image1=ws_petmothaccessory.png
 |description=A flittering brown moth that will follow you around!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

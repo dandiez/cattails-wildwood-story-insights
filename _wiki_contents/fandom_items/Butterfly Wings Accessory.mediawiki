@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Butterfly Wings Accessory
 |aka_name=Butterfly Wings
-|image1=Butterfly Wings Accessory.png
+|image1=ws_butterflywingsaccessory.png
 |description=Some cat spent a lot of time on these replica butterfly wings to proudly wear on your back.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

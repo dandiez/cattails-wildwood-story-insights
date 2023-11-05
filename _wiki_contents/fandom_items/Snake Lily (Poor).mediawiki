@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Snake Lily [Poor]
 |aka_name=Snake Lily
-|image1=Snake Lily [Poor].png
+|image1=ws_snakelilypoor.png
 |description=A toxic purple bloom. Applies a poison effect to your attacks.
 |rarity=Uncommon
 |sell_value=3 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Ash Beetle
 |aka_name=
-|image1=Ash Beetle.png
+|image1=ws_ashbeetle.png
 |description=A large beetle with a muted green carapace.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Lizard
 |aka_name=
-|image1=Lizard.png
+|image1=ws_lizard.png
 |description=A slender, slimy creature. Doesn't look very appetizing.
 |rarity=Uncommon
 |sell_value=8 {{WSMew}}, 0 {{WSMolecash}}

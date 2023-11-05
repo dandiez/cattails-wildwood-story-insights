@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Winter 2 Record
 |aka_name=Winter 2
-|image1=Winter 2 Record.png
+|image1=ws_winter2record.png
 |description=A music disc that you can play at your den record player. This track is a chilly wintertime tune.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

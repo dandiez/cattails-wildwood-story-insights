@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Mushroom Bundle
 |aka_name=
-|image1=Mushroom Bundle.png
+|image1=ws_mushroombundle.png
 |description=Stylish mushroom decor!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

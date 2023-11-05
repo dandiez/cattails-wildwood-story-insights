@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Wiry Curio
 |aka_name=
-|image1=Wiry Curio.png
+|image1=ws_wirycurio.png
 |description=A tantalizing length of some twiny material.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

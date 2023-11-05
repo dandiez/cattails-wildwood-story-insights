@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Valerian Seeds
 |aka_name=
-|image1=Valerian Seeds.png
+|image1=ws_valerianseeds.png
 |description=Small brown seeds yielded from a valerian plant. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

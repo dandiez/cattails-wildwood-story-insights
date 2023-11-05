@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Winter Lights Furniture
 |aka_name=Winter Lights
-|image1=Winter Lights Furniture.png
+|image1=ws_winterlightsfurniture.png
 |description=Multi-colored light bulbs, strung on a festive string.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

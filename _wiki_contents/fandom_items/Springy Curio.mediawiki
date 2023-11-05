@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Springy Curio
 |aka_name=
-|image1=Springy Curio.png
+|image1=ws_springycurio.png
 |description=Boing! Boing!
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bluejay
 |aka_name=
-|image1=Bluejay.png
+|image1=ws_bluejay.png
 |description=A legendary sapphire bird. It smells delicious!
 |rarity=Legendary
 |sell_value=45 {{WSMew}}, 0 {{WSMolecash}}

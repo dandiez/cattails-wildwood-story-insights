@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Daisy Seeds
 |aka_name=
-|image1=Daisy Seeds.png
+|image1=ws_daisyseeds.png
 |description=Little yellow seeds yielded from a daisy. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

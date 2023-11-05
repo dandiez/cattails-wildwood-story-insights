@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Mushroom Salad
 |aka_name=
-|image1=Mushroom Salad.png
+|image1=ws_mushroomsalad.png
 |description=Several kinds of mushrooms tossed together with leafy salad greens. A very filling meal!
 |rarity=Rare
 |sell_value=28 {{WSMew}}, 0 {{WSMolecash}}

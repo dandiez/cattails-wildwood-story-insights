@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Stretchy Curio
 |aka_name=
-|image1=Stretchy Curio.png
+|image1=ws_stretchycurio.png
 |description=A rubbery thing that stretches easily.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

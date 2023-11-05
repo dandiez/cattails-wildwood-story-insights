@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Brightstone
 |aka_name=
-|image1=Brightstone.png
+|image1=ws_brightstone.png
 |description=A true Brightstone! Many geologists believe this gemstone to be mythic. The rarest of all minerals!
 |rarity=Legendary
 |sell_value=75 {{WSMew}}, 250 {{WSMolecash}}

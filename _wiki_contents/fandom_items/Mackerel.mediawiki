@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Mackerel
 |aka_name=
-|image1=Mackerel.png
+|image1=ws_mackerel.png
 |description=A silver-scaled saltwater fish. Its reflective body gleams brightly in the sunlight.
 |rarity=Uncommon
 |sell_value=16 {{WSMew}}, 0 {{WSMolecash}}

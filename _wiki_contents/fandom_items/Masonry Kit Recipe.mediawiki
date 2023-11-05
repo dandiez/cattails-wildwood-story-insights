@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Masonry Kit Recipe
 |aka_name=
-|image1=Masonry Kit Recipe.png
+|image1=ws_masonrykitrecipe.png
 |description=Create a handy masonry kit. Useful if you run into a staircase that has fallen into disrepair while mining!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

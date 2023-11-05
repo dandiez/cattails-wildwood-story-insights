@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Snake Lily [Fair]
 |aka_name=Snake Lily
-|image1=Snake Lily [Fair].png
+|image1=ws_snakelilyfair.png
 |description=A noxious purple bloom. Applies a poison effect to your attacks.
 |rarity=Uncommon
 |sell_value=6 {{WSMew}}, 0 {{WSMolecash}}

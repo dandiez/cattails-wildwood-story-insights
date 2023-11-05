@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Black Cave Cricket
 |aka_name=
-|image1=Black Cave Cricket.png
+|image1=ws_blackcavecricket.png
 |description=An odd critter with pale, blind eyes. Not much use for eyesight where these live deep underground!
 |rarity=Rare
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

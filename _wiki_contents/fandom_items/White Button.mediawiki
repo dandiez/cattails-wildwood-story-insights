@@ -1,7 +1,7 @@
 {{WSItem
 |title1=White Button
 |aka_name=
-|image1=White Button.png
+|image1=ws_whitebutton.png
 |description=A petite whitecap mushroom that tastes earthy.
 |rarity=Common
 |sell_value=6 {{WSMew}}, 0 {{WSMolecash}}

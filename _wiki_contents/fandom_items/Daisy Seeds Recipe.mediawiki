@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Daisy Seeds Recipe
 |aka_name=
-|image1=Daisy Seeds Recipe.png
+|image1=ws_daisyseedsrecipe.png
 |description=Grow daisies in your garden with these seeds! While pretty to look at, daisies are toxic to cats and should not be consumed.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Antlers Accessory
 |aka_name=Antlers
-|image1=Antlers Accessory.png
+|image1=ws_antlersaccessory.png
 |description=Festive reindeer antlers that remind you of snowy days.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

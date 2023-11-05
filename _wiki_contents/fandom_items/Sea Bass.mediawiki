@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Sea Bass
 |aka_name=
-|image1=Sea Bass.png
+|image1=ws_seabass.png
 |description=A dark saltwater fish with spiny fins. Tastes... salty.
 |rarity=Common
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

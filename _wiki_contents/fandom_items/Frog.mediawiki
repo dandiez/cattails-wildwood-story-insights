@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Frog
 |aka_name=
-|image1=Frog.png
+|image1=ws_frog.png
 |description=Its days of hopping are over.
 |rarity=Common
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

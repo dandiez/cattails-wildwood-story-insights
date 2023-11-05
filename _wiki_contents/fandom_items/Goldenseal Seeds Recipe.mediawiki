@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Goldenseal Seeds Recipe
 |aka_name=
-|image1=Goldenseal Seeds Recipe.png
+|image1=ws_goldensealseedsrecipe.png
 |description=Grow goldenseal in your garden with these seeds! Goldenseal is well-known for its healing properties.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

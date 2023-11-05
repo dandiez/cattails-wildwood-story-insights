@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Black Rose
 |aka_name=
-|image1=Black Rose.png
+|image1=ws_blackrose.png
 |description=An ugly wilted flower that nobody likes to see. Give to a cat to end your relationship.
 |rarity=Legendary
 |sell_value=20 {{WSMew}}, 0 {{WSMolecash}}

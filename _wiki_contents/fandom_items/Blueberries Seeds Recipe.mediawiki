@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Blueberries Seeds Recipe
 |aka_name=Blueberry Seeds Recipe
-|image1=Blueberries Seeds Recipe.png
+|image1=ws_blueberriesseedsrecipe.png
 |description=Grow blueberries in your garden with these seeds! Blueberries make for a tasty snack.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

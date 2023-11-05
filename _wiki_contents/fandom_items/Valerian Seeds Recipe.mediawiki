@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Valerian Seeds Recipe
 |aka_name=
-|image1=Valerian Seeds Recipe.png
+|image1=ws_valerianseedsrecipe.png
 |description=Grow valerian in your garden with these seeds! Valerian can give a cat a boost of energy.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

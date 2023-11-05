@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Catnip [Good]
 |aka_name=Catnip
-|image1=Catnip [Good].png
+|image1=ws_catnipgood.png
 |description=A sweet plant with an irresistible smell. Liked and valued by almost all cats.
 |rarity=Rare
 |sell_value=28 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=6 {WSTasktoken}}
+|taskboard_shop=6 {{WSTasktoken}}
 |love_it=[[Alabaster]], [[Beau]], [[Bob]], [[Bubby]], [[Buttercup]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[Ember/Wildwood Story|Ember]], [[Falcon]], [[Fliss]], [[Jag/Wildwood Story|Jag]], [[#kitten_four_name#]], [[#kitten_one_name#]], [[Krampy/Wildwood Story|Krampy]], [[Lainey]], [[Phantom]], [[Rosemary]], [[Spark]], [[Talon]], [[Forest Guardian/Wildwood Story|Forest Guardian]], [[Wildwood Champion]], [[Zephyr]]
 |like_it=[[Aster]], [[Basil]], [[Champ]], [[Charlotte]], [[Garlic]], [[#kitten_two_name#]]
 |dislike_it=[[Glimmer]]

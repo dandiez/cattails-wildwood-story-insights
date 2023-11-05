@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Firefly Accessory
 |aka_name=Pet Firefly
-|image1=Pet Firefly Accessory.png
+|image1=ws_petfireflyaccessory.png
 |description=A glowing yellow firefly that will follow you around!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

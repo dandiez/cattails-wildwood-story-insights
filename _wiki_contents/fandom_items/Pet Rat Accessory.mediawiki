@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Rat Accessory
 |aka_name=Pet Rat
-|image1=Pet Rat Accessory.png
+|image1=ws_petrataccessory.png
 |description=An large rodent that will follow you around!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

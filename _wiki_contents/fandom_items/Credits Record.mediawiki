@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Credits Record
 |aka_name=Credits
-|image1=Credits Record.png
+|image1=ws_creditsrecord.png
 |description=A music disc that you can play at your den record player. This track is a nostalgic tune.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Shrew
 |aka_name=
-|image1=Shrew.png
+|image1=ws_shrew.png
 |description=A plump little shrew with a whiskered snout.
 |rarity=Common
 |sell_value=8 {{WSMew}}, 0 {{WSMolecash}}

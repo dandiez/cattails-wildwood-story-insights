@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Magic Hat Accessory
 |aka_name=Magic Hat
-|image1=Magic Hat Accessory.png
+|image1=ws_magichataccessory.png
 |description=Some say that this hat was once worn by a powerful mage.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

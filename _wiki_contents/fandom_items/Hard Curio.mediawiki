@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Hard Curio
 |aka_name=
-|image1=Hard Curio.png
+|image1=ws_hardcurio.png
 |description=A plastic disk-shaped object with an odd spiraling groove on the inside.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

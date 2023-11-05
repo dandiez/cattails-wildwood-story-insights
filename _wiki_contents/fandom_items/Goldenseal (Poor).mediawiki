@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Goldenseal [Poor]
 |aka_name=Goldenseal
-|image1=Goldenseal [Poor].png
+|image1=ws_goldensealpoor.png
 |description=A green, leafy plant with a small red berry. Can be applied to a wound for immediate relief.
 |rarity=Common
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

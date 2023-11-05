@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Spider
 |aka_name=
-|image1=Spider.png
+|image1=ws_spider.png
 |description=A creepy-crawly creature with eight legs and a drooping mandible.
 |rarity=Rare
 |sell_value=15 {{WSMew}}, 0 {{WSMolecash}}

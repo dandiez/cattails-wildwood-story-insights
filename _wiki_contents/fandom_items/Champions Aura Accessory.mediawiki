@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Champions Aura Accessory
 |aka_name=Champion's Aura
-|image1=Champions Aura Accessory.png
+|image1=ws_championsauraaccessory.png
 |description=Shine with the inner light of a powerful celestial being!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

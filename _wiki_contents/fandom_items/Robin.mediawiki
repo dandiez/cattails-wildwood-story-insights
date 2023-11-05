@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Robin
 |aka_name=
-|image1=Robin.png
+|image1=ws_robin.png
 |description=It's hard to miss the bright red belly.
 |rarity=Uncommon
 |sell_value=9 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Trout
 |aka_name=
-|image1=Trout.png
+|image1=ws_trout.png
 |description=A large, speckled freshwater fish. Dinner's served!
 |rarity=Common
 |sell_value=8 {{WSMew}}, 0 {{WSMolecash}}

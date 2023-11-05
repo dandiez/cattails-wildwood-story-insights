@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bronze Structure Furniture
 |aka_name=Bronze Structure
-|image1=Bronze Structure Furniture.png
+|image1=ws_bronzestructurefurniture.png
 |description=A diminutive yet weighty piece of decor made from a single chaotically-looping bronze wire.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=6 {WSTasktoken}}
+|taskboard_shop=6 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=

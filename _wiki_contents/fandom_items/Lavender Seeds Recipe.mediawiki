@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Lavender Seeds Recipe
 |aka_name=
-|image1=Lavender Seeds Recipe.png
+|image1=ws_lavenderseedsrecipe.png
 |description=Grow lavender in your garden with these seeds! Lavender can be used to gain power in a region quickly.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Rock Debris
 |aka_name=
-|image1=Rock Debris.png
+|image1=ws_rockdebris.png
 |description=A small pile of nearly worthless pebbles.
 |rarity=Common
 |sell_value=0 {{WSMew}}, 1 {{WSMolecash}}

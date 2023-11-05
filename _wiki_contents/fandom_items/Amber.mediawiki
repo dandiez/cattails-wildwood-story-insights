@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Amber
 |aka_name=
-|image1=Amber.png
+|image1=ws_amber.png
 |description=A gorgeous dark resin with shades of orange and gold.
 |rarity=Rare
 |sell_value=4 {{WSMew}}, 10 {{WSMolecash}}

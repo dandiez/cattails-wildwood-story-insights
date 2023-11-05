@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Tiara Accessory
 |aka_name=Tiara
-|image1=Tiara Accessory.png
+|image1=ws_tiaraaccessory.png
 |description=A dainty headpiece fit for a princess.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

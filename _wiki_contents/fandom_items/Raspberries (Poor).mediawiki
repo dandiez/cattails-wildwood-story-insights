@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Raspberries [Poor]
 |aka_name=Raspberries
-|image1=Raspberries [Poor].png
+|image1=ws_raspberriespoor.png
 |description=Modest red berries that pop with a splash of sweet flavor.
 |rarity=Common
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

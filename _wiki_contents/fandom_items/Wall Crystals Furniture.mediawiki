@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Wall Crystals Furniture
 |aka_name=Wall Crystals
-|image1=Wall Crystals Furniture.png
+|image1=ws_wallcrystalsfurniture.png
 |description=Pinkish-white quartz crystals that can cling to vertical surfaces like your den walls.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

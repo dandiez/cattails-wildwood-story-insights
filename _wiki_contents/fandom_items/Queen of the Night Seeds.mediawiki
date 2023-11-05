@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Queen of the Night Seeds
 |aka_name=Queen Seeds
-|image1=Queen of the Night Seeds.png
+|image1=ws_queenofthenightseeds.png
 |description=A large bulb yielded from a Queen of the Night plant. Sow this in the garden and watch it grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

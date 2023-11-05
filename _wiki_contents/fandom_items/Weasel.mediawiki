@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Weasel
 |aka_name=
-|image1=Weasel.png
+|image1=ws_weasel.png
 |description=A slender creature with small, round ears.
 |rarity=Legendary
 |sell_value=40 {{WSMew}}, 0 {{WSMolecash}}

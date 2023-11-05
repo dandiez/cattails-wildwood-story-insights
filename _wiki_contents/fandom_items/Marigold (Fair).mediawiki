@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Marigold [Fair]
 |aka_name=Marigold
-|image1=Marigold [Fair].png
+|image1=ws_marigoldfair.png
 |description=A vibrant orange flower atop a green stem. Treats poison and restores a small amount of health.
 |rarity=Uncommon
 |sell_value=5 {{WSMew}}, 0 {{WSMolecash}}

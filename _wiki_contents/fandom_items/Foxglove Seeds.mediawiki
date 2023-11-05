@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Foxglove Seeds
 |aka_name=
-|image1=Foxglove Seeds.png
+|image1=ws_foxgloveseeds.png
 |description=A handful of tiny brown seeds yielded from a foxglove plant. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

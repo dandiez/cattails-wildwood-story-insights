@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Goldenseal [Good]
 |aka_name=Goldenseal
-|image1=Goldenseal [Good].png
+|image1=ws_goldensealgood.png
 |description=A green, leafy plant with a large red berry. Can be applied to a wound for immediate relief.
 |rarity=Common
 |sell_value=6 {{WSMew}}, 0 {{WSMolecash}}

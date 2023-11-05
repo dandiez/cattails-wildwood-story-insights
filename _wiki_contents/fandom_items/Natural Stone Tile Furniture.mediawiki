@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Natural Stone Tile Furniture
 |aka_name=Natural Stone Tile
-|image1=Natural Stone Tile Furniture.png
+|image1=ws_naturalstonetilefurniture.png
 |description=Large natural stones taken from a river and expertly laid in an organic pattern.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Autograph
 |aka_name=
-|image1=Autograph.png
+|image1=ws_autograph.png
 |description=A hastily-scribbled autograph from Zephyr.
 |rarity=Rare
 |sell_value=35 {{WSMew}}, 0 {{WSMolecash}}

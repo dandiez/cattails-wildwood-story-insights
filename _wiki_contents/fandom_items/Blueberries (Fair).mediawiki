@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Blueberries [Fair]
 |aka_name=Blueberries
-|image1=Blueberries [Fair].png
+|image1=ws_blueberriesfair.png
 |description=A brilliant cluster of small berries on a bright green stem.
 |rarity=Common
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

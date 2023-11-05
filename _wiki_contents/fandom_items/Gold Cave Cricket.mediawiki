@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Gold Cave Cricket
 |aka_name=
-|image1=Gold Cave Cricket.png
+|image1=ws_goldcavecricket.png
 |description=Its crooked torso shines with an unnatural light, even in the gloomiest of caves. They like warm, dark places.
 |rarity=Legendary
 |sell_value=50 {{WSMew}}, 0 {{WSMolecash}}

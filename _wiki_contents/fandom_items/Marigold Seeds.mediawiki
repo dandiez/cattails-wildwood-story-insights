@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Marigold Seeds
 |aka_name=
-|image1=Marigold Seeds.png
+|image1=ws_marigoldseeds.png
 |description=Long, thin seeds yielded from a marigold plant. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

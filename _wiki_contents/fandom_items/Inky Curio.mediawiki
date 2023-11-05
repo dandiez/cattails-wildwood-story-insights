@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Inky Curio
 |aka_name=
-|image1=Inky Curio.png
+|image1=ws_inkycurio.png
 |description=A dark plastic stick that makes a satisfying clicking noise.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

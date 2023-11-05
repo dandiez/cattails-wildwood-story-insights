@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Power Paw Green
 |aka_name=Power Paw (Green)
-|image1=Power Paw Green.png
+|image1=ws_powerpawgreen.png
 |description=An ancient token made from a shining green metal. According to legend, it can increase your luck.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

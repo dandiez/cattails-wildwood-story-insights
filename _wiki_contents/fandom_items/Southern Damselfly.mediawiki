@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Southern Damselfly
 |aka_name=
-|image1=Southern Damselfly.png
+|image1=ws_southerndamselfly.png
 |description=A long, gangly dragonfly with four wide wings.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

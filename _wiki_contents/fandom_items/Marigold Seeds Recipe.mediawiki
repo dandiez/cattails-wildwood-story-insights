@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Marigold Seeds Recipe
 |aka_name=
-|image1=Marigold Seeds Recipe.png
+|image1=ws_marigoldseedsrecipe.png
 |description=Grow marigold flowers in your garden with these seeds! Marigold plants are well-known for their curative properties.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

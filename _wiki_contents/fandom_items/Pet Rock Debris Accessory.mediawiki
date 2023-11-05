@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Pet Rock Debris Accessory
 |aka_name=Pet Rock Debris
-|image1=Pet Rock Debris Accessory.png
+|image1=ws_petrockdebrisaccessory.png
 |description=An ordinary rock. You shouldn't expect much from it. Wait a second, did it just move..?
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

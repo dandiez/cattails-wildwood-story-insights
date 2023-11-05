@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Power Paw Red
 |aka_name=Power Paw (Red)
-|image1=Power Paw Red.png
+|image1=ws_powerpawred.png
 |description=An ancient token made from a shining red metal. According to legend, it can increase your vitality.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Plant Food Recipe
 |aka_name=
-|image1=Plant Food Recipe.png
+|image1=ws_plantfoodrecipe.png
 |description=Keep your herb garden well fed with this plant food!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

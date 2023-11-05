@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Spike Trap Furniture
 |aka_name=Spike Trap
-|image1=Spike Trap Furniture.png
+|image1=ws_spiketrapfurniture.png
 |description=A dangerous contraption that runs all by itself. Handle carefully!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

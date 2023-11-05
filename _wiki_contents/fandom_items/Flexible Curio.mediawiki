@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Flexible Curio
 |aka_name=
-|image1=Flexible Curio.png
+|image1=ws_flexiblecurio.png
 |description=Some odd fabric material twisted into an elastic ring.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

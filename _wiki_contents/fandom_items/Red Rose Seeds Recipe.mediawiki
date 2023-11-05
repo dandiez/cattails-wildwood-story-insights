@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Red Rose Seeds Recipe
 |aka_name=
-|image1=Red Rose Seeds Recipe.png
+|image1=ws_redroseseedsrecipe.png
 |description=Grow red roses in your garden with these seeds! Symbolic of true love. All cats know what it means to be given one.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

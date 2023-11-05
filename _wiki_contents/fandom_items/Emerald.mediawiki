@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Emerald
 |aka_name=
-|image1=Emerald.png
+|image1=ws_emerald.png
 |description=A wondrous green gemstone.
 |rarity=Rare
 |sell_value=5 {{WSMew}}, 14 {{WSMolecash}}

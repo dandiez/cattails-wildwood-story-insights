@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Toad
 |aka_name=
-|image1=Toad.png
+|image1=ws_toad.png
 |description=Looks like he croaked.
 |rarity=Rare
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

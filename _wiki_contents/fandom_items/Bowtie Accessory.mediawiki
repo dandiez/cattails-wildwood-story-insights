@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bowtie Accessory
 |aka_name=Bowtie
-|image1=Bowtie Accessory.png
+|image1=ws_bowtieaccessory.png
 |description=A formal black bowtie to put around your neck.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

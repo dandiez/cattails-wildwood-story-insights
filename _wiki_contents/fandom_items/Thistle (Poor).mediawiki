@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Thistle [Poor]
 |aka_name=Thistle
-|image1=Thistle [Poor].png
+|image1=ws_thistlepoor.png
 |description=A tall strand of light blue needles. Improves your swimming for a short time.
 |rarity=Rare
 |sell_value=3 {{WSMew}}, 0 {{WSMolecash}}

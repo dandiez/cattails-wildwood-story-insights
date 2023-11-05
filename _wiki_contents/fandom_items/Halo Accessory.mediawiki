@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Halo Accessory
 |aka_name=Halo
-|image1=Halo Accessory.png
+|image1=ws_haloaccessory.png
 |description=An angelic look for your cat.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Wolf Spider
 |aka_name=
-|image1=Wolf Spider.png
+|image1=ws_wolfspider.png
 |description=A harrowing creature with a specialized toxin that can slow your movements.
 |rarity=Rare
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Concave Curio
 |aka_name=
-|image1=Concave Curio.png
+|image1=ws_concavecurio.png
 |description=A mysterious implement made of reflective metal.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

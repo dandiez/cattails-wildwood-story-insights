@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Crow
 |aka_name=
-|image1=Crow.png
+|image1=ws_crow.png
 |description=A clever black bird. Difficult to catch by all but the most skilled hunters.
 |rarity=Rare
 |sell_value=14 {{WSMew}}, 0 {{WSMolecash}}

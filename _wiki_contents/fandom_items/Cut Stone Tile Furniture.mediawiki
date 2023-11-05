@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Cut Stone Tile Furniture
 |aka_name=Cut Stone Tile
-|image1=Cut Stone Tile Furniture.png
+|image1=ws_cutstonetilefurniture.png
 |description=Heavy stones cut into squares and rectangles and laid in a pattern.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

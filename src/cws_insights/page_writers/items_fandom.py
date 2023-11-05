@@ -5,7 +5,7 @@ from typing import TypeAlias, Any
 
 
 from cws_insights.common import WIKI_CONTENTS_DIR
-from cws_insights.merged_data.items import ItemPlus, get_merged_item_data, AllItemPlus
+from cws_insights.merged_data.items import ItemPlus, get_merged_item_data, AllItemPlus, get_stem_from_uid
 from cws_insights.page_writers.common import SEASONS, _npc_nice_names
 from cws_insights.page_writers.items_md import _recipe_variant_as_str
 from cws_insights.page_writers.lookups_fandom import UNITS_FANDOM, get_npc_page_link
@@ -279,7 +279,7 @@ def prepare_item(i: ItemPlus, all_resource_data: AllResourceData) -> WSItem:
     wsi = WSItem()
     wsi.title1 = i.item_lang.item_uid_do_not_translate
     wsi.aka_name = i.item_lang.lang_item_name if i.item_lang.lang_item_name != i.item_lang.item_uid_do_not_translate else ""
-    wsi.image1 = i.item.item_uid + ".png"
+    wsi.image1 = "ws_" + get_stem_from_uid(i.item.item_uid) + ".png"
     wsi.description = i.item_lang.lang_item_description
     populate_attributes(wsi, i.item)
     populate_map_regions(wsi, i)

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Thrush
 |aka_name=
-|image1=Thrush.png
+|image1=ws_thrush.png
 |description=A bird with a speckled pattern on its belly.
 |rarity=Common
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=2 {WSTasktoken}}
+|taskboard_shop=2 {{WSTasktoken}}
 |love_it=[[Elli/Wildwood Story|Elli]], [[Jack]], [[Lux]]
 |like_it=[[Aster]], [[Bob]], [[Buttercup]], [[Coco/Wildwood Story|Coco]], [[Jag/Wildwood Story|Jag]], [[Phantom]]
 |dislike_it=[[Alabaster]], [[#kitten_one_name#]]

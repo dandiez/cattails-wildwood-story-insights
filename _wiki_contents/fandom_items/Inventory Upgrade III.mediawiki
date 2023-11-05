@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Inventory Upgrade III
 |aka_name=Voluminous Pockets
-|image1=Inventory Upgrade III.png
+|image1=ws_inventoryupgradeiii.png
 |description=Items will now stack up to a maximum of 9 in each of your inventory slots.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

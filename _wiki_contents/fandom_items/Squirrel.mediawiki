@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Squirrel
 |aka_name=
-|image1=Squirrel.png
+|image1=ws_squirrel.png
 |description=A juicy squirrel, caught by an expert hunter.
 |rarity=Common
 |sell_value=8 {{WSMew}}, 0 {{WSMolecash}}

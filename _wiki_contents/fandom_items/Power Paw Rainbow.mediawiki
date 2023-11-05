@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Power Paw Rainbow
 |aka_name=Power Paw (Rainbow)
-|image1=Power Paw Rainbow.png
+|image1=ws_powerpawrainbow.png
 |description=An ancient token made from a shining rainbow metal. According to legend, it can improve your fighting prowess.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

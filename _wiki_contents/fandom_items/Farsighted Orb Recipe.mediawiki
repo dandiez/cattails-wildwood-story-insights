@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Farsighted Orb Recipe
 |aka_name=
-|image1=Farsighted Orb Recipe.png
+|image1=ws_farsightedorbrecipe.png
 |description=Unlocks a new recipe at the Mole Forge anvil. These orbs point towards the nearest downward mine staircase, even one that is concealed, for a short time. Consumed on use.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

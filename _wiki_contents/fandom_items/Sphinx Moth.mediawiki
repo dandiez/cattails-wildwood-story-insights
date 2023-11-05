@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Sphinx Moth
 |aka_name=
-|image1=Sphinx Moth.png
+|image1=ws_sphinxmoth.png
 |description=A fuzzy flying figure that comes out at night.
 |rarity=Common
 |sell_value=1 {{WSMew}}, 0 {{WSMolecash}}

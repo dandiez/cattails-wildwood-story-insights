@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Raspberries Seeds Recipe
 |aka_name=Raspberry Seeds Recipe
-|image1=Raspberries Seeds Recipe.png
+|image1=ws_raspberriesseedsrecipe.png
 |description=Grow red raspberries in your garden with these seeds! Raspberries make for a delightful snack.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

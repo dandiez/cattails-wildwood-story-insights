@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Peppermint [Good]
 |aka_name=Peppermint
-|image1=Peppermint [Good].png
+|image1=ws_peppermintgood.png
 |description=This sweet-smelling leaf can mask the scent of a cat, so that tracking prey will be easier for a time.
 |rarity=Uncommon
 |sell_value=7 {{WSMew}}, 0 {{WSMolecash}}

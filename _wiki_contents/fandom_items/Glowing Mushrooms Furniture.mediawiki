@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Glowing Mushrooms Furniture
 |aka_name=Glowing Mushrooms
-|image1=Glowing Mushrooms Furniture.png
+|image1=ws_glowingmushroomsfurniture.png
 |description=Harvested from deep underground, this cluster of strange mushrooms sheds a pale, green light on all its surroundings.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

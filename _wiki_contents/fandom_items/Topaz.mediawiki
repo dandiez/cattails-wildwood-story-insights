@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Topaz
 |aka_name=
-|image1=Topaz.png
+|image1=ws_topaz.png
 |description=A gleaming yellow gemstone.
 |rarity=Uncommon
 |sell_value=2 {{WSMew}}, 6 {{WSMolecash}}

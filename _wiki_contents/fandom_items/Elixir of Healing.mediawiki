@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Elixir of Healing
 |aka_name=
-|image1=Elixir of Healing.png
+|image1=ws_elixirofhealing.png
 |description=A powerful healing tonic made from potent herbs. Heals a massive amount of health and treats poison when consumed.
 |rarity=Rare
 |sell_value=32 {{WSMew}}, 0 {{WSMolecash}}

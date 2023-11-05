@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Eyepatch Accessory
 |aka_name=Eyepatch
-|image1=Eyepatch Accessory.png
+|image1=ws_eyepatchaccessory.png
 |description=A dark leather patch to place over one eye. Yarrr!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

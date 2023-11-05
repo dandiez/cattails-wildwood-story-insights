@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Valerian [Good]
 |aka_name=Valerian
-|image1=Valerian [Good].png
+|image1=ws_valeriangood.png
 |description=A cluster of vivid pink and white blooms. Increases your movement speed for a short while.
 |rarity=Common
 |sell_value=6 {{WSMew}}, 0 {{WSMolecash}}

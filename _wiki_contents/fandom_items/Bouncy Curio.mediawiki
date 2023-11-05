@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bouncy Curio
 |aka_name=
-|image1=Bouncy Curio.png
+|image1=ws_bouncycurio.png
 |description=Drop it and watch it rebound from the ground!
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

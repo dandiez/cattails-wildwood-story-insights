@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Groovy Lamp Furniture
 |aka_name=Groovy Lamp
-|image1=Groovy Lamp Furniture.png
+|image1=ws_groovylampfurniture.png
 |description=Mesmerizing glowing liquid moves around in this lamp under the heat of the recessed bulb. Far out!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Face Scar Accessory
 |aka_name=Face Scar
-|image1=Face Scar Accessory.png
+|image1=ws_facescaraccessory.png
 |description=An old scar that never quite healed.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

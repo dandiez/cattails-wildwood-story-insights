@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Alexandrite
 |aka_name=
-|image1=Alexandrite.png
+|image1=ws_alexandrite.png
 |description=A fabulously scarce jewel! It seems to shine either red or green under different lighting conditions.
 |rarity=Legendary
 |sell_value=50 {{WSMew}}, 150 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Farsighted Orb
 |aka_name=
-|image1=Farsighted Orb.png
+|image1=ws_farsightedorb.png
 |description=This inscrutable device can point the way towards the nearest downward mine staircase, even one that is concealed, for a short time. Consumed on use.
 |rarity=Rare
 |sell_value=6 {{WSMew}}, 0 {{WSMolecash}}

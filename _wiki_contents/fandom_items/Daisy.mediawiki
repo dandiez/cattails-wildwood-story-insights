@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Daisy
 |aka_name=
-|image1=Daisy.png
+|image1=ws_daisy.png
 |description=A pretty little flower with a vibrant yellow center. Known to be toxic to cats. Be careful while handling!
 |rarity=Uncommon
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=1 {WSTasktoken}}
+|taskboard_shop=1 {{WSTasktoken}}
 |love_it=[[Charlotte]], [[Falcon]], [[Fliss]], [[#kitten_two_name#]], [[Krampy/Wildwood Story|Krampy]], [[Zephyr]]
 |like_it=[[Aurora]], [[Coco/Wildwood Story|Coco]], [[Jag/Wildwood Story|Jag]], [[Lainey]]
 |dislike_it=[[Alabaster]], [[Jack]], [[#kitten_four_name#]], [[Wildwood Champion]]

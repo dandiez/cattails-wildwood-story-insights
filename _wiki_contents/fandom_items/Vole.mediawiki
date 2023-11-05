@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Vole
 |aka_name=
-|image1=Vole.png
+|image1=ws_vole.png
 |description=Looks a little like a hamster.
 |rarity=Uncommon
 |sell_value=10 {{WSMew}}, 0 {{WSMolecash}}

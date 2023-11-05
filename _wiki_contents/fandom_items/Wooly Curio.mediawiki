@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Wooly Curio
 |aka_name=
-|image1=Wooly Curio.png
+|image1=ws_woolycurio.png
 |description=A very soft pouch made of fabric.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

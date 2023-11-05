@@ -163,4 +163,12 @@ cython_debug/
 /src/cws_insights/wikibot/user-password.py
 /src/cws_insights/wikibot/pywikibot-CattailsBot.lwp
 /src/cws_insights/wikibot/throttle.ctrl
-/src/cws_insights/wikibot/apicache-py3/
+/src/cws_insights/wikibot/apicache-py3/*
+/src/cws_insights/wikibot/cattails_scripts/apicache-py3/0aa821bc6b9d5353fb7b2539694bc084368181b9356b9f62bbbcdfdcfdad3105
+/src/cws_insights/wikibot/cattails_scripts/apicache-py3/0c87038a8b13f860481a16e784cfb076232df35861de6cc55967959baac0e5a1
+/src/cws_insights/wikibot/cattails_scripts/apicache-py3/1fbff544401fb2ad4229ba0f85a5ee440dde8b4d9f9ba9de8244848566ab1dc7
+/src/cws_insights/wikibot/cattails_scripts/apicache-py3/9c19743c7b81dc7b3d5186f6a19137d54c9983384c0ed4734ebe4f1fed6d3548
+/src/cws_insights/wikibot/cattails_scripts/apicache-py3/020d6105596f732cd17461a1b3005af0c53d470586d1564cc17a5a306383b1dd
+/src/cws_insights/wikibot/cattails_scripts/apicache-py3/b2a93103c46b56563722c38aae2aec06c50972f3bff958b256c79fdce40ccd79
+/src/cws_insights/wikibot/cattails_scripts/apicache-py3/c6927493b64c06ec21ec1bcb325ae577bc0f688b568507fd77f0c919d7b6295e
+/src/cws_insights/wikibot/cattails_scripts/throttle.ctrl

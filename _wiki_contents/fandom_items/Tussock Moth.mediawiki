@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Tussock Moth
 |aka_name=
-|image1=Tussock Moth.png
+|image1=ws_tussockmoth.png
 |description=An austere airborne animal with lightly-colored stripes on its wings.
 |rarity=Rare
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

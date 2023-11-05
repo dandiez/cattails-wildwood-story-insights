@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Headlamp Upgrade Recipe
 |aka_name=Headlamp Upgrade
-|image1=Headlamp Upgrade Recipe.png
+|image1=ws_headlampupgraderecipe.png
 |description=Strengthens the power of your Headlamp accessory, increasing the area of illumination.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Aquamarine
 |aka_name=
-|image1=Aquamarine.png
+|image1=ws_aquamarine.png
 |description=A wondrous beryl shaded deep blue.
 |rarity=Uncommon
 |sell_value=3 {{WSMew}}, 9 {{WSMolecash}}

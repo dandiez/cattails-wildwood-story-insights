@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Crab
 |aka_name=
-|image1=Crab.png
+|image1=ws_crab.png
 |description=A red crustacean with several legs. Careful with the claws!
 |rarity=Common
 |sell_value=2 {{WSMew}}, 0 {{WSMolecash}}

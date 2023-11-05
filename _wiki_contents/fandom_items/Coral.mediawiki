@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Coral
 |aka_name=
-|image1=Coral.png
+|image1=ws_coral.png
 |description=A fiery-red branch of coral, recently washed up on the shore.
 |rarity=Common
 |sell_value=3 {{WSMew}}, 0 {{WSMolecash}}

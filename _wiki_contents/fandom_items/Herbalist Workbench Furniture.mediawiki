@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Herbalist Workbench Furniture
 |aka_name=Herbalist Workbench
-|image1=Herbalist Workbench Furniture.png
+|image1=ws_herbalistworkbenchfurniture.png
 |description=Crafting Station. A stone workbench with all the tools necessary to process herbs into more potent concoctions. Use to craft powerful potions.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

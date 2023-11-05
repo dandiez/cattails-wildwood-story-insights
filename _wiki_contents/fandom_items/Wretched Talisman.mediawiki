@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Wretched Talisman
 |aka_name=
-|image1=Wretched Talisman.png
+|image1=ws_wretchedtalisman.png
 |description=A cursed amulet that whispers of the void. Use to summon an invading army of Voidling Cats. If you defeat them all, you'll be rewarded.
 |rarity=Legendary
 |sell_value=20 {{WSMew}}, 0 {{WSMolecash}}

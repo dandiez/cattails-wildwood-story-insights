@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Amanita
 |aka_name=
-|image1=Amanita.png
+|image1=ws_amanita.png
 |description=A mysterious redcap mushroom that comes in many varieties. Some are safe, some are not. Who knows what eating it will do?
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

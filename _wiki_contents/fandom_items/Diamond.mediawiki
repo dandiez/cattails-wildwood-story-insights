@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Diamond
 |aka_name=
-|image1=Diamond.png
+|image1=ws_diamond.png
 |description=An enthralling pale gemstone that is highly prized! This item may be donated to your treasure stockpile.
 |rarity=Legendary
 |sell_value=40 {{WSMew}}, 100 {{WSMolecash}}

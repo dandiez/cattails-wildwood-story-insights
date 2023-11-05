@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Conch
 |aka_name=
-|image1=Conch.png
+|image1=ws_conch.png
 |description=A greatly prized pearl-white shell. You can almost hear the ocean! This item may be donated to your sand stockpile.
 |rarity=Legendary
 |sell_value=25 {{WSMew}}, 0 {{WSMolecash}}

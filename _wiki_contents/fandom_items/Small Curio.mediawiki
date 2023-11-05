@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Small Curio
 |aka_name=
-|image1=Small Curio.png
+|image1=ws_smallcurio.png
 |description=A strange ceramic object with a hole in the middle.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

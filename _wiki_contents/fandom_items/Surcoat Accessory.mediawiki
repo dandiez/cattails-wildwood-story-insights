@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Surcoat Accessory
 |aka_name=Surcoat
-|image1=Surcoat Accessory.png
+|image1=ws_surcoataccessory.png
 |description=A loose-fitting shirt with bold, flat colors.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

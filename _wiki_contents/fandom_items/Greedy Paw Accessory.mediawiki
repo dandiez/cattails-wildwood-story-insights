@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Greedy Paw Accessory
 |aka_name=Greedy Paw
-|image1=Greedy Paw Accessory.png
+|image1=ws_greedypawaccessory.png
 |description=While wearing this magical amulet, nearby items will be magnetically drawn into your inventory automatically.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

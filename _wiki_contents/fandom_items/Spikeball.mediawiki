@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Spikeball
 |aka_name=Spike
-|image1=Spikeball.png
+|image1=ws_spikeball.png
 |description=A deadly machine found in the mines.
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

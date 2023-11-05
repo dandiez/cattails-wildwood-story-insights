@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Dove
 |aka_name=
-|image1=Dove.png
+|image1=ws_dove.png
 |description=The dove traditionally symbolizes peace. This one was unsuccessful.
 |rarity=Rare
 |sell_value=16 {{WSMew}}, 0 {{WSMolecash}}

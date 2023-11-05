@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Fancy Rug Furniture
 |aka_name=Fancy Rug
-|image1=Fancy Rug Furniture.png
+|image1=ws_fancyrugfurniture.png
 |description=A large rectangular rug, woven with red and orange threads.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

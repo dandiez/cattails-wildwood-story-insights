@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Gift Box
 |aka_name=
-|image1=Gift Box.png
+|image1=ws_giftbox.png
 |description=Almost any cat would love to receive a present wrapped as beautifully as this.
 |rarity=Uncommon
 |sell_value=4 {{WSMew}}, 0 {{WSMolecash}}

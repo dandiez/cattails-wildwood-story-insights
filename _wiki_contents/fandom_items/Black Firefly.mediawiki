@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Black Firefly
 |aka_name=
-|image1=Black Firefly.png
+|image1=ws_blackfirefly.png
 |description=A curious summer bug that swallows light around it. Some believe that a visit from this creature is an evil omen.
 |rarity=Legendary
 |sell_value=60 {{WSMew}}, 0 {{WSMolecash}}

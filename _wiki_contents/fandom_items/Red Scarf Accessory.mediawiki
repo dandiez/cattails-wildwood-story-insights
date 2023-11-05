@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Red Scarf Accessory
 |aka_name=Red Scarf
-|image1=Red Scarf Accessory.png
+|image1=ws_redscarfaccessory.png
 |description=Now you can be cozy and fashionable at the same time!
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

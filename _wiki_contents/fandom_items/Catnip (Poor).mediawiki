@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Catnip [Poor]
 |aka_name=Catnip
-|image1=Catnip [Poor].png
+|image1=ws_catnippoor.png
 |description=A sweet plant with a tempting smell. Liked and valued by almost all cats.
 |rarity=Rare
 |sell_value=12 {{WSMew}}, 0 {{WSMolecash}}

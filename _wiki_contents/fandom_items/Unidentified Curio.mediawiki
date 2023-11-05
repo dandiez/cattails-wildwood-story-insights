@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Unidentified Curio
 |aka_name=
-|image1=Unidentified Curio.png
+|image1=ws_unidentifiedcurio.png
 |description=What could this strange novelty item be? Bring it to the curio identification table in the Museum to identify it.
 |rarity=Rare
 |sell_value=10 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=250 {{WSMolecash}}
-|taskboard_shop=2 {WSTasktoken}}
+|taskboard_shop=2 {{WSTasktoken}}
 |love_it=[[Aster]], [[Aurora]], [[Basil]], [[Beau]], [[Bubby]], [[Glimmer]], [[#kitten_four_name#]], [[#kitten_one_name#]], [[#kitten_three_name#]], [[#kitten_two_name#]], [[Lux]], [[Salem]]
 |like_it=[[Umbra]]
 |dislike_it=

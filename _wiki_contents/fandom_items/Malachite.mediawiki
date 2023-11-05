@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Malachite
 |aka_name=
-|image1=Malachite.png
+|image1=ws_malachite.png
 |description=A coppery-green gemstone with a beautiful banded pattern.
 |rarity=Rare
 |sell_value=7 {{WSMew}}, 32 {{WSMolecash}}

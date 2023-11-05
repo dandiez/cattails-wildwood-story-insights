@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Blueberries Seeds
 |aka_name=Blueberry Seeds
-|image1=Blueberries Seeds.png
+|image1=ws_blueberriesseeds.png
 |description=Large light brown seeds yielded from a blueberry. Sow these in the garden and watch them grow!
 |rarity=Common
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

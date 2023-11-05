@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Anvil Furniture
 |aka_name=Anvil
-|image1=Anvil Furniture.png
+|image1=ws_anvilfurniture.png
 |description=Crafting station. Use this anvil to access the recipes from the Mole Forge at any time from your den.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

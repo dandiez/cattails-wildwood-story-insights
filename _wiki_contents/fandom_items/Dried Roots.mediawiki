@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Dried Roots
 |aka_name=
-|image1=Dried Roots.png
+|image1=ws_driedroots.png
 |description=Several robust roots, dried until hardened. This item may be donated to your wood stockpile.
 |rarity=Uncommon
 |sell_value=15 {{WSMew}}, 0 {{WSMolecash}}

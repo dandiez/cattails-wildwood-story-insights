@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Theater Mask Accessory
 |aka_name=Theater Mask
-|image1=Theater Mask Accessory.png
+|image1=ws_theatermaskaccessory.png
 |description=A strange mask from some long-forgotten play.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

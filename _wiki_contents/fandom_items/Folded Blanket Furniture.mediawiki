@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Folded Blanket Furniture
 |aka_name=Folded Blanket
-|image1=Folded Blanket Furniture.png
+|image1=ws_foldedblanketfurniture.png
 |description=A thick blanket with a blue plaid design on top and warm wooly fibers on the other side, folded neatly.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}

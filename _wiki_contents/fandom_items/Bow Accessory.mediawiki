@@ -1,7 +1,7 @@
 {{WSItem
 |title1=Bow Accessory
 |aka_name=Bow
-|image1=Bow Accessory.png
+|image1=ws_bowaccessory.png
 |description=A pretty pink bow to set atop your head.
 |rarity=Legendary
 |sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
@@ -39,7 +39,7 @@
 |mold_shop=
 |molo_shop=
 |molu_shop=
-|taskboard_shop=3 {WSTasktoken}}
+|taskboard_shop=3 {{WSTasktoken}}
 |love_it=
 |like_it=
 |dislike_it=
