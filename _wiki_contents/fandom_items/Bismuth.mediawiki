@@ -1,0 +1,56 @@
+{{WSItem
+|title1=Bismuth
+|aka_name=
+|image1=Bismuth.png
+|description=A curious stone with many sharp angles and a multicolored hue.
+|rarity=Uncommon
+|sell_value=2 {{WSMew}}, 8 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=
+|like_it=[[Charlotte]], [[Glimmer]], [[Phantom]], [[Spark]]
+|dislike_it=[[Alabaster]], [[Buttercup]], [[Coco/Wildwood Story|Coco]], [[Lainey]], [[Zephyr]]
+|hate_it=[[Basil]], [[Beau]], [[Bob]], [[Champ]], [[Elli/Wildwood Story|Elli]], [[Fliss]], [[Garlic]], [[Jack]], [[Jag/Wildwood Story|Jag]], [[Krampy/Wildwood Story|Krampy]], [[Rosemary]], [[Salem]], [[Talon]], [[Wildwood Champion]]
+|a_gift_from=
+|recipes_consuming=1 Bismuth + 1 Platinum Ore + 1 Aquamarine --> 1 Dynamite
+
+ 6 Granite + 1 Bismuth --> 1 Polished Stone
+|recipes_producing=
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

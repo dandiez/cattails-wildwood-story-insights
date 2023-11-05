@@ -6,9 +6,9 @@ from cws_insights.merged_data.items import (
     ItemPlus,
     AllItemPlus,
     get_merged_item_data,
-    UidStem,
     RecipeVariant,
 )
+from cws_insights.page_writers.common import SEASONS, _npc_nice_names
 from cws_insights.read_files import read_all_resource_files
 from cws_insights.read_files_data import instantiate_all_resource_data
 from cws_insights.schemas._index import AllResourceData
@@ -50,9 +50,9 @@ def yield_lines_item_attributes(i: ItemMeta):
     main_properties = {
         "Rarity: {}": i.item_rarity,
         "Item uid: {}": i.item_uid,
-        "Sorting priority: {}": i.item_sorting_priority,}
-    effects =    {
-
+        "Sorting priority: {}": i.item_sorting_priority,
+    }
+    effects = {
         "Catnip amount: {}": i.item_catnip_amount,
         "Confusion amount: {}": i.item_confusion_amount,
         "Cures poison: {}": i.item_cures_poison,
@@ -74,7 +74,8 @@ def yield_lines_item_attributes(i: ItemMeta):
     economics = {
         "Can be sold: {}": i.item_can_sell,
         "Sell Price: {} Mews": i.item_mews_value,
-        "Sell Price: {} Mole Cash": i.item_mole_cash_value,}
+        "Sell Price: {} Mole Cash": i.item_mole_cash_value,
+    }
     stock_pile = {
         "Prey resource value: {}": i.item_prey_resource_value,
         "Herbs resource value: {}": i.item_herbs_resource_value,
@@ -97,20 +98,16 @@ def yield_lines_item_attributes(i: ItemMeta):
     if has_stockpile_value or i.item_can_sell:
         yield "## economics"
         if i.item_can_sell:
-            mews = f'{i.item_mews_value} Mews' if i.item_mews_value is not None else ''
-            mole = f'{i.item_mole_cash_value} Mole Cash' if i.item_mole_cash_value is not None else ''
+            mews = f"{i.item_mews_value} Mews" if i.item_mews_value is not None else ""
+            mole = (
+                f"{i.item_mole_cash_value} Mole Cash"
+                if i.item_mole_cash_value is not None
+                else ""
+            )
             yield f"Sell value: {', '.join((mews, mole))}"
         for k, v in stock_pile.items():
             if v is not None:
                 yield k.format(v)
-
-
-def _npc_nice_names(npc_stem_ids: list[UidStem], all_data: AllResourceData):
-    # TODO have a merge for NPCs already with name and language and link it to the item instead of the Uidstem
-    return [
-        all_data.npcs_lang_english_lang[npcstem].lang_npc_name
-        for npcstem in npc_stem_ids
-    ]
 
 
 def yield_lines_npc_block(i: ItemPlus, all_data: AllResourceData):
@@ -137,9 +134,6 @@ def yield_lines_npc_block(i: ItemPlus, all_data: AllResourceData):
             yield f"A gift from: " + ", ".join(
                 _npc_nice_names(from_npcs.npc_gifts, all_data)
             )
-
-
-SEASONS = ("winter", "spring", "summer", "autumn")
 
 
 def yield_lines_item_herb(i: ItemPlus):
@@ -180,7 +174,7 @@ def yield_lines_recipes(i: ItemPlus):
             yield _recipe_variant_as_str(r)
 
 
-def yield_lines_from_map_regions(i: ItemPlus, all_data: AllResourceData):
+def yield_lines_from_map_regions(i: ItemPlus):
     regions = i.from_map
     if any((regions.spawners, regions.prey_list, regions.herb_list)):
         yield "# Map regions"
@@ -206,7 +200,7 @@ def yield_lines_from_item_plus(i: ItemPlus, all_resource_data: AllResourceData):
     yield f"# {i.item_lang.lang_item_name}"
     yield i.item_lang.lang_item_description
     yield from yield_lines_item_attributes(i.item)
-    yield from yield_lines_from_map_regions(i, all_resource_data)
+    yield from yield_lines_from_map_regions(i)
     yield from yield_lines_item_herb(i)
     yield from yield_lines_shopping_block(i)
     yield from yield_lines_npc_block(i, all_resource_data)

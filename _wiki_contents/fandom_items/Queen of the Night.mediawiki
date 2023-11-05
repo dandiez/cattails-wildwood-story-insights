@@ -1,0 +1,56 @@
+{{WSItem
+|title1=Queen of the Night
+|aka_name=
+|image1=Queen of the Night.png
+|description=A mysterious flower that only blooms at night.
+|rarity=Rare
+|sell_value=16 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=2 {{Stpile|Herb}}
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=No, it only exists in one quality.
+|is_bush_herb=No
+|is_day_or_night_herb=night
+|grow_seasons=winter, spring, summer, autumn
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=325 {{WSMolecash}}
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Alabaster]], [[Charlotte]], [[Falcon]], [[#kitten_two_name#]], [[Krampy/Wildwood Story|Krampy]], [[Lainey]], [[Wildwood Champion]], [[Zephyr]]
+|like_it=[[Forest Guardian/Wildwood Story|Forest Guardian]], [[Umbra]]
+|dislike_it=[[Jack]], [[#kitten_four_name#]]
+|hate_it=[[Buttercup]]
+|a_gift_from=[[Charlotte]]
+|recipes_consuming=1 Queen of the Night --> 3 Queen of the Night Seeds
+
+ 2 Queen of the Night --> 1 Unidentified Curio
+|recipes_producing=
+|regions_spawn=
+|regions_herb=ashenknolls, beacheast, beachsidewoods, beachwest, birchlake, blossomingfield, caldera, centralmeadow, claypits, eastcentral, eastforest, meadowoutskirts, mountainlake, mountainsummit, northernwastes, northmeadow, oceanisland, scorcheddesert, swampcorner, thicketburrows, volcanicbasin, westcentral, westmeadow, wetlandestuary
+|regions_prey=
+|regions_world_objects=
+}}

@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Foxglove Seeds
+|aka_name=
+|image1=Foxglove Seeds.png
+|description=A handful of tiny brown seeds yielded from a foxglove plant. Sow these in the garden and watch them grow!
+|rarity=Common
+|sell_value=0 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=
+|like_it=
+|dislike_it=[[Alabaster]], [[Basil]], [[Phantom]]
+|hate_it=[[Aster]], [[Aurora]], [[Beau]], [[Bob]], [[Bubby]], [[Buttercup]], [[Champ]], [[Charlotte]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[Ember/Wildwood Story|Ember]], [[Falcon]], [[Fliss]], [[Garlic]], [[Glimmer]], [[Jack]], [[Jag/Wildwood Story|Jag]], [[#kitten_four_name#]], [[#kitten_three_name#]], [[#kitten_two_name#]], [[Krampy/Wildwood Story|Krampy]], [[Lainey]], [[Lux]], [[Rosemary]], [[Spark]], [[Talon]], [[Forest Guardian/Wildwood Story|Forest Guardian]], [[Zephyr]]
+|a_gift_from=[[Alabaster]]
+|recipes_consuming=
+|recipes_producing=1 Foxglove [Poor] --> 1 Foxglove Seeds
+
+ 1 Foxglove [Fair] --> 3 Foxglove Seeds
+
+ 1 Foxglove [Good] --> 6 Foxglove Seeds
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

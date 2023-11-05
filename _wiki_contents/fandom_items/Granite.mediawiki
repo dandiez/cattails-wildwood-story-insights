@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Granite
+|aka_name=
+|image1=Granite.png
+|description=A lump of unpolished granite rock.
+|rarity=Common
+|sell_value=1 {{WSMew}}, 2 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=
+|like_it=
+|dislike_it=[[Bob]], [[Garlic]], [[Krampy/Wildwood Story|Krampy]], [[Phantom]], [[Wildwood Champion]], [[Umbra]], [[Zephyr]]
+|hate_it=[[Alabaster]], [[Aster]], [[Aurora]], [[Basil]], [[Beau]], [[Buttercup]], [[Champ]], [[Charlotte]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[Ember/Wildwood Story|Ember]], [[Fliss]], [[Glimmer]], [[Jack]], [[Lainey]], [[Lux]], [[Rosemary]], [[Salem]], [[Spark]], [[Talon]], [[Forest Guardian/Wildwood Story|Forest Guardian]]
+|a_gift_from=
+|recipes_consuming=9 Granite + 3 Platinum Ore --> 1 Dynamite
+
+ 9 Granite + 2 Platinum Ore --> 1 Masonry Kit
+
+ 6 Granite + 1 Bismuth --> 1 Polished Stone
+|recipes_producing=
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

@@ -1,0 +1,60 @@
+{{WSItem
+|title1=Snake Lily [Good]
+|aka_name=Snake Lily
+|image1=Snake Lily [Good].png
+|description=A virulent purple bloom. Applies a poison effect to your attacks.
+|rarity=Uncommon
+|sell_value=9 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=1 {{Stpile|Herb}}
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=2400
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=Yes, it can be found in different qualities.
+|is_bush_herb=No
+|is_day_or_night_herb=daytime
+|grow_seasons=winter, autumn
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Beau]], [[Charlotte]], [[Glimmer]], [[Talon]], [[Umbra]]
+|like_it=[[Jack]], [[Jag/Wildwood Story|Jag]], [[Krampy/Wildwood Story|Krampy]], [[Zephyr]]
+|dislike_it=[[Aurora]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[#kitten_two_name#]]
+|hate_it=[[Fliss]], [[Wildwood Champion]]
+|a_gift_from=[[Spark]], [[Umbra]]
+|recipes_consuming=1 Foxglove [Good] + 1 Snake Lily [Good] + 1 Coral --> 1 Battle Potion
+
+ 3 Foxglove [Good] + 3 Snake Lily [Good] + 3 Coral --> 3 Battle Potion
+
+ 9 Foxglove [Good] + 9 Snake Lily [Good] + 9 Coral --> 9 Battle Potion
+
+ 1 Snake Lily [Good] --> 6 Snake Lily Seeds
+|recipes_producing=
+|regions_spawn=
+|regions_herb=creepinghollow, oceanisland, swampcorner, swampnorth, wetlandestuary, woodedbog
+|regions_prey=
+|regions_world_objects=
+}}

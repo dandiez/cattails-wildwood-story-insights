@@ -1,0 +1,56 @@
+{{WSItem
+|title1=Daisy
+|aka_name=
+|image1=Daisy.png
+|description=A pretty little flower with a vibrant yellow center. Known to be toxic to cats. Be careful while handling!
+|rarity=Uncommon
+|sell_value=4 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=1 {{Stpile|Herb}}
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=480
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=No, it only exists in one quality.
+|is_bush_herb=No
+|is_day_or_night_herb=daytime
+|grow_seasons=spring, summer
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=1 {WSTasktoken}}
+|love_it=[[Charlotte]], [[Falcon]], [[Fliss]], [[#kitten_two_name#]], [[Krampy/Wildwood Story|Krampy]], [[Zephyr]]
+|like_it=[[Aurora]], [[Coco/Wildwood Story|Coco]], [[Jag/Wildwood Story|Jag]], [[Lainey]]
+|dislike_it=[[Alabaster]], [[Jack]], [[#kitten_four_name#]], [[Wildwood Champion]]
+|hate_it=[[Basil]], [[Bob]], [[Garlic]], [[Talon]]
+|a_gift_from=[[Buttercup]], [[#kitten_two_name#]], [[Zephyr]]
+|recipes_consuming=1 Daisy --> 3 Daisy Seeds
+
+ 1 Daisy --> 6 Plant Food
+|recipes_producing=
+|regions_spawn=
+|regions_herb=birchholt, birchlake, blossomingfield, centralmeadow, chainoflakes, eastcentral, eastforest, meadowoutskirts, mountainsummit, northernwastes, northfloodplain, oceanisland, riverdell, southcentral, southglade, theconfluence, theoldfarm, thestaunchstones, thicketburrows, westcentral, westernwastes, westmeadow
+|regions_prey=
+|regions_world_objects=
+}}

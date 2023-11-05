@@ -1,0 +1,56 @@
+{{WSItem
+|title1=Alexandrite
+|aka_name=
+|image1=Alexandrite.png
+|description=A fabulously scarce jewel! It seems to shine either red or green under different lighting conditions.
+|rarity=Legendary
+|sell_value=50 {{WSMew}}, 150 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=1 {{Stpile|Treasure}}
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=2000 {{WSMolecash}}
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Alabaster]], [[Aurora]], [[Bob]], [[Champ]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[Ember/Wildwood Story|Ember]], [[Garlic]], [[Glimmer]], [[Jag/Wildwood Story|Jag]], [[Krampy/Wildwood Story|Krampy]], [[Rosemary]], [[Salem]], [[Spark]], [[Forest Guardian/Wildwood Story|Forest Guardian]], [[Wildwood Champion]], [[Zephyr]]
+|like_it=[[Aster]], [[Fliss]], [[Umbra]]
+|dislike_it=
+|hate_it=
+|a_gift_from=
+|recipes_consuming=1 Alexandrite --> 3 Dynamite
+
+ 1 Alexandrite + 3 Malachite + 3 Aquamarine --> 1 Supply Trove
+|recipes_producing=
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

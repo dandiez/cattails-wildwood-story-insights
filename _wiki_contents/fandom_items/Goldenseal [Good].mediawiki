@@ -1,0 +1,60 @@
+{{WSItem
+|title1=Goldenseal [Good]
+|aka_name=Goldenseal
+|image1=Goldenseal [Good].png
+|description=A green, leafy plant with a large red berry. Can be applied to a wound for immediate relief.
+|rarity=Common
+|sell_value=6 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=1 {{Stpile|Herb}}
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=3
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=Yes, it can be found in different qualities.
+|is_bush_herb=No
+|is_day_or_night_herb=daytime
+|grow_seasons=spring, summer, autumn
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Coco/Wildwood Story|Coco]], [[Krampy/Wildwood Story|Krampy]], [[Rosemary]]
+|like_it=[[Alabaster]], [[Ember/Wildwood Story|Ember]], [[#kitten_three_name#]], [[Phantom]], [[Salem]], [[Talon]]
+|dislike_it=[[Basil]], [[Elli/Wildwood Story|Elli]], [[Glimmer]]
+|hate_it=[[Aster]]
+|a_gift_from=[[Basil]], [[Charlotte]], [[#kitten_three_name#]], [[Krampy/Wildwood Story|Krampy]], [[Phantom]]
+|recipes_consuming=2 Goldenseal [Good] + 2 Marigold [Good] + 1 Voidmarrow --> 1 Elixir of Healing
+
+ 6 Goldenseal [Good] + 6 Marigold [Good] + 3 Voidmarrow --> 3 Elixir of Healing
+
+ 18 Goldenseal [Good] + 18 Marigold [Good] + 9 Voidmarrow --> 9 Elixir of Healing
+
+ 1 Goldenseal [Good] --> 6 Goldenseal Seeds
+|recipes_producing=
+|regions_spawn=
+|regions_herb=aridplains, beacheast, beachsidewoods, birchholt, birchlake, centralmeadow, chainoflakes, claypits, crater, meadowoutskirts, northfloodplain, oceanisland, riverdell, southcentral, southglade, swampcorner, swampnorth, thegrimclearing, theoldfarm, westcentral, westwoodland, woodedbog
+|regions_prey=
+|regions_world_objects=
+}}

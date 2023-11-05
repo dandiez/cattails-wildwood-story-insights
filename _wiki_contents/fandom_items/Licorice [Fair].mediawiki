@@ -1,0 +1,56 @@
+{{WSItem
+|title1=Licorice [Fair]
+|aka_name=Licorice
+|image1=Licorice [Fair].png
+|description=The roots of this plant may be chewed on for a quick bite.
+|rarity=Common
+|sell_value=3 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=1 {{Stpile|Herb}}
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=200
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=Yes, it can be found in different qualities.
+|is_bush_herb=No
+|is_day_or_night_herb=daytime
+|grow_seasons=spring, summer
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[#kitten_four_name#]]
+|like_it=[[Beau]], [[Elli/Wildwood Story|Elli]], [[Ember/Wildwood Story|Ember]], [[Jag/Wildwood Story|Jag]], [[Phantom]], [[Rosemary]]
+|dislike_it=[[Bubby]], [[#kitten_three_name#]], [[Lainey]], [[Talon]], [[Wildwood Champion]]
+|hate_it=[[Aster]], [[Falcon]]
+|a_gift_from=[[Beau]], [[Ember/Wildwood Story|Ember]], [[Rosemary]]
+|recipes_consuming=6 Licorice [Fair] --> 1 Dried Roots
+
+ 1 Licorice [Fair] --> 3 Licorice Seeds
+|recipes_producing=
+|regions_spawn=
+|regions_herb=badlandsmaze, birchholt, birchlake, caldera, centralmeadow, claypits, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, northernwastes, northfloodplain, southcentral, southfoothills, swampcorner, theconfluence, thestaunchstones, volcanicbasin, westcentral, westernwastes, westfoothills, westmeadow, westwoodland, woodedbog
+|regions_prey=
+|regions_world_objects=
+}}

@@ -1,0 +1,62 @@
+{{WSItem
+|title1=Marigold [Good]
+|aka_name=Marigold
+|image1=Marigold [Good].png
+|description=A vibrant orange flower atop a sturdy stem. Treats poison and restores a small amount of health.
+|rarity=Uncommon
+|sell_value=7 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=1 {{Stpile|Herb}}
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=Yes
+|heal_amount=1
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=Yes, it can be found in different qualities.
+|is_bush_herb=No
+|is_day_or_night_herb=daytime
+|grow_seasons=spring, summer, autumn
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Coco/Wildwood Story|Coco]], [[Fliss]], [[#kitten_two_name#]], [[Krampy/Wildwood Story|Krampy]], [[Lainey]], [[Phantom]], [[Spark]], [[Zephyr]]
+|like_it=[[Bubby]], [[#kitten_one_name#]], [[Talon]], [[Wildwood Champion]]
+|dislike_it=[[Jag/Wildwood Story|Jag]]
+|hate_it=[[Elli/Wildwood Story|Elli]], [[Rosemary]], [[Umbra]]
+|a_gift_from=[[Buttercup]], [[Coco/Wildwood Story|Coco]], [[Krampy/Wildwood Story|Krampy]], [[Zephyr]]
+|recipes_consuming=2 Goldenseal [Good] + 2 Marigold [Good] + 1 Voidmarrow --> 1 Elixir of Healing
+
+ 6 Goldenseal [Good] + 6 Marigold [Good] + 3 Voidmarrow --> 3 Elixir of Healing
+
+ 18 Goldenseal [Good] + 18 Marigold [Good] + 9 Voidmarrow --> 9 Elixir of Healing
+
+ 1 Marigold [Good] --> 6 Marigold Seeds
+
+ 1 Honeycomb + 1 Marigold [Good] --> 1 Unidentified Curio
+|recipes_producing=
+|regions_spawn=
+|regions_herb=aridplains, ashenknolls, badlandsmaze, beacheast, beachsidewoods, beachwest, birchholt, birchlake, caldera, centralmeadow, crater, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainsummit, northfloodplain, riverdell, rivervale, scorcheddesert, southglade, strangetarn, swampcorner, swampnorth, thestaunchstones, thicketburrows, volcanicbasin, westernwastes, westwoodland, wetlandestuary, woodedbog
+|regions_prey=
+|regions_world_objects=
+}}

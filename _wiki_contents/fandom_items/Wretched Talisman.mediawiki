@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Wretched Talisman
+|aka_name=
+|image1=Wretched Talisman.png
+|description=A cursed amulet that whispers of the void. Use to summon an invading army of Voidling Cats. If you defeat them all, you'll be rewarded.
+|rarity=Legendary
+|sell_value=20 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Beau]], [[Champ]], [[Charlotte]], [[Glimmer]], [[#kitten_one_name#]], [[Krampy/Wildwood Story|Krampy]], [[Talon]]
+|like_it=[[Jag/Wildwood Story|Jag]]
+|dislike_it=[[Bob]], [[Garlic]], [[#kitten_three_name#]]
+|hate_it=[[Alabaster]], [[Aurora]], [[Bubby]], [[Buttercup]], [[#kitten_two_name#]], [[Lainey]], [[Forest Guardian/Wildwood Story|Forest Guardian]], [[Wildwood Champion]]
+|a_gift_from=
+|recipes_consuming=
+|recipes_producing=2 Ruby + 6 Iron Ore + 18 Voidmarrow --> 1 Wretched Talisman
+
+ 72 Voidmarrow --> 1 Wretched Talisman
+
+ 1 Brightstone --> 1 Wretched Talisman
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

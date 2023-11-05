@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Elixir of Healing
+|aka_name=
+|image1=Elixir of Healing.png
+|description=A powerful healing tonic made from potent herbs. Heals a massive amount of health and treats poison when consumed.
+|rarity=Rare
+|sell_value=32 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=Yes
+|heal_amount=9
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Bob]], [[Champ]], [[Ember/Wildwood Story|Ember]], [[Glimmer]], [[Krampy/Wildwood Story|Krampy]], [[Forest Guardian/Wildwood Story|Forest Guardian]], [[Zephyr]]
+|like_it=[[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[Jag/Wildwood Story|Jag]], [[#kitten_one_name#]], [[Lainey]], [[Rosemary]]
+|dislike_it=[[Charlotte]], [[Spark]]
+|hate_it=[[Buttercup]]
+|a_gift_from=
+|recipes_consuming=
+|recipes_producing=2 Goldenseal [Good] + 2 Marigold [Good] + 1 Voidmarrow --> 1 Elixir of Healing
+
+ 6 Goldenseal [Good] + 6 Marigold [Good] + 3 Voidmarrow --> 3 Elixir of Healing
+
+ 18 Goldenseal [Good] + 18 Marigold [Good] + 9 Voidmarrow --> 9 Elixir of Healing
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

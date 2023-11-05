@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Polished Stone
+|aka_name=
+|image1=Polished Stone.png
+|description=A perfectly spherical stone, rounded and sanded until its smooth surface shines. This item may be donated to your stone stockpile.
+|rarity=Uncommon
+|sell_value=12 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=1 {{Stpile|Stone}}
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=
+|like_it=[[Basil]]
+|dislike_it=[[Krampy/Wildwood Story|Krampy]], [[Salem]]
+|hate_it=[[Jack]]
+|a_gift_from=[[Bubby]], [[#kitten_four_name#]]
+|recipes_consuming=
+|recipes_producing=9 Rock Debris + 1 Silver Ore --> 1 Polished Stone
+
+ 6 Granite + 1 Bismuth --> 1 Polished Stone
+
+ 6 Pitlode --> 1 Polished Stone
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

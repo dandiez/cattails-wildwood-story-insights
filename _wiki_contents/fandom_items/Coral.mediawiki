@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Coral
+|aka_name=
+|image1=Coral.png
+|description=A fiery-red branch of coral, recently washed up on the shore.
+|rarity=Common
+|sell_value=3 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Basil]]
+|like_it=[[Bob]], [[Garlic]], [[Glimmer]], [[#kitten_two_name#]], [[Wildwood Champion]]
+|dislike_it=[[Charlotte]], [[Salem]], [[Spark]], [[Forest Guardian/Wildwood Story|Forest Guardian]]
+|hate_it=[[Alabaster]], [[Talon]]
+|a_gift_from=[[Bob]], [[#kitten_two_name#]]
+|recipes_consuming=1 Foxglove [Good] + 1 Snake Lily [Good] + 1 Coral --> 1 Battle Potion
+
+ 3 Foxglove [Good] + 3 Snake Lily [Good] + 3 Coral --> 3 Battle Potion
+
+ 9 Foxglove [Good] + 9 Snake Lily [Good] + 9 Coral --> 9 Battle Potion
+|recipes_producing=
+|regions_spawn=beacheast, beachsidewoods, beachwest, oceanisland
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

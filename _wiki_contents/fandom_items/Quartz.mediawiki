@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Quartz
+|aka_name=
+|image1=Quartz.png
+|description=A formation of light-pink translucent crystals.
+|rarity=Uncommon
+|sell_value=2 {{WSMew}}, 5 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=50 {{WSMew}}
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Elli/Wildwood Story|Elli]]
+|like_it=[[Bob]], [[Charlotte]], [[Jag/Wildwood Story|Jag]], [[Forest Guardian/Wildwood Story|Forest Guardian]]
+|dislike_it=[[Buttercup]], [[Garlic]], [[#kitten_three_name#]], [[Krampy/Wildwood Story|Krampy]], [[Phantom]]
+|hate_it=[[Basil]], [[Beau]], [[Jack]], [[Rosemary]], [[Salem]]
+|a_gift_from=[[Bubby]], [[Garlic]], [[Lainey]]
+|recipes_consuming=3 Iron Ore + 6 Quartz --> 1 Headlamp Upgrade I
+
+ 3 Amber + 6 Quartz --> 1 Headlamp Upgrade II
+
+ 3 Ruby + 6 Quartz --> 1 Headlamp Upgrade III
+|recipes_producing=
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

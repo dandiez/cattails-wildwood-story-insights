@@ -112,7 +112,7 @@ class ItemPlusGroup:
 AllItemPlusWithGroups: TypeAlias = dict[Uid, ItemPlus | ItemPlusGroup]
 
 
-def get_merged_item_data(all_resource_data: AllResourceData):
+def get_merged_item_data(all_resource_data: AllResourceData) -> AllItemPlus:
     _double_check_assumptions(all_resource_data)
     all_items_indexed_by_uid = {
         item.item_uid: item

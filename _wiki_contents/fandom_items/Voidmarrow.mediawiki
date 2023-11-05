@@ -1,0 +1,64 @@
+{{WSItem
+|title1=Voidmarrow
+|aka_name=
+|image1=Voidmarrow.png
+|description=A writhing pile of shadowy essence. It gives you an uneasy feeling.
+|rarity=Common
+|sell_value=1 {{WSMew}}, 0 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Jack]], [[Krampy/Wildwood Story|Krampy]]
+|like_it=[[Basil]], [[Beau]], [[Champ]], [[Glimmer]], [[#kitten_one_name#]], [[Salem]], [[Talon]]
+|dislike_it=[[#kitten_three_name#]], [[Zephyr]]
+|hate_it=[[Aurora]], [[Bob]], [[Buttercup]], [[Charlotte]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[Ember/Wildwood Story|Ember]], [[Fliss]], [[#kitten_two_name#]], [[Lainey]], [[Lux]], [[Rosemary]], [[Spark]], [[Forest Guardian/Wildwood Story|Forest Guardian]], [[Wildwood Champion]], [[Umbra]]
+|a_gift_from=[[Jack]], [[#kitten_four_name#]], [[Salem]]
+|recipes_consuming=2 Goldenseal [Good] + 2 Marigold [Good] + 1 Voidmarrow --> 1 Elixir of Healing
+
+ 6 Goldenseal [Good] + 6 Marigold [Good] + 3 Voidmarrow --> 3 Elixir of Healing
+
+ 18 Goldenseal [Good] + 18 Marigold [Good] + 9 Voidmarrow --> 9 Elixir of Healing
+
+ 1 Voidmarrow --> 1 Plant Food
+
+ 2 Ruby + 6 Iron Ore + 18 Voidmarrow --> 1 Wretched Talisman
+
+ 72 Voidmarrow --> 1 Wretched Talisman
+|recipes_producing=
+|regions_spawn=oceanisland
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}

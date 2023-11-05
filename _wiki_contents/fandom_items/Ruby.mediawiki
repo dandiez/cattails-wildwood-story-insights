@@ -1,0 +1,58 @@
+{{WSItem
+|title1=Ruby
+|aka_name=
+|image1=Ruby.png
+|description=A flawless red gemstone.
+|rarity=Rare
+|sell_value=12 {{WSMew}}, 30 {{WSMolecash}}
+|prey_value=
+|herb_value=
+|sand_value=
+|stone_value=
+|treasure_value=
+|wood_value=
+|catnip_amount=
+|confusion_amount=
+|cures_poison=
+|heal_amount=
+|attack_amount=
+|buddy_xp_amount=
+|hunger_amount=
+|immunity_amount=
+|influence_amount=
+|has_random_effect=
+|special_effect=
+|speed_amount=
+|stealth_amount=
+|swim_amount=
+|venom_amount=
+|can_explode=
+|is_farsighted=
+|is_ranked_herb=
+|is_bush_herb=
+|is_day_or_night_herb=
+|grow_seasons=
+|alabaster_shop=
+|ember_shop=
+|coco_festival_shop=
+|molay_shop=
+|mold_shop=
+|molo_shop=
+|molu_shop=
+|taskboard_shop=
+|love_it=[[Aurora]], [[Buttercup]], [[Coco/Wildwood Story|Coco]], [[Elli/Wildwood Story|Elli]], [[Ember/Wildwood Story|Ember]], [[Glimmer]], [[Lainey]], [[Forest Guardian/Wildwood Story|Forest Guardian]]
+|like_it=[[Alabaster]], [[Aster]], [[Bob]], [[Champ]], [[Jag/Wildwood Story|Jag]], [[#kitten_two_name#]], [[Wildwood Champion]], [[Umbra]]
+|dislike_it=[[Garlic]], [[Phantom]]
+|hate_it=[[Rosemary]]
+|a_gift_from=[[Glimmer]], [[Umbra]]
+|recipes_consuming=3 Ruby + 6 Quartz --> 1 Headlamp Upgrade III
+
+ 1 Ruby + 1 Dried Roots --> 1 Red Rose Seeds
+
+ 2 Ruby + 6 Iron Ore + 18 Voidmarrow --> 1 Wretched Talisman
+|recipes_producing=
+|regions_spawn=
+|regions_herb=
+|regions_prey=
+|regions_world_objects=
+}}
