@@ -1,0 +1,7 @@
+file,extension,path,lang_colony_layout_name,lang_colony_layout_description
+1forest,.lang,colony_layouts\lang\spanish\1forest.lang,Bosque,Bosque de escasos pinos y robles. Un sitio acogedor y propicio para construir un hogar.
+2meadow,.lang,colony_layouts\lang\spanish\2meadow.lang,Pradera,Un río apacible atraviesa este campo florido.
+3swamp,.lang,colony_layouts\lang\spanish\3swamp.lang,Pantano,"Un misterioso pantano, repleto de sauces y malezas."
+4beach,.lang,colony_layouts\lang\spanish\4beach.lang,Playa,Una laguna costera rodeada de playas de arena y vegetación tropical.
+5volcano,.lang,colony_layouts\lang\spanish\5volcano.lang,Volcán,La rocas negras de basalto y la lava que fluye hacen que este lugar sea peligroso.
+6desert,.lang,colony_layouts\lang\spanish\6desert.lang,Desierta,Vacía y desolada. Un lienzo en blanco ideal.

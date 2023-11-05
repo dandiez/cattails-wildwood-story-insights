@@ -1,0 +1,88 @@
+file,extension,path,lang_region_name
+alabasterden,.lang,map\lang\german\alabasterden.lang,Alabasters Höhle
+aridplains,.lang,map\lang\german\aridplains.lang,Trockene Ebenen
+ashenknolls,.lang,map\lang\german\ashenknolls.lang,Aschehügel
+badlandsmaze,.lang,map\lang\german\badlandsmaze.lang,Labyrinth der Einöde
+beacheast,.lang,map\lang\german\beacheast.lang,Östlicher Strand
+beachsidewoods,.lang,map\lang\german\beachsidewoods.lang,Wälder am Strand
+beachwest,.lang,map\lang\german\beachwest.lang,Westlicher Strand
+birchholt,.lang,map\lang\german\birchholt.lang,Birkenhain
+birchlake,.lang,map\lang\german\birchlake.lang,Birkensee
+blossomingfield,.lang,map\lang\german\blossomingfield.lang,Blühendes Feld
+bobden,.lang,map\lang\german\bobden.lang,Bobs Höhle
+buttercupden,.lang,map\lang\german\buttercupden.lang,Buttercups Höhle
+caldera,.lang,map\lang\german\caldera.lang,Caldera
+centralmeadow,.lang,map\lang\german\centralmeadow.lang,Zentrale Wiese
+chainoflakes,.lang,map\lang\german\chainoflakes.lang,Seenkette
+champden,.lang,map\lang\german\champden.lang,Champs Höhle
+charlotteden,.lang,map\lang\german\charlotteden.lang,Charlottes Höhle
+claypits,.lang,map\lang\german\claypits.lang,Tongruben
+cocoden,.lang,map\lang\german\cocoden.lang,Cocos Höhle
+crater,.lang,map\lang\german\crater.lang,Krater
+creepinghollow,.lang,map\lang\german\creepinghollow.lang,Kriechende Kluft
+darkruins1,.lang,map\lang\german\darkruins1.lang,Dunkle Ruinen
+darkruins2,.lang,map\lang\german\darkruins2.lang,Ruinen des Kummers
+darkruins3,.lang,map\lang\german\darkruins3.lang,Ruinen der Zurückgezogenheit
+darkruins4,.lang,map\lang\german\darkruins4.lang,Ruinen des Zorns
+eastcentral,.lang,map\lang\german\eastcentral.lang,Östliches Zentrum
+eastfoothills,.lang,map\lang\german\eastfoothills.lang,Östliches Vorgebirge
+eastforest,.lang,map\lang\german\eastforest.lang,Östlicher Wald
+elliden,.lang,map\lang\german\elliden.lang,Ellis Höhle
+emberandsparkden,.lang,map\lang\german\emberandsparkden.lang,Embers Emporium
+festivalminigamegrounds,.lang,map\lang\german\festivalminigamegrounds.lang,Fest-Arena
+festivalplaza,.lang,map\lang\german\festivalplaza.lang,Der Festplatz
+flissandlaineyden,.lang,map\lang\german\flissandlaineyden.lang,Fliss und Laineys Höhle
+garlicden,.lang,map\lang\german\garlicden.lang,Garlics Höhle
+glimmerden,.lang,map\lang\german\glimmerden.lang,Glimmers Museum
+jagden,.lang,map\lang\german\jagden.lang,Jags Höhle
+krampyden,.lang,map\lang\german\krampyden.lang,Krampys Klinik
+meadowoutskirts,.lang,map\lang\german\meadowoutskirts.lang,Wiesen-Randgebiete
+mineroom,.lang,map\lang\german\mineroom.lang,Mine
+molecave,.lang,map\lang\german\molecave.lang,Maulwurfshöhle
+mountainlake,.lang,map\lang\german\mountainlake.lang,Bergsee
+mountainsummit,.lang,map\lang\german\mountainsummit.lang,Berggipfel
+northernwastes,.lang,map\lang\german\northernwastes.lang,Nördliche Ödlande
+northfloodplain,.lang,map\lang\german\northfloodplain.lang,Nördliches Überschwemmungsgebiet
+northfoothills,.lang,map\lang\german\northfoothills.lang,Nördliches Vorgebirge
+northmeadow,.lang,map\lang\german\northmeadow.lang,Nördliche Wiese
+oceancentral,.lang,map\lang\german\oceancentral.lang,Zentrum des Ozeans
+oceaneast,.lang,map\lang\german\oceaneast.lang,Östlicher Ozean
+oceanisland,.lang,map\lang\german\oceanisland.lang,Insel im Ozean
+oceansoutheast,.lang,map\lang\german\oceansoutheast.lang,Südöstlicher Ozean
+oceansouthwest,.lang,map\lang\german\oceansouthwest.lang,Südwestlicher Ozean
+oceanwest,.lang,map\lang\german\oceanwest.lang,Westlicher Ozean
+phantomden,.lang,map\lang\german\phantomden.lang,Phantoms Höhle
+playercolony,.lang,map\lang\german\playercolony.lang,#colony_full_name_capitalized_with_article#
+playerden,.lang,map\lang\german\playerden.lang,Höhle von #player_name#
+riverdell,.lang,map\lang\german\riverdell.lang,Kleines Flusstal
+rivervale,.lang,map\lang\german\rivervale.lang,Flusstal
+rosemaryden,.lang,map\lang\german\rosemaryden.lang,Rosemarys Höhle
+sanctumofthewildwoodchampion,.lang,map\lang\german\sanctumofthewildwoodchampion.lang,Heiligtum der Champion des Wildwood
+scorcheddesert,.lang,map\lang\german\scorcheddesert.lang,Verbrannte Wüste
+southcentral,.lang,map\lang\german\southcentral.lang,Südliches Zentrum
+southfoothills,.lang,map\lang\german\southfoothills.lang,Südliches Vorgebirge
+southglade,.lang,map\lang\german\southglade.lang,Südliche Lichtung
+strangetarn,.lang,map\lang\german\strangetarn.lang,Seltsamer Tarn
+swampcorner,.lang,map\lang\german\swampcorner.lang,Sumpf-Ecke
+swampnorth,.lang,map\lang\german\swampnorth.lang,Nördlicher Sumpf
+talonden,.lang,map\lang\german\talonden.lang,Talons Höhle
+temple,.lang,map\lang\german\temple.lang,Tempel der Wache des Waldes
+templeeast,.lang,map\lang\german\templeeast.lang,Halle der Statuen – Ost
+templeofthewildwoodchampion,.lang,map\lang\german\templeofthewildwoodchampion.lang,Tempel der Champion des Wildwood
+templewest,.lang,map\lang\german\templewest.lang,Halle der Statuen – West
+theconfluence,.lang,map\lang\german\theconfluence.lang,Der Zusammenfluss
+thegrimclearing,.lang,map\lang\german\thegrimclearing.lang,Die düstere Waldlichtung
+theoldfarm,.lang,map\lang\german\theoldfarm.lang,Der alte Bauernhof
+thestaunchstones,.lang,map\lang\german\thestaunchstones.lang,Die standhaften Steine
+thicketburrows,.lang,map\lang\german\thicketburrows.lang,Dickicht-Bauten
+umbraden,.lang,map\lang\german\umbraden.lang,Umbras Höhle
+volcanicbasin,.lang,map\lang\german\volcanicbasin.lang,Vulkanisches Becken
+westcentral,.lang,map\lang\german\westcentral.lang,Westliches Zentrum
+westernwastes,.lang,map\lang\german\westernwastes.lang,Westliche Ödlande
+westfoothills,.lang,map\lang\german\westfoothills.lang,Westliches Vorgebirge
+westmeadow,.lang,map\lang\german\westmeadow.lang,Westliche Wiese
+westwoodland,.lang,map\lang\german\westwoodland.lang,Westliches Waldgebiet
+wetlandestuary,.lang,map\lang\german\wetlandestuary.lang,Feuchtgebiet der Flussmündung
+wilderness,.lang,map\lang\german\wilderness.lang,Wildnis
+woodedbog,.lang,map\lang\german\woodedbog.lang,Bewaldetes Moor
+zephyrden,.lang,map\lang\german\zephyrden.lang,Zephyrs Höhle

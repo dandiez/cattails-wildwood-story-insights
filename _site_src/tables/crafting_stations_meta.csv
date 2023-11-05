@@ -1,0 +1,5 @@
+file,extension,path,recipes_list
+curiocompactor,.meta,crafting_stations\curiocompactor.meta,['Curio Compactor Recipe']
+herbalistworkbench,.meta,crafting_stations\herbalistworkbench.meta,"['Elixir of Healing Recipe', 'Battle Potion Recipe', 'Mushroom Salad Recipe', 'Unidentified Curio Recipe']"
+moleforge,.meta,crafting_stations\moleforge.meta,"['Headlamp Upgrade Recipe', 'Magnet Upgrade Recipe', 'Masonry Kit Recipe', 'Shiny Trinket Recipe', 'Polished Stone Recipe', 'Wretched Talisman Recipe', 'Supply Trove Recipe', 'Dynamite Recipe', 'Farsighted Orb Recipe', 'Bright Insignia Recipe']"
+seedmaker,.meta,crafting_stations\seedmaker.meta,"['Plant Food Recipe', 'Dried Roots Recipe', 'Goldenseal Seeds Recipe', 'Valerian Seeds Recipe', 'Licorice Seeds Recipe', 'Daisy Seeds Recipe', 'Marigold Seeds Recipe', 'Thistle Seeds Recipe', 'Raspberries Seeds Recipe', 'Blackberries Seeds Recipe', 'Blueberries Seeds Recipe', 'Red Rose Seeds Recipe', 'Peppermint Seeds Recipe', 'Lavender Seeds Recipe', 'Snake Lily Seeds Recipe', 'Queen of the Night Seeds Recipe', 'Foxglove Seeds Recipe', 'Catnip Seeds Recipe', 'Mystery Seeds Recipe']"

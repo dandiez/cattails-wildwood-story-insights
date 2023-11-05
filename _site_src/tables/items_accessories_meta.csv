@@ -1,0 +1,56 @@
+file,extension,path,accessory_uid,accessory_type,unlocked,sorting_priority
+antlersaccessory,.meta,items\accessories\antlersaccessory.meta,Antlers Accessory,head,False,2200
+beakyaccessory,.meta,items\accessories\beakyaccessory.meta,Beaky Accessory,head,False,2900
+bellaccessory,.meta,items\accessories\bellaccessory.meta,Bell Accessory,head,True,3800
+bowaccessory,.meta,items\accessories\bowaccessory.meta,Bow Accessory,head,False,2400
+bowtieaccessory,.meta,items\accessories\bowtieaccessory.meta,Bowtie Accessory,head,False,3700
+butterflywingsaccessory,.meta,items\accessories\butterflywingsaccessory.meta,Butterfly Wings Accessory,head,False,2500
+captainhataccessory,.meta,items\accessories\captainhataccessory.meta,Captain Hat Accessory,head,False,1500
+ceremonialcrownaccessory,.meta,items\accessories\ceremonialcrownaccessory.meta,Ceremonial Crown Accessory,head,False,1900
+championsauraaccessory,.meta,items\accessories\championsauraaccessory.meta,Champions Aura Accessory,torso,False,94
+collaraccessory,.meta,items\accessories\collaraccessory.meta,Collar Accessory,head,True,3500
+dragonwingsaccessory,.meta,items\accessories\dragonwingsaccessory.meta,Dragon Wings Accessory,head,False,2600
+eyepatchaccessory,.meta,items\accessories\eyepatchaccessory.meta,Eyepatch Accessory,head,False,3200
+facescaraccessory,.meta,items\accessories\facescaraccessory.meta,Face Scar Accessory,head,True,3900
+goldcrownaccessory,.meta,items\accessories\goldcrownaccessory.meta,Gold Crown Accessory,head,False,1700
+greedypawaccessory,.meta,items\accessories\greedypawaccessory.meta,Greedy Paw Accessory,head,False,3783
+greenscarfaccessory,.meta,items\accessories\greenscarfaccessory.meta,Green Scarf Accessory,head,False,3600
+greybeakyaccessory,.meta,items\accessories\greybeakyaccessory.meta,Grey Beaky Accessory,head,False,2904
+haloaccessory,.meta,items\accessories\haloaccessory.meta,Halo Accessory,head,False,1300
+headlampaccessory,.meta,items\accessories\headlampaccessory.meta,Headlamp Accessory,head,False,6
+hornsaccessory,.meta,items\accessories\hornsaccessory.meta,Horns Accessory,head,False,2100
+knittedsweateraccessory,.meta,items\accessories\knittedsweateraccessory.meta,Knitted Sweater Accessory,torso,False,4100
+magichataccessory,.meta,items\accessories\magichataccessory.meta,Magic Hat Accessory,head,False,1400
+petbataccessory,.meta,items\accessories\petbataccessory.meta,Pet Bat Accessory,pet,False,1100
+petbeeaccessory,.meta,items\accessories\petbeeaccessory.meta,Pet Bee Accessory,pet,False,700
+petbeetleaccessory,.meta,items\accessories\petbeetleaccessory.meta,Pet Beetle Accessory,pet,False,400
+petbutterflyaccessory,.meta,items\accessories\petbutterflyaccessory.meta,Pet Butterfly Accessory,pet,False,500
+petcrabaccessory,.meta,items\accessories\petcrabaccessory.meta,Pet Crab Accessory,pet,False,788
+petdragonflyaccessory,.meta,items\accessories\petdragonflyaccessory.meta,Pet Dragonfly Accessory,pet,False,600
+petfireflyaccessory,.meta,items\accessories\petfireflyaccessory.meta,Pet Firefly Accessory,pet,False,100
+petghostaccessory,.meta,items\accessories\petghostaccessory.meta,Pet Ghost Accessory,pet,False,1200
+petladybugaccessory,.meta,items\accessories\petladybugaccessory.meta,Pet Ladybug Accessory,pet,False,200
+petmolbertaccessory,.meta,items\accessories\petmolbertaccessory.meta,Pet Molbert Accessory,pet,False,91
+petmothaccessory,.meta,items\accessories\petmothaccessory.meta,Pet Moth Accessory,pet,False,300
+petrainbowfireflyaccessory,.meta,items\accessories\petrainbowfireflyaccessory.meta,Pet Rainbow Firefly Accessory,pet,False,9
+petrataccessory,.meta,items\accessories\petrataccessory.meta,Pet Rat Accessory,pet,False,1139
+petrockdebrisaccessory,.meta,items\accessories\petrockdebrisaccessory.meta,Pet Rock Debris Accessory,pet,False,1276
+petspideraccessory,.meta,items\accessories\petspideraccessory.meta,Pet Spider Accessory,pet,False,800
+petturtleaccessory,.meta,items\accessories\petturtleaccessory.meta,Pet Turtle Accessory,pet,False,1000
+petwolfspideraccessory,.meta,items\accessories\petwolfspideraccessory.meta,Pet Wolf Spider Accessory,pet,False,900
+redscarfaccessory,.meta,items\accessories\redscarfaccessory.meta,Red Scarf Accessory,head,False,3605
+roundglassesaccessory,.meta,items\accessories\roundglassesaccessory.meta,Round Glasses Accessory,head,True,2700
+silvercrownaccessory,.meta,items\accessories\silvercrownaccessory.meta,Silver Crown Accessory,head,False,1800
+snowysweateraccessory,.meta,items\accessories\snowysweateraccessory.meta,Snowy Sweater Accessory,torso,False,4000
+spikecollaraccessory,.meta,items\accessories\spikecollaraccessory.meta,Spike Collar Accessory,head,False,3400
+squareglassesaccessory,.meta,items\accessories\squareglassesaccessory.meta,Square Glasses Accessory,head,False,2800
+stripedsweateraccessory,.meta,items\accessories\stripedsweateraccessory.meta,Striped Sweater Accessory,torso,False,4200
+summersweateraccessory,.meta,items\accessories\summersweateraccessory.meta,Summer Sweater Accessory,torso,False,4300
+surcoataccessory,.meta,items\accessories\surcoataccessory.meta,Surcoat Accessory,torso,False,4400
+teethmaskaccessory,.meta,items\accessories\teethmaskaccessory.meta,Teeth Mask Accessory,head,False,3300
+theatermaskaccessory,.meta,items\accessories\theatermaskaccessory.meta,Theater Mask Accessory,head,False,3000
+tiaraaccessory,.meta,items\accessories\tiaraaccessory.meta,Tiara Accessory,head,False,2300
+tophataccessory,.meta,items\accessories\tophataccessory.meta,Top Hat Accessory,head,False,1600
+whiskersaccessory,.meta,items\accessories\whiskersaccessory.meta,Whiskers Accessory,head,True,3100
+whitefloweraccessory,.meta,items\accessories\whitefloweraccessory.meta,White Flower Accessory,head,True,2000
+whitespikecollaraccessory,.meta,items\accessories\whitespikecollaraccessory.meta,White Spike Collar Accessory,head,False,3450

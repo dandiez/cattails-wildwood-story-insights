@@ -1,0 +1,68 @@
+file,extension,path,task_npc_uid,task_spring,task_summer,task_autumn,task_winter,task_goal_type,task_goal_item_uid,task_goal_quantity,task_reward_tokens
+abirdinthepaw,.meta,tasks\abirdinthepaw.meta,elli,True,True,True,True,items,Wren,3,3
+acompetition,.meta,tasks\acompetition.meta,coco,True,True,True,True,prey,,30,4
+aerialwarfare,.meta,tasks\aerialwarfare.meta,talon,False,True,False,False,items,Tropical Butterfly,1,2
+ahankering,.meta,tasks\ahankering.meta,bob,True,True,True,False,items,Trout,2,3
+artproject,.meta,tasks\artproject.meta,lainey,True,True,True,True,items,Rock Debris,8,2
+aspecialtreat,.meta,tasks\aspecialtreat.meta,spark,True,True,True,False,items,Catnip,3,3
+barkbark,.meta,tasks\barkbark.meta,zephyr,False,False,False,True,items,Bark Beetle,1,2
+berryblues,.meta,tasks\berryblues.meta,buttercup,False,False,False,True,items,Blueberries,3,2
+busybee,.meta,tasks\busybee.meta,alabaster,True,True,True,False,items,Bee,2,3
+cavein,.meta,tasks\cavein.meta,molo,True,True,True,True,mine_descend,,10,2
+chewyroots,.meta,tasks\chewyroots.meta,bob,True,True,False,False,items,Licorice,5,3
+cliniccomplications,.meta,tasks\cliniccomplications.meta,krampy,True,True,True,False,items,Goldenseal,3,2
+crushedcoral,.meta,tasks\crushedcoral.meta,zephyr,True,True,True,True,items,Coral,3,3
+dangerforbreakfast,.meta,tasks\dangerforbreakfast.meta,champ,True,True,True,True,items,Snake,1,2
+darklady,.meta,tasks\darklady.meta,spark,True,False,False,False,items,Black Ladybug,1,2
+easyscouting,.meta,tasks\easyscouting.meta,coco,True,True,True,True,scouting,,10,2
+energycrisis,.meta,tasks\energycrisis.meta,krampy,True,True,True,False,items,Valerian,4,3
+experimentation,.meta,tasks\experimentation.meta,krampy,True,True,True,True,items,Voidmarrow,4,4
+fuzzyfeeling,.meta,tasks\fuzzyfeeling.meta,rosemary,True,False,False,False,items,Tussock Moth,1,2
+greenthumb,.meta,tasks\greenthumb.meta,alabaster,True,True,True,True,gardening,,6,2
+greenwithenvy,.meta,tasks\greenwithenvy.meta,glimmer,True,True,True,True,items,Emerald,5,2
+hardscouting,.meta,tasks\hardscouting.meta,coco,True,True,True,True,scouting,,18,4
+honeyourhunting,.meta,tasks\honeyourhunting.meta,ember,True,True,True,True,prey,,10,2
+juicysweet,.meta,tasks\juicysweet.meta,garlic,True,False,False,False,items,Raspberries,3,2
+keepdigging,.meta,tasks\keepdigging.meta,molo,True,True,True,True,mine_descend,,24,3
+keepingup,.meta,tasks\keepingup.meta,glimmer,False,True,True,False,items,Green Firefly,1,2
+luckcharm,.meta,tasks\luckcharm.meta,glimmer,True,True,True,True,items,Rabbit,2,3
+mediumscouting,.meta,tasks\mediumscouting.meta,coco,True,True,True,True,scouting,,14,3
+miceproblems,.meta,tasks\miceproblems.meta,ember,True,True,True,True,items,Mouse,3,3
+minnowsnack,.meta,tasks\minnowsnack.meta,buttercup,True,True,True,False,items,Minnow,1,2
+mousemorsel,.meta,tasks\mousemorsel.meta,jag,True,True,True,True,items,Mouse,3,3
+naturesbounty,.meta,tasks\naturesbounty.meta,krampy,True,True,True,True,herbs,,20,2
+nightharvest,.meta,tasks\nightharvest.meta,alabaster,True,True,True,True,items,Queen of the Night,1,4
+ofafeather,.meta,tasks\ofafeather.meta,umbra,True,True,True,True,items,Starling,1,5
+ohrats,.meta,tasks\ohrats.meta,molo,True,True,True,True,items,Rat,3,2
+peaceoffering,.meta,tasks\peaceoffering.meta,alabaster,True,True,True,True,items,Dove,2,3
+peskysquirrels,.meta,tasks\peskysquirrels.meta,ember,True,True,True,True,items,Squirrel,3,3
+pickmeup,.meta,tasks\pickmeup.meta,garlic,True,True,True,False,items,Valerian,4,3
+pinchers,.meta,tasks\pinchers.meta,phantom,True,True,True,True,items,Crab,4,3
+powerfulplants,.meta,tasks\powerfulplants.meta,champ,False,False,True,True,items,Snake Lily,3,3
+prettyandpainful,.meta,tasks\prettyandpainful.meta,champ,False,True,True,False,items,Foxglove,1,2
+quartzdecor,.meta,tasks\quartzdecor.meta,coco,False,False,False,True,items,Quartz,5,2
+reddragon,.meta,tasks\reddragon.meta,bob,False,False,True,False,items,Banded Darter,1,2
+researchproject,.meta,tasks\researchproject.meta,fliss,True,True,True,False,herbs,,10,1
+seasidesouvenir,.meta,tasks\seasidesouvenir.meta,elli,True,True,True,True,items,Conch,1,2
+shadowstone,.meta,tasks\shadowstone.meta,umbra,True,True,True,True,items,Pitlode,3,3
+shrewsouffle,.meta,tasks\shrewsouffle.meta,elli,True,True,True,True,items,Shrew,2,2
+skirmishes,.meta,tasks\skirmishes.meta,jag,True,True,True,True,daily_battles,,2,2
+slimysnack,.meta,tasks\slimysnack.meta,elli,True,True,True,True,items,Frog,3,3
+spelunking,.meta,tasks\spelunking.meta,molo,True,True,True,True,mine_descend,,40,4
+squeakers,.meta,tasks\squeakers.meta,molo,True,True,True,True,items,Bat,5,2
+stonestudy,.meta,tasks\stonestudy.meta,coco,True,True,True,True,seasonal_carvings,,2,2
+strangeshroom,.meta,tasks\strangeshroom.meta,charlotte,False,False,True,False,items,Amanita,1,2
+strongscent,.meta,tasks\strongscent.meta,talon,True,True,True,False,items,Lavender,3,2
+takenashine,.meta,tasks\takenashine.meta,molcee,True,True,True,True,items,Gold Ore,3,2
+thehunt,.meta,tasks\thehunt.meta,jag,True,True,True,True,prey,,20,3
+theirony,.meta,tasks\theirony.meta,moldric,True,True,True,True,items,Iron Ore,12,2
+thisiswar,.meta,tasks\thisiswar.meta,talon,True,True,True,True,daily_battles,,4,5
+toadtroubles,.meta,tasks\toadtroubles.meta,krampy,True,True,True,True,items,Toad,2,4
+towndefense,.meta,tasks\towndefense.meta,coco,True,True,True,True,voidlings,,8,3
+unkindcandles,.meta,tasks\unkindcandles.meta,molo,True,True,True,True,darkcandles,,5,2
+weaselwoes,.meta,tasks\weaselwoes.meta,jag,True,True,True,True,items,Weasel,1,6
+wingsofautumn,.meta,tasks\wingsofautumn.meta,spark,False,False,True,False,items,Southern Damselfly,3,2
+wingsofnight,.meta,tasks\wingsofnight.meta,spark,False,True,True,False,items,White Firefly,3,2
+wingsofspring,.meta,tasks\wingsofspring.meta,spark,True,False,False,False,items,Red Ladybug,3,2
+wingsofsummer,.meta,tasks\wingsofsummer.meta,spark,False,True,False,False,items,Painted Butterfly,3,2
+wingsofwinter,.meta,tasks\wingsofwinter.meta,spark,False,False,False,True,items,Hermit Beetle,3,2

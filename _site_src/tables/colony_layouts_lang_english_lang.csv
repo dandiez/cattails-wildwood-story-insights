@@ -1,0 +1,7 @@
+file,extension,path,lang_colony_layout_name,lang_colony_layout_description
+1forest,.lang,colony_layouts\lang\english\1forest.lang,Forest,Sparse pine and oak woodland. A welcoming and hospitable place to build a home.
+2meadow,.lang,colony_layouts\lang\english\2meadow.lang,Meadow,A gentle river winds through this flowery field.
+3swamp,.lang,colony_layouts\lang\english\3swamp.lang,Swamp,"A mysterious swamp, overrun with wild willows and weeds."
+4beach,.lang,colony_layouts\lang\english\4beach.lang,Beach,An inland lagoon surrounded by sandy beaches and tropical vegetation.
+5volcano,.lang,colony_layouts\lang\english\5volcano.lang,Volcano,Dark basalt rock and flowing lava make for a dangerous and uninviting locale.
+6desert,.lang,colony_layouts\lang\english\6desert.lang,Desert,Empty and desolate. An ideal blank canvas.

@@ -1,0 +1,6 @@
+file,extension,path,partner_primary_uid,partner_secondary_uid,kitten_uids,kitten_birthday_season,kitten_birthday_day,wedding_attendees,prerequisite_events
+alabasterandfliss,.meta,rival_marriages\alabasterandfliss.meta,alabaster,fliss,['salem'],Winter,1,"['elli', 'coco', 'bob', 'lainey', 'garlic', 'lux', 'aurora', 'spark', 'rosemary']","['alabasterandfliss1', 'alabasterandfliss2', 'alabasterandfliss3']"
+bobandbuttercup,.meta,rival_marriages\bobandbuttercup.meta,bob,buttercup,"['beau', 'basil', 'bubby']",Summer,3,"['elli', 'coco', 'champ', 'zephyr', 'rosemary', 'lainey', 'fliss', 'garlic']","['bobandbuttercup1', 'bobandbuttercup2', 'bobandbuttercup3']"
+elliandchamp,.meta,rival_marriages\elliandchamp.meta,elli,champ,['aster'],Spring,9,"['buttercup', 'coco', 'krampy', 'charlotte', 'ember', 'spark', 'rosemary', 'glimmer', 'talon']","['elliandchamp1', 'elliandchamp2', 'elliandchamp3']"
+krampyandtalon,.meta,rival_marriages\krampyandtalon.meta,krampy,talon,['jack'],Spring,1,"['glimmer', 'coco', 'ember', 'jag', 'rosemary', 'charlotte', 'alabaster']","['krampyandtalon1', 'krampyandtalon2', 'krampyandtalon3']"
+sparkandlainey,.meta,rival_marriages\sparkandlainey.meta,spark,lainey,"['lux', 'aurora']",Autumn,1,"['fliss', 'ember', 'coco', 'alabaster', 'salem', 'rosemary', 'krampy', 'phantom']","['sparkandlainey1', 'sparkandlainey2', 'sparkandlainey3']"

@@ -1,0 +1,14 @@
+file,extension,path,bundle_unlock_npc_uids,bundle_priority,bundle_colony_points,bundle_feature_label,bundle_item1_uid,bundle_item1_quantity,bundle_item2_uid,bundle_item2_quantity,bundle_item3_uid,bundle_item3_quantity,bundle_item4_uid,bundle_item4_quantity,bundle_item5_uid,bundle_item5_quantity,bundle_post_story
+alabasterbundle,.meta,bundles\alabasterbundle.meta,['alabaster'],100,1,gardening,Goldenseal [Poor],1,Valerian [Poor],1,Lavender [Poor],1,,0,,0,
+bobbundle,.meta,bundles\bobbundle.meta,['bob'],500,1,,Trout,3,Carp,2,Salmon,1,,0,,0,
+buttercupbundle,.meta,bundles\buttercupbundle.meta,['buttercup'],600,1,,Catnip [Poor],3,Thistle [Poor],2,Minnow,1,,0,,0,
+champbundle,.meta,bundles\champbundle.meta,['champ'],700,1,,Crab,3,Snake,1,Voidmarrow,5,,0,,0,
+charlottebundle,.meta,bundles\charlottebundle.meta,['charlotte'],800,1,,Snake Lily [Poor],3,Amethyst,2,Crow,1,,0,,0,
+flissandlaineybundle,.meta,bundles\flissandlaineybundle.meta,"['fliss', 'lainey']",400,2,,Daisy,2,Sea Bass,2,Mackerel,2,,0,,0,
+garlicbundle,.meta,bundles\garlicbundle.meta,['garlic'],900,1,,Lizard,2,Toad,3,Licorice [Fair],2,,0,,0,
+glimmerbundle,.meta,bundles\glimmerbundle.meta,['glimmer'],300,1,museum,Quartz,1,Voidmarrow,1,Scallop,1,,0,,0,
+phantombundle,.meta,bundles\phantombundle.meta,['phantom'],1000,1,,Peppermint [Fair],2,Dove,2,Marigold [Fair],1,,0,,0,
+rosemarybundle,.meta,bundles\rosemarybundle.meta,['rosemary'],1100,1,,Sphinx Moth,1,Blackberries [Fair],3,Magpie,1,,0,,0,
+talonbundle,.meta,bundles\talonbundle.meta,['talon'],200,1,squads,Mouse,1,Squirrel,1,Frog,1,,0,,0,
+umbrabundle,.meta,bundles\umbrabundle.meta,['umbra'],9920,1,,Voidmarrow,60,Bat,9,Queen of the Night,6,Unidentified Curio,3,Rat,3,True
+zephyrbundle,.meta,bundles\zephyrbundle.meta,['zephyr'],1200,1,,White Firefly,3,Amanita,1,Foxglove [Fair],1,,0,,0,

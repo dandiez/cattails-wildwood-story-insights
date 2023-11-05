@@ -1,0 +1,7 @@
+file,extension,path,lang_colony_layout_name,lang_colony_layout_description
+1forest,.lang,colony_layouts\lang\german\1forest.lang,Wald,"Karger Kiefern- und Eichenwald. Ein guter Ort, um eine Stadt zu bauen."
+2meadow,.lang,colony_layouts\lang\german\2meadow.lang,Wiese,Ein sanfter Fluss schlängelt sich durch dieses blühende Feld.
+3swamp,.lang,colony_layouts\lang\german\3swamp.lang,Sumpf,"Ein mysteriöser Sumpf, überwuchert mit wilden Weiden und Unkraut."
+4beach,.lang,colony_layouts\lang\german\4beach.lang,Strand,"Eine Lagune im Landesinneren, umgeben von Sandstränden und tropischer Vegetation."
+5volcano,.lang,colony_layouts\lang\german\5volcano.lang,Vulkan,Dunkles Basaltgestein und fließende Lava machen diesen Ort gefährlich und wenig einladend.
+6desert,.lang,colony_layouts\lang\german\6desert.lang,Wüste,Leer und trostlos. Eine ideale leere Leinwand.

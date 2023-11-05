@@ -1,0 +1,104 @@
+file,extension,path,enabled,paper_type,attachment,attachment_quantity,mail_filters
+anonymousgift,.meta,mail\anonymousgift.meta,True,dark,Queen of the Night,1,"{'filter_has_met_glimmer': True, 'filter_friendship_glimmer': 4}"
+anonymouswarning,.meta,mail\anonymouswarning.meta,True,dark,none,0,"{'filter_has_met_glimmer': True, 'filter_player_is_dating_krampy': True, 'filter_player_is_dating_glimmer': False, 'filter_player_is_married_to_glimmer': False}"
+autumnalert,.meta,mail\autumnalert.meta,True,parchment,none,0,"{'filter_autumn': True, 'filter_season_day': 1, 'filter_season_day_max': 1, 'filter_year': 1, 'filter_year_max': 1, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"
+coldbuttercup,.meta,mail\coldbuttercup.meta,True,starry,none,0,"{'filter_winter': True, 'filter_year': 3, 'filter_has_met_buttercup': True, 'filter_friendship_buttercup': 4, 'filter_player_is_dating_buttercup': False, 'filter_player_is_married_to_buttercup': False}"
+congratskittensbob,.meta,mail\congratskittensbob.meta,True,parchment,Salmon,2,"{'filter_has_met_bob': True, 'filter_friendship_bob': 3, 'filter_player_is_married_to_bob': False, 'filter_kitten_age_max': 3, 'filter_has_kittens': True}"
+congratskittenschamp,.meta,mail\congratskittenschamp.meta,True,pinstripe,Mews,10,"{'filter_has_met_champ': True, 'filter_friendship_champ': 3, 'filter_player_is_married_to_champ': False, 'filter_kitten_age_max': 3, 'filter_has_kittens': True}"
+congratskittenscharlotte,.meta,mail\congratskittenscharlotte.meta,True,modern,Bubble Wand,1,"{'filter_has_met_charlotte': True, 'filter_friendship_charlotte': 4, 'filter_player_is_married_to_charlotte': False, 'filter_kitten_age_max': 3, 'filter_has_kittens': True}"
+congratskittenscoco,.meta,mail\congratskittenscoco.meta,True,pinstripe,Mews,25,"{'filter_has_met_coco': True, 'filter_friendship_coco': 3, 'filter_player_is_married_to_coco': False, 'filter_kitten_age_max': 3, 'filter_has_kittens': True}"
+congratskittensember,.meta,mail\congratskittensember.meta,True,cats,Peppermint [Good],1,"{'filter_has_met_ember': True, 'filter_friendship_ember': 3, 'filter_player_is_married_to_ember': False, 'filter_kitten_age_max': 3, 'filter_has_kittens': True}"
+congratskittensrosemary,.meta,mail\congratskittensrosemary.meta,True,plaid,Diamond,1,"{'filter_has_met_rosemary': True, 'filter_friendship_rosemary': 2, 'filter_player_is_married_to_rosemary': False, 'filter_kitten_age_max': 3, 'filter_has_kittens': True}"
+congratskittenstalon,.meta,mail\congratskittenstalon.meta,True,lined,none,0,"{'filter_has_met_talon': True, 'filter_friendship_talon': 3, 'filter_player_is_married_to_talon': False, 'filter_kitten_age_max': 3, 'filter_has_kittens': True}"
+congratulationsfromalabaster,.meta,mail\congratulationsfromalabaster.meta,True,fancy,Bass,3,"{'filter_has_met_alabaster': True, 'filter_player_is_married': True, 'filter_player_is_married_to_alabaster': False, 'filter_friendship_alabaster': 2, 'filter_player_recently_married': True}"
+congratulationsfrombob,.meta,mail\congratulationsfrombob.meta,True,plaid,Mews,25,"{'filter_has_met_bob': True, 'filter_player_is_married': True, 'filter_player_is_married_to_bob': False, 'filter_friendship_bob': 2, 'filter_player_recently_married': True}"
+congratulationsfromgarlic,.meta,mail\congratulationsfromgarlic.meta,True,modern,Mews,25,"{'filter_has_met_garlic': True, 'filter_player_is_married': True, 'filter_player_is_married_to_garlic': False, 'filter_friendship_garlic': 3, 'filter_player_recently_married': True}"
+emberredrose,.meta,mail\emberredrose.meta,True,fancy,none,0,{'filter_day': 15}
+embershinytrinket,.meta,mail\embershinytrinket.meta,True,fancy,none,0,{'filter_day': 25}
+fanmailzephyr,.meta,mail\fanmailzephyr.meta,True,lined,none,0,"{'filter_has_met_zephyr': True, 'filter_friendship_zephyr': 2}"
+fanmailzephyrdating,.meta,mail\fanmailzephyrdating.meta,True,lined,none,0,{'filter_player_is_dating_zephyr': True}
+festivaltoday,.meta,mail\festivaltoday.meta,True,plaid,Festival Tokens,3,"{'filter_spring': True, 'filter_season_day': 10, 'filter_season_day_max': 10, 'filter_year': 1, 'filter_year_max': 1, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"
+gardeningintroalabaster,.meta,mail\gardeningintroalabaster.meta,True,fancy,Goldenseal Seeds,3,"{'filter_day': 2, 'filter_has_met_alabaster': True}"
+glimmerdonated15curios,.meta,mail\glimmerdonated15curios.meta,True,dark,Turtle,1,{'filter_curios': 15}
+glimmerdonated1curio,.meta,mail\glimmerdonated1curio.meta,True,dark,Lavender [Good],2,{'filter_curios': 1}
+glimmerdonated25curios,.meta,mail\glimmerdonated25curios.meta,True,dark,Diamond,3,{'filter_curios': 25}
+glimmerdonated30curios,.meta,mail\glimmerdonated30curios.meta,True,dark,none,0,{'filter_curios': 30}
+glimmerdonated5curios,.meta,mail\glimmerdonated5curios.meta,True,dark,Pike,1,{'filter_curios': 5}
+glimmermuseumintro,.meta,mail\glimmermuseumintro.meta,True,dark,none,0,{'filter_has_met_glimmer': True}
+greatfriendalabaster,.meta,mail\greatfriendalabaster.meta,True,fancy,Catnip Seeds,3,"{'filter_has_met_alabaster': True, 'filter_friendship_alabaster': 3}"
+greatfriendelli,.meta,mail\greatfriendelli.meta,True,starry,Lavender [Fair],3,"{'filter_has_met_elli': True, 'filter_friendship_elli': 4, 'filter_player_is_dating_elli': False, 'filter_player_is_married_to_elli': False}"
+greatfriendember,.meta,mail\greatfriendember.meta,True,modern,Honeycomb,2,"{'filter_has_met_ember': True, 'filter_friendship_ember': 4, 'filter_player_is_dating_ember': False, 'filter_player_is_married_to_ember': False}"
+greatfriendjag,.meta,mail\greatfriendjag.meta,True,parchment,Gold Ore,1,"{'filter_has_met_jag': True, 'filter_friendship_jag': 4, 'filter_player_is_dating_jag': False, 'filter_player_is_married_to_jag': False}"
+greatfriendphantom,.meta,mail\greatfriendphantom.meta,True,parchment,Thistle [Fair],1,"{'filter_has_met_phantom': True, 'filter_friendship_phantom': 4, 'filter_player_is_dating_phantom': False, 'filter_player_is_married_to_phantom': False}"
+happybirthdayfromalabaster,.meta,mail\happybirthdayfromalabaster.meta,True,plants,none,0,"{'filter_year': 2, 'filter_has_met_alabaster': True, 'filter_friendship_alabaster': 3, 'filter_player_birthday': True}"
+happybirthdayfrombob,.meta,mail\happybirthdayfrombob.meta,True,fancy,none,0,"{'filter_has_met_bob': True, 'filter_friendship_bob': 3, 'filter_player_birthday': True}"
+happybirthdayfrombuttercup,.meta,mail\happybirthdayfrombuttercup.meta,True,lined,none,0,"{'filter_year': 2, 'filter_has_met_buttercup': True, 'filter_friendship_buttercup': 3, 'filter_player_birthday': True}"
+happybirthdayfromcharlotte,.meta,mail\happybirthdayfromcharlotte.meta,True,modern,none,0,"{'filter_year': 5, 'filter_has_met_charlotte': True, 'filter_friendship_charlotte': 4, 'filter_player_birthday': True}"
+happybirthdayfromelli,.meta,mail\happybirthdayfromelli.meta,True,pinstripe,none,0,"{'filter_has_met_elli': True, 'filter_friendship_elli': 3, 'filter_player_birthday': True}"
+happybirthdayfromember,.meta,mail\happybirthdayfromember.meta,True,parchment,none,0,"{'filter_has_met_ember': True, 'filter_friendship_ember': 3, 'filter_player_birthday': True}"
+happybirthdayfromgarlic,.meta,mail\happybirthdayfromgarlic.meta,True,pinstripe,none,0,"{'filter_year': 3, 'filter_has_met_garlic': True, 'filter_friendship_garlic': 3, 'filter_player_birthday': True}"
+happybirthdayfromglimmer,.meta,mail\happybirthdayfromglimmer.meta,True,starry,none,0,"{'filter_year': 4, 'filter_has_met_glimmer': True, 'filter_friendship_glimmer': 3, 'filter_player_birthday': True}"
+happybirthdayfromjag,.meta,mail\happybirthdayfromjag.meta,True,parchment,none,0,"{'filter_year': 2, 'filter_has_met_jag': True, 'filter_friendship_jag': 4, 'filter_player_birthday': True}"
+happybirthdayfromkrampy,.meta,mail\happybirthdayfromkrampy.meta,True,fancy,none,0,"{'filter_year': 3, 'filter_has_met_krampy': True, 'filter_friendship_krampy': 3, 'filter_player_birthday': True}"
+happybirthdayfromlainey,.meta,mail\happybirthdayfromlainey.meta,True,lined,none,0,"{'filter_year': 4, 'filter_has_met_lainey': True, 'filter_friendship_lainey': 3, 'filter_player_birthday': True}"
+happybirthdayfromphantom,.meta,mail\happybirthdayfromphantom.meta,True,parchment,none,0,"{'filter_year': 3, 'filter_has_met_phantom': True, 'filter_friendship_phantom': 3, 'filter_player_birthday': True}"
+happynewyear2,.meta,mail\happynewyear2.meta,True,pinstripe,none,0,"{'filter_spring': True, 'filter_season_day': 1, 'filter_season_day_max': 1, 'filter_year': 2, 'filter_year_max': 2, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"
+happynewyear3,.meta,mail\happynewyear3.meta,True,pinstripe,none,0,"{'filter_spring': True, 'filter_season_day': 1, 'filter_season_day_max': 1, 'filter_year': 3, 'filter_year_max': 3, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"
+happynewyear4,.meta,mail\happynewyear4.meta,True,pinstripe,none,0,"{'filter_spring': True, 'filter_season_day': 1, 'filter_season_day_max': 1, 'filter_year': 4, 'filter_year_max': 4, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"
+happynewyear5,.meta,mail\happynewyear5.meta,True,pinstripe,none,0,"{'filter_spring': True, 'filter_season_day': 1, 'filter_season_day_max': 1, 'filter_year': 5, 'filter_year_max': 5, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"
+hateletterfromchamp,.meta,mail\hateletterfromchamp.meta,True,parchment,Rock Debris,1,"{'filter_has_met_champ': True, 'filter_friendship_max_champ': 0}"
+hateletterfromcharlotte,.meta,mail\hateletterfromcharlotte.meta,True,lined,none,0,"{'filter_has_met_charlotte': True, 'filter_friendship_max_charlotte': 0}"
+invitationbob,.meta,mail\invitationbob.meta,True,plaid,none,0,"{'filter_has_met_bob': True, 'filter_friendship_bob': 3}"
+invitationfliss,.meta,mail\invitationfliss.meta,True,modern,none,0,"{'filter_has_met_fliss': True, 'filter_friendship_fliss': 3}"
+invitationspark,.meta,mail\invitationspark.meta,True,cats,none,0,"{'filter_has_met_spark': True, 'filter_friendship_spark': 3, 'filter_player_is_married_to_ember': False}"
+justbecausespark,.meta,mail\justbecausespark.meta,True,cats,Catnip [Good],3,"{'filter_has_met_spark': True, 'filter_dating_spark': 3, 'filter_player_is_married_to_spark': False}"
+kittendrawing,.meta,mail\kittendrawing.meta,True,drawing,none,0,"{'filter_has_kittens': True, 'filter_kitten_age': 12, 'filter_kitten_age_max': 40}"
+kittensolderalabaster,.meta,mail\kittensolderalabaster.meta,True,plants,Polished Stone,1,"{'filter_has_met_alabaster': True, 'filter_friendship_alabaster': 2, 'filter_player_is_married_to_alabaster': False, 'filter_kitten_age': 10, 'filter_has_kittens': True}"
+kittensoldercoco,.meta,mail\kittensoldercoco.meta,True,lined,none,0,"{'filter_has_met_coco': True, 'filter_friendship_coco': 2, 'filter_player_is_married_to_coco': False, 'filter_kitten_age': 22, 'filter_has_kittens': True}"
+kittensolderspark,.meta,mail\kittensolderspark.meta,True,cats,Bark Beetle,1,"{'filter_has_met_spark': True, 'filter_friendship_spark': 2, 'filter_player_is_married_to_spark': False, 'filter_kitten_age': 13, 'filter_has_kittens': True}"
+kittensolderzephyr,.meta,mail\kittensolderzephyr.meta,True,fancy,none,0,"{'filter_has_met_zephyr': True, 'filter_friendship_zephyr': 2, 'filter_player_is_married_to_zephyr': False, 'filter_kitten_age': 15, 'filter_has_kittens': True}"
+leafspark,.meta,mail\leafspark.meta,True,lined,none,0,"{'filter_autumn': True, 'filter_year': 2, 'filter_has_met_spark': True, 'filter_friendship_spark': 3, 'filter_player_is_dating_spark': False, 'filter_player_is_married_to_spark': False}"
+loveletterfliss,.meta,mail\loveletterfliss.meta,True,cats,Ruby,1,"{'filter_has_met_fliss': True, 'filter_dating_fliss': 3, 'filter_player_is_married_to_fliss': False}"
+lovepoemalabaster,.meta,mail\lovepoemalabaster.meta,True,plants,Raspberries [Good],3,"{'filter_has_met_alabaster': True, 'filter_dating_alabaster': 3, 'filter_player_is_married_to_alabaster': False}"
+mainstorycompletespared,.meta,mail\mainstorycompletespared.meta,True,starry,Mews,250,{'filter_wc_fate': 1}
+mainstorycompletevanquished,.meta,mail\mainstorycompletevanquished.meta,True,starry,Mews,250,{'filter_wc_fate': -1}
+metbob,.meta,mail\metbob.meta,True,plaid,none,0,{'filter_has_met_bob': True}
+miningbonus1,.meta,mail\miningbonus1.meta,True,blueprint,Mole Cash,25,{'filter_mine_level': 25}
+miningbonus2,.meta,mail\miningbonus2.meta,True,blueprint,Mole Cash,50,{'filter_mine_level': 50}
+miningbonus3,.meta,mail\miningbonus3.meta,True,blueprint,Mole Cash,100,{'filter_mine_level': 100}
+miningintroduction,.meta,mail\miningintroduction.meta,True,blueprint,Mole Cash,10,{'filter_mine_level': 1}
+molbyintroduction,.meta,mail\molbyintroduction.meta,True,blueprint,none,0,{'filter_day': 3}
+mybirthdaychamp,.meta,mail\mybirthdaychamp.meta,True,cats,none,0,"{'filter_has_met_champ': True, 'filter_friendship_champ': 2, 'filter_birthday_champ': True, 'filter_player_is_dating_champ': False, 'filter_player_is_married_to_champ': False}"
+mysteriousautumnletteryear1,.meta,mail\mysteriousautumnletteryear1.meta,True,starry,Thrush,3,"{'filter_autumn': True, 'filter_year': 1, 'filter_year_max': 1, 'filter_season_day': 6, 'filter_season_day_max': 9}"
+mysteriousletterkittensfourtydays,.meta,mail\mysteriousletterkittensfourtydays.meta,True,starry,Mews,75,"{'filter_has_kittens': True, 'filter_kitten_age': 40}"
+mysteriousletterkittenstendays,.meta,mail\mysteriousletterkittenstendays.meta,True,starry,Lavender [Good],3,"{'filter_has_kittens': True, 'filter_kitten_age': 10}"
+mysterioussummerletteryear2,.meta,mail\mysterioussummerletteryear2.meta,True,starry,Snake Lily [Good],3,"{'filter_summer': True, 'filter_year': 2, 'filter_year_max': 2, 'filter_season_day': 7, 'filter_season_day_max': 9}"
+mysteriouswinterletteryear3,.meta,mail\mysteriouswinterletteryear3.meta,True,starry,Mouse,3,"{'filter_winter': True, 'filter_year': 3, 'filter_year_max': 3, 'filter_season_day': 3, 'filter_season_day_max': 5}"
+mysteriousyearsendletteryear1,.meta,mail\mysteriousyearsendletteryear1.meta,True,starry,Mews,100,"{'filter_winter': True, 'filter_year': 1, 'filter_year_max': 1, 'filter_season_day': 10, 'filter_season_day_max': 10}"
+mysteriousyearsendletteryear2,.meta,mail\mysteriousyearsendletteryear2.meta,True,starry,Mews,100,"{'filter_winter': True, 'filter_year': 2, 'filter_year_max': 2, 'filter_season_day': 10, 'filter_season_day_max': 10}"
+mysteriousyearsendletteryear3,.meta,mail\mysteriousyearsendletteryear3.meta,True,starry,Mews,100,"{'filter_winter': True, 'filter_year': 3, 'filter_year_max': 3, 'filter_season_day': 10, 'filter_season_day_max': 10}"
+mysteriousyearsendletteryear4,.meta,mail\mysteriousyearsendletteryear4.meta,True,starry,Mews,100,"{'filter_winter': True, 'filter_year': 4, 'filter_year_max': 4, 'filter_season_day': 10, 'filter_season_day_max': 10}"
+mysteriousyearsendletteryear5,.meta,mail\mysteriousyearsendletteryear5.meta,True,starry,Mews,100,"{'filter_winter': True, 'filter_year': 5, 'filter_year_max': 5, 'filter_season_day': 10, 'filter_season_day_max': 10}"
+newinventoryember1,.meta,mail\newinventoryember1.meta,True,parchment,none,0,"{'filter_has_met_ember': True, 'filter_friendship_ember': 1, 'filter_spring': True, 'filter_season_day': 1, 'filter_season_day_max': 3, 'filter_year': 2, 'filter_year_max': 2}"
+newinventoryember2,.meta,mail\newinventoryember2.meta,True,parchment,none,0,"{'filter_has_met_ember': True, 'filter_friendship_ember': 1, 'filter_spring': True, 'filter_season_day': 1, 'filter_season_day_max': 3, 'filter_year': 3, 'filter_year_max': 3}"
+newnameelli,.meta,mail\newnameelli.meta,True,plaid,none,0,{'filter_has_changed_name': True}
+niceweatherchamp,.meta,mail\niceweatherchamp.meta,True,cats,none,0,"{'filter_summer': True, 'filter_season_day': 5, 'filter_has_met_champ': True, 'filter_friendship_champ': 3, 'filter_player_is_dating_champ': False, 'filter_player_is_married_to_champ': False}"
+reportborderstalon,.meta,mail\reportborderstalon.meta,True,parchment,Voidmarrow,1,"{'filter_has_met_talon': True, 'filter_friendship_talon': 3, 'filter_player_is_dating_talon': False, 'filter_player_is_married_to_talon': False}"
+reportpreytalon,.meta,mail\reportpreytalon.meta,True,parchment,Trout,3,"{'filter_has_met_talon': True, 'filter_friendship_talon': 3, 'filter_spring': True, 'filter_year': 2, 'filter_season_day': 3, 'filter_player_is_dating_talon': False, 'filter_player_is_married_to_talon': False}"
+rivalmarriagecompletealabasterandfliss,.meta,mail\rivalmarriagecompletealabasterandfliss.meta,True,fancy,Queen of the Night,1,{'filter_rival_marriage_completed_alabasterandfliss': True}
+rivalmarriagecompletebobandbuttercup,.meta,mail\rivalmarriagecompletebobandbuttercup.meta,True,plaid,Minnow,1,{'filter_rival_marriage_completed_bobandbuttercup': True}
+rivalmarriagecompleteelliandchamp,.meta,mail\rivalmarriagecompleteelliandchamp.meta,True,fancy,Rabbit,1,{'filter_rival_marriage_completed_elliandchamp': True}
+rivalmarriagecompletekrampyandtalon,.meta,mail\rivalmarriagecompletekrampyandtalon.meta,True,fancy,Confetti Bag,1,{'filter_rival_marriage_completed_krampyandtalon': True}
+rivalmarriagecompletesparkandlainey,.meta,mail\rivalmarriagecompletesparkandlainey.meta,True,cats,Tropical Butterfly,1,{'filter_rival_marriage_completed_sparkandlainey': True}
+rosemarymovedin,.meta,mail\rosemarymovedin.meta,True,parchment,White Button,1,"{'filter_has_met_rosemary': True, 'filter_friendship_rosemary': 3}"
+sparebuttercup,.meta,mail\sparebuttercup.meta,True,parchment,Squirrel,2,"{'filter_has_met_buttercup': True, 'filter_friendship_buttercup': 4}"
+stayhealthykrampy,.meta,mail\stayhealthykrampy.meta,True,plants,Marigold [Fair],3,"{'filter_winter': True, 'filter_season_day': 2, 'filter_has_met_krampy': True, 'filter_friendship_krampy': 1, 'filter_player_is_dating_krampy': False, 'filter_player_is_married_to_krampy': False}"
+summeralert,.meta,mail\summeralert.meta,True,parchment,none,0,"{'filter_summer': True, 'filter_season_day': 1, 'filter_season_day_max': 1, 'filter_year': 1, 'filter_year_max': 1, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"
+takecareofyourselfkrampy,.meta,mail\takecareofyourselfkrampy.meta,True,plants,Goldenseal [Fair],2,{'filter_has_used_healing_services': True}
+talonsquadsintro,.meta,mail\talonsquadsintro.meta,True,parchment,none,0,{'filter_has_met_talon': True}
+taskintroduction,.meta,mail\taskintroduction.meta,True,lined,Task Tokens,3,{'filter_day': 3}
+teasingletterfromlainey,.meta,mail\teasingletterfromlainey.meta,True,plaid,none,0,"{'filter_has_met_lainey': True, 'filter_player_is_dating': True, 'filter_player_is_married': False, 'filter_player_is_dating_lainey': False, 'filter_friendship_lainey': 2}"
+visitedclinickrampy,.meta,mail\visitedclinickrampy.meta,True,plants,none,0,{'filter_day': 1}
+visitedshopember,.meta,mail\visitedshopember.meta,True,pinstripe,none,0,{'filter_day': 1}
+welcome,.meta,mail\welcome.meta,True,parchment,none,0,{}
+winteralert,.meta,mail\winteralert.meta,True,parchment,none,0,"{'filter_winter': True, 'filter_season_day': 1, 'filter_season_day_max': 1, 'filter_year': 1, 'filter_year_max': 1, 'filter_has_met_coco': True, 'filter_friendship_coco': 1, 'filter_player_is_dating_coco': False, 'filter_player_is_married_to_coco': False}"

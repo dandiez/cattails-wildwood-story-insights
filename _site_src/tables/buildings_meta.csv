@@ -1,0 +1,22 @@
+file,extension,path,unlocked,sprite,building_type,build_menu,decor_sprite,blocker_width,blocker_height,interior_region_id,interior_warp_x,interior_warp_y,npc_lock_list,lock_dialog_key
+alabasterden,.meta,buildings\alabasterden.meta,True,den_plain,den,True,decor_alabaster,116,34,alabasterden,496,978,['alabaster'],lang_alabaster_npc_den_locked
+bobden,.meta,buildings\bobden.meta,True,den_deadtree,den,True,decor_bob,116,34,bobden,496,978,['bob'],lang_bob_npc_den_locked
+buttercupden,.meta,buildings\buttercupden.meta,True,den_rock,den,True,decor_buttercup,116,34,buttercupden,496,978,['buttercup'],lang_buttercup_npc_den_locked
+champden,.meta,buildings\champden.meta,True,den_plain,den,True,decor_champ,116,34,champden,496,978,['champ'],lang_champ_npc_den_locked
+charlotteden,.meta,buildings\charlotteden.meta,True,den_traditional,den,True,decor_charlotte,116,34,charlotteden,496,978,['charlotte'],lang_charlotte_npc_den_locked
+cocoden,.meta,buildings\cocoden.meta,True,den_plain,den,True,decor_coco,116,34,cocoden,496,978,['coco'],lang_coco_npc_den_locked
+elliden,.meta,buildings\elliden.meta,True,den_largestump,den,True,decor_elli,116,34,elliden,496,978,['elli'],lang_elli_npc_den_locked
+emberandsparkden,.meta,buildings\emberandsparkden.meta,True,den_plain,den,True,decor_shop,116,34,emberandsparkden,496,978,"['ember', 'spark', 'unlocked']",lang_ember_npc_den_locked
+flissandlaineyden,.meta,buildings\flissandlaineyden.meta,True,den_plain,den,True,decor_flissandlainey,116,34,flissandlaineyden,496,978,"['fliss', 'lainey']",lang_fliss_npc_den_locked
+garlicden,.meta,buildings\garlicden.meta,True,den_traditional,den,True,decor_garlic,116,34,garlicden,496,978,['garlic'],lang_garlic_npc_den_locked
+glimmerden,.meta,buildings\glimmerden.meta,True,den_plain,den,True,decor_museum,116,34,glimmerden,496,978,"['glimmer', 'unlocked']",lang_glimmer_npc_den_locked
+jagden,.meta,buildings\jagden.meta,True,den_rock,den,True,decor_jag,116,34,jagden,496,978,['jag'],lang_jag_npc_den_locked
+krampyden,.meta,buildings\krampyden.meta,True,den_largestump,den,True,decor_clinic,116,34,krampyden,496,978,"['krampy', 'unlocked']",lang_krampy_npc_den_locked
+mineentrance,.meta,buildings\mineentrance.meta,True,mineentrance,other,True,,96,34,molecave,720,1024,[],
+phantomden,.meta,buildings\phantomden.meta,True,den_plain,den,True,decor_phantom,116,34,phantomden,496,978,['phantom'],lang_phantom_npc_den_locked
+playerden,.meta,buildings\playerden.meta,True,den_leanto,den,True,,116,34,playerden,496,978,[],
+rosemaryden,.meta,buildings\rosemaryden.meta,True,den_cottage,den,True,decor_rosemary,116,34,rosemaryden,496,978,['rosemary'],lang_rosemary_npc_den_locked
+talonden,.meta,buildings\talonden.meta,True,den_plain,den,True,decor_talon,116,34,talonden,496,978,['talon'],lang_talon_npc_den_locked
+temple,.meta,buildings\temple.meta,True,temple,other,True,,116,34,temple,496,976,[],
+umbraden,.meta,buildings\umbraden.meta,True,den_temple,den,True,decor_umbra,116,34,umbraden,496,978,['umbra'],lang_umbra_npc_den_locked
+zephyrden,.meta,buildings\zephyrden.meta,True,den_tropical,den,True,decor_zephyr,116,34,zephyrden,496,978,['zephyr'],lang_zephyr_npc_den_locked
