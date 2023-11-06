@@ -107,6 +107,7 @@ def main():
                     print(
                         f"Page {page_name} exists already with content... nothing was done..."
                     )
+                    
             else:
                 print(f"Page {page_name} does not exist.")
                 add_page(site, page_name, contents)

@@ -33,7 +33,7 @@
 |is_day_or_night_herb=
 |grow_seasons=
 |alabaster_shop=
-|ember_shop=100 {{WSMew}} *can buy it when meeting conditions: it is winter
+|ember_shop=100 {{WSMew}} *if: it is winter
 |coco_festival_shop=
 |molay_shop=
 |mold_shop=

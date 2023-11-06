@@ -220,7 +220,7 @@ def populate_shopping(wsi: WSItem, i: ItemPlus):
 def _shop_availability_conditions(filters) -> str:
     filters_as_dict = filters.__dict__
     if any(v is not None for v in filters_as_dict.values()):
-        return f" *can buy it when meeting conditions: " + ", ".join(
+        return f" *if: " + ", ".join(
             list(_enumerated_conditions(filters))
         )
     return ""

@@ -32,7 +32,7 @@
 |is_bush_herb=
 |is_day_or_night_herb=
 |grow_seasons=
-|alabaster_shop=500 {{WSMew}} *can buy it when meeting conditions: at least we have a friendship level 4 with Alabaster
+|alabaster_shop=500 {{WSMew}} *if: at least we have a friendship level 4 with Alabaster
 |ember_shop=
 |coco_festival_shop=
 |molay_shop=

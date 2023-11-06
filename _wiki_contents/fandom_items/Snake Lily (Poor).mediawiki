@@ -34,7 +34,7 @@
 |grow_seasons=winter, autumn
 |alabaster_shop=
 |ember_shop=
-|coco_festival_shop=3 {{WSFesttoken}} *can buy it when meeting conditions: it is spring, it is summer
+|coco_festival_shop=3 {{WSFesttoken}} *if: it is spring, it is summer
 |molay_shop=
 |mold_shop=
 |molo_shop=
