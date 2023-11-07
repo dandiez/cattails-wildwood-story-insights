@@ -1,4 +1,5 @@
 import dataclasses
+from pathlib import Path
 
 
 @dataclasses.dataclass
@@ -59,3 +60,6 @@ def get_npc_page_link(npc_uid: str):
         page = npc_uid
     return f"[[{page}]]"
 
+
+def get_region_locations_file_name_from_image_name(image_png: str):
+    return Path(image_png).stem + "_locations.png"

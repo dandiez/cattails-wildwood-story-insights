@@ -27,6 +27,15 @@ CI_CD_GAMERESOURCES_DIR = os.path.abspath(
         "gameresources",
     )
 )
+MORE_RESOURCES_PATH = os.path.abspath(
+    os.path.join(
+        _THIS_DIR,
+        "..",
+        "..",
+        "more_resources"
+    )
+)
+
 SITE_SRC_DIR = os.path.abspath(
     os.path.join(
         _THIS_DIR,

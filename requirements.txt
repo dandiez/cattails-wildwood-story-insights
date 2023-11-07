@@ -51,6 +51,8 @@ pandas==2.1.2
     # via -r .\requirements.in
 pathspec==0.11.2
     # via black
+pillow==10.1.0
+    # via -r .\requirements.in
 platformdirs==3.11.0
     # via black
 pluggy==1.3.0
