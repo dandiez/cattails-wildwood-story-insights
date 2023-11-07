@@ -17,7 +17,7 @@
 |heal_amount=
 |attack_amount=
 |buddy_xp_amount=
-|hunger_amount=100
+|hunger_amount=1 hunger bars
 |immunity_amount=
 |influence_amount=
 |has_random_effect=

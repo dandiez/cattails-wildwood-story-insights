@@ -144,7 +144,7 @@ def to_str_with_units(value: Any, units: str):
 
 def hunger_to_str(hunger_amount: int):
     if hunger_amount is not None:
-        return str(hunger_amount // 100) + "hunger bars"
+        return str(hunger_amount // 100) + " hunger bars"
     return ""
 
 
@@ -160,7 +160,7 @@ def populate_attributes(wsi: WSItem, i: ItemMeta):
     wsi.heal_amount = to_str(i.item_heal_amount)
     wsi.attack_amount = to_str(i.item_attack_amount)
     wsi.buddy_xp_amount = to_str(i.item_buddy_xp_amount)
-    wsi.hunger_amount = to_str(i.item_hunger_amount)
+    wsi.hunger_amount = hunger_to_str(i.item_hunger_amount)
     wsi.attack_amount = to_str(i.item_attack_amount)
     wsi.immunity_amount = to_str(i.item_immunity_amount)
     wsi.influence_amount = to_str(i.item_influence_amount)

@@ -81,7 +81,7 @@ def main():
             page=page,
             title=page.title(),
             id=page._pageid,
-            is_redir=page._isredir,
+            is_redir=page.isRedirectPage(),
         )
         all_pages.append(page_info)
     print(len(all_pages))
@@ -105,7 +105,7 @@ def main():
                     replace_whole_page_with_template(cwpage, contents)
                 else:
                     print(
-                        f"Page {page_name} exists already with content... nothing was done..."
+                        f"Page {page_name} exists already with content."
                     )
 
             else:
