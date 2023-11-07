@@ -5,8 +5,16 @@ import os.path
 from PIL import Image, ImageEnhance, ImageOps, ImageFilter
 from PIL import ImageDraw
 
-from cws_insights.common import CI_CD_GAMERESOURCES_DIR, SITE_SRC_DIR, WIKI_CONTENTS_DIR, MORE_RESOURCES_PATH
-from cws_insights.merged_data.items import get_merged_item_data, AllItemPlus, get_stem_from_uid
+from cws_insights.common import (
+    CI_CD_GAMERESOURCES_DIR,
+    WIKI_CONTENTS_DIR,
+    MORE_RESOURCES_PATH,
+)
+from cws_insights.merged_data.items import (
+    get_merged_item_data,
+    AllItemPlus,
+    get_stem_from_uid,
+)
 from cws_insights.page_writers.items_fandom import get_all_ws_items, AllWsItem
 from cws_insights.read_files import read_all_resource_files
 from cws_insights.read_files_data import instantiate_all_resource_data
@@ -26,7 +34,7 @@ class BackgroundObject:
     ymax: int
     image_path: str
     _bitmap: Image = None
-    _grid_size : int = None
+    _grid_size: int = None
 
     @property
     def bitmap(self):
@@ -35,8 +43,7 @@ class BackgroundObject:
     def __post_init__(self):
         self._bitmap = Image.open(self.image_path)
 
-    def adjust_color(self, color_f: float = 0.9, contrast_f=0.3
-                     ):
+    def adjust_color(self, color_f: float = 0.9, contrast_f=0.3):
         converter = ImageEnhance.Color(self._bitmap)
         self._bitmap = converter.enhance(color_f)
         converter = ImageEnhance.Contrast(self._bitmap)
@@ -51,24 +58,28 @@ class BackgroundObject:
         for n in range(self.xmax // delta + 1):
             for k in (1, -1):
                 c = middle + k * (delta // 2 + n * delta)
-                if not (0<=c<=self.xmax):
+                if not (0 <= c <= self.xmax):
                     continue
-                shape = [(c, 0), (c , self.ymax)]
+                shape = [(c, 0), (c, self.ymax)]
                 img1 = ImageDraw.Draw(self._bitmap)
                 img1.line(shape, fill=color, width=width)
-                shape = [(0, c), ( self.ymax, c)]
+                shape = [(0, c), (self.ymax, c)]
                 img1 = ImageDraw.Draw(self._bitmap)
                 img1.line(shape, fill=color, width=width)
 
     def paste_image(self, image: Image, center_coords: tuple[int, int]):
         shrink_factor = 0.75
         image = image.crop(image.getbbox())
-        image =ImageOps.contain(image, (
-            round(self._grid_size*shrink_factor), round(self._grid_size*shrink_factor)
-        ))
-        #image = ImageOps.expand(image, border=(
+        image = ImageOps.contain(
+            image,
+            (
+                round(self._grid_size * shrink_factor),
+                round(self._grid_size * shrink_factor),
+            ),
+        )
+        # image = ImageOps.expand(image, border=(
         #    1,1,1,1
-        #), fill="black")
+        # ), fill="black")
         cx, cy = center_coords
         px = cx - image.size[0] // 2
         py = cy - image.size[1] // 2
@@ -78,15 +89,18 @@ class BackgroundObject:
             self._bitmap.paste(image, (px, py))
 
 
-
 def create_map(
-    background_image_path: str, xmax: int, ymax: int, all_coords: set[list[int]], thumb_image: Image,
+    background_image_path: str,
+    xmax: int,
+    ymax: int,
+    all_coords: set[list[int]],
+    thumb_image: Image,
 ) -> Image:
     m = BackgroundObject(xmax=xmax, ymax=ymax, image_path=background_image_path)
     m.add_grid(60, "red", 2)
     m.adjust_color()
     for x, y in all_coords:
-        m.paste_image(thumb_image, (x,y))
+        m.paste_image(thumb_image, (x, y))
     return m.bitmap
 
 
@@ -97,7 +111,7 @@ def create_all_maps(
     all_item_plus: AllItemPlus,
     world_map_png_path: str,
     wiki_contents_dir: str,
-    item_sprites_dir: str
+    item_sprites_dir: str,
 ):
     output_dir = os.path.join(wiki_contents_dir, "location_maps")
     os.makedirs(output_dir, exist_ok=True)
@@ -118,24 +132,21 @@ def create_all_maps(
         all_item_coords = {tuple(coords_from_region_name[r]) for r in all_regions}
         thumb_sprite = get_item_sprite_path(item_sprites_dir, uid)
         img = create_map(
-            world_map_png_path,
-            500,
-            500,
-            all_item_coords,
-            Image.open(thumb_sprite)
+            world_map_png_path, 500, 500, all_item_coords, Image.open(thumb_sprite)
         )
         save_loc = os.path.join(output_dir, ws_item.region_locations_image)
         img.save(save_loc)
 
 
 def get_item_sprite_path(item_sprites_dir, uid):
-    filename=get_stem_from_uid(uid) + ".png"
+    filename = get_stem_from_uid(uid) + ".png"
     loc = os.path.join(item_sprites_dir, filename)
     if not os.path.isfile(loc):
-        loc = os.path.join(MORE_RESOURCES_PATH,filename )
+        loc = os.path.join(MORE_RESOURCES_PATH, filename)
     if not os.path.isfile(loc):
         raise ValueError(f"Cannot find sprite for {uid}")
     return loc
+
 
 def main(gameresources_dir: str, wiki_contents_dir: str):
     all_raw_files = read_all_resource_files(gameresources_dir)

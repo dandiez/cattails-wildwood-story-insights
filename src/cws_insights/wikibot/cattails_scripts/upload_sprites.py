@@ -13,10 +13,11 @@ from cws_insights.common import CI_CD_GAMERESOURCES_DIR, WIKI_CONTENTS_DIR
 
 
 def main():
-    #items_sprites_dir = os.path.join(CI_CD_GAMERESOURCES_DIR, "items", "sprites")
-    #upload_item_sprites(items_sprites_dir, "ws_")
+    items_sprites_dir = os.path.join(CI_CD_GAMERESOURCES_DIR, "items", "sprites")
+    upload_item_sprites(items_sprites_dir, "ws_")
     map_sprites_dir = os.path.join(WIKI_CONTENTS_DIR, "location_maps")
     upload_item_sprites(map_sprites_dir)
+
 
 def upload_item_sprites(items_sprites_dir, prefix=""):
     onlyfiles = [

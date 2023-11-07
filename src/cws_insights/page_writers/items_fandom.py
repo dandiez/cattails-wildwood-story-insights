@@ -216,8 +216,8 @@ def populate_herb(wsi: WSItem, i: ItemPlus):
         wsi.is_bush_herb = to_str(herb_data.bush_herbs)
         wsi.is_day_or_night_herb = "night" if herb_data.night_herbs else "daytime"
         seasons = [s for s in SEASONS if dataclasses.asdict(herb_data)[s]]
-        if len(seasons)==4:
-            wsi.grow_seasons="all seasons"
+        if len(seasons) == 4:
+            wsi.grow_seasons = "all seasons"
         else:
             wsi.grow_seasons = ", ".join(seasons)
 
