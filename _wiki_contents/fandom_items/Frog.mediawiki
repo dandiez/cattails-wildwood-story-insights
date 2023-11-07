@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=beacheast, beachsidewoods, beachwest, birchholt, birchlake, chainoflakes, claypits, riverdell, rivervale, strangetarn, swampcorner, swampnorth, theconfluence, westcentral, wetlandestuary, woodedbog
 |regions_world_objects=
+|region_locations_image=ws_frog_locations.png
 }}

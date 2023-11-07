@@ -51,4 +51,5 @@
 |regions_herb=aridplains, ashenknolls, badlandsmaze, blossomingfield, caldera, centralmeadow, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, northfoothills, scorcheddesert, southfoothills, strangetarn, swampnorth, theconfluence, thegrimclearing, thicketburrows, volcanicbasin, westcentral, westmeadow, westwoodland, woodedbog
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_lavenderpoor_locations.png
 }}

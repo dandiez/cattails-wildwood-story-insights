@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=birchholt, birchlake, chainoflakes, eastfoothills, mountainlake, mountainsummit, northfloodplain, northfoothills, southfoothills, strangetarn, swampcorner, westcentral, westfoothills, westwoodland, wetlandestuary
 |regions_world_objects=
+|region_locations_image=ws_minnow_locations.png
 }}

@@ -61,4 +61,5 @@
 |regions_herb=
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_voidmarrow_locations.png
 }}

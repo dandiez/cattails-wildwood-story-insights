@@ -51,4 +51,5 @@
 |regions_herb=chainoflakes, eastfoothills, meadowoutskirts, mountainlake, mountainsummit, northfoothills, southcentral, southfoothills, thegrimclearing, theoldfarm, westwoodland
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_peppermintpoor_locations.png
 }}

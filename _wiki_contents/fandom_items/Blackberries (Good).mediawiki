@@ -51,4 +51,5 @@
 |regions_herb=aridplains, badlandsmaze, beachwest, birchholt, birchlake, caldera, crater, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, mountainsummit, northfoothills, northmeadow, rivervale, scorcheddesert, southcentral, southfoothills, swampcorner, volcanicbasin, westernwastes
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_blackberriesgood_locations.png
 }}

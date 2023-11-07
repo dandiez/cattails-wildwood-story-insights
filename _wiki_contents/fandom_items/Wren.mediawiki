@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=ashenknolls, badlandsmaze, chainoflakes, northfloodplain, rivervale, southcentral, southfoothills, southglade, theconfluence
 |regions_world_objects=
+|region_locations_image=ws_wren_locations.png
 }}

@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=blossomingfield, caldera, centralmeadow, creepinghollow, northmeadow, southfoothills, thegrimclearing, theoldfarm, westmeadow
 |regions_world_objects=
+|region_locations_image=ws_wolfspider_locations.png
 }}

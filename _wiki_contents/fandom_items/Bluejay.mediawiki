@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=beacheast, beachsidewoods, beachwest, birchholt, chainoflakes, crater, creepinghollow, eastforest, meadowoutskirts, mountainsummit, southglade, strangetarn, westwoodland
 |regions_world_objects=
+|region_locations_image=ws_bluejay_locations.png
 }}

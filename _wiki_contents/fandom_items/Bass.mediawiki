@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=birchholt, birchlake, chainoflakes, eastfoothills, mountainlake, mountainsummit, northfloodplain, northfoothills, riverdell, rivervale, southcentral, southfoothills, southglade, swampcorner, swampnorth, theconfluence, westcentral, westfoothills, westwoodland, wetlandestuary, woodedbog
 |regions_world_objects=
+|region_locations_image=ws_bass_locations.png
 }}

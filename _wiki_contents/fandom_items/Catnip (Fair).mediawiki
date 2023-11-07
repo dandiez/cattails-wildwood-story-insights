@@ -51,4 +51,5 @@
 |regions_herb=beachwest, blossomingfield, eastcentral, eastforest, northernwastes, northfoothills, northmeadow, riverdell, southcentral, southfoothills, theoldfarm, thestaunchstones, westcentral, westfoothills, westwoodland, wetlandestuary
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_catnipfair_locations.png
 }}

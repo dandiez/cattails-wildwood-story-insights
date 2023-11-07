@@ -51,4 +51,5 @@
 |regions_herb=aridplains, beacheast, beachsidewoods, birchholt, birchlake, centralmeadow, chainoflakes, claypits, crater, meadowoutskirts, northfloodplain, oceanisland, riverdell, southcentral, southglade, swampcorner, swampnorth, thegrimclearing, theoldfarm, westcentral, westwoodland, woodedbog
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_goldensealpoor_locations.png
 }}

@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=birchholt, birchlake, claypits, eastfoothills, rivervale, thegrimclearing, thestaunchstones, volcanicbasin
 |regions_world_objects=
+|region_locations_image=ws_pigeon_locations.png
 }}

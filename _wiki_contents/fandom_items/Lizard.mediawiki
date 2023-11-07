@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=ashenknolls, beacheast, beachsidewoods, beachwest, caldera, northernwastes, swampcorner, volcanicbasin, wetlandestuary
 |regions_world_objects=
+|region_locations_image=ws_lizard_locations.png
 }}

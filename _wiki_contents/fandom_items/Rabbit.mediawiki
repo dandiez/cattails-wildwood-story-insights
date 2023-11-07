@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=aridplains, birchholt, birchlake, blossomingfield, centralmeadow, chainoflakes, crater, creepinghollow, eastfoothills, meadowoutskirts, mountainlake, mountainsummit, northmeadow, southfoothills, thestaunchstones, thicketburrows, volcanicbasin, westernwastes, westfoothills, westmeadow, westwoodland
 |regions_world_objects=
+|region_locations_image=ws_rabbit_locations.png
 }}

@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=aridplains, ashenknolls, beacheast, beachsidewoods, blossomingfield, centralmeadow, eastcentral, strangetarn, westernwastes, westmeadow, wetlandestuary
 |regions_world_objects=
+|region_locations_image=ws_cardinal_locations.png
 }}

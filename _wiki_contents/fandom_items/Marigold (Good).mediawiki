@@ -59,4 +59,5 @@
 |regions_herb=aridplains, ashenknolls, badlandsmaze, beacheast, beachsidewoods, beachwest, birchholt, birchlake, caldera, centralmeadow, crater, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainsummit, northfloodplain, riverdell, rivervale, scorcheddesert, southglade, strangetarn, swampcorner, swampnorth, thestaunchstones, thicketburrows, volcanicbasin, westernwastes, westwoodland, wetlandestuary, woodedbog
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_marigoldgood_locations.png
 }}

@@ -53,4 +53,5 @@
 |regions_herb=badlandsmaze, birchholt, birchlake, caldera, centralmeadow, claypits, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, northernwastes, northfloodplain, southcentral, southfoothills, swampcorner, theconfluence, thestaunchstones, volcanicbasin, westcentral, westernwastes, westfoothills, westmeadow, westwoodland, woodedbog
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_licoricefair_locations.png
 }}

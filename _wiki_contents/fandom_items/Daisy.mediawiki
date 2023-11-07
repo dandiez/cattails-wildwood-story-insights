@@ -53,4 +53,5 @@
 |regions_herb=birchholt, birchlake, blossomingfield, centralmeadow, chainoflakes, eastcentral, eastforest, meadowoutskirts, mountainsummit, northernwastes, northfloodplain, oceanisland, riverdell, southcentral, southglade, theconfluence, theoldfarm, thestaunchstones, thicketburrows, westcentral, westernwastes, westmeadow
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_daisy_locations.png
 }}

@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=aridplains, badlandsmaze, centralmeadow, chainoflakes, crater, eastcentral, eastfoothills, eastforest, meadowoutskirts, mountainlake, mountainsummit, northfloodplain, northfoothills, riverdell, southfoothills, strangetarn, thegrimclearing, thicketburrows, volcanicbasin, westcentral, westfoothills, westmeadow, westwoodland
 |regions_world_objects=
+|region_locations_image=ws_squirrel_locations.png
 }}

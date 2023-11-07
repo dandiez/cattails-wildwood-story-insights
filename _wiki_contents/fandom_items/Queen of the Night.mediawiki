@@ -31,7 +31,7 @@
 |is_ranked_herb=No, it only exists in one quality.
 |is_bush_herb=No
 |is_day_or_night_herb=night
-|grow_seasons=winter, spring, summer, autumn
+|grow_seasons=all seasons
 |alabaster_shop=
 |ember_shop=
 |coco_festival_shop=
@@ -53,4 +53,5 @@
 |regions_herb=ashenknolls, beacheast, beachsidewoods, beachwest, birchlake, blossomingfield, caldera, centralmeadow, claypits, eastcentral, eastforest, meadowoutskirts, mountainlake, mountainsummit, northernwastes, northmeadow, oceanisland, scorcheddesert, swampcorner, thicketburrows, volcanicbasin, westcentral, westmeadow, wetlandestuary
 |regions_prey=
 |regions_world_objects=
+|region_locations_image=ws_queenofthenight_locations.png
 }}

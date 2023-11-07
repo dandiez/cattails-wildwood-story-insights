@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=badlandsmaze, beachsidewoods, crater, creepinghollow, eastcentral, eastforest, meadowoutskirts, northfloodplain, rivervale, southcentral, southglade, theconfluence, theoldfarm, westcentral, westernwastes
 |regions_world_objects=
+|region_locations_image=ws_sparrow_locations.png
 }}

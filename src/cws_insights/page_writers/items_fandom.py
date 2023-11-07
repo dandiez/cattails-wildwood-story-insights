@@ -3,12 +3,20 @@ import os
 from typing import TypeAlias, Any
 
 
-
 from cws_insights.common import WIKI_CONTENTS_DIR
-from cws_insights.merged_data.items import ItemPlus, get_merged_item_data, AllItemPlus, get_stem_from_uid
+from cws_insights.merged_data.items import (
+    ItemPlus,
+    get_merged_item_data,
+    AllItemPlus,
+    get_stem_from_uid,
+)
 from cws_insights.page_writers.common import SEASONS, _npc_nice_names
 from cws_insights.page_writers.items_md import _recipe_variant_as_str
-from cws_insights.page_writers.lookups_fandom import UNITS_FANDOM, get_npc_page_link
+from cws_insights.page_writers.lookups_fandom import (
+    UNITS_FANDOM,
+    get_npc_page_link,
+    get_region_locations_file_name_from_image_name,
+)
 from cws_insights.read_files import read_all_resource_files
 from cws_insights.read_files_data import instantiate_all_resource_data
 from cws_insights.schemas._index import AllResourceData
@@ -85,6 +93,7 @@ class WSItem:
     regions_herb: str = ""
     regions_prey: str = ""
     regions_world_objects: str = ""
+    region_locations_image: str = ""
 
     def yield_lines(self):
         yield "{{WSItem"
@@ -189,6 +198,12 @@ def populate_map_regions(wsi: WSItem, i: ItemPlus):
         wsi.regions_herb = ", ".join(sorted(set(regions.herb_list)))
     if regions.world_objects:
         wsi.regions_world_objects = ", ".join(sorted(set(regions.world_objects)))
+    if any(
+        (regions.spawners, regions.prey_list, regions.herb_list, regions.world_objects)
+    ):
+        wsi.region_locations_image = get_region_locations_file_name_from_image_name(
+            wsi.image1
+        )
 
 
 def populate_herb(wsi: WSItem, i: ItemPlus):
@@ -201,7 +216,10 @@ def populate_herb(wsi: WSItem, i: ItemPlus):
         wsi.is_bush_herb = to_str(herb_data.bush_herbs)
         wsi.is_day_or_night_herb = "night" if herb_data.night_herbs else "daytime"
         seasons = [s for s in SEASONS if dataclasses.asdict(herb_data)[s]]
-        wsi.grow_seasons = ", ".join(seasons)
+        if len(seasons)==4:
+            wsi.grow_seasons="all seasons"
+        else:
+            wsi.grow_seasons = ", ".join(seasons)
 
 
 def populate_shopping(wsi: WSItem, i: ItemPlus):
@@ -220,9 +238,7 @@ def populate_shopping(wsi: WSItem, i: ItemPlus):
 def _shop_availability_conditions(filters) -> str:
     filters_as_dict = filters.__dict__
     if any(v is not None for v in filters_as_dict.values()):
-        return f" *if: " + ", ".join(
-            list(_enumerated_conditions(filters))
-        )
+        return f" *if: " + ", ".join(list(_enumerated_conditions(filters)))
     return ""
 
 
@@ -247,38 +263,51 @@ def populate_npc_data(wsi: WSItem, i: ItemPlus, all_data: AllResourceData):
     from_npcs = i.from_npc
     if any(dataclasses.asdict(from_npcs).values()):
         if from_npcs.npc_loves:
-            wsi.love_it = ", ".join(get_npc_page_link(npc) for npc in
-                _npc_nice_names(from_npcs.npc_loves, all_data)
+            wsi.love_it = ", ".join(
+                get_npc_page_link(npc)
+                for npc in _npc_nice_names(from_npcs.npc_loves, all_data)
             )
         if from_npcs.npc_likes:
-            wsi.like_it = ", ".join(get_npc_page_link(npc) for npc in
-                _npc_nice_names(from_npcs.npc_likes, all_data)
+            wsi.like_it = ", ".join(
+                get_npc_page_link(npc)
+                for npc in _npc_nice_names(from_npcs.npc_likes, all_data)
             )
         if from_npcs.npc_dislikes:
-            wsi.dislike_it = ", ".join(get_npc_page_link(npc) for npc in
-                _npc_nice_names(from_npcs.npc_dislikes, all_data)
+            wsi.dislike_it = ", ".join(
+                get_npc_page_link(npc)
+                for npc in _npc_nice_names(from_npcs.npc_dislikes, all_data)
             )
         if from_npcs.npc_hates:
-            wsi.hate_it =", ".join(get_npc_page_link(npc) for npc in
-                _npc_nice_names(from_npcs.npc_hates, all_data)
+            wsi.hate_it = ", ".join(
+                get_npc_page_link(npc)
+                for npc in _npc_nice_names(from_npcs.npc_hates, all_data)
             )
         if from_npcs.npc_gifts:
-            wsi.a_gift_from = ", ".join(get_npc_page_link(npc) for npc in
-                _npc_nice_names(from_npcs.npc_gifts, all_data)
+            wsi.a_gift_from = ", ".join(
+                get_npc_page_link(npc)
+                for npc in _npc_nice_names(from_npcs.npc_gifts, all_data)
             )
+
 
 def populate_recipes(wsi: WSItem, i: ItemPlus):
     if i.from_recipes.as_output:
-        wsi.recipes_producing = "\n\n ".join(_recipe_variant_as_str(r) for r in i.from_recipes.as_output)
+        wsi.recipes_producing = "\n\n ".join(
+            _recipe_variant_as_str(r) for r in i.from_recipes.as_output
+        )
     if i.from_recipes.as_input:
-        wsi.recipes_consuming = "\n\n ".join(_recipe_variant_as_str(r) for r in i.from_recipes.as_input)
-
+        wsi.recipes_consuming = "\n\n ".join(
+            _recipe_variant_as_str(r) for r in i.from_recipes.as_input
+        )
 
 
 def prepare_item(i: ItemPlus, all_resource_data: AllResourceData) -> WSItem:
     wsi = WSItem()
     wsi.title1 = i.item_lang.item_uid_do_not_translate
-    wsi.aka_name = i.item_lang.lang_item_name if i.item_lang.lang_item_name != i.item_lang.item_uid_do_not_translate else ""
+    wsi.aka_name = (
+        i.item_lang.lang_item_name
+        if i.item_lang.lang_item_name != i.item_lang.item_uid_do_not_translate
+        else ""
+    )
     wsi.image1 = "ws_" + get_stem_from_uid(i.item.item_uid) + ".png"
     wsi.description = i.item_lang.lang_item_description
     populate_attributes(wsi, i.item)
@@ -289,6 +318,7 @@ def prepare_item(i: ItemPlus, all_resource_data: AllResourceData) -> WSItem:
     populate_recipes(wsi, i)
     return wsi
 
+
 def get_all_ws_items(
     item_merged: AllItemPlus, all_resource_data: AllResourceData
 ) -> AllWsItem:
@@ -297,13 +327,17 @@ def get_all_ws_items(
         for item_uid, i in item_merged.items()
     }
 
-def no_square_brackets(name: str)-> str:
+
+def no_square_brackets(name: str) -> str:
     return name.replace("[", "(").replace("]", ")")
 
+
 def write_all_ws_items(item_merged: AllWsItem, wiki_contents_dir: str):
-    os.makedirs(wiki_contents_dir, exist_ok=True) #TODO: wipe existing
+    os.makedirs(wiki_contents_dir, exist_ok=True)  # TODO: wipe existing
     for item_uid, item in item_merged.items():
-        file = os.path.join(wiki_contents_dir, no_square_brackets(item_uid) + ".mediawiki")
+        file = os.path.join(
+            wiki_contents_dir, no_square_brackets(item_uid) + ".mediawiki"
+        )
         lines = list(item.yield_lines())
         text = "\n".join(lines)
         with open(file, "w", newline="\n") as f:
@@ -314,9 +348,9 @@ def write_all_ws_items(item_merged: AllWsItem, wiki_contents_dir: str):
 def main(gameresources_dir, wiki_contents_dir):
     all_raw_files = read_all_resource_files(gameresources_dir)
     all_resource_data = instantiate_all_resource_data(all_raw_files)
-    item_merged = get_merged_item_data(all_resource_data)
-    ws_items = get_all_ws_items(item_merged, all_resource_data)
-    write_all_ws_items(ws_items, os.path.join(wiki_contents_dir, "fandom_items"))
+    all_item_plus = get_merged_item_data(all_resource_data)
+    all_ws_items = get_all_ws_items(all_item_plus, all_resource_data)
+    write_all_ws_items(all_ws_items, os.path.join(wiki_contents_dir, "fandom_items"))
 
 
 if __name__ == "__main__":

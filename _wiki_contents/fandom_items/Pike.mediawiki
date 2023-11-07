@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=birchholt, birchlake, eastfoothills, mountainlake, mountainsummit, northfoothills, southfoothills, strangetarn, westcentral, westfoothills
 |regions_world_objects=
+|region_locations_image=ws_pike_locations.png
 }}

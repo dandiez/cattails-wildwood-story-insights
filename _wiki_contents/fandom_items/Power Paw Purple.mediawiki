@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=
 |regions_world_objects=blossomingfield, crater, eastfoothills
+|region_locations_image=ws_powerpawpurple_locations.png
 }}

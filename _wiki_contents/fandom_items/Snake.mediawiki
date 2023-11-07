@@ -51,4 +51,5 @@
 |regions_herb=
 |regions_prey=aridplains, ashenknolls, badlandsmaze, beacheast, beachsidewoods, beachwest, caldera, centralmeadow, chainoflakes, creepinghollow, eastcentral, eastforest, meadowoutskirts, northernwastes, northmeadow, swampcorner, thegrimclearing, volcanicbasin, westcentral, westernwastes, westwoodland, wetlandestuary
 |regions_world_objects=
+|region_locations_image=ws_snake_locations.png
 }}
