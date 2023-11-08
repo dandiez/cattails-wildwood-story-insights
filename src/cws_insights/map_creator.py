@@ -43,11 +43,13 @@ class BackgroundObject:
     def __post_init__(self):
         self._bitmap = Image.open(self.image_path)
 
-    def adjust_color(self, color_f: float = 0.9, contrast_f=0.3):
+    def adjust_color(self, color_f: float = 0.6, contrast_f=0.2, brightness=1.7):
         converter = ImageEnhance.Color(self._bitmap)
         self._bitmap = converter.enhance(color_f)
         converter = ImageEnhance.Contrast(self._bitmap)
         self._bitmap = converter.enhance(contrast_f)
+        converter = ImageEnhance.Brightness(self._bitmap)
+        self._bitmap = converter.enhance(brightness)
 
     def scale_to_fit_maxcoords(self):
         ...
