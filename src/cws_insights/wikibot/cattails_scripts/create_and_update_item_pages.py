@@ -64,6 +64,12 @@ def add_page(site, page_title: str, contents: str):
     new_page.save("Page created automatically based on game files.")
 
 
+def create_wildwood_redirect_page(page_name, wildwood_page_name, site):
+    new_page = Page(site, wildwood_page_name)
+    new_page.text = f"#REDIRECT [[{page_name}]]"
+    new_page.save("Add redirect for Wildwood exclusive item")
+    print(f"Created redirect {wildwood_page_name} --> {page_name}")
+
 def main():
     site = pywikibot.Site()
     all_pages = []
@@ -83,11 +89,21 @@ def main():
     for root, dirs, files in os.walk(item_pages_dir):
         for f in files:
             page_name = Path(f).stem
+            if info[page_name] == AuditCode.OK_ONLY_WILDWOOD_HAS_ITEM:
+                wwpage_name = get_wildwood_page_name(page_name)
+                fix_redirect(page_by_name[wwpage_name].page, page_name, wwpage_name, site)
+                continue
             full_file_path = os.path.join(root, f)
             with open(full_file_path) as wikifile:
                 contents = wikifile.read()
-            if info[page_name] == AuditCode.WILDWOOD_PAGE_MISSING:
+
+            if info[page_name] in { AuditCode.WILDWOOD_PAGE_MISSING,
+                                    AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE,
+                                    }:
                 page_name = get_wildwood_page_name(page_name)
+            if info[page_name] == AuditCode.MISSING_WILDWOOD_REDIRECT_PAGE:
+                create_wildwood_redirect_page(page_name, get_wildwood_page_name(page_name), site)
+                continue
             create_or_update_page(page_name, contents, page_by_name, site)
 
 
@@ -99,7 +115,7 @@ def create_or_update_page(page_name, contents, page_by_name, site):
             update_template(cwpage, contents)
         elif is_tbd(cwpage):
             print(f"Page {page_name} is tbd. Will get updated.")
-            # replace_whole_page_with_template(cwpage, contents)
+            replace_whole_page_with_template(cwpage, contents)
         else:
             print(f"Page {page_name} exists already with content.")
     else:

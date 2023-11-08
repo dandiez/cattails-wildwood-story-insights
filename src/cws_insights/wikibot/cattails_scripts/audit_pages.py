@@ -118,7 +118,8 @@ class AuditCode(StrEnum):
     BASE_PAGE_MISSING = "BASE_PAGE_MISSING"
     BAD_CATEGORY = "BAD_CATEGORY"
     MISSING_CATEGORY_WILDWOOD_ON_BASE_PAGE = "MISSING_CATEGORY_WILDWOOD_ON_BASE_PAGE"
-    ALL_OK = "ALL_OK"
+    OK_BOTH_GAMES_HAVE_ITEM = "OK_BOTH_GAMES_HAVE_ITEM"
+    OK_ONLY_WILDWOOD_HAS_ITEM = "OK_ONLY_WILDWOOD_HAS_ITEM"
     WILDWOOD_PAGE_MISSING = "WILDWOOD_PAGE_MISSING"
     MISSING_WILDWOOD_REDIRECT_PAGE = "MISSING_WILDWOOD_REDIRECT_PAGE"
     MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE = (
@@ -146,7 +147,7 @@ def run_audit(i: PageNameInfo) -> AuditCode:
                 print("missing category wildwood")
                 return AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE
             print("ok page - same item in two games, both categorised.")
-            return AuditCode.ALL_OK
+            return AuditCode.OK_BOTH_GAMES_HAVE_ITEM
         print("need to create wildwood page for item")
         return AuditCode.WILDWOOD_PAGE_MISSING
     if not i.base_page_has_category_wildwood:
@@ -157,7 +158,7 @@ def run_audit(i: PageNameInfo) -> AuditCode:
         return AuditCode.MISSING_WILDWOOD_REDIRECT_PAGE
     if i.wildwood_page_is_redirect:
         print("ok page redirect (assuming it redirects to base page...)")
-        return AuditCode.ALL_OK
+        return AuditCode.OK_ONLY_WILDWOOD_HAS_ITEM
     if not i.wildwood_page_has_category_wildwood:
         print("missing category wildwood")
         return AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE
@@ -167,8 +168,8 @@ def run_audit(i: PageNameInfo) -> AuditCode:
 
 def main():
     info = list(fetch_info())
-    df = pd.DataFrame(fetch_info())
-    df.to_csv("page_auditBefore.csv", index=False)
+    # df = pd.DataFrame(fetch_info())
+    # df.to_csv("page_audit.csv", index=False)
     check_summary = defaultdict(list)
     for i in info:
         audit_code = run_audit(i)
@@ -176,7 +177,9 @@ def main():
 
     for k, v in check_summary.items():
         print(k, len(v))  # , [x.base_page_name for x in v])
-
+    if AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE in check_summary:
+        for p in check_summary[AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE]:
+            print(p.wildwood_page_name)
 
 if __name__ == "__main__":
     main()
