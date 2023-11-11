@@ -9,7 +9,7 @@ from pywikibot.specialbots import UploadRobot
 THIS_DIR = os.path.dirname(__file__)
 SRC_DIR = os.path.abspath(os.path.join(THIS_DIR, "..", "..", ".."))
 sys.path.insert(0, SRC_DIR)
-from cws_insights.common import CI_CD_GAMERESOURCES_DIR, WIKI_CONTENTS_DIR
+from cws_insights.common import WIKI_CONTENTS_DIR
 
 
 def main():
