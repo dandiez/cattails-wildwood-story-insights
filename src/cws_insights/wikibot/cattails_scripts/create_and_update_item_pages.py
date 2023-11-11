@@ -51,11 +51,11 @@ def update_template(cwpage: CWPage, new_template: str):
             break
     new_text = str(wikicode)
     if new_text == text:
-        print(f"Page {cwpage.title} did not change")
+        # print(f"Page did not change: {cwpage.title}")
         return
     page.text = new_text
     page.save("Automatic update from files.")
-    print(f"Page {cwpage.title} was be updated")
+    print(f"Page updated: {cwpage.title}")
 
 
 def add_page(site, page_title: str, contents: str):
@@ -69,6 +69,7 @@ def create_wildwood_redirect_page(page_name, wildwood_page_name, site):
     new_page.text = f"#REDIRECT [[{page_name}]]"
     new_page.save("Add redirect for Wildwood exclusive item")
     print(f"Created redirect {wildwood_page_name} --> {page_name}")
+
 
 def main():
     site = pywikibot.Site()
@@ -85,24 +86,31 @@ def main():
     page_by_name = {p.title: p for p in all_pages}
 
     item_pages_dir = os.path.join(WIKI_CONTENTS_DIR, "fandom_items")
-    info = {i.base_page_name: run_audit(i) for i in fetch_info()}
+    info_per_page = {i.base_page_name: run_audit(i) for i in fetch_info()}
     for root, dirs, files in os.walk(item_pages_dir):
         for f in files:
-            page_name = Path(f).stem
-            if info[page_name] == AuditCode.OK_ONLY_WILDWOOD_HAS_ITEM:
-                wwpage_name = get_wildwood_page_name(page_name)
-                fix_redirect(page_by_name[wwpage_name].page, page_name, wwpage_name, site)
-                continue
+            item_name = Path(f).stem
             full_file_path = os.path.join(root, f)
             with open(full_file_path) as wikifile:
                 contents = wikifile.read()
 
-            if info[page_name] in { AuditCode.WILDWOOD_PAGE_MISSING,
-                                    AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE,
-                                    }:
-                page_name = get_wildwood_page_name(page_name)
-            if info[page_name] == AuditCode.MISSING_WILDWOOD_REDIRECT_PAGE:
-                create_wildwood_redirect_page(page_name, get_wildwood_page_name(page_name), site)
+            info = info_per_page[item_name]
+            if info in {
+                AuditCode.WILDWOOD_PAGE_MISSING,
+                AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE,
+                AuditCode.OK_BOTH_GAMES_HAVE_ITEM,
+            }:
+                page_name = get_wildwood_page_name(item_name)
+            elif info == AuditCode.MISSING_WILDWOOD_REDIRECT_PAGE:
+                create_wildwood_redirect_page(
+                    item_name, get_wildwood_page_name(item_name), site
+                )
+                continue
+            elif info in {
+                AuditCode.OK_ONLY_WILDWOOD_HAS_ITEM, AuditCode
+            }:
+                page_name = item_name
+            else:
                 continue
             create_or_update_page(page_name, contents, page_by_name, site)
 

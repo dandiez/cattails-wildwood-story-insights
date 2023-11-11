@@ -49,7 +49,6 @@ class PageNameInfo:
     wildwood_page_is_redirect: bool
 
 
-
 TEMPLATE_NAME = "WSItem"
 
 
@@ -101,7 +100,6 @@ def fetch_info():
                 base_page_is_redirect=page_by_name[page_name].is_redir
                 if page_exists
                 else None,
-
                 wildwood_page_name=page_name_wildwood,
                 wildwood_page_exists=page_wildwood_exists,
                 wildwood_page_has_category_cattails=page_name_wildwood in ct1_pages,
@@ -109,7 +107,6 @@ def fetch_info():
                 wildwood_page_is_redirect=page_by_name[page_name_wildwood].is_redir
                 if page_wildwood_exists
                 else None,
-
             )
 
 
@@ -180,6 +177,7 @@ def main():
     if AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE in check_summary:
         for p in check_summary[AuditCode.MISSING_CATEGORY_WILDWOOD_ON_WILDWOOD_PAGE]:
             print(p.wildwood_page_name)
+
 
 if __name__ == "__main__":
     main()
